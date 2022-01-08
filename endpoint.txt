@@ -1,0 +1,1 @@
+http://virtuoso-narwhale.nanopubs.lod.labs.vu.nl/sparql
