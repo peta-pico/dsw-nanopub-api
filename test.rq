@@ -59,4 +59,15 @@ select ?thing ?label ?description ?np ?date ?pubkey where {
   bind(coalesce(?comment, ?dctdesc, "") as ?description)
   bind(concat(" ",lcase(str(?label))," ",lcase(str(?description))," ") as ?text)
   filter( contains(?text, lcase(str(?_searchterm))) )
+
+  graph npa:graph {
+    ?qualification_np npa:hasHeadGraph ?qh .
+    ?qualification_np npa:hasValidSignatureForPublicKey "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string .
+  }
+  graph ?qh {
+    ?qualification_np np:hasAssertion ?qa .
+  }
+  graph ?qa {
+    <https://www.go-fair.org/#foundation> npx:qualifies ?np .
+  }
 }
