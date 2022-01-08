@@ -13,8 +13,7 @@ select ?thing ?label ?description ?np ?date ?pubkey where {
   graph npa:graph {
     ?np npa:hasHeadGraph ?h .
     ?np dct:created ?date .
-    ?np npa:hasValidSignatureForPublicKey ?__pubkey_xsd_string .
-    bind(?__pubkey_xsd_string as ?pubkey)
+    ?np npa:hasValidSignatureForPublicKey ?pubkey .
   }
   graph ?h {
     ?np np:hasAssertion ?a .
