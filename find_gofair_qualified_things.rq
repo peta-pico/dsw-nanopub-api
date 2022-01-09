@@ -9,7 +9,7 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 prefix dct: <http://purl.org/dc/terms/>
 
-select ?thing ?label ?description ?np ?date ?pubkey where {
+select ?thing ?label ?description ?np ?date ?pubkey ?qualifier where {
   graph npa:graph {
     ?np npa:hasHeadGraph ?h .
     ?np dct:created ?date .
@@ -69,7 +69,7 @@ select ?thing ?label ?description ?np ?date ?pubkey where {
     ?qualification_np np:hasAssertion ?qa .
   }
   graph ?qa {
-    <https://www.go-fair.org/#foundation> npx:qualifies ?np .
+    ?qualifier npx:qualifies ?np .
   }
   filter not exists {
     graph npa:graph {
