@@ -60,39 +60,41 @@ select ?thing ?label ?description ?np ?date ?pubkey ?qualifier where {
   bind(concat(" ",lcase(str(?label))," ",lcase(str(?description))," ") as ?text)
   filter( contains(?text, lcase(str(?_searchterm))) )
 
-  bind("MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string as ?qpubkey)
-  graph npa:graph {
-    ?qualification_np npa:hasHeadGraph ?qh .
-    ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
-  }
-  graph ?qh {
-    ?qualification_np np:hasAssertion ?qa .
-  }
-  graph ?qa {
-    ?qualifier npx:qualifies ?np .
-  }
-  filter not exists {
+  optional {
+    bind("MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string as ?qpubkey)
     graph npa:graph {
-      ?qnewversion npa:hasHeadGraph ?qnh .
-      ?qnewversion npa:hasValidSignatureForPublicKey ?qpubkey .
+      ?qualification_np npa:hasHeadGraph ?qh .
+      ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
     }
-    graph ?qnh {
-      ?qnewversion np:hasPublicationInfo ?qni .
+    graph ?qh {
+      ?qualification_np np:hasAssertion ?qa .
     }
-    graph ?qni {
-      ?qnewversion npx:supersedes ?qualification_np .
+    graph ?qa {
+      ?qualifier npx:qualifies ?np .
     }
-  }
-  filter not exists {
-    graph npa:graph {
-      ?qretraction npa:hasHeadGraph ?qrh .
-      ?qretraction npa:hasValidSignatureForPublicKey ?qpubkey .
+    filter not exists {
+      graph npa:graph {
+        ?qnewversion npa:hasHeadGraph ?qnh .
+        ?qnewversion npa:hasValidSignatureForPublicKey ?qpubkey .
+      }
+      graph ?qnh {
+        ?qnewversion np:hasPublicationInfo ?qni .
+      }
+      graph ?qni {
+        ?qnewversion npx:supersedes ?qualification_np .
+      }
     }
-    graph ?qrh {
-      ?qretraction np:hasAssertion ?ra .
-    }
-    graph ?qra {
-      ?qsomebody npx:retracts ?qualification_np .
+    filter not exists {
+      graph npa:graph {
+        ?qretraction npa:hasHeadGraph ?qrh .
+        ?qretraction npa:hasValidSignatureForPublicKey ?qpubkey .
+      }
+      graph ?qrh {
+        ?qretraction np:hasAssertion ?ra .
+      }
+      graph ?qra {
+        ?qsomebody npx:retracts ?qualification_np .
+      }
     }
   }
 }
