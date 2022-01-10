@@ -9,7 +9,7 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 prefix dct: <http://purl.org/dc/terms/>
 
-select ?thing ?label ?description ?np ?date ?pubkey ?qualifier where {
+select ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newversion ?qualifier where {
   graph npa:graph {
     ?np npa:hasHeadGraph ?h .
     ?np dct:created ?date .
@@ -32,7 +32,7 @@ select ?thing ?label ?description ?np ?date ?pubkey ?qualifier where {
   graph ?i {
     ?np (npx:introduces|npx:describes) ?thing .
   }
-  filter not exists {
+  optional {
     graph npa:graph {
       ?newversion npa:hasHeadGraph ?nh .
       ?newversion npa:hasValidSignatureForPublicKey ?pubkey .
@@ -44,7 +44,7 @@ select ?thing ?label ?description ?np ?date ?pubkey ?qualifier where {
       ?newversion npx:supersedes ?np .
     }
   }
-  filter not exists {
+  optional {
     graph npa:graph {
       ?retraction npa:hasHeadGraph ?rh .
       ?retraction npa:hasValidSignatureForPublicKey ?pubkey .
