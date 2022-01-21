@@ -9,7 +9,7 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 prefix dct: <http://purl.org/dc/terms/>
 
-select ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newversion ?qualifier where {
+select distinct ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newversion ?qualifier where {
   graph npa:graph {
     ?np npa:hasHeadGraph ?h .
     ?np dct:created ?date .
