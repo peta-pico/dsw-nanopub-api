@@ -60,8 +60,9 @@ select distinct ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newver
   bind(concat(" ",lcase(str(?label))," ",lcase(str(?description))," ") as ?text)
   filter( contains(?text, lcase(str(?_searchterm))) )
 
+  values ?qpubkey { "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string }
+
   optional {
-    values ?qpubkey { "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string }
     graph npa:graph {
       ?qualification_np npa:hasHeadGraph ?qh .
       ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
