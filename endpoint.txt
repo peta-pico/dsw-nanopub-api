@@ -1,1 +1,1 @@
-https://virtuoso.nps.petapico.org/sparql
+http://130.60.24.146:7883/sparql
