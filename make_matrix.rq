@@ -16,9 +16,8 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?resource
       fip:declared-by ?community ;
       ?rel ?resource .
   }
-  optional {
-    ?fip_index npx:includesElement ?np ; dce:title ?fip_title_l .
-  }
+  ?fip_index npx:includesElement ?np ;
+    dce:title ?fip_title_l .
   values ?rel {
     fip:declares-current-use-of fip:declares-planned-use-of fip:declares-planned-replacement-of
     # unofficial:
