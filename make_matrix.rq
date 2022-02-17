@@ -1,6 +1,6 @@
 prefix fip: <https://w3id.org/fair/fip/terms/>
 
-select distinct ?community ?c ?question ?q ?sort ?resource ?res ?reslabel ?value where {
+select distinct ?community ?c ?question ?q ?sort ?resource ?res ?reslabel ?rel ?resourcetype where {
   ?decl a fip:FIP-Declaration ;
     fip:refers-to-question ?question ;
     fip:declared-by ?community ;
@@ -14,9 +14,6 @@ select distinct ?community ?c ?question ?q ?sort ?resource ?res ?reslabel ?value
   bind (replace(str(?community), ".*#", "") as ?c)
   bind (replace(str(?question), "^.*-([^-MD]+(-[MD]+)?)$", "$1") as ?q)
   bind (concat(replace(?q, "F|M", "0"), "x") as ?sort)
-  bind (replace(str(?rel), "^.*/declares-(.*)-use-of$", "$1") as ?r)
-  bind (replace(str(?resourcetype), "^.*/([^/-]*)-?FAIR-Enabling-Resource-?([^/]*)$", "$1$2") as ?rt)
-  bind (replace(replace(replace(concat(?r, "/", ?rt), "^.*/to-be-Developed$", "1"), "^planned/.*$", "2"), "^current/.*$", "3") as ?value)
   bind (replace(str(?resource), "^.*?(#|/)([^/#]*/?[^/#]*)/?$", "$2") as ?res)
   bind (str(?resourcelabel) as ?reslabel)
   filter (?c != "ENVRI")
