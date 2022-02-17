@@ -14,7 +14,7 @@ select distinct ?community ?c ?question ?q ?sort ?resource ?res ?reslabel ?rel ?
       fip:declared-by ?community ;
       ?rel ?resource .
   }
-  values ?rel { fip:declares-current-use-of fip:declares-planned-use-of }
+  values ?rel { fip:declares-current-use-of fip:declares-planned-use-of fip:declares-planned-replacement-of }
   optional {?resource rdfs:label ?resourcelabel}
   optional {
     values ?resourcetype { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed }
