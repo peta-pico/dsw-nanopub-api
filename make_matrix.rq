@@ -1,16 +1,25 @@
 prefix fip: <https://w3id.org/fair/fip/terms/>
+prefix dct: <http://purl.org/dc/terms/>
+prefix npa: <http://purl.org/nanopub/admin/>
+prefix np: <http://www.nanopub.org/nschema#>
 
-select distinct ?community ?c ?question ?q ?sort ?resource ?res ?reslabel ?rel ?resourcetype where {
-  ?decl a fip:FIP-Declaration ;
-    fip:refers-to-question ?question ;
-    fip:declared-by ?community ;
-    ?rel ?resource .
-    values ?rel { fip:declares-current-use-of fip:declares-planned-use-of }
-    optional {?resource rdfs:label ?resourcelabel}
-    optional {
-      values ?resourcetype { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed }
-      ?resource a ?resourcetype
-    }
+select distinct ?community ?c ?question ?q ?sort ?resource ?res ?reslabel ?rel ?resourcetype ?date where {
+  ?np np:hasAssertion ?assertion .
+  graph npa:graph {
+    ?np dct:created ?date .
+  }
+  graph ?assertion {
+    ?decl a fip:FIP-Declaration ;
+      fip:refers-to-question ?question ;
+      fip:declared-by ?community ;
+      ?rel ?resource .
+  }
+  values ?rel { fip:declares-current-use-of fip:declares-planned-use-of }
+  optional {?resource rdfs:label ?resourcelabel}
+  optional {
+    values ?resourcetype { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed }
+    ?resource a ?resourcetype
+  }
   bind (replace(str(?community), ".*#", "") as ?c)
   bind (replace(str(?question), "^.*-([^-MD]+(-[MD]+)?)$", "$1") as ?q)
   bind (concat(replace(?q, "F|M", "0"), "x") as ?sort)
