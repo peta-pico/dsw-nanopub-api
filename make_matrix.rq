@@ -7,9 +7,7 @@ prefix np: <http://www.nanopub.org/nschema#>
 
 select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?resource ?res ?reslabel ?rel ?resourcetype ?date where {
   ?np np:hasAssertion ?assertion .
-  graph npa:graph {
-    ?np dct:created ?date .
-  }
+  graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
     ?decl a fip:FIP-Declaration ;
       fip:refers-to-question ?question ;
@@ -18,6 +16,12 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?resource
   }
   ?fip_index npx:includesElement ?np ;
     dce:title ?fip_title_l .
+  filter not exists {
+    ?fip_newer_index npx:includesElement ?newer_np ;
+      dce:title ?fip_title_l .
+    graph npa:graph { ?newer_np dct:created ?newer_date . }
+    filter (?newer_date > ?date)
+  }
   values ?rel {
     fip:declares-current-use-of fip:declares-planned-use-of fip:declares-planned-replacement-of
     # unofficial:
