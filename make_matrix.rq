@@ -5,7 +5,7 @@ prefix npa: <http://purl.org/nanopub/admin/>
 prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 
-select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?resource ?res ?reslabel ?rel ?resourcetype ?date where {
+select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice ?resource ?res ?reslabel ?rel ?resourcetype ?date where {
   ?np np:hasAssertion ?assertion .
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
@@ -38,5 +38,6 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?resource
   bind (replace(str(?resource), "^.*?(#|/)([^/#]*/?[^/#]*)/?$", "$2") as ?res)
   bind (str(?resourcelabel) as ?reslabel)
   bind (str(?fip_title_l) as ?fip_title)
+  bind ("" as ?nochoice)
   filter (?c != "ENVRI")
 } order by ?sort ?c
