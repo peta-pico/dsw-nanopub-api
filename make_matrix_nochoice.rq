@@ -33,4 +33,5 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
   bind ("" as ?rel)
   bind ("" as ?resourcetype)
   filter (?c != "ENVRI")
+  filter (!strends(?fip_title, "2022$"))
 } order by ?sort ?c
