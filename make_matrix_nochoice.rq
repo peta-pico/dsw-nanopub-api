@@ -14,13 +14,45 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
       fip:refers-to-question ?question ;
       fip:declared-by ?community .
   }
-  ?fip_index npx:includesElement ?np ;
-    dce:title ?fip_title_l .
+
+  graph npa:graph { ?index_np npa:hasValidSignatureForPublicKey ?pubkey . }
+  ?index_np np:hasAssertion ?index_a .
+  ?index_np np:hasPublicationInfo ?index_i .
+  graph ?index_a {
+    ?fip_index npx:includesElement ?np .
+  }
+  graph ?index_i {
+    ?fip_index dce:title ?fip_title_l .
+  }
   filter not exists {
     ?fip_newer_index npx:includesElement ?newer_np ;
       dce:title ?fip_title_l .
     graph npa:graph { ?newer_np dct:created ?newer_date . }
     filter (?newer_date > ?date)
+  }
+  filter not exists {
+    graph npa:graph {
+      ?index_np_new npa:hasHeadGraph ?nh .
+      ?index_np_new npa:hasValidSignatureForPublicKey ?pubkey .
+    }
+    graph ?nh {
+      ?index_np_new np:hasPublicationInfo ?ni .
+    }
+    graph ?ni {
+      ?index_np_new npx:supersedes ?index_np .
+    }
+  }
+  filter not exists {
+    graph npa:graph {
+      ?index_np_r npa:hasHeadGraph ?rh .
+      ?index_np_r npa:hasValidSignatureForPublicKey ?pubkey .
+    }
+    graph ?rh {
+      ?index_np_r np:hasAssertion ?ra .
+    }
+    graph ?ra {
+      ?somebody npx:retracts ?index_np .
+    }
   }
   values ?nochoice { fip:FIP-No-Choice-Declaration fip:No-Choice-Declaration }
   bind (replace(str(?community), ".*#", "") as ?c)
