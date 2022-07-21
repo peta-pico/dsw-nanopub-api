@@ -58,11 +58,43 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
     # unofficial:
     fip:declares-replacement-from fip:declares-replacement-to
   }
-  optional {?resource rdfs:label ?resourcelabel}
+  
+optional {
+  graph npa:graph { ?res_np npa:hasValidSignatureForPublicKey ?res_pubkey . }
+  ?res_np np:hasAssertion ?res_a .
+  graph ?res_a {
+    ?resource rdfs:label ?resourcelabel .
+  }
+  filter not exists {
+    graph npa:graph {
+      ?res_np_new npa:hasHeadGraph ?nh .
+      ?res_np_new npa:hasValidSignatureForPublicKey ?res_pubkey .
+    }
+    graph ?nh {
+      ?res_np_new np:hasPublicationInfo ?ni .
+    }
+    graph ?ni {
+      ?res_np_new npx:supersedes ?res_np .
+    }
+  }
+  filter not exists {
+    graph npa:graph {
+      ?res_np_r npa:hasHeadGraph ?rh .
+      ?res_np_r npa:hasValidSignatureForPublicKey ?res_pubkey .
+    }
+    graph ?rh {
+      ?res_np_r np:hasAssertion ?ra .
+    }
+    graph ?ra {
+      ?somebody npx:retracts ?res_np .
+    }
+  }
   optional {
     values ?resourcetype { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed }
     ?resource a ?resourcetype
   }
+}
+
   bind (replace(str(?community), ".*#", "") as ?c)
   bind (replace(str(?question), "^.*-([^-MD]+(-[MD]+)?)$", "$1") as ?q)
   bind (concat(replace(?q, "F|M", "0"), "x") as ?sort)
