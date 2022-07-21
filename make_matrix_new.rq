@@ -50,7 +50,7 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
       ?index_np_r np:hasAssertion ?ra .
     }
     graph ?ra {
-      ?index_np_r npx:retracts ?index_np .
+      ?somebody npx:retracts ?index_np .
     }
   }
   values ?rel {
