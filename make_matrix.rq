@@ -67,26 +67,26 @@ optional {
   }
   filter not exists {
     graph npa:graph {
-      ?res_np_new npa:hasHeadGraph ?nh .
+      ?res_np_new npa:hasHeadGraph ?rnh .
       ?res_np_new npa:hasValidSignatureForPublicKey ?res_pubkey .
     }
-    graph ?nh {
-      ?res_np_new np:hasPublicationInfo ?ni .
+    graph ?rnh {
+      ?res_np_new np:hasPublicationInfo ?rni .
     }
-    graph ?ni {
+    graph ?rni {
       ?res_np_new npx:supersedes ?res_np .
     }
   }
   filter not exists {
     graph npa:graph {
-      ?res_np_r npa:hasHeadGraph ?rh .
+      ?res_np_r npa:hasHeadGraph ?rrh .
       ?res_np_r npa:hasValidSignatureForPublicKey ?res_pubkey .
     }
-    graph ?rh {
-      ?res_np_r np:hasAssertion ?ra .
+    graph ?rrh {
+      ?res_np_r np:hasAssertion ?rra .
     }
-    graph ?ra {
-      ?somebody npx:retracts ?res_np .
+    graph ?rra {
+      ?rsomebody npx:retracts ?res_np .
     }
   }
   optional {
