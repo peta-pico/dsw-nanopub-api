@@ -5,7 +5,7 @@ prefix npa: <http://purl.org/nanopub/admin/>
 prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 
-select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice ?resource ?res ?reslabel ?rel ?resourcetype ?date where {
+select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice ?resource ?res ?reslabel ?rel ?resourcetype ?startdate ?enddate ?date where {
   ?np np:hasAssertion ?assertion .
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
@@ -13,6 +13,8 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
       a ?nochoice ;
       fip:refers-to-question ?question ;
       fip:declared-by ?community .
+    optional { ?decl dcat:startDate ?startdate . }
+    optional { ?decl dcat:endDate ?enddate . }
   }
 
   graph npa:graph { ?index_np npa:hasValidSignatureForPublicKey ?pubkey . }
