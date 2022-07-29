@@ -10,12 +10,12 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
   ?np np:hasAssertion ?assertion .
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
-    ?decl a fip:FIP-Declaration ;
-      fip:refers-to-question ?question ;
+    ?decl a fip:FIP-Declaration .
+    optional { ?decl dcat:startDate ?startdate . }
+    optional { ?decl dcat:endDate ?enddate . }
+    ?decl fip:refers-to-question ?question ;
       fip:declared-by ?community ;
       ?rel ?resource .
-    optional { ?decl dcat:startDate ?startdate .
-      ?decl dcat:endDate ?enddate . }
   }
   graph npa:graph { ?index_np npa:hasValidSignatureForPublicKey ?pubkey . }
   ?index_np np:hasAssertion ?index_a .
