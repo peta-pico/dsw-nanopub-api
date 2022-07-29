@@ -12,11 +12,11 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
   graph ?assertion {
     ?decl a fip:FIP-Declaration .
     optional { ?decl dcat:startDate ?startdate . }
-    optional { ?decl dcat:endDate ?enddate . }
     ?decl
       fip:refers-to-question ?question ;
       fip:declared-by ?community ;
       ?rel ?resource .
+    optional { ?decl dcat:endDate ?enddate . }
   }
   graph npa:graph { ?index_np npa:hasValidSignatureForPublicKey ?pubkey . }
   ?index_np np:hasAssertion ?index_a .
