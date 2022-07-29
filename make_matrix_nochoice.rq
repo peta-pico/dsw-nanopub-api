@@ -5,17 +5,17 @@ prefix npa: <http://purl.org/nanopub/admin/>
 prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 
-select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice ?resource ?res ?reslabel ?rel ?resourcetype ?date where {
-  # ?startdate ?enddate
+select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice ?resource ?res ?reslabel ?rel ?resourcetype ?startdate ?enddate ?date where {
   ?np np:hasAssertion ?assertion .
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
-    ?decl a fip:FIP-Declaration ;
-      a ?nochoice ;
-      fip:refers-to-question ?question ;
-      fip:declared-by ?community .
+    ?decl a fip:FIP-Declaration .
+    # grlc gives an error for some reason if these two optional statements are at the end of the graph block:
     #optional { ?decl dcat:startDate ?startdate . }
     #optional { ?decl dcat:endDate ?enddate . }
+    ?decl a ?nochoice ;
+      fip:refers-to-question ?question ;
+      fip:declared-by ?community .
   }
 
   graph npa:graph { ?index_np npa:hasValidSignatureForPublicKey ?pubkey . }
