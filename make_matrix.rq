@@ -11,6 +11,7 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
     ?decl a fip:FIP-Declaration .
+    # grlc gives an error for some reason if these two optional statements are at the end of the graph block:
     optional { ?decl dcat:startDate ?startdate . }
     optional { ?decl dcat:endDate ?enddate . }
     ?decl fip:refers-to-question ?question ;
