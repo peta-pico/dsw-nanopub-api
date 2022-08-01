@@ -6,7 +6,7 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dcat: <https://www.w3.org/ns/dcat#>
 
-select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice ?resource ?res ?reslabel ?rel ?resourcetype ?startdate ?enddate ?date where {
+select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?question ?q ?sort ?nochoice ?resource ?res ?reslabel ?rel ?resourcetype ?startdate ?enddate ?date where {
   ?np np:hasAssertion ?assertion .
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
@@ -17,6 +17,9 @@ select distinct ?fip_index ?fip_title ?community ?c ?question ?q ?sort ?nochoice
     ?decl fip:refers-to-question ?question ;
       fip:declared-by ?community ;
       ?rel ?resource .
+  }
+  optional {
+     ?community dct:isPartOf ?supercommunity .
   }
   graph npa:graph { ?index_np npa:hasValidSignatureForPublicKey ?pubkey . }
   ?index_np np:hasAssertion ?index_a .
@@ -100,6 +103,7 @@ optional {
 }
 
   bind (replace(str(?community), ".*#", "") as ?c)
+  bind (replace(str(?supercommunity), ".*#", "") as ?sc)
   bind (replace(str(?question), "^.*-([^-MD]+(-[MD]+)?)$", "$1") as ?q)
   bind (concat(replace(?q, "F|M", "0"), "x") as ?sort)
   bind (replace(str(?resource), "^.*?(#|/)([^/#]*/?[^/#]*)/?$", "$2") as ?res)
