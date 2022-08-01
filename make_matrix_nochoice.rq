@@ -1,6 +1,7 @@
 prefix fip: <https://w3id.org/fair/fip/terms/>
 prefix dct: <http://purl.org/dc/terms/>
 prefix dce: <http://purl.org/dc/elements/1.1/>
+prefix dct: <http://purl.org/dc/terms/>
 prefix npa: <http://purl.org/nanopub/admin/>
 prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
