@@ -11,8 +11,8 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
   graph ?assertion {
     ?decl a fip:FIP-Declaration .
     # grlc gives an error for some reason if these two optional statements are at the end of the graph block:
-    #optional { ?decl dcat:startDate ?startdate . }
-    #optional { ?decl dcat:endDate ?enddate . }
+    optional { ?decl dcat:startDate ?startdate . }
+    optional { ?decl dcat:endDate ?enddate . }
     ?decl a ?nochoice ;
       fip:refers-to-question ?question ;
       fip:declared-by ?community .
