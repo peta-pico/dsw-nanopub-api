@@ -110,6 +110,4 @@ optional {
   bind (str(?resourcelabel) as ?reslabel)
   bind (str(?fip_title_l) as ?fip_title)
   bind ("" as ?nochoice)
-  filter (?c != "ENVRI")
-  filter (!strends(?fip_title, "2022$"))
 } order by ?sort ?c
