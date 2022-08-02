@@ -71,6 +71,4 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
   bind ("" as ?reslabel)
   bind ("" as ?rel)
   bind ("" as ?resourcetype)
-  filter (?c != "ENVRI")
-  filter (!strends(?fip_title, "2022$"))
 } order by ?sort ?c
