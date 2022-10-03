@@ -69,7 +69,7 @@ select distinct ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newver
       ?disapproval np:hasAssertion ?da .
     }
     graph ?da {
-      ?dsomebody npx:disapproves-of ?np .
+      ?dsomebody ( npx:disapproves-of | npx:disapprovesOf ) ?np .
     }
   }
   filter (!bound(?disapproval))  # No idea why "filter not exists" above doesn't work...
