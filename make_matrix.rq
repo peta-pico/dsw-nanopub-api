@@ -16,7 +16,7 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
     optional { ?decl dcat:endDate ?enddate . }
     ?decl fip:refers-to-question ?question ;
       fip:declared-by ?community ;
-      ?rel ?resource .
+      ?rel ?resource_pre .
   }
   optional {
      ?community dct:isPartOf ?supercommunity .
@@ -69,10 +69,14 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
 optional {
   graph npa:graph { ?res_np npa:hasValidSignatureForPublicKey ?res_pubkey . }
   ?res_np np:hasAssertion ?res_a .
+  ?res_np np:hasPublicationInfo ?res_i .
   graph ?res_a {
-    ?resource rdfs:label ?resourcelabel .
+    ?resource_pre rdfs:label ?resourcelabel .
   }
-  filter not exists {
+  graph ?res_i {
+    ?res_np npx:introduces ?resource_pre .
+  }
+  optional {
     graph npa:graph {
       ?res_np_new npa:hasHeadGraph ?rnh .
       ?res_np_new npa:hasValidSignatureForPublicKey ?res_pubkey .
@@ -82,8 +86,10 @@ optional {
     }
     graph ?rni {
       ?res_np_new npx:supersedes ?res_np .
+      ?res_np_new npx:introduces ?resource_new .
     }
   }
+  bind(coalesce(?resource_new, ?resource_pre) as ?resource)
   filter not exists {
     graph npa:graph {
       ?res_np_r npa:hasHeadGraph ?rrh .
