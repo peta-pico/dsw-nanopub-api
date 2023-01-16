@@ -71,7 +71,7 @@ optional {
   ?res_np np:hasAssertion ?res_a .
   ?res_np np:hasPublicationInfo ?res_i .
   graph ?res_a {
-    ?resource_pre rdfs:label ?resourcelabel .
+    ?resource_pre rdfs:label ?resourcelabel_pre .
   }
   graph ?res_i {
     ?res_np npx:introduces ?resource_pre .
@@ -82,14 +82,21 @@ optional {
       ?res_np_new npa:hasValidSignatureForPublicKey ?res_pubkey .
     }
     graph ?rnh {
+      ?res_np_new np:hasAssertion ?rha .
       ?res_np_new np:hasPublicationInfo ?rni .
     }
+    graph ?rha {
+      ?resource_new rdfs:label ?resourcelabel_new .
+    }
     graph ?rni {
-      ?res_np_new npx:supersedes ?res_np .
+      ?res_np_new npx:supersedes ?res_np_x .
       ?res_np_new npx:introduces ?resource_new .
     }
+    # needs to be done properly:
+    ?res_np_x npx:supersedes* ?res_np .
   }
   bind(coalesce(?resource_new, ?resource_pre) as ?resource)
+  bind(coalesce(?resourcelabel_new, ?resourcelabel_pre) as ?resourcelabel)
   filter not exists {
     graph npa:graph {
       ?res_np_r npa:hasHeadGraph ?rrh .
@@ -99,8 +106,10 @@ optional {
       ?res_np_r np:hasAssertion ?rra .
     }
     graph ?rra {
-      ?rsomebody npx:retracts ?res_np .
+      ?rsomebody npx:retracts ?res_np_rx .
     }
+    # needs to be done properly:
+    ?res_np_rx npx:supersedes* ?res_np .
   }
   optional {
     values ?resourcetype { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed }
