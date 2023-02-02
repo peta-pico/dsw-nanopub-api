@@ -1,1 +1,1 @@
-http://130.60.24.146:7883/sparql
+https://virtuoso.services.np.trustyuri.net/sparql
