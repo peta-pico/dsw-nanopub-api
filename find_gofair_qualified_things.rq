@@ -29,9 +29,9 @@ select distinct ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newver
       ?thing dct:description ?dctdesc .
     }
   }
-  #graph ?i {
-  #  ?np (npx:introduces|npx:describes) ?thing .
-  #}
+  graph ?i {
+    ?np (npx:introduces|npx:describes) ?thing .
+  }
   optional {
     graph npa:graph {
       ?newversion npa:hasHeadGraph ?nh .
