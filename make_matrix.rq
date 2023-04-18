@@ -74,7 +74,7 @@ optional {
     ?resource_pre rdfs:label ?resourcelabel_pre .
   }
   graph ?res_i {
-    ?res_np npx:introduces ?resource_pre .
+    ?res_np (npx:introduces|npx:describes) ?resource_pre .
   }
   optional {
     graph npa:graph {
@@ -90,7 +90,7 @@ optional {
     }
     graph ?rni {
       ?res_np_new npx:supersedes ?res_np_x .
-      ?res_np_new npx:introduces ?resource_new .
+      ?res_np_new (npx:introduces|npx:describes) ?resource_new .
     }
     # needs to be done properly:
     ?res_np_x npx:supersedes* ?res_np .
