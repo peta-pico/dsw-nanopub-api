@@ -1,0 +1,71 @@
+prefix fip: <https://w3id.org/fair/fip/terms/>
+prefix dct: <http://purl.org/dc/terms/>
+prefix dce: <http://purl.org/dc/elements/1.1/>
+prefix npa: <http://purl.org/nanopub/admin/>
+prefix npx: <http://purl.org/nanopub/x/>
+prefix np: <http://www.nanopub.org/nschema#>
+prefix dcat: <https://www.w3.org/ns/dcat#>
+
+select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np where {
+  graph npa:graph { ?res_np_pre npa:hasValidSignatureForPublicKey ?res_pubkey . }
+  ?res_np_pre np:hasAssertion ?res_a .
+  ?res_np_pre np:hasPublicationInfo ?res_i .
+  graph ?res_a {
+    values ?resourcetype_pre { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed fip:FAIR-Enabling-Resource }
+    ?resource_id a ?resourcetype_pre .
+    ?resource_id rdfs:label ?resourcelabel_pre .
+  }
+  graph ?res_i {
+    ?res_np_pre (npx:introduces|npx:describes) ?resource_id .
+  }
+  optional {
+    graph npa:graph {
+      ?res_np_new npa:hasHeadGraph ?rnh .
+      ?res_np_new npa:hasValidSignatureForPublicKey ?res_pubkey .
+    }
+    graph ?rnh {
+      ?res_np_new np:hasAssertion ?rha .
+      ?res_np_new np:hasPublicationInfo ?rni .
+    }
+    graph ?rha {
+      values ?resourcetype_new { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed fip:FAIR-Enabling-Resource }
+      ?resource_new a ?resourcetype_new .
+      ?resource_new rdfs:label ?resourcelabel_new .
+    }
+    graph ?rni {
+      ?res_np_new npx:supersedes ?res_np_x .
+      ?res_np_new (npx:introduces|npx:describes) ?resource_new .
+    }
+    # needs to be done properly:
+    ?res_np_x npx:supersedes* ?res_np_pre .
+  }
+  bind(coalesce(?resource_new, ?resource_id) as ?resource_pref_id)
+  bind(coalesce(?res_np_new, ?res_np_pre) as ?res_np)
+  bind(coalesce(?resourcelabel_new, ?resourcelabel_pre) as ?resourcelabel)
+  filter not exists {
+    graph npa:graph {
+      ?res_np_r npa:hasHeadGraph ?rrh .
+      ?res_np_r npa:hasValidSignatureForPublicKey ?res_pubkey .
+    }
+    graph ?rrh {
+      ?res_np_r np:hasAssertion ?rra .
+    }
+    graph ?rra {
+      ?rsomebody npx:retracts ?res_np .
+    }
+  }
+  filter not exists {
+    graph npa:graph {
+      ?res_np_s npa:hasHeadGraph ?rsh .
+      ?res_np_s npa:hasValidSignatureForPublicKey ?res_pubkey .
+    }
+    graph ?rsh {
+      ?res_np_s np:hasPublicationInfo ?rsi .
+    }
+    graph ?rsi {
+      ?res_np_s npx:supersedes ?res_np .
+    }
+  }
+  bind (replace(str(?resource_pref_id), "^.*?(#|/)([^/#]*/?[^/#]*)/?$", "$2") as ?res)
+  bind (str(?resourcelabel) as ?reslabel)
+} order by ?resource_pref_id
