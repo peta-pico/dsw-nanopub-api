@@ -67,14 +67,14 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
   }
   
 optional {
-  graph npa:graph { ?res_np npa:hasValidSignatureForPublicKey ?res_pubkey . }
-  ?res_np np:hasAssertion ?res_a .
-  ?res_np np:hasPublicationInfo ?res_i .
+  graph npa:graph { ?res_np_pre npa:hasValidSignatureForPublicKey ?res_pubkey . }
+  ?res_np_pre np:hasAssertion ?res_a .
+  ?res_np_pre np:hasPublicationInfo ?res_i .
   graph ?res_a {
     ?resource_pre rdfs:label ?resourcelabel_pre .
   }
   graph ?res_i {
-    ?res_np (npx:introduces|npx:describes) ?resource_pre .
+    ?res_np_pre (npx:introduces|npx:describes) ?resource_pre .
   }
   optional {
     graph npa:graph {
@@ -93,9 +93,10 @@ optional {
       ?res_np_new (npx:introduces|npx:describes) ?resource_new .
     }
     # needs to be done properly:
-    ?res_np_x npx:supersedes* ?res_np .
+    ?res_np_x npx:supersedes* ?res_np_pre .
   }
   bind(coalesce(?resource_new, ?resource_pre) as ?resource)
+  bind(coalesce(?res_np_new, ?res_np_pre) as ?res_np)
   bind(coalesce(?resourcelabel_new, ?resourcelabel_pre) as ?resourcelabel)
   filter not exists {
     graph npa:graph {
