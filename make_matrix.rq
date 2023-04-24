@@ -107,14 +107,20 @@ optional {
       ?res_np_r np:hasAssertion ?rra .
     }
     graph ?rra {
-      ?rsomebody npx:retracts ?res_np_rx .
+      ?rsomebody npx:retracts ?res_np .
     }
-    # needs to be done properly:
-    ?res_np_rx npx:supersedes* ?res_np .
   }
   filter not exists {
-    # needs to be done properly:
-    ?res_np_sx npx:supersedes ?res_np .
+    graph npa:graph {
+      ?res_np_s npa:hasHeadGraph ?rsh .
+      ?res_np_s npa:hasValidSignatureForPublicKey ?res_pubkey .
+    }
+    graph ?rsh {
+      ?res_np_s np:hasPublicationInfo ?rsi .
+    }
+    graph ?rsi {
+      ?res_np_s npx:supersedes ?res_np .
+    }
   }
   optional {
     values ?resourcetype { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed }
