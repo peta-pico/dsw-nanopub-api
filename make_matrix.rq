@@ -11,12 +11,17 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
     ?decl a fip:FIP-Declaration .
+    values ?rel {
+      fip:declares-current-use-of fip:declares-planned-use-of fip:declares-planned-replacement-of
+      # unofficial:
+      fip:declares-replacement-from fip:declares-replacement-to
+    }
+    ?decl ?rel ?resource_pre .
+    ?decl fip:refers-to-question ?question .
     # grlc gives an error for some reason if these two optional statements are at the end of the graph block:
     optional { ?decl dcat:startDate ?startdate . }
     optional { ?decl dcat:endDate ?enddate . }
-    ?decl fip:refers-to-question ?question ;
-      fip:declared-by ?community ;
-      ?rel ?resource_pre .
+    ?decl fip:declared-by ?community .
   }
   optional {
      ?community dct:isPartOf ?supercommunity .
@@ -59,11 +64,6 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
     graph ?ra {
       ?somebody npx:retracts ?index_np .
     }
-  }
-  values ?rel {
-    fip:declares-current-use-of fip:declares-planned-use-of fip:declares-planned-replacement-of
-    # unofficial:
-    fip:declares-replacement-from fip:declares-replacement-to
   }
   
 optional {
