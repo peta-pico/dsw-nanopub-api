@@ -111,6 +111,10 @@ optional {
     # needs to be done properly:
     ?res_np_rx npx:supersedes* ?res_np .
   }
+  filter not exists {
+    # needs to be done properly:
+    ?res_np_sx npx:supersedes ?res_np .
+  }
   optional {
     values ?resourcetype { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed }
     ?resource a ?resourcetype
