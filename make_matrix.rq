@@ -128,7 +128,11 @@ optional {
   }
 
   optional {
-    values ?qpubkey { "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string }
+    values ?qpubkey {
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFntPrMZqvg2kVhCNArNnEn37ddXGwZ/0r4C8CS4lDry7C7YkYgng9yb0UMZQUHiTVkR/5A4m/xjE+Vy+AnwcWUeB75SfGZjE5ylI6VeHjTHi9+2hh2PHYIWnkhU4WHl3COEnxSSa/VouvPzZ2BIWLH6fTrq7NNL3RF5hGegGG0QIDAQAB"^^xsd:string
+    }
     graph npa:graph {
       ?qualification_np npa:hasHeadGraph ?qh .
       ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
