@@ -94,34 +94,34 @@ optional {
     }
     # needs to be done properly:
     ?res_np_x npx:supersedes* ?res_np_pre .
+    filter not exists {
+      graph npa:graph {
+        ?res_np_r npa:hasHeadGraph ?rrh .
+        ?res_np_r npa:hasValidSignatureForPublicKey ?res_pubkey .
+      }
+      graph ?rrh {
+        ?res_np_r np:hasAssertion ?rra .
+      }
+      graph ?rra {
+        ?rsomebody npx:retracts ?res_np_new .
+      }
+    }
+    filter not exists {
+      graph npa:graph {
+        ?res_np_s npa:hasHeadGraph ?rsh .
+        ?res_np_s npa:hasValidSignatureForPublicKey ?res_pubkey .
+      }
+      graph ?rsh {
+        ?res_np_s np:hasPublicationInfo ?rsi .
+      }
+      graph ?rsi {
+        ?res_np_s npx:supersedes ?res_np_new .
+      }
+    }
   }
   bind(coalesce(?resource_new, ?resource_pre) as ?resource)
   bind(coalesce(?res_np_new, ?res_np_pre) as ?res_np)
   bind(coalesce(?resourcelabel_new, ?resourcelabel_pre) as ?resourcelabel)
-  filter not exists {
-    graph npa:graph {
-      ?res_np_r npa:hasHeadGraph ?rrh .
-      ?res_np_r npa:hasValidSignatureForPublicKey ?res_pubkey .
-    }
-    graph ?rrh {
-      ?res_np_r np:hasAssertion ?rra .
-    }
-    graph ?rra {
-      ?rsomebody npx:retracts ?res_np .
-    }
-  }
-  filter not exists {
-    graph npa:graph {
-      ?res_np_s npa:hasHeadGraph ?rsh .
-      ?res_np_s npa:hasValidSignatureForPublicKey ?res_pubkey .
-    }
-    graph ?rsh {
-      ?res_np_s np:hasPublicationInfo ?rsi .
-    }
-    graph ?rsi {
-      ?res_np_s npx:supersedes ?res_np .
-    }
-  }
   optional {
     values ?resourcetype { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed }
     ?resource a ?resourcetype
