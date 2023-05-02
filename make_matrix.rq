@@ -76,6 +76,30 @@ optional {
   graph ?res_i {
     ?res_np_pre (npx:introduces|npx:describes) ?resource_pre .
   }
+  filter not exists {
+    graph npa:graph {
+      ?res_np_r npa:hasHeadGraph ?rrh .
+      ?res_np_r npa:hasValidSignatureForPublicKey ?res_pubkey .
+    }
+    graph ?rrh {
+      ?res_np_r np:hasAssertion ?rra .
+    }
+    graph ?rra {
+      ?rsomebody npx:retracts ?res_np_pre .
+    }
+  }
+  filter not exists {
+    graph npa:graph {
+      ?res_np_s npa:hasHeadGraph ?rsh .
+      ?res_np_s npa:hasValidSignatureForPublicKey ?res_pubkey .
+    }
+    graph ?rsh {
+      ?res_np_s np:hasPublicationInfo ?rsi .
+    }
+    graph ?rsi {
+      ?res_np_s npx:supersedes ?res_np_pre .
+    }
+  }
   optional {
     graph npa:graph {
       ?res_np_new npa:hasHeadGraph ?rnh .
@@ -96,26 +120,26 @@ optional {
     ?res_np_x npx:supersedes* ?res_np_pre .
     filter not exists {
       graph npa:graph {
-        ?res_np_r npa:hasHeadGraph ?rrh .
-        ?res_np_r npa:hasValidSignatureForPublicKey ?res_pubkey .
+        ?res_np_rn npa:hasHeadGraph ?rrhn .
+        ?res_np_rn npa:hasValidSignatureForPublicKey ?res_pubkey .
       }
-      graph ?rrh {
-        ?res_np_r np:hasAssertion ?rra .
+      graph ?rrhn {
+        ?res_np_rn np:hasAssertion ?rran .
       }
-      graph ?rra {
-        ?rsomebody npx:retracts ?res_np_new .
+      graph ?rran {
+        ?rnsomebody npx:retracts ?res_np_new .
       }
     }
     filter not exists {
       graph npa:graph {
-        ?res_np_s npa:hasHeadGraph ?rsh .
-        ?res_np_s npa:hasValidSignatureForPublicKey ?res_pubkey .
+        ?res_np_sn npa:hasHeadGraph ?rshn .
+        ?res_np_sn npa:hasValidSignatureForPublicKey ?res_pubkey .
       }
-      graph ?rsh {
-        ?res_np_s np:hasPublicationInfo ?rsi .
+      graph ?rshn {
+        ?res_np_sn np:hasPublicationInfo ?rsin .
       }
-      graph ?rsi {
-        ?res_np_s npx:supersedes ?res_np_new .
+      graph ?rsin {
+        ?res_np_ns npx:supersedes ?res_np_new .
       }
     }
   }
