@@ -8,3 +8,10 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run script
         run:  bash ${GITHUB_WORKSPACE}/scripts/test.sh
+      - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        with:
+          add: 'table'
+          author_name: Knowledge Pixels Bot
+          author_email: bot@knowledgepixels.com
+          cwd: ${GITHUB_WORKSPACE}
+          message: 'Add tables'
