@@ -6,18 +6,11 @@ API="https://grlc.petapico.org/api-git/peta-pico/dsw-nanopub-api"
 
 curl -o tables/resource_ids.csv -H "Accept: text/csv" "$API/get_resource_ids"
 
-echo "1"
 csvcut -d ',' -q '"' -c 'resource_id' tables/resource_ids.csv > tables/resource_ids_unsorted.pre.csv
-echo "1.1"
-head tables/resource_ids_unsorted.pre.csv
 csvsort -d ',' -q '"' -c 'resource_id' tables/resource_ids_unsorted.pre.csv > tables/resource_ids.pre.csv
-echo "2"
 echo "resource_id" > tables/resource_ids_duplicates.pre.csv
-echo "3"
 tail -n +2 tables/resource_ids.pre.csv | uniq -d >> tables/resource_ids_duplicates.pre.csv
-echo "4"
 csvjoin -d ',' -q '"' --left -c 'resource_id' tables/resource_ids_duplicates.pre.csv tables/resource_ids.csv > tables/resource_ids_duplicates.csv
-echo "5"
 
 curl -o tables/declarations.csv -H "Accept: text/csv" "$API/get_declarations"
 
