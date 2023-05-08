@@ -9,6 +9,7 @@ curl -o tables/resource_ids.csv -H "Accept: text/csv" "$API/get_resource_ids"
 echo "1"
 csvcut -c 'resource_id' tables/resource_ids.csv > tables/resource_ids_unsorted.pre.csv
 echo "1.1"
+head tables/resource_ids_unsorted.pre.csv
 csvsort -c 'resource_id' tables/resource_ids_unsorted.pre.csv > tables/resource_ids.pre.csv
 echo "2"
 echo "resource_id" > tables/resource_ids_duplicates.pre.csv
