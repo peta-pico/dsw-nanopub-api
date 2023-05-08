@@ -7,6 +7,11 @@ echo "tables/resource_ids.pre.csv count:" && cat tables/resource_ids.pre.csv | w
 cat tables/resource_ids.pre.csv | uniq -u > tables/resource_ids.csv
 echo "tables/resource_ids.csv count:" && cat tables/resource_ids.csv | wc -l
 
+csvcut -c 'resource_id' tables/resource_ids.csv | csvsort -c 'resource_id' > tables/resource_ids.pre.csv
+echo "resource_id" > tables/resource_ids_duplicates.pre.csv
+cat tables/resource_ids.pre.csv | uniq -d >> tables/resource_ids_duplicates.pre.csv
+csvjoin --left -c 'resource_id' tables/resource_ids_duplicates.pre.csv tables/resource_ids.csv > tables/resource_ids_duplicates.csv
+
 curl -o tables/declarations.pre.csv -H "Accept: text/csv" "https://grlc.petapico.org/api-git/peta-pico/dsw-nanopub-api/get_declarations"
 echo "tables/declarations.pre.csv count:" && cat tables/declarations.pre.csv | wc -l
 cat tables/declarations.pre.csv | uniq -u > tables/declarations.csv
