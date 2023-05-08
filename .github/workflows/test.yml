@@ -1,9 +1,10 @@
 on: workflow_dispatch
 
 jobs:
-  runscript:
+  test:
     name: test
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Run script
         run:  bash ${GITHUB_WORKSPACE}/scripts/test.sh
