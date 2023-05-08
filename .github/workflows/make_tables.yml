@@ -2,15 +2,15 @@ on: workflow_dispatch
 
 jobs:
   test:
-    name: test
+    name: Make tables
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
-      - name: Run script
-        run:  bash ${GITHUB_WORKSPACE}/scripts/test.sh
-      - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+      - name: Run script make_tables.sh
+        run:  bash ${GITHUB_WORKSPACE}/scripts/make_tables.sh
+      - uses: EndBug/add-and-commit@v9
         with:
           add: 'tables'
           author_name: Knowledge Pixels Bot
