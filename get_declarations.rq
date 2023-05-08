@@ -6,7 +6,7 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dcat: <https://www.w3.org/ns/dcat#>
 
-select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?question ?q ?sort ?nochoice ?decl ?rel ?resource ?startdate ?enddate ?date where {
+select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?question ?q ?sort ?nochoice ?decl ?rel ?resource_id_used ?startdate ?enddate ?date where {
   ?np np:hasAssertion ?assertion .
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
@@ -16,7 +16,7 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
       # unofficial:
       fip:declares-replacement-from fip:declares-replacement-to
     }
-    ?decl ?rel ?resource .
+    ?decl ?rel ?resource_id_used .
     ?decl fip:refers-to-question ?question .
     # grlc gives an error for some reason if these two optional statements are at the end of the graph block:
     optional { ?decl dcat:startDate ?startdate . }
