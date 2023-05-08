@@ -42,7 +42,7 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?qualifier
   bind(coalesce(?resource_new, ?resource_id) as ?resource_pref_id)
   bind(coalesce(?res_np_new, ?res_np_pre) as ?res_np)
   bind(coalesce(?resourcelabel_new, ?resourcelabel_pre) as ?resourcelabel)
-  filter not exists {
+  optional {
     graph npa:graph {
       ?res_np_r npa:hasHeadGraph ?rrh .
       ?res_np_r npa:hasValidSignatureForPublicKey ?res_pubkey .
@@ -53,8 +53,8 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?qualifier
     graph ?rra {
       ?rsomebody npx:retracts ?res_np .
     }
-  }
-  filter not exists {
+  } filter(!bound(?res_np_r)).
+  optional {
     graph npa:graph {
       ?res_np_s npa:hasHeadGraph ?rsh .
       ?res_np_s npa:hasValidSignatureForPublicKey ?res_pubkey .
@@ -65,7 +65,7 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?qualifier
     graph ?rsi {
       ?res_np_s npx:supersedes ?res_np .
     }
-  }
+  } filter(!bound(?res_np_s)).
   bind (replace(str(?resource_pref_id), "^.*?(#|/)([^/#]*/?[^/#]*)/?$", "$2") as ?res)
   bind (str(?resourcelabel) as ?reslabel)
 
@@ -81,7 +81,7 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?qualifier
     graph ?qa {
       ?qualifier npx:qualifies ?res_np .
     }
-    filter not exists {
+    optional {
       graph npa:graph {
         ?qnewversion npa:hasHeadGraph ?qnh .
         ?qnewversion npa:hasValidSignatureForPublicKey ?qpubkey .
@@ -92,8 +92,8 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?qualifier
       graph ?qni {
         ?qnewversion npx:supersedes ?qualification_np .
       }
-    }
-    filter not exists {
+    } filter(!bound(?qnewversion)).
+    optional {
       graph npa:graph {
         ?qretraction npa:hasHeadGraph ?qrh .
         ?qretraction npa:hasValidSignatureForPublicKey ?qpubkey .
@@ -104,7 +104,7 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?qualifier
       graph ?qra {
         ?qsomebody npx:retracts ?qualification_np .
       }
-    }
+    } filter(!bound(?qretraction)).
   }
 
 } order by ?resource_pref_id ?resource_id ?res ?reslabel ?res_np ?qualifier ?qualification_np
