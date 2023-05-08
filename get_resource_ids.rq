@@ -107,4 +107,4 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?qualifier
     }
   }
 
-} order by ?resource_pref_id
+} order by ?resource_pref_id ?resource_id ?res ?reslabel ?res_np ?qualifier ?qualification_np
