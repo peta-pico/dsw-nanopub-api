@@ -5,6 +5,10 @@ jobs:
     name: Make tables
     runs-on: ubuntu-latest
     steps:
+      - name: Install csvkit
+        run: |
+          sudo apt-get update
+          sudo apt-get install csvkit
       - uses: actions/checkout@v2
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
