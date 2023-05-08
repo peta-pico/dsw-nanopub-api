@@ -203,4 +203,4 @@ optional {
   bind (str(?resourcelabel) as ?reslabel)
   bind (str(?fip_title_l) as ?fip_title)
   bind ("" as ?nochoice)
-} order by ?sort ?c
+} order by ?sort ?c ?fip_index ?decl
