@@ -72,4 +72,4 @@ select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?questio
   bind (concat(replace(?q, "F|M", "0"), "x") as ?sort)
   bind (str(?fip_title_l) as ?fip_title)
   bind ("" as ?nochoice)
-} order by ?sort ?c ?fip_index ?decl ?resource
+} order by ?sort ?c ?fip_index ?decl ?resource_id_used
