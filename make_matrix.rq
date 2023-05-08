@@ -6,7 +6,7 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dcat: <https://www.w3.org/ns/dcat#>
 
-select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?question ?q ?sort ?nochoice ?resource ?res ?reslabel ?res_np ?rel ?resourcetype ?startdate ?enddate ?qualifier ?qualification_np ?date where {
+select distinct ?fip_index ?fip_title ?community ?c ?supercommunity ?sc ?question ?q ?sort ?nochoice ?decl ?rel ?resource ?res ?reslabel ?res_np ?resourcetype ?startdate ?enddate ?qualifier ?qualification_np ?date where {
   ?np np:hasAssertion ?assertion .
   graph npa:graph { ?np dct:created ?date . }
   graph ?assertion {
