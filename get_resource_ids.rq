@@ -6,7 +6,7 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dcat: <https://www.w3.org/ns/dcat#>
 
-select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np where {
+select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_date ?qualification_np where {
   graph npa:graph {
     ?res_np_pre npa:hasHeadGraph ?res_h .
     ?res_np_pre dct:created ?res_np_pre_date .
@@ -77,4 +77,46 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np where {
   bind (replace(str(?resource_pref_id), "^.*?(#|/)([^/#]*/?[^/#]*)/?$", "$2") as ?res)
   bind (str(?resourcelabel) as ?reslabel)
 
-} order by ?resource_pref_id ?resource_id ?res ?reslabel ?res_np
+  optional {
+    values ?qpubkey {
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFntPrMZqvg2kVhCNArNnEn37ddXGwZ/0r4C8CS4lDry7C7YkYgng9yb0UMZQUHiTVkR/5A4m/xjE+Vy+AnwcWUeB75SfGZjE5ylI6VeHjTHi9+2hh2PHYIWnkhU4WHl3COEnxSSa/VouvPzZ2BIWLH6fTrq7NNL3RF5hGegGG0QIDAQAB"^^xsd:string
+    }
+    graph npa:graph {
+      ?qualification_np npa:hasHeadGraph ?qh .
+      ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
+    }
+    graph ?qh {
+      ?qualification_np np:hasAssertion ?qa .
+    }
+    graph ?qa {
+      ?qualifier npx:qualifies ?res_np .
+    }
+    optional {
+      graph npa:graph {
+        ?qnewversion npa:hasHeadGraph ?qnh .
+        ?qnewversion npa:hasValidSignatureForPublicKey ?qpubkey .
+      }
+      graph ?qnh {
+        ?qnewversion np:hasPublicationInfo ?qni .
+      }
+      graph ?qni {
+        ?qnewversion npx:supersedes ?qualification_np .
+      }
+    } filter(!bound(?qnewversion)).
+    optional {
+      graph npa:graph {
+        ?qretraction npa:hasHeadGraph ?qrh .
+        ?qretraction npa:hasValidSignatureForPublicKey ?qpubkey .
+      }
+      graph ?qrh {
+        ?qretraction np:hasAssertion ?ra .
+      }
+      graph ?qra {
+        ?qsomebody npx:retracts ?qualification_np .
+      }
+    } filter(!bound(?qretraction)).
+  }
+
+} order by ?resource_pref_id ?resource_id ?res ?reslabel ?res_np ?qualification_np
