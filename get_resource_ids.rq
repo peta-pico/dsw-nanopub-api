@@ -6,9 +6,10 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dcat: <https://www.w3.org/ns/dcat#>
 
-select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np where {
+select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_date where {
   graph npa:graph {
     ?res_np_pre npa:hasHeadGraph ?res_h .
+    ?res_np_pre dct:created ?res_np_pre_date .
     ?res_np_pre npa:hasValidSignatureForPublicKey ?res_pubkey .
   }
   graph ?res_h {
@@ -39,6 +40,7 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np where {
     }
     graph ?rni {
       ?res_np_new npx:supersedes ?res_np_x .
+      ?res_np_new dct:created ?res_np_new_date .
       ?res_np_new (npx:introduces|npx:describes) ?resource_new .
     }
     # needs to be done properly:
@@ -46,6 +48,7 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np where {
   }
   bind(coalesce(?resource_new, ?resource_id) as ?resource_pref_id)
   bind(coalesce(?res_np_new, ?res_np_pre) as ?res_np)
+  bind(coalesce(?res_np_new_date, ?res_np_pre_date) as ?res_np_date)
   bind(coalesce(?resourcelabel_new, ?resourcelabel_pre) as ?resourcelabel)
   optional {
     graph npa:graph {
