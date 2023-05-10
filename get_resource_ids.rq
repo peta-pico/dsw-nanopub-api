@@ -27,6 +27,7 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_da
   optional {
     graph npa:graph {
       ?res_np_new npa:hasHeadGraph ?rnh .
+      ?res_np_new dct:created ?res_np_new_date .
       ?res_np_new npa:hasValidSignatureForPublicKey ?res_pubkey .
     }
     graph ?rnh {
@@ -40,7 +41,6 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_da
     }
     graph ?rni {
       ?res_np_new npx:supersedes ?res_np_x .
-      ?res_np_new dct:created ?res_np_new_date .
       ?res_np_new (npx:introduces|npx:describes) ?resource_new .
     }
     # needs to be done properly:
