@@ -1,1 +1,1 @@
-https://virtuoso.services.np.trustyuri.net/sparql
+https://virtuoso.nps.petapico.org/sparql
