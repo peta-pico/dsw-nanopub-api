@@ -1,7 +1,6 @@
 #+ summary: Find things introduced in signed nanopublications that are not retracted or superseded
 #+ method: GET
 #+ pagination: 1000
-#+ endpoint_in_url: False
 
 prefix np: <http://www.nanopub.org/nschema#>
 prefix npa: <http://purl.org/nanopub/admin/>
