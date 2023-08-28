@@ -10,7 +10,7 @@ prefix npx: <http://purl.org/nanopub/x/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dcat: <https://www.w3.org/ns/dcat#>
 
-select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_date ?qualification_np where {
+select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_date ?resourcetype ?qualification_np where {
   graph npa:graph {
     ?res_np_pre npa:hasHeadGraph ?res_h .
     ?res_np_pre dct:created ?res_np_pre_date .
@@ -23,6 +23,8 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_da
   graph ?res_a {
     values ?resourcetype_pre { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed fip:FAIR-Enabling-Resource }
     ?resource_id a ?resourcetype_pre .
+    bind( exists { ?resource_id a fip:Available-FAIR-Enabling-Resource } as ?available_resource_pre )
+    bind( exists { ?resource_id a fip:FAIR-Enabling-Resource-to-be-Developed } as ?tobedeveloped_resource_pre )
     ?resource_id rdfs:label ?resourcelabel_pre .
   }
   graph ?res_i {
@@ -41,6 +43,8 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_da
     graph ?rha {
       values ?resourcetype_new { fip:Available-FAIR-Enabling-Resource fip:FAIR-Enabling-Resource-to-be-Developed fip:FAIR-Enabling-Resource }
       ?resource_new a ?resourcetype_new .
+      bind( exists { ?resource_new a fip:Available-FAIR-Enabling-Resource } as ?available_resource_new )
+      bind( exists { ?resource_new a fip:FAIR-Enabling-Resource-to-be-Developed } as ?tobedeveloped_resource_new )
       ?resource_new rdfs:label ?resourcelabel_new .
     }
     graph ?rni {
@@ -54,6 +58,13 @@ select distinct ?resource_id ?resource_pref_id ?res ?reslabel ?res_np ?res_np_da
   bind(coalesce(?res_np_new, ?res_np_pre) as ?res_np)
   bind(coalesce(?res_np_new_date, ?res_np_pre_date) as ?res_np_date)
   bind(coalesce(?resourcelabel_new, ?resourcelabel_pre) as ?resourcelabel)
+  bind(coalesce(?available_resource_new, ?available_resource_pre) as ?available_resource)
+  bind(coalesce(?tobedeveloped_resource_new, ?tobedeveloped_resource_pre) as ?tobedeveloped_resource)
+  bind(if(?available_resource, fip:Available-FAIR-Enabling-Resource,
+    if(?tobedeveloped_resource, fip:FAIR-Enabling-Resource-to-be-Developed,
+      fip:FAIR-Enabling-Resource
+    )
+  ) as ?resourcetype )
   optional {
     graph npa:graph {
       ?res_np_r npa:hasHeadGraph ?rrh .
