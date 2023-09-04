@@ -1,6 +1,6 @@
 #+ summary: Show the no-choice entries of the matrix (this is deprecated; the new method is via the make_tables script)
 #+ method: GET
-#+ pagination: 1000
+#+ pagination: 10000
 
 prefix fip: <https://w3id.org/fair/fip/terms/>
 prefix dct: <http://purl.org/dc/terms/>
