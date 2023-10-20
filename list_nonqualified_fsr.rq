@@ -27,7 +27,7 @@ select distinct ?np ?label ?date where {
   graph ?i {
     ?np (npx:introduces|npx:describes) ?thing .
   }
-  filter not exists {
+ optional {
     graph npa:graph {
       ?newversion npa:hasHeadGraph ?nh .
       ?newversion npa:hasValidSignatureForPublicKey ?pubkey .
@@ -39,7 +39,8 @@ select distinct ?np ?label ?date where {
       ?newversion npx:supersedes ?np .
     }
   }
-  filter not exists {
+  filter (!bound(?newversion))
+  optional {
     graph npa:graph {
       ?retraction npa:hasHeadGraph ?rh .
       ?retraction npa:hasValidSignatureForPublicKey ?pubkey .
@@ -51,6 +52,7 @@ select distinct ?np ?label ?date where {
       ?somebody npx:retracts ?np .
     }
   }
+  filter (!bound(?retraction))
 
   optional {
     graph npa:graph {
