@@ -1,0 +1,115 @@
+#+ method: GET
+#+ pagination: 10000
+
+prefix np: <http://www.nanopub.org/nschema#>
+prefix npa: <http://purl.org/nanopub/admin/>
+prefix npx: <http://purl.org/nanopub/x/>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix dct: <http://purl.org/dc/terms/>
+
+select distinct ?thing ?label ?np ?date ?qualification_np where {
+  graph npa:graph {
+    ?np npa:hasHeadGraph ?h .
+    ?np dct:created ?date .
+    ?np npa:hasValidSignatureForPublicKey ?pubkey .
+  }
+  graph ?h {
+    ?np np:hasAssertion ?a .
+    ?np np:hasPublicationInfo ?i.
+  }
+  graph ?a {
+    ?thing a ?__type_iri .
+    ?thing rdfs:label ?label .
+  }
+  graph ?i {
+    ?np (npx:introduces|npx:describes) ?thing .
+  }
+  filter not exists {
+    graph npa:graph {
+      ?newversion npa:hasHeadGraph ?nh .
+      ?newversion npa:hasValidSignatureForPublicKey ?pubkey .
+    }
+    graph ?nh {
+      ?newversion np:hasPublicationInfo ?ni .
+    }
+    graph ?ni {
+      ?newversion npx:supersedes ?np .
+    }
+  }
+  filter not exists {
+    graph npa:graph {
+      ?retraction npa:hasHeadGraph ?rh .
+      ?retraction npa:hasValidSignatureForPublicKey ?pubkey .
+    }
+    graph ?rh {
+      ?retraction np:hasAssertion ?ra .
+    }
+    graph ?ra {
+      ?somebody npx:retracts ?np .
+    }
+  }
+  bind(concat(" ",lcase(str(?label))," ") as ?text)
+  filter( contains(?text, lcase(str(?_searchterm))) )
+
+  optional {
+    graph npa:graph {
+      ?disapproval npa:hasHeadGraph ?dh .
+      ?disapproval npa:hasValidSignatureForPublicKey ?dpubkey .
+      values ?dpubkey {
+        "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string
+        "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string
+        "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFntPrMZqvg2kVhCNArNnEn37ddXGwZ/0r4C8CS4lDry7C7YkYgng9yb0UMZQUHiTVkR/5A4m/xjE+Vy+AnwcWUeB75SfGZjE5ylI6VeHjTHi9+2hh2PHYIWnkhU4WHl3COEnxSSa/VouvPzZ2BIWLH6fTrq7NNL3RF5hGegGG0QIDAQAB"^^xsd:string
+      }
+    }
+    graph ?dh {
+      ?disapproval np:hasAssertion ?da .
+    }
+    graph ?da {
+      ?dsomebody ( npx:disapproves-of | npx:disapprovesOf ) ?np .
+    }
+  }
+  filter (!bound(?disapproval))  # No idea why "filter not exists" above doesn't work...
+
+  optional {
+    values ?qpubkey {
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string
+      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFntPrMZqvg2kVhCNArNnEn37ddXGwZ/0r4C8CS4lDry7C7YkYgng9yb0UMZQUHiTVkR/5A4m/xjE+Vy+AnwcWUeB75SfGZjE5ylI6VeHjTHi9+2hh2PHYIWnkhU4WHl3COEnxSSa/VouvPzZ2BIWLH6fTrq7NNL3RF5hGegGG0QIDAQAB"^^xsd:string
+    }
+    graph npa:graph {
+      ?qualification_np npa:hasHeadGraph ?qh .
+      ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
+    }
+    graph ?qh {
+      ?qualification_np np:hasAssertion ?qa .
+    }
+    graph ?qa {
+      ?qualifier npx:qualifies ?np .
+    }
+    filter not exists {
+      graph npa:graph {
+        ?qnewversion npa:hasHeadGraph ?qnh .
+        ?qnewversion npa:hasValidSignatureForPublicKey ?qpubkey .
+      }
+      graph ?qnh {
+        ?qnewversion np:hasPublicationInfo ?qni .
+      }
+      graph ?qni {
+        ?qnewversion npx:supersedes ?qualification_np .
+      }
+    }
+    filter not exists {
+      graph npa:graph {
+        ?qretraction npa:hasHeadGraph ?qrh .
+        ?qretraction npa:hasValidSignatureForPublicKey ?qpubkey .
+      }
+      graph ?qrh {
+        ?qretraction np:hasAssertion ?ra .
+      }
+      graph ?qra {
+        ?qsomebody npx:retracts ?qualification_np .
+      }
+    }
+  }
+}
+order by asc(?label)
