@@ -1,3 +1,4 @@
+#+ summary: Find things (optionally of the given type) introduced in nanopubs with info about qualifications by GO FAIR, excluding nanopubs that have been retracted, superseded, or disapproved (the latter only by GO FAIR members)
 #+ method: GET
 #+ pagination: 10000
 
