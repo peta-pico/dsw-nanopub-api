@@ -22,6 +22,12 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
     ?thing a ?maintype .
     values ?maintype { <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> } .
     ?thing a ?type .
+    filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> )
+    filter( ?type != <https://w3id.org/fair/fip/terms/Available-FAIR-Supporting-Resource> )
+    filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource-to-be-Developed> )
+    filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> )
+    filter( ?type != <https://w3id.org/fair/fip/terms/Available-FAIR-Enabling-Resource> )
+    filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource-to-be-Developed> )
     bind(replace(str(?type), '^.*/([^/]+)$', '$1') as ?typelabel)
     ?thing rdfs:label ?labelx .
     bind(str(?labelx) as ?label)
