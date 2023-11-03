@@ -1,4 +1,4 @@
-#+ summary: Find things introduced in signed nanopublications that are not retracted or superseded
+#+ summary: Find things (optionally of the given type) introduced in nanopubs with info about any retractions, new versions, and qualifications by GO FAIR; nanopubs that were disapproved by a GO FAIR member are not shown
 #+ method: GET
 #+ pagination: 10000
 
