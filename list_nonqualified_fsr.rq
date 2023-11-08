@@ -82,7 +82,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
   }
   filter (!bound(?disapproval))  # No idea why "filter not exists" above doesn't work...
 
-  filter not exists {
+  optional {
     values ?qpubkey {
       "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string
       "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string
@@ -110,7 +110,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
         ?qnewversion npx:supersedes ?qualification_np .
       }
     }
-    filter not exists {
+    optional {
       graph npa:graph {
         ?qretraction npa:hasHeadGraph ?qrh .
         ?qretraction npa:hasValidSignatureForPublicKey ?qpubkey .
@@ -122,7 +122,9 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
         ?qsomebody npx:retracts ?qualification_np .
       }
     }
+    filter (!bound(?qretraction))
   }
+  filter (!bound(?qualification_np))
 }
 group by ?np ?label ?date
 order by desc(?date)
