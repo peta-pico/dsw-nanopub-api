@@ -151,6 +151,7 @@ LifeWatch_Marine_FIP_2020,URI | Uniform Resource Identifier,http://purl.org/np/R
 LifeWatch_Marine_FIP_2020,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch_Marine_FIP_2022,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch_Marine_FIP_2022,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
+COS FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SIOS_FIP_2021,UUID | Universally Unique Identifier,http://purl.org/np/RAhtqDSSb5hNqBrpSGl25xayPVhQJ1s6IXImbcoUTfQYI
 SIOS_FIP_2019,UUID | Universally Unique Identifier,http://purl.org/np/RAhtqDSSb5hNqBrpSGl25xayPVhQJ1s6IXImbcoUTfQYI
 SIOS_FIP_2020,UUID | Universally Unique Identifier,http://purl.org/np/RAhtqDSSb5hNqBrpSGl25xayPVhQJ1s6IXImbcoUTfQYI
@@ -280,6 +281,9 @@ LifeWatch_Marine_FIP_2019,URI | Uniform Resource Identifier,http://purl.org/np/R
 LifeWatch_Marine_FIP_2021,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 LifeWatch_Marine_FIP_2020,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 LifeWatch_Marine_FIP_2022,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
+COS FIP,OSF Identifier Service,https://w3id.org/np/RAbpZtBQFWSh6Yz8EI5F80Wkyo0aoN_6vrFipHLHZlfv0
+COS FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+COS FIP,Crossref (DOI),http://purl.org/np/RAjVxRNP49c46sqVOKYpn_xJAo1GvBOUfTPiSO0uIbmfk
 SIOS_FIP_2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SIOS_FIP_2021,UUID | Universally Unique Identifier,http://purl.org/np/RAhtqDSSb5hNqBrpSGl25xayPVhQJ1s6IXImbcoUTfQYI
 SIOS_FIP_2019,UUID | Universally Unique Identifier,http://purl.org/np/RAhtqDSSb5hNqBrpSGl25xayPVhQJ1s6IXImbcoUTfQYI
@@ -475,6 +479,7 @@ LifeWatch_Marine_FIP_2022,DCAT-AP | Data Catalog Vocabulary Application Profile 
 LifeWatch_Marine_FIP_2022,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k
 LifeWatch_Marine_FIP_2022,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
 LifeWatch_Marine_FIP_2022,ISO 19115 | Geographic information - Metadata,http://purl.org/np/RAkM3iUGc1BSy3Y8_wFSY-TunpVMnvhJoihWC4vv33cUM
+COS FIP,OSF MAP | OSF Metadata Application Profile,https://w3id.org/np/RAGgXLTKR8XpS68rc8PSRcxQ1JVIrZ4FDkBNPkoATFi_4
 SIOS_FIP_2021,DIF | Directory Interchange Format,http://purl.org/np/RAeeFMmLcma13RwEki4XZQnBaFN5Ol1JT2uluIGUJVu-Q
 SIOS_FIP_2021,ISO 19115 | Geographic information - Metadata,http://purl.org/np/RAkM3iUGc1BSy3Y8_wFSY-TunpVMnvhJoihWC4vv33cUM
 SIOS_FIP_2021,MET Norway Metadata Format Specification,http://purl.org/np/RAZ5BW4-BYc98FsWczV_OtojJdGN4jN4MSd_okrzx4qCA
@@ -765,6 +770,8 @@ LifeWatch_Marine_FIP_2019,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3
 LifeWatch_Marine_FIP_2021,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
 LifeWatch_Marine_FIP_2020,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
 LifeWatch_Marine_FIP_2022,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
+COS FIP,Open Science Framework,http://purl.org/np/RAqp3yZPVRAQvtIjAg9p6DGZI9af3VPb3rNi9AlpVvGd8
+COS FIP,Open Science Framework,https://w3id.org/np/RAdWQhGcQSbhheAW52IxM9D-r1c4NSdOm2A9sFpreNXns
 SIOS_FIP_2021,Sios Metadata Search,http://purl.org/np/RAO8TlH58tRE71NdIx1o8OdmIbIwZW8zNFHPKx_9W3p7s
 SIOS_FIP_2021,WMO Search | World Meteorological Organization Search,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ
 SIOS_FIP_2021,GEOSS Portal | Global Earth Observation System of Systems Portal,http://purl.org/np/RAa9uACB-2-fE0qcFXKMlV2VPV3-0W_l4NKl7c-YnOrgc
@@ -946,6 +953,8 @@ LifeWatch_Marine_FIP_2019,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3
 LifeWatch_Marine_FIP_2021,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
 LifeWatch_Marine_FIP_2020,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
 LifeWatch_Marine_FIP_2022,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
+COS FIP,Open Science Framework,http://purl.org/np/RAqp3yZPVRAQvtIjAg9p6DGZI9af3VPb3rNi9AlpVvGd8
+COS FIP,Open Science Framework,https://w3id.org/np/RAdWQhGcQSbhheAW52IxM9D-r1c4NSdOm2A9sFpreNXns
 SIOS_FIP_2021,WMO Search | World Meteorological Organization Search,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ
 SIOS_FIP_2021,GEOSS Portal | Global Earth Observation System of Systems Portal,http://purl.org/np/RAa9uACB-2-fE0qcFXKMlV2VPV3-0W_l4NKl7c-YnOrgc
 SIOS_FIP_2021,Sios Metadata Search,http://purl.org/np/RAO8TlH58tRE71NdIx1o8OdmIbIwZW8zNFHPKx_9W3p7s
@@ -1194,6 +1203,7 @@ LifeWatch_Marine_FIP_2020,OAI-PMH Schema | Open Archives Initiative Protocol for
 LifeWatch_Marine_FIP_2022,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 LifeWatch_Marine_FIP_2022,Linked Data Event Streams,http://purl.org/np/RAKPribOWmt9CwaHcKMPUUGWgCqUc-11S6Fpjz-c66vn4
 LifeWatch_Marine_FIP_2022,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
+COS FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SIOS_FIP_2021,OpenSearch,http://purl.org/np/RAxAX53LRbZ2P2ZXr5TlhjFZgUuksqtvvHhOSoqIfBx8g
 SIOS_FIP_2021,CSW | Catalog Service for the Web,http://purl.org/np/RAqJyIk27OEWW4hIMR5Q88KQdQOj4BY7sPx4277MjZWOQ
 SIOS_FIP_2021,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
@@ -1400,6 +1410,7 @@ IUPAC Gold Book ,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/R
 LifeWatch_Marine_FIP_2021,ERDDAP,http://purl.org/np/RAY8SO24mTJ0p5TH25anDLYYWP22QsbLPGQJ_wrazkNjU
 LifeWatch_Marine_FIP_2020,ERDDAP,http://purl.org/np/RAY8SO24mTJ0p5TH25anDLYYWP22QsbLPGQJ_wrazkNjU
 LifeWatch_Marine_FIP_2022,ERDDAP,http://purl.org/np/RAY8SO24mTJ0p5TH25anDLYYWP22QsbLPGQJ_wrazkNjU
+COS FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SIOS_FIP_2021,OPeNDAP | Open-source Project for a Network Data Access Protocol,http://purl.org/np/RAS4Mk7jb2yf_da30Nm6vFP1jIfEDcoy6Hz3wZpbnRulU
 SIOS_FIP_2021,WMS | Web Map Service,http://purl.org/np/RA_uSEOb2WwKhrxAhWKFO4qKolm6mcLcBKPlkD-1x4I7I
 SIOS_FIP_2021,FTP | File Transfer Protocol,http://purl.org/np/RAESPjGTx-3Ih4rkLnS8lkYFJ2J0LZm94h62UbQB5MYl8
@@ -1527,6 +1538,7 @@ LifeWatch_Marine_FIP_2019,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3r
 LifeWatch_Marine_FIP_2021,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 LifeWatch_Marine_FIP_2020,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 LifeWatch_Marine_FIP_2022,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
+COS FIP,ORCID-AAI | Open Researcher and Contributor ID AAI service,https://w3id.org/np/RAncf2hj1w4rywAclhA_R0vx54K-OJNGdUjyeycfWF6i0
 SIOS_FIP_2021,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 SIOS_FIP_2019,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 SIOS_FIP_2020,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
@@ -1677,6 +1689,8 @@ LifeWatch_Marine_FIP_2020,InnovAuth,http://purl.org/np/RA5qwEwlGjf2zo-bIiNcZC9IN
 LifeWatch_Marine_FIP_2020,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 LifeWatch_Marine_FIP_2022,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 LifeWatch_Marine_FIP_2022,InnovAuth,http://purl.org/np/RA5qwEwlGjf2zo-bIiNcZC9IN4kRtYjbfsnqN1ybwSKhY
+COS FIP,Open Science Framework,http://purl.org/np/RAqp3yZPVRAQvtIjAg9p6DGZI9af3VPb3rNi9AlpVvGd8
+COS FIP,Open Science Framework,https://w3id.org/np/RAdWQhGcQSbhheAW52IxM9D-r1c4NSdOm2A9sFpreNXns
 SIOS_FIP_2021,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 SIOS_FIP_2019,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 SIOS_FIP_2020,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
@@ -1738,6 +1752,7 @@ IAGOS_FIP_2022,IAGOS Data Preservation Policy,http://purl.org/np/RA58nom0Qc05IAX
 IAGOS_FIP_2021,IAGOS Data Preservation Policy,http://purl.org/np/RA58nom0Qc05IAXovmdC68SnadhFc_1zL7iQGQgBWuRT0
 IUPAC Gold Book ,Crossref (DOI),http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY
 LifeWatch_Marine_FIP_2022,IMIS MetaData Preservation Policy,http://purl.org/np/RADwSbATga4a-BTvN1QomQK05PDyqz0Oxa3f5YaXtTN30
+COS FIP,OSF MPP | OSF Metadata Preservation Policy,https://w3id.org/np/RAf-VpzK4W37ydpBg7jCs-hWv0W3ssX5J_kjzfRemTMN0
 SIOS_FIP_2022,SIOS Data Management Plan,http://purl.org/np/RAv_oQd52vsiPsImB0d_RjjvzUVpkD0gKvki79PHdkFlk
 WorldFAIR WP09 Biodiversity FIP01,RDA CTS | RDA Core Trust Seal Certification,http://purl.org/np/RAOaajEdLrXlAiADDOPTbp5kwltGjsjS3nmWGnjEVSLTk
 ACTRIS_ARES_FIP_2022,SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
@@ -1891,6 +1906,8 @@ LifeWatch_Marine_FIP_2020,JSON Schema | JavaScript Object Notation Schema,http:/
 LifeWatch_Marine_FIP_2020,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
 LifeWatch_Marine_FIP_2022,JSON Schema | JavaScript Object Notation Schema,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI
 LifeWatch_Marine_FIP_2022,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
+COS FIP,RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
+COS FIP,JSON | JavaScript Object Notation,http://purl.org/np/RAbV2g2AjtbD_n53nwC5B0eERessUJbrZO5PVRzM6ioC8
 SIOS_FIP_2021,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 SIOS_FIP_2019,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 SIOS_FIP_2020,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
@@ -2220,6 +2237,7 @@ LifeWatch_Marine_FIP_2022,Aquatic Sciences and Fisheries Thesaurus,http://purl.o
 LifeWatch_Marine_FIP_2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch_Marine_FIP_2022,Marine Regions georeferences,http://purl.org/np/RAwVXeIR1JNH7P7bNB57JF2rAYE5L7LIpDYtt80mV9RcA
 LifeWatch_Marine_FIP_2022,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
+COS FIP,DCMI Metadata Terms|Dublin Core Metadata Terms,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E
 SIOS_FIP_2021,GCMD Keywords | Global Change Master Directory Keywords,http://purl.org/np/RAiWMAG7wuxDxMVfjWY9xyxdzq0drSTGN72wQNsX5wx2I
 SIOS_FIP_2021,MMD Vocabulary,http://purl.org/np/RAC8NZgMMAzyKidXDSt2hVtTmf4yyss8g4k2coudM_O80
 SIOS_FIP_2021,MMD Vocabulary,http://purl.org/np/RAW164p4IuKApxRe8Lf9DR-XqvBQdT-DbsVUfa2bj7vMA
@@ -2760,6 +2778,7 @@ IAGOS_FIP_2020,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.
 IAGOS_FIP_2021,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 IUPAC Gold Book ,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 LifeWatch_Marine_FIP_2022,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
+COS FIP,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 ACTRIS_ARES_FIP_2022,CC BY-ND 4.0 | Attribution-NoDerivatives 4.0 International,http://purl.org/np/RAkzcuIZ7WKVhEE2eFs-__b2JF8dWu9NHrnp4TRJLsRNM
 ACTRIS_ARES_FIP_2021,CC BY-ND 4.0 | Attribution-NoDerivatives 4.0 International,http://purl.org/np/RAkzcuIZ7WKVhEE2eFs-__b2JF8dWu9NHrnp4TRJLsRNM
 ACTRIS-ASC_FIP_2021,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
@@ -2984,6 +3003,7 @@ LifeWatch_Marine_FIP_2020,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOm
 LifeWatch_Marine_FIP_2020,EML GBIF Profile Metadata | Ecological Metadata Language Global Biodiversity Information Facility Profile Metadata,http://purl.org/np/RAqyqN5z8kbVwUdbRbBbhlci5sn6CHSwx4EF0axJB4zUU
 LifeWatch_Marine_FIP_2022,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 LifeWatch_Marine_FIP_2022,EML GBIF Profile Metadata | Ecological Metadata Language Global Biodiversity Information Facility Profile Metadata,http://purl.org/np/RAqyqN5z8kbVwUdbRbBbhlci5sn6CHSwx4EF0axJB4zUU
+COS FIP,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
 WorldFAIR WP09 Biodiversity FIP01,EML GBIF Profile Metadata | Ecological Metadata Language Global Biodiversity Information Facility Profile Metadata,http://purl.org/np/RAqyqN5z8kbVwUdbRbBbhlci5sn6CHSwx4EF0axJB4zUU
 ACTRIS_ARES_FIP_2022,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
 ACTRIS_ARES_FIP_2022,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
