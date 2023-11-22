@@ -96,7 +96,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
       ?qualification_np np:hasAssertion ?qa .
     }
     graph ?qa {
-      ?qualifier npx:qualifies ?np .
+      ?qualifier npx:qualifies ?np_q .
     }
     filter not exists {
       graph npa:graph {
@@ -123,6 +123,17 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
       }
     }
     filter (!bound(?qretraction))
+
+    graph npa:graph {
+      ?np_q npa:hasHeadGraph ?h_q .
+    }
+    graph ?h_q {
+      ?np_q np:hasPublicationInfo ?i_q.
+    }
+    graph ?i_q {
+      ?np_q (npx:introduces|npx:describes) ?thing .
+    }
+
   }
   filter (!bound(?qualification_np))
 }
