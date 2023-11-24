@@ -112,8 +112,8 @@ PARC HBM | PARC Human Biomonitoring Data,DARA | DOI registration agency for soci
 PARC TOXRIC FIP,PURL | Persistent Uniform Resource Locator,http://purl.org/np/RAP2JVnzTTJImG7qQQd7v9u0vu6kDlcGc0006R2S86L6A
 PARC TOXRIC FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OpenSearch,http://purl.org/np/RAxAX53LRbZ2P2ZXr5TlhjFZgUuksqtvvHhOSoqIfBx8g
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OpenSearch,http://purl.org/np/RAxAX53LRbZ2P2ZXr5TlhjFZgUuksqtvvHhOSoqIfBx8g
 Social Science Survey Research_V2,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SeaDataNET_CDI_FIP_2019,SDN CDI PID | SeaDataNet CDI PID,http://purl.org/np/RAk5umcWPZegtZTBJACkE9CDap7KNwSgR8umS3SnuvW2A
 SeaDatNET_CDI_FIP_2020,SDN CDI PID | SeaDataNet CDI PID,http://purl.org/np/RAk5umcWPZegtZTBJACkE9CDap7KNwSgR8umS3SnuvW2A
@@ -246,8 +246,8 @@ WorldFAIR WP04 NANOMATERIALS FIP01,DOI | Digital Object Identifier,http://purl.o
 PARC TOXRIC FIP,TOXRIC_TAID | TOXRIC Unique ID for chemicals,http://purl.org/np/RAWA6rUMh-0JIc4Vv8WxUazNBeWty4sg88CC8rRr-cqSE
 PARC TOXRIC FIP,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
 PARC TOXRIC FIP,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SeaDataNET_CDI_FIP_2019,B2HANDLE,http://purl.org/np/RAJZDDm6ganlkehRZa2NxGoDmT0fOHIyIoSdhj9ifKzeU
 SeaDatNET_CDI_FIP_2020,B2HANDLE,http://purl.org/np/RAJZDDm6ganlkehRZa2NxGoDmT0fOHIyIoSdhj9ifKzeU
 SeaDataNET_CDI_FIP_2021,B2HANDLE,http://purl.org/np/RAJZDDm6ganlkehRZa2NxGoDmT0fOHIyIoSdhj9ifKzeU
@@ -414,10 +414,10 @@ WorldFAIR WP04 NANOMATERIALS FIP01,Frictionless datapackage metadata standard,ht
 WorldFAIR WP04 NANOMATERIALS FIP01,DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
 WorldFAIR WP04 NANOMATERIALS FIP01,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
 PARC TOXRIC FIP,DDI Lifecycle 3.2 Metadata Schema,http://purl.org/np/RAKk2DMKAucMpTnicHQthFjTU4W86F482XieWKO9VXFO8
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Encoded Archival Description,http://purl.org/np/RAZ3fpdCrJvdoWjgK1BW02Anv4AocL6FnJkgtjGYD7hHg
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),MARC21 Format for Bibliographic Data,http://purl.org/np/RAnzko_TgZ7aI884gMfVpfPQEKoR34jIVV-_khLUA9jjU
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DDI-Codebook|Data Documentation Initiative - Codebook,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Encoded Archival Description,http://purl.org/np/RAZ3fpdCrJvdoWjgK1BW02Anv4AocL6FnJkgtjGYD7hHg
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DDI-Codebook|Data Documentation Initiative - Codebook,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),MARC21 Format for Bibliographic Data,http://purl.org/np/RAnzko_TgZ7aI884gMfVpfPQEKoR34jIVV-_khLUA9jjU
 Social Science Survey Research_V2,DDI-Codebook|Data Documentation Initiative - Codebook,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA
 SeaDataNET_CDI_FIP_2019,SDN2_CDI_ISO19139 | SeaDataNet CDI metadata XML schema,http://purl.org/np/RAQeQU9518N3e4CKn3TMoSZ2erurE7ef67UdlNqmhJ2Ec
 SeaDatNET_CDI_FIP_2020,SDN2_CDI_ISO19139 | SeaDataNet CDI metadata XML schema,http://purl.org/np/RAQeQU9518N3e4CKn3TMoSZ2erurE7ef67UdlNqmhJ2Ec
@@ -568,8 +568,8 @@ LifeWatch_Ecosystems_FIP_2021,DataCite | DataCite Ontology,http://purl.org/np/RA
 Materials Project,,
 Nanopublication FIP,NP_onto | Nanopublication Ontology,http://purl.org/np/RApuC_EaTSyzyYUWO3FP961yP_KnVvjXMzKfaCabJtiAo
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 Social Science Survey Research_V2,DA|RA DOI registration agency for social and economic data.,http://purl.org/np/RAbX1P-3IYukp9P1L1mqspwiZjN-mM0_IAiP662KJFhjo
 SeaDataNET_CDI_FIP_2019,SDN CDI PID LUI | SeaDataNet CDI to PID lookup index,http://purl.org/np/RAJrSisR53tYBLezNGItpLlFRr2yPvt3k4FVbxLfRLr_s
 SeaDatNET_CDI_FIP_2020,SDN CDI PID LUI | SeaDataNet CDI to PID lookup index,http://purl.org/np/RAJrSisR53tYBLezNGItpLlFRr2yPvt3k4FVbxLfRLr_s
@@ -712,8 +712,8 @@ WorldFAIR WP04 NANOMATERIALS FIP01,Google Dataset Search,http://purl.org/np/RABQ
 WorldFAIR WP04 NANOMATERIALS FIP01,NSC open dataset inventory,http://purl.org/np/RAjovVPhMA4bCa0SVhPre5x17hn1mPqc5rjtPpRoSh-uM
 WorldFAIR WP04 NANOMATERIALS FIP01,NanoCommons Knowledge Base,http://purl.org/np/RA1kA_6seb_Ea7QzQjZjSvZjfoEJf8r-78Zpz4_PE7Nng
 WorldFAIR WP04 NANOMATERIALS FIP01,Zenodo,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH), Netwerk Digitaal Erfgoed (the Dutch Digital Heritage Network) Dataset Register,http://purl.org/np/RAlzPQ0qu74AzU_-U8QXlNB1Clr3Lrfk6WGjy4DP7L5VA
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),The Dataverse Project,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH), Netwerk Digitaal Erfgoed (the Dutch Digital Heritage Network) Dataset Register,http://purl.org/np/RAlzPQ0qu74AzU_-U8QXlNB1Clr3Lrfk6WGjy4DP7L5VA
 Social Science Survey Research_V2,GESIS Search,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc
 SeaDataNET_CDI_FIP_2019,SDN-CDI-Search | SeaDataNet CDI search user interface,http://purl.org/np/RA-IuziXmMgdacX_lvjt-VSdlm2KAdgYd5kfIRGaekX_g
 SeaDataNET_CDI_FIP_2019,GEOSS Portal | Global Earth Observation System of Systems Portal,http://purl.org/np/RAa9uACB-2-fE0qcFXKMlV2VPV3-0W_l4NKl7c-YnOrgc
@@ -909,8 +909,8 @@ WorldFAIR WP04 NANOMATERIALS FIP01,NanoCommons Knowledge Base,http://purl.org/np
 WorldFAIR WP04 NANOMATERIALS FIP01,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 WorldFAIR WP04 NANOMATERIALS FIP01,nanoPharos database,http://purl.org/np/RAV8n1_dl6yXvoryYdX9nUwk_Ym0jiVWgFhikw3STq3b4
 WorldFAIR WP04 NANOMATERIALS FIP01,NanoCommons Knowledge Base,http://purl.org/np/RA1kA_6seb_Ea7QzQjZjSvZjfoEJf8r-78Zpz4_PE7Nng
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DANS Data Station-Social Science and Humanities(SSH),http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),The Dataverse Project,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DANS Data Station-Social Science and Humanities(SSH),http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc
 Social Science Survey Research_V2,GESIS Search,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc
 SeaDataNET_CDI_FIP_2021,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 SeaDataNET_CDI_FIP_2021,GEOSS Portal | Global Earth Observation System of Systems Portal,http://purl.org/np/RAa9uACB-2-fE0qcFXKMlV2VPV3-0W_l4NKl7c-YnOrgc
@@ -1117,8 +1117,8 @@ NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformati
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 Social Science Survey Research_V2,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 SeaDataNET_CDI_FIP_2019,OGC CS | Open Geospatial Consortium Catalogue Services 3.0,http://purl.org/np/RAn1TN2i1jHWp7DPgabNcSGfKLabO447D_wbuwrfAjvUk
@@ -1360,8 +1360,8 @@ WorldFAIR WP04 NANOMATERIALS FIP01,REST | Representational state transfer,http:/
 WorldFAIR WP04 NANOMATERIALS FIP01,FTP | File Transfer Protocol,http://purl.org/np/RAESPjGTx-3Ih4rkLnS8lkYFJ2J0LZm94h62UbQB5MYl8
 PARC HBM | PARC Human Biomonitoring Data,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SeaDatNET_CDI_FIP_2020,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SeaDataNET_CDI_FIP_2021,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
@@ -1650,8 +1650,8 @@ NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformati
 WorldFAIR WP04 NANOMATERIALS FIP01,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 WorldFAIR WP04 NANOMATERIALS FIP01,Keycloak Single-Sign On,http://purl.org/np/RAOhpi4pd0_dAOReqbH_p9URwV30ErkyGK775n4lb9VJg
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),CLARIN AAI,http://purl.org/np/RAgG5ARw_ZRoK9FE3WxILU3ZtjP3Hf2uWh1krOcm5R9Ho
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Simple Web-service Offering Repository Deposit (SWORD) API (v2.0),http://purl.org/np/RArO-JI6-z6G-wVk636iGn-Zz8_amE8-7RnqaSrBwM5mg
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),CLARIN AAI,http://purl.org/np/RAgG5ARw_ZRoK9FE3WxILU3ZtjP3Hf2uWh1krOcm5R9Ho
 SeaDataNET_CDI_FIP_2019,SDN-MID-Service | SeaDataNet Marine ID AAA service,http://purl.org/np/RAQTqFG5XHX_rWrNujYGkKwWA8vgOpZar2uGTuG0IY0Jw
 SeaDatNET_CDI_FIP_2020,SDN-MID-Service | SeaDataNet Marine ID AAA service,http://purl.org/np/RAQTqFG5XHX_rWrNujYGkKwWA8vgOpZar2uGTuG0IY0Jw
 SeaDataNET_CDI_FIP_2021,SAML1.1 | Security Assertion Markup Language 1.1,http://purl.org/np/RASAG6pRYabZPbePLSsK4YAk30D-Ebu78B0shMiQjyn0g
@@ -1852,9 +1852,9 @@ PARC TOXRIC FIP,International Chemical Identifier ,http://purl.org/np/RAARoMhW12
 PARC TOXRIC FIP,IUPAC SMILES+ Specification ,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc
 PARC TOXRIC FIP,JSON | JavaScript Object Notation,http://purl.org/np/RAbV2g2AjtbD_n53nwC5B0eERessUJbrZO5PVRzM6ioC8
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
 SeaDataNET_CDI_FIP_2019,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 SeaDataNET_CDI_FIP_2019,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 SeaDataNET_CDI_FIP_2019,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
@@ -2011,11 +2011,11 @@ WorldFAIR WP04 NANOMATERIALS FIP01,RDF | Resource Description Framework,http://p
 WorldFAIR WP04 NANOMATERIALS FIP01,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
 PARC TOXRIC FIP,International Chemical Identifier ,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw
 PARC TOXRIC FIP,IUPAC SMILES+ Specification ,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),HTML: The HyperText Markup Language,http://purl.org/np/RAVoIiicDuWm0TCWvcpXIo5PoA7RdCv8WVDwdtYUuAEVc
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 SeaDataNET_CDI_FIP_2019,ODV_ASCII | Ocean Data View ASCII format for marine datasets,http://purl.org/np/RAG1glqCTkU7YCmvIiqWWm3T54H_QEkQ1iMuCGRyeYqBQ
 SeaDataNET_CDI_FIP_2019,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
 SeaDatNET_CDI_FIP_2020,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
@@ -2184,7 +2184,6 @@ PARC TOXRIC FIP,DCMI Metadata Terms|Dublin Core Metadata Terms,http://purl.org/n
 PARC TOXRIC FIP,ChEMBL | Chemical database of the European Molecular Biology Laboratory,https://w3id.org/np/RAqMLXyLi3tvYwbnplInCasVa8IaFtuMFKqq9D9_PFEFE
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),EAD Encoded Archival Description,http://purl.org/np/RACPHNcUYMNkpubD7DgRabLc_-kctT92o7QehQSMk7xgY
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),The PROV Ontology,http://purl.org/np/RAXRcvurliS0y_bl2biZj564u8DXtHgqUhJohyvLgxvBk
 Social Science Survey Research_V2,Thesaurus Sozialwissenschaften (THESOZ),http://purl.org/np/RA1Ra0mFnCIMEAfwTbfg0dBO6LEu45UOycBDp0f7Z4ZH4
 Social Science Survey Research_V2,ELSST|European Language Social Science Thesaurus,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws
 SeaDataNET_CDI_FIP_2019,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
@@ -2356,11 +2355,11 @@ WorldFAIR WP04 NANOMATERIALS FIP01,eNanoMapper ontology,http://purl.org/np/RAGVk
 WorldFAIR WP04 NANOMATERIALS FIP01,Elementary Multiperspective Material Ontology,http://purl.org/np/RAG_WQ6LruDpmtuhfQpS2IsIcf2gtSBTKJM9FbdCeg3z0
 PARC TOXRIC FIP,IUPAC Gold Book ,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ
 PARC TOXRIC FIP,TOXRIC_Vocabulary | TOXRIC Toxicity Categories and Feature Space Vocabulary,http://purl.org/np/RAs41FHxGOt4qdgCZjHpjrHvJTSgHuhAAArWA8Ievp7sM
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),AMCO Repertorium van Nederlandse gemeenten vanaf 1812 waaraan toegevoegd de Amsterdamse code,http://purl.org/np/RASXWcOQiK-njawxZ7HC0knGy0sDGGGxr9pgptexTgXOk
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),IDS The Intermediate Data Structure for Longitudinal Historical Microdata,http://purl.org/np/RAZHhesTi4w3mxTTTLVte6hEuK-RVASTIoPtBb4r0bmE4
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Historical ICD,http://purl.org/np/RAfUEUCJ_nRVSOlukuyfuUWOblEMqqRgrG9yk47y2izdI
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),AMCO Repertorium van Nederlandse gemeenten vanaf 1812 waaraan toegevoegd de Amsterdamse code,http://purl.org/np/RASXWcOQiK-njawxZ7HC0knGy0sDGGGxr9pgptexTgXOk
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),History Of Work Information System (HISCO),http://purl.org/np/RA71mYU3ODmId2dxjc-WND2MGFAmWP2lAltImL8hshWp8
-SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Historical ICD,http://purl.org/np/RAfUEUCJ_nRVSOlukuyfuUWOblEMqqRgrG9yk47y2izdI
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),AMCO Repertorium van Nederlandse gemeenten vanaf 1812 waaraan toegevoegd de Amsterdamse code,http://purl.org/np/RASXWcOQiK-njawxZ7HC0knGy0sDGGGxr9pgptexTgXOk
 SeaDataNET_CDI_FIP_2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET_CDI_FIP_2019,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
 SeaDatNET_CDI_FIP_2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
@@ -2474,6 +2473,7 @@ LifeWatch_Ecosystems_FIP_2021,ISO 19139 | Geographic information - Metadata - XM
 Nanopublication FIP,NP_onto | Nanopublication Ontology,http://purl.org/np/RApuC_EaTSyzyYUWO3FP961yP_KnVvjXMzKfaCabJtiAo
 PARC TOXRIC FIP,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
 PARC TOXRIC FIP,DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
+SSHOC-NL Socio Economic History (SSHOC-NL-SEH),PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),IDS The Intermediate Data Structure for Longitudinal Historical Microdata,http://purl.org/np/RAZHhesTi4w3mxTTTLVte6hEuK-RVASTIoPtBb4r0bmE4
 Social Science Survey Research_V2,DDI-Codebook|Data Documentation Initiative - Codebook,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA
 SeaDataNET_CDI_FIP_2019,SDN2_CDI_ISO19139 | SeaDataNet CDI metadata XML schema,http://purl.org/np/RAQeQU9518N3e4CKn3TMoSZ2erurE7ef67UdlNqmhJ2Ec
