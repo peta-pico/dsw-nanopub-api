@@ -566,7 +566,7 @@ LifeWatch_Ecosystems_FIP_2022,DataCite | DataCite Ontology,http://purl.org/np/RA
 LifeWatch_Ecosystems_FIP_2019,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
 LifeWatch_Ecosystems_FIP_2021,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
 Materials Project,,
-Nanopublication FIP,NP_onto | Nanopublication Ontology,http://purl.org/np/RApuC_EaTSyzyYUWO3FP961yP_KnVvjXMzKfaCabJtiAo
+Nanopublication FIP,NP_onto | Nanopublication Ontology,https://w3id.org/np/RAM5zmbkctjoWZRFD2EKlKjfcrN5AnJtAN7XjUrIPUcBA
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
@@ -2470,7 +2470,7 @@ LifeWatch_Ecosystems_FIP_2021,LifeWatch ERIC Metadata Catalogue,http://purl.org/
 LifeWatch_Ecosystems_FIP_2021,LUPO | LifeWatch ERIC Upper Ontology,http://purl.org/np/RAC-W3xuD9L89BLk2RUBYgbcUU40zCfVNwAQ8kyhEqang
 LifeWatch_Ecosystems_FIP_2021,Parthenos Entities,http://purl.org/np/RAQWPnVTkiVRY9SjkTL0E7pA7ZmgSRLkuLYePDZo9gJtA
 LifeWatch_Ecosystems_FIP_2021,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
-Nanopublication FIP,NP_onto | Nanopublication Ontology,http://purl.org/np/RApuC_EaTSyzyYUWO3FP961yP_KnVvjXMzKfaCabJtiAo
+Nanopublication FIP,NP_onto | Nanopublication Ontology,https://w3id.org/np/RAM5zmbkctjoWZRFD2EKlKjfcrN5AnJtAN7XjUrIPUcBA
 PARC TOXRIC FIP,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
 PARC TOXRIC FIP,DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
@@ -2641,7 +2641,7 @@ LifeWatch_Ecosystems_FIP_2019,EML | Ecological Metadata Language,http://purl.org
 LifeWatch_Ecosystems_FIP_2019,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
 LifeWatch_Ecosystems_FIP_2021,NetCDF_CF_SDN | NETCDF CF format SeaDataNet Profile,http://purl.org/np/RApG3XPVbzIYjZn_j2ihhIXr13Rx4S1NzxVTpCWgbrmfA
 LifeWatch_Ecosystems_FIP_2021,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
-Nanopublication FIP,NP_onto | Nanopublication Ontology,http://purl.org/np/RApuC_EaTSyzyYUWO3FP961yP_KnVvjXMzKfaCabJtiAo
+Nanopublication FIP,NP_onto | Nanopublication Ontology,https://w3id.org/np/RAM5zmbkctjoWZRFD2EKlKjfcrN5AnJtAN7XjUrIPUcBA
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),SHACL Shapes Constraint Language,http://purl.org/np/RA0De1rNQiAQHHYHetHI4xMn1eA9XCU-FbIQQ2aR_ybKo
 SeaDataNET_CDI_FIP_2019,NetCDF_CF_SDN | NETCDF CF format SeaDataNet Profile,http://purl.org/np/RApG3XPVbzIYjZn_j2ihhIXr13Rx4S1NzxVTpCWgbrmfA
 SeaDataNET_CDI_FIP_2019,ODV_ASCII | Ocean Data View ASCII format for marine datasets,http://purl.org/np/RAG1glqCTkU7YCmvIiqWWm3T54H_QEkQ1iMuCGRyeYqBQ
