@@ -103,7 +103,6 @@ select distinct ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newver
 "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqNJqco6p34yYffNEccGcSUIN3ESiJGYYuHg98JIJCTxXswjw4nSJd1FFVekQiu0Oa/LDsSG/fowGEkNieborps9A1u264As1A8zRZH+4hW6ZrUQ/LuaBr2p0puKZWfoimgzgaYonDt31unWfknJHm5hbNrNJxj87Xx+kKClnyBwIDAQAB"^^xsd:string  # Pance Panov 0000-0002-7685-9140
 "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiYoqFFCPz9pL/XeZfAKlb8GkJEPK5BxVBs0869TOaE01pj9nL18a3jV1mbxL8skh6vPxVKB8XwnyAnteG2Ct3WX/oeUVfScxH3ODpy9aBZPaIY9bs6z2h9QywpgUeZgPBzerWJWNSWGKJh2VcT320YPqfUpWBZ83GhHg6nl6TRQIDAQAB"^^xsd:string  # Andrea Tarallo 0000-0002-2749-8588
 "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCTT7skoHPEEd2GPyMfm40eAzs9T1EdyOBgHEUsm9kQ8yhLbDvW07FEQG/5RG5ErK28hrfSo433CaKD3dTLqO5MCNEmxKUQzYaiG7FLJi2KTpJFBEzWPvywv4lMofSX3L9r3Rlyh4NyZa/Yy1gIHilQE2kE0lDqB+IiAGwm1rB9CQIDAQAB"^^xsd:string  # Shuai Wang 0000-0002-1261-9930
-      }
     }
     graph npa:graph {
       ?qualification_np npa:hasHeadGraph ?qh .
