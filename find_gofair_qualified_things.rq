@@ -65,7 +65,7 @@ select distinct ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newver
       ?disapproval npa:hasValidSignatureForPublicKey ?dpubkey .
     }
     graph <https://w3id.org/np/RAxpGFuzIFt52Jn8nZAe9sT_ne1H46SQgj6nXvkTKD4BM#assertion> {
-      ?qpubkeys npx:hasPublicKey ?qpubkey .
+      ?dpubkeys npx:hasPublicKey ?dpubkey .
     }
     graph ?dh {
       ?disapproval np:hasAssertion ?da .
