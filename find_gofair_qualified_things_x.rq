@@ -60,11 +60,9 @@ select distinct ?thing ?label ?np ?date ?qualification_np where {
     graph npa:graph {
       ?disapproval npa:hasHeadGraph ?dh .
       ?disapproval npa:hasValidSignatureForPublicKey ?dpubkey .
-      values ?dpubkey {
-        "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string
-        "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string
-        "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFntPrMZqvg2kVhCNArNnEn37ddXGwZ/0r4C8CS4lDry7C7YkYgng9yb0UMZQUHiTVkR/5A4m/xjE+Vy+AnwcWUeB75SfGZjE5ylI6VeHjTHi9+2hh2PHYIWnkhU4WHl3COEnxSSa/VouvPzZ2BIWLH6fTrq7NNL3RF5hGegGG0QIDAQAB"^^xsd:string
-      }
+    }
+    graph <https://w3id.org/np/RAxpGFuzIFt52Jn8nZAe9sT_ne1H46SQgj6nXvkTKD4BM#assertion> {
+      ?dpubkeys npx:hasPublicKey ?dpubkey .
     }
     graph ?dh {
       ?disapproval np:hasAssertion ?da .
@@ -76,14 +74,12 @@ select distinct ?thing ?label ?np ?date ?qualification_np where {
   filter (!bound(?disapproval))  # No idea why "filter not exists" above doesn't work...
 
   optional {
-    values ?qpubkey {
-      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtpcftn7kbe6toJbOTDQaCcCssEFSWqt6J4rZ02w+TfY7/eIOgJZYOlpL6G3AzO2RNmVYWRPSlMiykaFuaRuBitvk1GKfGdprfZbvXwmeOxpqCTRBQX9EnFyQyd+Ra/ajfw/UsG8skeu1xnUEpnQbpgbQYc/fvhJNN0UwEc77mOwIDAQAB"^^xsd:string
-      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO4xkU+/dGujq1raR66QtRqquMxiJ9hm2uzc2uBj7bCBBRnWhTw7M8f77BqAFHShgxqxYTr2do7/tVmoKeM51ISyttxWrh9ebZRoz5o6Muxt7HyA4sLHAmnixeZ5VJfZzsKAmVN23Y2ZiCqMoXjtcp5jO2lOC0AXaGPftnaA8b9QIDAQAB"^^xsd:string
-      "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFntPrMZqvg2kVhCNArNnEn37ddXGwZ/0r4C8CS4lDry7C7YkYgng9yb0UMZQUHiTVkR/5A4m/xjE+Vy+AnwcWUeB75SfGZjE5ylI6VeHjTHi9+2hh2PHYIWnkhU4WHl3COEnxSSa/VouvPzZ2BIWLH6fTrq7NNL3RF5hGegGG0QIDAQAB"^^xsd:string
-    }
     graph npa:graph {
       ?qualification_np npa:hasHeadGraph ?qh .
       ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
+    }
+    graph <https://w3id.org/np/RAxpGFuzIFt52Jn8nZAe9sT_ne1H46SQgj6nXvkTKD4BM#assertion> {
+      ?qpubkeys npx:hasPublicKey ?qpubkey .
     }
     graph ?qh {
       ?qualification_np np:hasAssertion ?qa .
