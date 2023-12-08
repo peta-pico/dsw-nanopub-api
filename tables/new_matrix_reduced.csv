@@ -398,13 +398,13 @@ ICOS_FIP_2021,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQ
 LGBTQ+ Linked Open Vocabulary,MARC21 Format for Bibliographic Data,http://purl.org/np/RAnzko_TgZ7aI884gMfVpfPQEKoR34jIVV-_khLUA9jjU
 LGBTQ+ Linked Open Vocabulary,BIBFRAME 2.0,http://purl.org/np/RAuBubbociYvNsqiHudoQ6bt3RSPMBpgBB-I5Ep_VLJ0s
 LifeWatch_Ecosystems_FIP_2020,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
-LifeWatch_Ecosystems_FIP_2020,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
-LifeWatch_Ecosystems_FIP_2022,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
+LifeWatch_Ecosystems_FIP_2020,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
+LifeWatch_Ecosystems_FIP_2022,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
 LifeWatch_Ecosystems_FIP_2022,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
 LifeWatch_Ecosystems_FIP_2019,EML | Ecological Metadata Language,http://purl.org/np/RAOPGoOczaegFi3GRE4hOU-37ddBMRDAJehqgA5xEm_pI
 LifeWatch_Ecosystems_FIP_2019,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
 LifeWatch_Ecosystems_FIP_2021,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
-LifeWatch_Ecosystems_FIP_2021,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
+LifeWatch_Ecosystems_FIP_2021,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
 Materials Project,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
 Materials Project,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
 NORMAN Database System- MassBank EU,MBMS | MassBank Metadata Schema,http://purl.org/np/RA6Lz_pQ-4mnYUKSqTYltP-DF2Gv_XICW6WRbmTVU4_wk
@@ -2150,7 +2150,7 @@ LifeWatch_Ecosystems_FIP_2020,ALIENSPECIES | Alien Species Thesaurus,http://purl
 LifeWatch_Ecosystems_FIP_2020,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
 LifeWatch_Ecosystems_FIP_2020,ISO 3166-1:2013 Codes for the representation of names of countries and their subdivisions - Part 1: Country codes,http://purl.org/np/RA3JN4yfB_gPFq1caYsgD9b8ALpjMrPzeAt3n2M115LkQ
 LifeWatch_Ecosystems_FIP_2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
-LifeWatch_Ecosystems_FIP_2020,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
+LifeWatch_Ecosystems_FIP_2020,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
 LifeWatch_Ecosystems_FIP_2020,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 LifeWatch_Ecosystems_FIP_2022,ALIENSPECIES | Alien Species Thesaurus,http://purl.org/np/RA3sucbA34GKtCzYa1BW0VYdyH7JsbpmZAqJ3GfYsUJtQ
 LifeWatch_Ecosystems_FIP_2022,FISHTRAITS | Fish Traits Thesaurus,http://purl.org/np/RAlOhTStK4UkqcORcVY4bYDVU2Hr0kb6FE-8Gv8Ax4M-4
@@ -2159,7 +2159,7 @@ LifeWatch_Ecosystems_FIP_2022,PHYTOTRAITS | The Phytoplankton Traits,http://purl
 LifeWatch_Ecosystems_FIP_2022,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 LifeWatch_Ecosystems_FIP_2022,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
 LifeWatch_Ecosystems_FIP_2022,MACROALGAETRAITS | Macroalgae Traits Thesaurus,http://purl.org/np/RA-oiR7ecFjlb8yuc3bAC0cH0iBiV2m9e-MAeWFni9F3w
-LifeWatch_Ecosystems_FIP_2022,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
+LifeWatch_Ecosystems_FIP_2022,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
 LifeWatch_Ecosystems_FIP_2022,ISO 3166-1:2013 Codes for the representation of names of countries and their subdivisions - Part 1: Country codes,http://purl.org/np/RA3JN4yfB_gPFq1caYsgD9b8ALpjMrPzeAt3n2M115LkQ
 LifeWatch_Ecosystems_FIP_2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch_Ecosystems_FIP_2022,GeoDCAT-AP,http://purl.org/np/RA7L2DFHltF5fCvf4KFM2Is6hPxj3B5F9kId1KQxuv2rk
@@ -2169,7 +2169,7 @@ LifeWatch_Ecosystems_FIP_2021,NVS | NERC Vocabulary Service,http://purl.org/np/R
 LifeWatch_Ecosystems_FIP_2021,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
 LifeWatch_Ecosystems_FIP_2021,PHYTOTRAITS | The Phytoplankton Traits,http://purl.org/np/RAb4W2c0luxXyvlcnHSEs3UPn4XgT9N5myXmWOm4Juxig
 LifeWatch_Ecosystems_FIP_2021,GeoDCAT-AP,http://purl.org/np/RA7L2DFHltF5fCvf4KFM2Is6hPxj3B5F9kId1KQxuv2rk
-LifeWatch_Ecosystems_FIP_2021,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
+LifeWatch_Ecosystems_FIP_2021,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
 LifeWatch_Ecosystems_FIP_2021,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 LifeWatch_Ecosystems_FIP_2021,ALIENSPECIES | Alien Species Thesaurus,http://purl.org/np/RA3sucbA34GKtCzYa1BW0VYdyH7JsbpmZAqJ3GfYsUJtQ
 LifeWatch_Ecosystems_FIP_2021,MACROALGAETRAITS | Macroalgae Traits Thesaurus,http://purl.org/np/RA-oiR7ecFjlb8yuc3bAC0cH0iBiV2m9e-MAeWFni9F3w
@@ -2458,14 +2458,14 @@ ICOS_FIP_2021,ICOS Ontology | Integrated Carbon Observation System Ontology,http
 LifeWatch_Ecosystems_FIP_2020,Parthenos Entities,http://purl.org/np/RAQWPnVTkiVRY9SjkTL0E7pA7ZmgSRLkuLYePDZo9gJtA
 LifeWatch_Ecosystems_FIP_2020,LUPO | LifeWatch ERIC Upper Ontology,http://purl.org/np/RAC-W3xuD9L89BLk2RUBYgbcUU40zCfVNwAQ8kyhEqang
 LifeWatch_Ecosystems_FIP_2020,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
-LifeWatch_Ecosystems_FIP_2020,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
+LifeWatch_Ecosystems_FIP_2020,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
 LifeWatch_Ecosystems_FIP_2022,LifeWatch ERIC Metadata Catalogue,http://purl.org/np/RAG7G7nyJ8l-O6oQvTexZvBIRbaljYkYFAOCKeqsXIgdg
 LifeWatch_Ecosystems_FIP_2022,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
 LifeWatch_Ecosystems_FIP_2022,LUPO | LifeWatch ERIC Upper Ontology,http://purl.org/np/RAC-W3xuD9L89BLk2RUBYgbcUU40zCfVNwAQ8kyhEqang
-LifeWatch_Ecosystems_FIP_2022,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
+LifeWatch_Ecosystems_FIP_2022,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
 LifeWatch_Ecosystems_FIP_2019,EML | Ecological Metadata Language,http://purl.org/np/RAOPGoOczaegFi3GRE4hOU-37ddBMRDAJehqgA5xEm_pI
 LifeWatch_Ecosystems_FIP_2019,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
-LifeWatch_Ecosystems_FIP_2021,EML2.2.0 | Ecological Metadata Language 2.2.0,http://purl.org/np/RAeqoTVG3jj1iJyIZvQOn1ioRF5Nxre29b34l8lGvOgLU
+LifeWatch_Ecosystems_FIP_2021,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RA5nXd7r3_1ebU0_eYvCV7UiUjmAYPlB8FJwe2eBwI1gY
 LifeWatch_Ecosystems_FIP_2021,LifeWatch ERIC Metadata Catalogue,http://purl.org/np/RAG7G7nyJ8l-O6oQvTexZvBIRbaljYkYFAOCKeqsXIgdg
 LifeWatch_Ecosystems_FIP_2021,LUPO | LifeWatch ERIC Upper Ontology,http://purl.org/np/RAC-W3xuD9L89BLk2RUBYgbcUU40zCfVNwAQ8kyhEqang
 LifeWatch_Ecosystems_FIP_2021,Parthenos Entities,http://purl.org/np/RAQWPnVTkiVRY9SjkTL0E7pA7ZmgSRLkuLYePDZo9gJtA
