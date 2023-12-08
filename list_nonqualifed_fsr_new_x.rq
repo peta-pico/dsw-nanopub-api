@@ -1,0 +1,43 @@
+#+ summary: List non-qualified FAIR Enabling/Supporting Resources
+#+ method: GET
+#+ pagination: 10000
+#+ endpoint: https://query.np.trustyuri.net/repo/type/3ef5b11551ebc44e34f4bca614b387204447656ce195314532769ca7b20143fe
+
+prefix np: <http://www.nanopub.org/nschema#>
+prefix npa: <http://purl.org/nanopub/admin/>
+prefix npx: <http://purl.org/nanopub/x/>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix dct: <http://purl.org/dc/terms/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types) ?date where {
+{
+  graph npa:graph {
+    ?np dct:created ?date .
+    ?np npa:hasValidSignatureForPublicKey ?pubkey .
+    ?np np:hasAssertion ?a .
+    filter not exists { ?npx npx:invalidates ?np ; npa:hasValidSignatureForPublicKey ?pubkey . }
+    filter not exists { ?np npx:hasNanopubType npx:ExampleNanopub . }
+  }
+  graph ?a {
+    ?thing a <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> .
+    ?thing a ?type .
+    ?thing rdfs:label ?labelx .
+  }
+} union { service <https://query.np.trustyuri.net/repo/type/070fa9a0f87a189bc2eb9d4c1a14f68f11538cc2229b9f4fd6ac026a3d2ce570> {
+  graph npa:graph {
+    ?np dct:created ?date .
+    ?np npa:hasValidSignatureForPublicKey ?pubkey .
+    ?np np:hasAssertion ?a .
+    filter not exists { ?npx npx:invalidates ?np ; npa:hasValidSignatureForPublicKey ?pubkey . }
+    filter not exists { ?np npx:hasNanopubType npx:ExampleNanopub . }
+  }
+  graph ?a {
+    ?thing a <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> .
+    ?thing a ?type .
+    ?thing rdfs:label ?labelx .
+  }
+} }
+}
+group by ?np ?label ?date
+order by desc(?date)
