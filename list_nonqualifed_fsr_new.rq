@@ -38,14 +38,14 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
     ?thing rdfs:label ?labelx .
   }
 } }
-  filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> )
-  filter( ?type != <https://w3id.org/fair/fip/terms/Available-FAIR-Supporting-Resource> )
-  filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource-to-be-Developed> )
-  filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> )
-  filter( ?type != <https://w3id.org/fair/fip/terms/Available-FAIR-Enabling-Resource> )
-  filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource-to-be-Developed> )
-  bind(replace(str(?type), '^.*/([^/]+)$', '$1') as ?typelabel)
-  bind(str(?labelx) as ?label)
+filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> )
+filter( ?type != <https://w3id.org/fair/fip/terms/Available-FAIR-Supporting-Resource> )
+filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource-to-be-Developed> )
+filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> )
+filter( ?type != <https://w3id.org/fair/fip/terms/Available-FAIR-Enabling-Resource> )
+filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource-to-be-Developed> )
+bind(replace(str(?type), '^.*/([^/]+)$', '$1') as ?typelabel)
+bind(str(?labelx) as ?label)
 filter not exists { service <https://query.np.trustyuri.net/repo/type/39692876d0a7881c82e9a2cb6dc8859fb16fa69fb41cea2ace2f8fa70bc52aed> {
   graph npa:graph {
     ?disapproval npa:hasValidSignatureForPublicKey ?dpubkey .
