@@ -61,7 +61,7 @@ select distinct ?thing ?label ?np ?date ?qualification_np where {
       ?disapproval npa:hasHeadGraph ?dh .
       ?disapproval npa:hasValidSignatureForPublicKey ?dpubkey .
     }
-    graph <https://w3id.org/np/RAxpGFuzIFt52Jn8nZAe9sT_ne1H46SQgj6nXvkTKD4BM#assertion> {
+    graph <https://w3id.org/np/RAIVAIlNjyRrAJqUFfhitR8K4LyYVxi7UzIpHl_ld7fjk#assertion> {
       ?dpubkeys npx:hasPublicKey ?dpubkey .
     }
     graph ?dh {
@@ -78,7 +78,7 @@ select distinct ?thing ?label ?np ?date ?qualification_np where {
       ?qualification_np npa:hasHeadGraph ?qh .
       ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
     }
-    graph <https://w3id.org/np/RAxpGFuzIFt52Jn8nZAe9sT_ne1H46SQgj6nXvkTKD4BM#assertion> {
+    graph <https://w3id.org/np/RAIVAIlNjyRrAJqUFfhitR8K4LyYVxi7UzIpHl_ld7fjk#assertion> {
       ?qpubkeys npx:hasPublicKey ?qpubkey .
     }
     graph ?qh {
