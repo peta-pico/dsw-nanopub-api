@@ -52,7 +52,7 @@ filter not exists { service <https://query.np.trustyuri.net/repo/type/39692876d0
     ?disapproval np:hasAssertion ?da .
     filter not exists { ?disapprovalx npx:invalidates ?disapproval ; npa:hasValidSignatureForPublicKey ?dpubkey . }
   }
-  graph <https://w3id.org/np/RAB1C3avoJ2dNztf68MyU5hyyykf2MEiyUc2lMKq_0OTA#assertion> {
+  graph <https://w3id.org/np/RAIVAIlNjyRrAJqUFfhitR8K4LyYVxi7UzIpHl_ld7fjk#assertion>> {
     ?dpubkeys npx:hasPublicKey ?dpubkey .
   }
   graph ?da {
@@ -65,7 +65,7 @@ filter not exists { service <https://query.np.trustyuri.net/repo/type/cd51a3ac3e
     ?qualification np:hasAssertion ?qa .
     filter not exists { ?qualificationx npx:invalidates ?qualification ; npa:hasValidSignatureForPublicKey ?qpubkey . }
   }
-  graph <https://w3id.org/np/RAB1C3avoJ2dNztf68MyU5hyyykf2MEiyUc2lMKq_0OTA#assertion> {
+  graph <https://w3id.org/np/RAIVAIlNjyRrAJqUFfhitR8K4LyYVxi7UzIpHl_ld7fjk#assertion>> {
     ?qpubkeys npx:hasPublicKey ?qpubkey .
   }
   graph ?qa {
