@@ -1131,6 +1131,7 @@ Nanopublication FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/n
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
+JB-test,CSW | Catalog Service for the Web,http://purl.org/np/RAqJyIk27OEWW4hIMR5Q88KQdQOj4BY7sPx4277MjZWOQ
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
@@ -1377,6 +1378,7 @@ Nanopublication FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/n
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 WorldFAIR WP04 NANOMATERIALS FIP01,FTP | File Transfer Protocol,http://purl.org/np/RAESPjGTx-3Ih4rkLnS8lkYFJ2J0LZm94h62UbQB5MYl8
+JB-test,CSW | Catalog Service for the Web,http://purl.org/np/RAqJyIk27OEWW4hIMR5Q88KQdQOj4BY7sPx4277MjZWOQ
 PARC HBM | PARC Human Biomonitoring Data,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
@@ -1535,6 +1537,7 @@ Nanopublication FIP,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSk
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,Keycloak Single-Sign On,http://purl.org/np/RAOhpi4pd0_dAOReqbH_p9URwV30ErkyGK775n4lb9VJg
 WorldFAIR WP04 NANOMATERIALS FIP01,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
+JB-test,CEDAR workbench user account,http://purl.org/np/RAyHeJFCuPxLvp919SV_gNhe7z7WAeiDZ8CgBVBncxPQc
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SeaDataNET_CDI_FIP_2019,SDN-MID-Service | SeaDataNet Marine ID AAA service,http://purl.org/np/RAQTqFG5XHX_rWrNujYGkKwWA8vgOpZar2uGTuG0IY0Jw
@@ -1673,6 +1676,7 @@ Nanopublication FIP,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSk
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 WorldFAIR WP04 NANOMATERIALS FIP01,Keycloak Single-Sign On,http://purl.org/np/RAOhpi4pd0_dAOReqbH_p9URwV30ErkyGK775n4lb9VJg
+JB-test,CEDAR workbench user account,http://purl.org/np/RAyHeJFCuPxLvp919SV_gNhe7z7WAeiDZ8CgBVBncxPQc
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),Simple Web-service Offering Repository Deposit (SWORD) API (v2.0),http://purl.org/np/RArO-JI6-z6G-wVk636iGn-Zz8_amE8-7RnqaSrBwM5mg
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),CLARIN AAI,http://purl.org/np/RAgG5ARw_ZRoK9FE3WxILU3ZtjP3Hf2uWh1krOcm5R9Ho
@@ -1765,6 +1769,7 @@ ICOS_FIP_2020,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNa
 ICOS_FIP_2021,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
 NORMAN Database System- MassBank EU,MBEU_MPP | MassBank Europe Metadata Preservation Policy,http://purl.org/np/RA4TRi7z-xt2bM94yzv-wHZPPayXOlRG4t-Y9xaFa1SkM
 Nanopublication FIP,NP_MPP | Metadata preservation policy for nanopublications,http://purl.org/np/RAHgNhdw0SHzh4shMFkGkKnqEDgSzBP_R-CQFe1P8KW64
+JB-test,Argo GDAC long term archive,http://purl.org/np/RA5m0OcAgs1kBJ7hWDj-vP8OrmzefTfTD6W7hgdOvWY0g
 PARC TOXRIC FIP,TOXRIC_MPP | TOXRIC Metadata Presearvation Policy,http://purl.org/np/RAkxSDQpNz3xvI-AhFO-k7DmSAV9FG28WaZrhkR2-jdkA
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),RDA CTS | RDA Core Trust Seal Certification,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),RDA CTS | RDA Core Trust Seal Certification,http://purl.org/np/RATeQzbXaxtaF3zCgISMqrqw235tCKG43eN2Z7g4Pws24
@@ -1877,6 +1882,7 @@ NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformati
 WorldFAIR WP04 NANOMATERIALS FIP01,RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
 WorldFAIR WP04 NANOMATERIALS FIP01,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
 WorldFAIR WP04 NANOMATERIALS FIP01,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
+JB-test,IUPAC Standard InChI-based Representation of Chemical Reactions,http://purl.org/np/RAm3fujGbvDzV5iSQb3eWx1elxWu9UQUPsHWtNAbZTa-M
 PARC TOXRIC FIP,International Chemical Identifier ,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw
 PARC TOXRIC FIP,IUPAC SMILES+ Specification ,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc
 PARC TOXRIC FIP,JSON | JavaScript Object Notation,http://purl.org/np/RAbV2g2AjtbD_n53nwC5B0eERessUJbrZO5PVRzM6ioC8
@@ -2043,6 +2049,7 @@ Nanopublication FIP,RDF | Resource Description Framework,http://purl.org/np/RAut
 WorldFAIR WP04 NANOMATERIALS FIP01,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
 WorldFAIR WP04 NANOMATERIALS FIP01,RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
 WorldFAIR WP04 NANOMATERIALS FIP01,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
+JB-test,CKAN | Comprehensive Knowledge Archive Network,http://purl.org/np/RA2ZRsIVy0tmN5lKAocqMXxaiBgmMBwPV_J_TC74SYtok
 PARC TOXRIC FIP,International Chemical Identifier ,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw
 PARC TOXRIC FIP,IUPAC SMILES+ Specification ,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),HTML: The HyperText Markup Language,http://purl.org/np/RAVoIiicDuWm0TCWvcpXIo5PoA7RdCv8WVDwdtYUuAEVc
@@ -2217,6 +2224,7 @@ LifeWatch_Ecosystems_FIP_2021,EUNIS Habitat Classification,http://purl.org/np/RA
 Nanopublication FIP,DCMI Metadata Terms|Dublin Core Metadata Terms,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E
 WorldFAIR WP04 NANOMATERIALS FIP01,Elementary Multiperspective Material Ontology,http://purl.org/np/RAG_WQ6LruDpmtuhfQpS2IsIcf2gtSBTKJM9FbdCeg3z0
 WorldFAIR WP04 NANOMATERIALS FIP01,eNanoMapper ontology,http://purl.org/np/RAGVk8evrODJcvukhw3d74EG_DeKU90r9uyfUlHNAwlOI
+JB-test,ABCD | Access to Biological Collection Data,http://purl.org/np/RANS-bRIhaK8BMWuxGr_lb7a-nPt2O1_ijrPiyNTNe8uI
 PARC TOXRIC FIP,IUPAC Gold Book ,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ
 PARC TOXRIC FIP,Cellosaurus,http://purl.org/np/RATt4Su6Nt6dP4JShHtWnxp2s8-lIB-C3qVmoJih2A5nQ
 PARC TOXRIC FIP,DCMI Metadata Terms|Dublin Core Metadata Terms,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E
@@ -2911,6 +2919,7 @@ NORMAN Database System- MassBank EU,CC BY 4.0 | Attribution 4.0 International,ht
 Nanopublication FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 WorldFAIR WP04 NANOMATERIALS FIP01,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
+JB-test,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 PARC TOXRIC FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),CC-BY-SA 4.0,http://purl.org/np/RANZIJZQhwoROxTV1x5cZWDNK2-N1RZDHnYAAQA6J34CM
 SSHOC-NL Socio Economic History (SSHOC-NL-SEH),CC-BY-NC 2.0,http://purl.org/np/RAWCImVlPF6-8_6LzXaXiRYqyQQMnVq8hDwngXzuOYPyI
@@ -3023,6 +3032,7 @@ ICOS_FIP_2019,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEn
 ICOS_FIP_2020,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ICOS_FIP_2021,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 Nanopublication FIP,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
+JB-test,CERIF | Common European Research Information Format,http://purl.org/np/RAtv_q4s-8xxL_is8gV8GPDwoqVY550Omdvy9Rg0Liaqc
 PARC TOXRIC FIP,CKAN | Comprehensive Knowledge Archive Network,http://purl.org/np/RA2ZRsIVy0tmN5lKAocqMXxaiBgmMBwPV_J_TC74SYtok
 PARC TOXRIC FIP,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
 PARC TOXRIC FIP,DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
