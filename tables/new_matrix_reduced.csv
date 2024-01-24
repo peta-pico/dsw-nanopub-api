@@ -735,8 +735,8 @@ EPOS FIP 2019,EPOS ICS Data Portal,http://purl.org/np/RAAbc3ODdIzxJ4w7VRr9OsiZ3W
 EPOS FIP 2019,EPOS ICS Data Portal,http://purl.org/np/RAHsht1nMDPfDQLqOXG93Zuk43Svb9aetzmVoJtLsa5AY
 EPOS ICS C FIP 2021,EPOS ICS Data Portal,http://purl.org/np/RAAbc3ODdIzxJ4w7VRr9OsiZ3Wg-fepoU7bZyJFHi1QHM
 EPOS ICS C FIP 2021,EPOS ICS Data Portal,http://purl.org/np/RAHsht1nMDPfDQLqOXG93Zuk43Svb9aetzmVoJtLsa5AY
-EnvDS FIP,Research Object Hub (ROHub),http://purl.org/np/RAxaKu-Y3edH3QMGTAXZBueTlLfmARzPew9qDWo6GUzOQ
-GFTS,Research Object Hub (ROHub),http://purl.org/np/RAxaKu-Y3edH3QMGTAXZBueTlLfmARzPew9qDWo6GUzOQ
+EnvDS FIP,,
+GFTS,,
 GalaxyClimate,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
 GalaxyClimate,OpenAIRE Research Graph,http://purl.org/np/RAaueXDddBOBHt0neQHWW5ISHmss7FJGPChvVvLX24V-4
 PandemicPACT FIP,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
@@ -785,7 +785,7 @@ WorldFAIR WP04 NANOMATERIALS FIP01,NanoCommons Knowledge Base,http://purl.org/np
 WorldFAIR WP04 NANOMATERIALS FIP01,NSC open dataset inventory,http://purl.org/np/RAjovVPhMA4bCa0SVhPre5x17hn1mPqc5rjtPpRoSh-uM
 WorldFAIR WP04 NANOMATERIALS FIP01,NanoCommons Knowledge Base,http://purl.org/np/RA1kA_6seb_Ea7QzQjZjSvZjfoEJf8r-78Zpz4_PE7Nng
 WorldFAIR WP04 NANOMATERIALS FIP01,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
-WorldFAIR WP04 NANOMATERIALS FIP01,Zenodo,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY
+WorldFAIR WP04 NANOMATERIALS FIP01,Zenodo,https://w3id.org/np/RAnh2U-tqJDUghZemQHtUQIPW4oUUtUwTxi_PL8aiSe3g
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,The Dataverse Project,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History, Netwerk Digitaal Erfgoed (the Dutch Digital Heritage Network) Dataset Register,http://purl.org/np/RAlzPQ0qu74AzU_-U8QXlNB1Clr3Lrfk6WGjy4DP7L5VA
 Social Science Survey Research V2,GESIS Search,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc
@@ -956,11 +956,11 @@ EPOS FIP 2019,EPOS ICS Data Portal,http://purl.org/np/RAAbc3ODdIzxJ4w7VRr9OsiZ3W
 EPOS FIP 2019,EPOS ICS Data Portal,http://purl.org/np/RAHsht1nMDPfDQLqOXG93Zuk43Svb9aetzmVoJtLsa5AY
 EPOS ICS C FIP 2021,EPOS ICS Data Portal,http://purl.org/np/RAAbc3ODdIzxJ4w7VRr9OsiZ3Wg-fepoU7bZyJFHi1QHM
 EPOS ICS C FIP 2021,EPOS ICS Data Portal,http://purl.org/np/RAHsht1nMDPfDQLqOXG93Zuk43Svb9aetzmVoJtLsa5AY
-EnvDS FIP,Zenodo,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY
-GFTS,Research Object Hub (ROHub),http://purl.org/np/RAxaKu-Y3edH3QMGTAXZBueTlLfmARzPew9qDWo6GUzOQ
-GFTS,Zenodo,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY
+EnvDS FIP,Zenodo,https://w3id.org/np/RAnh2U-tqJDUghZemQHtUQIPW4oUUtUwTxi_PL8aiSe3g
+GFTS,,
+GFTS,Zenodo,https://w3id.org/np/RAnh2U-tqJDUghZemQHtUQIPW4oUUtUwTxi_PL8aiSe3g
 GalaxyClimate,Earth System Grid Federation,http://purl.org/np/RAQdtjNY-r8ONtbwhColi4NML6ymd4NBB6SLWdpiBEhQY
-GalaxyClimate,Zenodo,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY
+GalaxyClimate,Zenodo,https://w3id.org/np/RAnh2U-tqJDUghZemQHtUQIPW4oUUtUwTxi_PL8aiSe3g
 ICOS FIP 2023,Dimensions,http://purl.org/np/RA9dDob7paL9ONPCh5iJNE-jftu9-Z_vmuTWWzKbg8iIY
 ICOS FIP 2023,re3data | Registry of Research Data Repositories,http://purl.org/np/RAlMS06O1ybZUqangqEjq7IMcPhs74QeWPGc5PPIAiELY
 ICOS FIP 2023,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
@@ -2432,12 +2432,12 @@ SeaDataNET Sextant FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RAL
 SeaDataNET Sextant FIP 2020,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
 SeaDataNET Sextant FIP 2020,INSPIRE registry,http://purl.org/np/RAwm39nACOKcnsrE27u7zb0EitefpeIUCvQI0p5RHJsfg
 IUPAC Standards,IUPAC Gold Book ,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ
-eLTER FIP 2022,eLTER Controlled Lists,http://purl.org/np/RA3GQ4mu89KEDa3YeAlJ66X85tALejxeJNfI9vb2-YVRQ
+eLTER FIP 2022,eLTER_CL | eLTER Controlled Lists,https://w3id.org/np/RAi7-cOYy4fB4QyIdyS33dGvhDmqTNeCgwPlRWFOeYcNE
 eLTER FIP 2022,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
 eLTER FIP 2019,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
 eLTER_FIP_2022,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
-eLTER_FIP_2022,eLTER Controlled Lists,http://purl.org/np/RA3GQ4mu89KEDa3YeAlJ66X85tALejxeJNfI9vb2-YVRQ
-eLTERFIP2022,eLTER Controlled Lists,http://purl.org/np/RA3GQ4mu89KEDa3YeAlJ66X85tALejxeJNfI9vb2-YVRQ
+eLTER_FIP_2022,eLTER_CL | eLTER Controlled Lists,https://w3id.org/np/RAi7-cOYy4fB4QyIdyS33dGvhDmqTNeCgwPlRWFOeYcNE
+eLTERFIP2022,eLTER_CL | eLTER Controlled Lists,https://w3id.org/np/RAi7-cOYy4fB4QyIdyS33dGvhDmqTNeCgwPlRWFOeYcNE
 eLTERFIP2022,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
 eLTER FIP 2020,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
 eLTER FIP 2021,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
