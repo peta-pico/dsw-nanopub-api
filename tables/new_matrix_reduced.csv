@@ -917,7 +917,7 @@ ACTRIS InSitu FIP 2020,EBAS database,http://purl.org/np/RAB4llFCaB5JfM6HELBW1lG0
 ACTRIS InSitu FIP 2020,EBAS database,http://purl.org/np/RAb46QdxA7M25zf6DsGaHUjmesDMZJB89jHu378D7V12w
 ACTRIS InSitu FIP 2020,WMO Search | World Meteorological Organization Search,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ
 ACTRIS InSitu FIP 2020,GEOSS Portal | Global Earth Observation System of Systems Portal,http://purl.org/np/RAa9uACB-2-fE0qcFXKMlV2VPV3-0W_l4NKl7c-YnOrgc
-ADVANCE FIP,PANGAEA Data Publisher,http://purl.org/np/RAa_Xx2grKKvdCUR8ALm6vYJo3suxctC9W44WjwkaBze0
+ADVANCE FIP,PANGAEA | Data Publisher for Earth and Environmental Science (PANGAEA),https://w3id.org/np/RAI-yUMy8A2N331WXe7CucMjaB4eW-yzNbwqnh4bvaxVM
 Euro Argo FIP 2019,Euro-ARGO Data Selection,http://purl.org/np/RAgIAL5TtpDPEzoupni49SNQ8k7Ra1VMkzm_-JUhd31Ws
 Euro Argo FIP 2019,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 EuroArgo FIP 2020,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
@@ -941,14 +941,14 @@ EISCAT FIP 2020,MADRIGAL database,http://purl.org/np/RASNfH0QXFHabmtMALR6WU7gLzB
 EISCAT FIP 2021,PITHIA-NRF e-Science Centre search engine,http://purl.org/np/RAzDPevNe1NN384Otukc3HEzjMD4CNF-hmy894WFvd6aQ
 EISCAT FIP 2021,MADRIGAL database,http://purl.org/np/RASNfH0QXFHabmtMALR6WU7gLzBrg4rN0s_p2JoFRBl4k
 EISCAT FIP 2021,EISCAT Schedule,http://purl.org/np/RA2FV7zzKX2gmITj3tfCkWLcPpfgt8pZ3D6PWoP7kNAhE
-EMSO ERIC FIP 2020 bm,PANGAEA Data Publisher,http://purl.org/np/RAa_Xx2grKKvdCUR8ALm6vYJo3suxctC9W44WjwkaBze0
+EMSO ERIC FIP 2020 bm,PANGAEA | Data Publisher for Earth and Environmental Science (PANGAEA),https://w3id.org/np/RAI-yUMy8A2N331WXe7CucMjaB4eW-yzNbwqnh4bvaxVM
 EMSO ERIC FIP 2020 bm,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 EMSO ERIC FIP 2020 bm,SEANOE - SEA scieNtific Open data Edition,http://purl.org/np/RAEyxv-N6UUwcftrUsZULWiaqeyjIA4DiMaYUAMJx9WI4
 EMSO ERIC FIP 2022,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 EMSO ERIC FIP 2021,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 EMSO ERIC FIP 2019 bm,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 EMSO ERIC FIP 2019 bm,SEANOE - SEA scieNtific Open data Edition,http://purl.org/np/RAEyxv-N6UUwcftrUsZULWiaqeyjIA4DiMaYUAMJx9WI4
-EMSO ERIC FIP 2019 bm,PANGAEA Data Publisher,http://purl.org/np/RAa_Xx2grKKvdCUR8ALm6vYJo3suxctC9W44WjwkaBze0
+EMSO ERIC FIP 2019 bm,PANGAEA | Data Publisher for Earth and Environmental Science (PANGAEA),https://w3id.org/np/RAI-yUMy8A2N331WXe7CucMjaB4eW-yzNbwqnh4bvaxVM
 EPND Case study 1,European Platform for Neurodegenerative Diseases,http://purl.org/np/RAsf7pSk-vh2pug1xlzMbvWnDdxDHrV7x2Fg52m6FVz5s
 EPOS FIP 2022,EPOS ICS Data Portal,http://purl.org/np/RAAbc3ODdIzxJ4w7VRr9OsiZ3Wg-fepoU7bZyJFHi1QHM
 EPOS FIP 2022,EPOS ICS Data Portal,http://purl.org/np/RAHsht1nMDPfDQLqOXG93Zuk43Svb9aetzmVoJtLsa5AY
@@ -2641,7 +2641,7 @@ WorldFAIR WP09 Biodiversity FIP01,DwC-A | Darwin Core Archive,http://purl.org/np
 WorldFAIR WP10 Plant-Pollinator FIP01,Plant Pollinator Vocabulary,http://purl.org/np/RARrd45kc5faT3PhY1lp33Y39MK_U0I3CPoO_6zu2YHi0
 WorldFAIR WP10 Plant-Pollinator FIP01,Darwin Core,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A
 WorldFAIR WP10 Plant-Pollinator FIP01,DwC | Darwin Core,https://w3id.org/np/RA0dCOtlvUgF1Edc0vDN7iyspbpmXhvV4YLTvlwuFm6js
-WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,Exchangeable Image File Format (EXIF),http://purl.org/np/RA28xyUcJMFGNEbj2kCIuwQgCMKWzm1XaMJybh5UzFvtk
+WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,EXIF | Exchangeable Image File Format,https://w3id.org/np/RALDnxeIq7lmmZezGSMDnwoaUnr4PlzspkM5Mg9rf9Iiw
 ACTRIS ARES FIP 2022,I-ADOPT Framework,http://purl.org/np/RAM509fim7uxfZQFudyM2gzDtC8v9D7gIXV2Ui8fmRtR0
 ACTRIS ARES FIP 2022,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
 ACTRIS ARES FIP 2021,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
@@ -2810,7 +2810,7 @@ WorldFAIR WP09 Biodiversity FIP01,ABCD | Access to Biological Collection Data,ht
 WorldFAIR WP09 Biodiversity FIP01,EML GBIF Profile Metadata | Ecological Metadata Language Global Biodiversity Information Facility Profile Metadata,http://purl.org/np/RAqyqN5z8kbVwUdbRbBbhlci5sn6CHSwx4EF0axJB4zUU
 WorldFAIR WP10 Plant-Pollinator FIP01,Darwin Core,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A
 WorldFAIR WP10 Plant-Pollinator FIP01,DwC | Darwin Core,https://w3id.org/np/RA0dCOtlvUgF1Edc0vDN7iyspbpmXhvV4YLTvlwuFm6js
-WorldFAIR WP10 Plant-Pollinator FIP01,Relations Ontology,http://purl.org/np/RAVT7rLksAMk6USGEr3zTPnkY81Mnpoxfr_6_PYKN7bN4
+WorldFAIR WP10 Plant-Pollinator FIP01,RO | Relation Ontology,https://w3id.org/np/RAWWuNbeoCR2ej3i2tE6dr3org8NawIVcG1vq_3XBNAbM
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,EAD Encoded Archival Description,http://purl.org/np/RACPHNcUYMNkpubD7DgRabLc_-kctT92o7QehQSMk7xgY
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
 ACTRIS ARES FIP 2019,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
@@ -3151,7 +3151,7 @@ WorldFAIR WP04 NANOMATERIALS FIP01,CC BY 4.0 | Attribution 4.0 International,htt
 JB-test,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 PARC TOXRIC FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CC-BY-NC 2.0,http://purl.org/np/RAWCImVlPF6-8_6LzXaXiRYqyQQMnVq8hDwngXzuOYPyI
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CC-BY-SA 4.0,http://purl.org/np/RANZIJZQhwoROxTV1x5cZWDNK2-N1RZDHnYAAQA6J34CM
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CC-BY-SA 4.0 | Creative Commons Attribution-ShareAlike 4.0 International,https://w3id.org/np/RAIaHSdjkDnxysW2V8GhwQ9QMXSna9Zvyun4t-pwaQAdQ
 Social Science Survey Research V2,GESIS Usage Regulations 2018,http://purl.org/np/RARz1Nm2pGfyBYGsqOnE50Xrn4WGTZzAfg3BiSvuE8RZk
 SeaDataNET CDI FIP 2020,SDN DA L 1.0 | SeaDataNet Data Access License 1.0,http://purl.org/np/RAbOXm97oubkwYaYE8q58TWOtMYSQ2C4Wu0l0rybBA4YM
 SeaDataNET CDI FIP 2020,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
