@@ -872,7 +872,7 @@ WorldFAIR WP09 Biodiversity FIP01,DataCite | DataCite Ontology,http://purl.org/n
 WorldFAIR WP10 Plant-Pollinator FIP01,Global Biotic Interactions,http://purl.org/np/RAaVy0fy6sYJm65zGfhv_vJmQNXvYQxKpve-XrbRSboRI
 WorldFAIR WP10 Plant-Pollinator FIP01,GBIF search engine | Global Biodiversity Information Facility Search Engine,http://purl.org/np/RAp16uYCevT6sdTnGPExJTOuch38D-KJOzXVbTGzxc9Gc
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,Europeana,http://purl.org/np/RAY9qwRnRwMcXjLCH3-cicAeeseoCQbMV3klVyQ6zVZEw
-WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,Digital Repository of Ireland (DRI),http://purl.org/np/RAdhwb_tdCfQpMTyxPBE1UBmwqqn9sy0WlqkS-4oSsLM4
+WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,DRI | Digital Repository of Ireland,https://w3id.org/np/RAaSglfdoH7dy4RMV4Ps9HX4JrPeJoJlJCMBJeJOUXlX4
 ACTRIS ARES FIP 2022,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
 ACTRIS ARES FIP 2022,WMO Search | World Meteorological Organization Search,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ
 ACTRIS ARES FIP 2022,re3data | Registry of Research Data Repositories,http://purl.org/np/RAlMS06O1ybZUqangqEjq7IMcPhs74QeWPGc5PPIAiELY
@@ -1075,7 +1075,7 @@ WorldFAIR WP09 Biodiversity FIP01,GBIF search engine | Global Biodiversity Infor
 WorldFAIR WP09 Biodiversity FIP01,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 WorldFAIR WP10 Plant-Pollinator FIP01,GBIF search engine | Global Biodiversity Information Facility Search Engine,http://purl.org/np/RAp16uYCevT6sdTnGPExJTOuch38D-KJOzXVbTGzxc9Gc
 WorldFAIR WP10 Plant-Pollinator FIP01,Global Biotic Interactions,http://purl.org/np/RAaVy0fy6sYJm65zGfhv_vJmQNXvYQxKpve-XrbRSboRI
-WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,Digital Repository of Ireland (DRI),http://purl.org/np/RAdhwb_tdCfQpMTyxPBE1UBmwqqn9sy0WlqkS-4oSsLM4
+WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,DRI | Digital Repository of Ireland,https://w3id.org/np/RAaSglfdoH7dy4RMV4Ps9HX4JrPeJoJlJCMBJeJOUXlX4
 ACTRIS ARES FIP 2019,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 ACTRIS ARES FIP 2019,OPeNDAP | Open-source Project for a Network Data Access Protocol,http://purl.org/np/RAS4Mk7jb2yf_da30Nm6vFP1jIfEDcoy6Hz3wZpbnRulU
 ACTRIS ARES FIP 2019,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
@@ -3151,7 +3151,9 @@ WorldFAIR WP04 NANOMATERIALS FIP01,CC BY 4.0 | Attribution 4.0 International,htt
 JB-test,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 PARC TOXRIC FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CC-BY-NC 2.0,http://purl.org/np/RAWCImVlPF6-8_6LzXaXiRYqyQQMnVq8hDwngXzuOYPyI
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CC-BY-SA 4.0 | Creative Commons Attribution-ShareAlike 4.0 International,https://w3id.org/np/RAEfu8Saa76NTw-zVkUVYyQSh2NrAHjCoxXZtH6JL5BIw
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CC-BY-SA 4.0 | Creative Commons Attribution-ShareAlike 4.0 International,https://w3id.org/np/RAIaHSdjkDnxysW2V8GhwQ9QMXSna9Zvyun4t-pwaQAdQ
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CC-BY-SA 4.0 | Creative Commons Attribution-ShareAlike 4.0 International,https://w3id.org/np/RAkWSgXo4czHAWSIkKYSuWr8KMnngLbSFJF5RsPF_HvfU
 Social Science Survey Research V2,GESIS Usage Regulations 2018,http://purl.org/np/RARz1Nm2pGfyBYGsqOnE50Xrn4WGTZzAfg3BiSvuE8RZk
 SeaDataNET CDI FIP 2020,SDN DA L 1.0 | SeaDataNet Data Access License 1.0,http://purl.org/np/RAbOXm97oubkwYaYE8q58TWOtMYSQ2C4Wu0l0rybBA4YM
 SeaDataNET CDI FIP 2020,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
