@@ -91,6 +91,11 @@ ICOS FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkz
 ICOS FIP 2021,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 ICOS FIP 2021,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
 ICOS FIP 2021,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
+ICOS FIP 2022,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
+ICOS FIP 2022,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
+ICOS FIP 2022,ePIC | Persistent Identifier Consortium for eResearch,http://purl.org/np/RAWwxXP0GWPsS9mENzmf3gbUOuZt_CoN8b0SJiRUvEKHk
+ICOS FIP 2022,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+ICOS FIP 2022,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 ICOS FIP 2019,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 ICOS FIP 2019,ePIC | Persistent Identifier Consortium for eResearch,http://purl.org/np/RAWwxXP0GWPsS9mENzmf3gbUOuZt_CoN8b0SJiRUvEKHk
 ICOS FIP 2019,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
@@ -252,6 +257,9 @@ ICOS FIP 2020,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkz
 ICOS FIP 2021,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
 ICOS FIP 2021,ePIC | Persistent Identifier Consortium for eResearch,http://purl.org/np/RAWwxXP0GWPsS9mENzmf3gbUOuZt_CoN8b0SJiRUvEKHk
 ICOS FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+ICOS FIP 2022,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+ICOS FIP 2022,ePIC | Persistent Identifier Consortium for eResearch,http://purl.org/np/RAWwxXP0GWPsS9mENzmf3gbUOuZt_CoN8b0SJiRUvEKHk
+ICOS FIP 2022,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
 ICOS FIP 2019,ePIC | Persistent Identifier Consortium for eResearch,http://purl.org/np/RAWwxXP0GWPsS9mENzmf3gbUOuZt_CoN8b0SJiRUvEKHk
 ICOS FIP 2019,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 ICOS FIP 2019,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
@@ -434,6 +442,10 @@ ICOS FIP 2020,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQ
 ICOS FIP 2021,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
 ICOS FIP 2021,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
 ICOS FIP 2021,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
+ICOS FIP 2022,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
+ICOS FIP 2022,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
+ICOS FIP 2022,ISO 19115 | Geographic information - Metadata,http://purl.org/np/RAkM3iUGc1BSy3Y8_wFSY-TunpVMnvhJoihWC4vv33cUM
+ICOS FIP 2022,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
 ICOS FIP 2019,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
 ICOS FIP 2019,ISO 19115 | Geographic information - Metadata,http://purl.org/np/RAkM3iUGc1BSy3Y8_wFSY-TunpVMnvhJoihWC4vv33cUM
 ICOS FIP 2019,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
@@ -621,6 +633,7 @@ PandemicPACT FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3
 ICOS FIP 2023,LOD | Linked Open Data,http://purl.org/np/RAaG3HBFawImbh3dHLK-bJZpEOcblSJUTAZvhaypiMaw4
 ICOS FIP 2020,LOD | Linked Open Data,http://purl.org/np/RAaG3HBFawImbh3dHLK-bJZpEOcblSJUTAZvhaypiMaw4
 ICOS FIP 2021,LOD | Linked Open Data,http://purl.org/np/RAaG3HBFawImbh3dHLK-bJZpEOcblSJUTAZvhaypiMaw4
+ICOS FIP 2022,LOD | Linked Open Data,http://purl.org/np/RAaG3HBFawImbh3dHLK-bJZpEOcblSJUTAZvhaypiMaw4
 ICOS FIP 2019,LOD | Linked Open Data,http://purl.org/np/RAaG3HBFawImbh3dHLK-bJZpEOcblSJUTAZvhaypiMaw4
 IPCHEM,,
 LGBTQ+ Linked Open Vocabulary FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
@@ -758,6 +771,12 @@ ICOS FIP 2021,OpenAIRE Research Graph,http://purl.org/np/RAaueXDddBOBHt0neQHWW5I
 ICOS FIP 2021,WIGOS | WMO Integrated Global Observing System,http://purl.org/np/RAXn1MSJhF5yIRkh5qOnFk2DIdwY1O7KQyQf88OcE7WWM
 ICOS FIP 2021,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 ICOS FIP 2021,B2FIND,http://purl.org/np/RA9ISbUauVHNpcfynVcz3fgoPcumM410nA8G2gRuLt2hg
+ICOS FIP 2022,WIGOS | WMO Integrated Global Observing System,http://purl.org/np/RAXn1MSJhF5yIRkh5qOnFk2DIdwY1O7KQyQf88OcE7WWM
+ICOS FIP 2022,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
+ICOS FIP 2022,Dimensions,http://purl.org/np/RA9dDob7paL9ONPCh5iJNE-jftu9-Z_vmuTWWzKbg8iIY
+ICOS FIP 2022,OpenAIRE Research Graph,http://purl.org/np/RAaueXDddBOBHt0neQHWW5ISHmss7FJGPChvVvLX24V-4
+ICOS FIP 2022,B2FIND,http://purl.org/np/RA9ISbUauVHNpcfynVcz3fgoPcumM410nA8G2gRuLt2hg
+ICOS FIP 2022,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
 ICOS FIP 2019,B2FIND,http://purl.org/np/RA9ISbUauVHNpcfynVcz3fgoPcumM410nA8G2gRuLt2hg
 ICOS FIP 2019,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
 LifeWatch Ecosystems FIP 2021,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
@@ -979,6 +998,12 @@ ICOS FIP 2021,Dimensions,http://purl.org/np/RA9dDob7paL9ONPCh5iJNE-jftu9-Z_vmuTW
 ICOS FIP 2021,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 ICOS FIP 2021,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
 ICOS FIP 2021,WIGOS | WMO Integrated Global Observing System,http://purl.org/np/RAXn1MSJhF5yIRkh5qOnFk2DIdwY1O7KQyQf88OcE7WWM
+ICOS FIP 2022,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
+ICOS FIP 2022,re3data | Registry of Research Data Repositories,http://purl.org/np/RAlMS06O1ybZUqangqEjq7IMcPhs74QeWPGc5PPIAiELY
+ICOS FIP 2022,ERDDAP,http://purl.org/np/RAY8SO24mTJ0p5TH25anDLYYWP22QsbLPGQJ_wrazkNjU
+ICOS FIP 2022,WIGOS | WMO Integrated Global Observing System,http://purl.org/np/RAXn1MSJhF5yIRkh5qOnFk2DIdwY1O7KQyQf88OcE7WWM
+ICOS FIP 2022,Dimensions,http://purl.org/np/RA9dDob7paL9ONPCh5iJNE-jftu9-Z_vmuTWWzKbg8iIY
+ICOS FIP 2022,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
 ICOS FIP 2019,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
 ICOS FIP 2019,re3data | Registry of Research Data Repositories,http://purl.org/np/RAlMS06O1ybZUqangqEjq7IMcPhs74QeWPGc5PPIAiELY
 LifeWatch Ecosystems FIP 2021,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
@@ -1210,6 +1235,15 @@ ICOS FIP 2021,ERDDAP,http://purl.org/np/RAY8SO24mTJ0p5TH25anDLYYWP22QsbLPGQJ_wra
 ICOS FIP 2021,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 ICOS FIP 2021,Python programming library ICOSCP,http://purl.org/np/RA6N9bBr-evQ0e5eW2E9hUOelNsDfNt3gt45IxmrvYHX8
 ICOS FIP 2021,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
+ICOS FIP 2022,WMS | Web Map Service,http://purl.org/np/RA_uSEOb2WwKhrxAhWKFO4qKolm6mcLcBKPlkD-1x4I7I
+ICOS FIP 2022,SPARQL (open) endpoint,http://purl.org/np/RAkU_Doo6GSAf3AkZUYOPh4PWLQhLxtO7uMlghodnEjMI
+ICOS FIP 2022,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
+ICOS FIP 2022,OPeNDAP | Open-source Project for a Network Data Access Protocol,http://purl.org/np/RAS4Mk7jb2yf_da30Nm6vFP1jIfEDcoy6Hz3wZpbnRulU
+ICOS FIP 2022,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
+ICOS FIP 2022,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
+ICOS FIP 2022,ERDDAP,http://purl.org/np/RAY8SO24mTJ0p5TH25anDLYYWP22QsbLPGQJ_wrazkNjU
+ICOS FIP 2022,Python programming library ICOSCP,http://purl.org/np/RA6N9bBr-evQ0e5eW2E9hUOelNsDfNt3gt45IxmrvYHX8
+ICOS FIP 2022,CSW | Catalog Service for the Web,http://purl.org/np/RAqJyIk27OEWW4hIMR5Q88KQdQOj4BY7sPx4277MjZWOQ
 ICOS FIP 2019,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 ICOS FIP 2019,OPeNDAP | Open-source Project for a Network Data Access Protocol,http://purl.org/np/RAS4Mk7jb2yf_da30Nm6vFP1jIfEDcoy6Hz3wZpbnRulU
 ICOS FIP 2019,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
@@ -1486,6 +1520,11 @@ ICOS FIP 2021,CSW | Catalog Service for the Web,http://purl.org/np/RAqJyIk27OEWW
 ICOS FIP 2021,ERDDAP,http://purl.org/np/RAY8SO24mTJ0p5TH25anDLYYWP22QsbLPGQJ_wrazkNjU
 ICOS FIP 2021,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 ICOS FIP 2021,WCS | Web Coverage Service,http://purl.org/np/RADWSAkttaEv8uvTW92z0YGol4CtNRRXn-cPyohGA0HxQ
+ICOS FIP 2022,WCS | Web Coverage Service,http://purl.org/np/RADWSAkttaEv8uvTW92z0YGol4CtNRRXn-cPyohGA0HxQ
+ICOS FIP 2022,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
+ICOS FIP 2022,OPeNDAP | Open-source Project for a Network Data Access Protocol,http://purl.org/np/RAS4Mk7jb2yf_da30Nm6vFP1jIfEDcoy6Hz3wZpbnRulU
+ICOS FIP 2022,CSW | Catalog Service for the Web,http://purl.org/np/RAqJyIk27OEWW4hIMR5Q88KQdQOj4BY7sPx4277MjZWOQ
+ICOS FIP 2022,ERDDAP,http://purl.org/np/RAY8SO24mTJ0p5TH25anDLYYWP22QsbLPGQJ_wrazkNjU
 ICOS FIP 2019,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 IPCHEM,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 IPCHEM,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
@@ -1664,6 +1703,12 @@ ICOS FIP 2021,SAML2 | Security Assertion Markup Language 2.0,http://purl.org/np/
 ICOS FIP 2021,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 ICOS FIP 2021,ICOS local account,http://purl.org/np/RA4n9VBeF-CmBNiFFipxxkuOrQ-ll5TI7AJ0WtAUih3hI
 ICOS FIP 2021,eduGAIN Interfederation Service,http://purl.org/np/RAD1ApLnJyUpgDbTGx-b1JBtguYM-Rk19BsFlWcBHH-0Q
+ICOS FIP 2022,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
+ICOS FIP 2022,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
+ICOS FIP 2022,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
+ICOS FIP 2022,SAML2 | Security Assertion Markup Language 2.0,http://purl.org/np/RAAVkxxXAuP1M9G4ZQbvWiHF0iZVjRnN_fnfQcClx1jJA
+ICOS FIP 2022,ICOS local account,http://purl.org/np/RA4n9VBeF-CmBNiFFipxxkuOrQ-ll5TI7AJ0WtAUih3hI
+ICOS FIP 2022,eduGAIN Interfederation Service,http://purl.org/np/RAD1ApLnJyUpgDbTGx-b1JBtguYM-Rk19BsFlWcBHH-0Q
 ICOS FIP 2019,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 ICOS FIP 2019,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 IPCHEM,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
@@ -1808,6 +1853,11 @@ ICOS FIP 2021,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq
 ICOS FIP 2021,eduGAIN Interfederation Service,http://purl.org/np/RAD1ApLnJyUpgDbTGx-b1JBtguYM-Rk19BsFlWcBHH-0Q
 ICOS FIP 2021,SAML2 | Security Assertion Markup Language 2.0,http://purl.org/np/RAAVkxxXAuP1M9G4ZQbvWiHF0iZVjRnN_fnfQcClx1jJA
 ICOS FIP 2021,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
+ICOS FIP 2022,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
+ICOS FIP 2022,ICOS local account,http://purl.org/np/RA4n9VBeF-CmBNiFFipxxkuOrQ-ll5TI7AJ0WtAUih3hI
+ICOS FIP 2022,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
+ICOS FIP 2022,eduGAIN Interfederation Service,http://purl.org/np/RAD1ApLnJyUpgDbTGx-b1JBtguYM-Rk19BsFlWcBHH-0Q
+ICOS FIP 2022,SAML2 | Security Assertion Markup Language 2.0,http://purl.org/np/RAAVkxxXAuP1M9G4ZQbvWiHF0iZVjRnN_fnfQcClx1jJA
 ICOS FIP 2019,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 ICOS FIP 2019,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 IPCHEM,EU Login,http://purl.org/np/RAdeh59C0GknJ-NkmL2H5RCuesg6ICTgICrul3Y-Jejxo
@@ -1919,6 +1969,7 @@ PandemicPACT FIP,DataCite DOI Policy,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrD
 ICOS FIP 2023,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
 ICOS FIP 2020,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
 ICOS FIP 2021,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
+ICOS FIP 2022,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
 ICOS FIP 2019,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
 NORMAN Database System- MassBank EU,MBEU_MPP | MassBank Europe Metadata Preservation Policy,http://purl.org/np/RA4TRi7z-xt2bM94yzv-wHZPPayXOlRG4t-Y9xaFa1SkM
 Nanopublication FIP,NP_MPP | Metadata preservation policy for nanopublications,http://purl.org/np/RAHgNhdw0SHzh4shMFkGkKnqEDgSzBP_R-CQFe1P8KW64
@@ -2014,6 +2065,10 @@ ICOS FIP 2021,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAre
 ICOS FIP 2021,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
 ICOS FIP 2021,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 ICOS FIP 2021,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
+ICOS FIP 2022,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
+ICOS FIP 2022,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
+ICOS FIP 2022,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
+ICOS FIP 2022,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 ICOS FIP 2019,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 ICOS FIP 2019,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 ICOS FIP 2019,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
@@ -2194,6 +2249,8 @@ ICOS FIP 2020,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_F
 ICOS FIP 2020,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 ICOS FIP 2021,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 ICOS FIP 2021,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
+ICOS FIP 2022,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
+ICOS FIP 2022,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 ICOS FIP 2019,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 ICOS FIP 2019,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
 IPCHEM,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
@@ -2354,6 +2411,7 @@ PandemicPACT FIP,ISO 3166-1:2013 Codes for the representation of names of countr
 ICOS FIP 2023,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2020,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2021,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
+ICOS FIP 2022,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2019,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
 ICOS FIP 2019,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 IPCHEM,,
@@ -2547,6 +2605,7 @@ GalaxyClimate,CF SN | Climate and Forecast Standard Names Parameter Vocabulary,h
 ICOS FIP 2023,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2020,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2021,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
+ICOS FIP 2022,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2019,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2019,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
 IPCHEM,JSON Schema | JavaScript Object Notation Schema,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI
@@ -2708,6 +2767,7 @@ PandemicPACT FIP,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13
 ICOS FIP 2023,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2020,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2021,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
+ICOS FIP 2022,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2019,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
 LifeWatch Ecosystems FIP 2019,EML | Ecological Metadata Language,http://purl.org/np/RAOPGoOczaegFi3GRE4hOU-37ddBMRDAJehqgA5xEm_pI
@@ -2900,6 +2960,9 @@ ICOS FIP 2020,ICOS Ontology | Integrated Carbon Observation System Ontology,http
 ICOS FIP 2021,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2021,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
 ICOS FIP 2021,WMO Core Profile | World Meteorological Organization Core Metadata Profile,http://purl.org/np/RAMR4hXgFVP1uUF6VLwAZk0wjkFJgzVQYF2JttNCr9B4U
+ICOS FIP 2022,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
+ICOS FIP 2022,WMO Core Profile | World Meteorological Organization Core Metadata Profile,http://purl.org/np/RAMR4hXgFVP1uUF6VLwAZk0wjkFJgzVQYF2JttNCr9B4U
+ICOS FIP 2022,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
 ICOS FIP 2019,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2019,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
@@ -3019,6 +3082,7 @@ PandemicPACT FIP,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International,http
 ICOS FIP 2023,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 ICOS FIP 2020,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 ICOS FIP 2021,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
+ICOS FIP 2022,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 ICOS FIP 2019,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 LifeWatch Ecosystems FIP 2019,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 LifeWatch Ecosystems FIP 2019,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA
@@ -3129,6 +3193,8 @@ ICOS FIP 2023,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.o
 ICOS FIP 2023,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 ICOS FIP 2020,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 ICOS FIP 2021,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
+ICOS FIP 2022,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
+ICOS FIP 2022,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 ICOS FIP 2019,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 LGBTQ+ Linked Open Vocabulary FIP,CC BY-NC-ND 4.0 | Attribution-NonCommercial-NoDerivatives 4.0 International,http://purl.org/np/RAsHps5X17EiVP-ByVsvIqn3rKwP64PFqiH1IWY4Pe5i4
 LifeWatch Ecosystems FIP 2019,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
@@ -3272,6 +3338,7 @@ GalaxyClimate,CKAN | Comprehensive Knowledge Archive Network,http://purl.org/np/
 ICOS FIP 2023,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ICOS FIP 2020,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ICOS FIP 2021,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
+ICOS FIP 2022,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ICOS FIP 2019,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 IPCHEM,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
@@ -3381,6 +3448,7 @@ GalaxyClimate,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK
 ICOS FIP 2023,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ICOS FIP 2020,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ICOS FIP 2021,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
+ICOS FIP 2022,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ICOS FIP 2019,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 IPCHEM,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
