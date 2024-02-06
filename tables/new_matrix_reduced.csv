@@ -281,7 +281,7 @@ WorldFAIR WP04 NANOMATERIALS FIP01,DOI | Digital Object Identifier,http://purl.o
 WorldFAIR WP04 NANOMATERIALS FIP01,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 PARC TOXRIC FIP,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
 PARC TOXRIC FIP,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
-PARC TOXRIC FIP,TOXRIC_TAID | TOXRIC Unique ID for chemicals,http://purl.org/np/RAWA6rUMh-0JIc4Vv8WxUazNBeWty4sg88CC8rRr-cqSE
+PARC TOXRIC FIP,TOXRIC-TAID | TOXRIC Unique ID for chemicals,https://w3id.org/np/RAWdw6V8WqtS_znzrYZkKzNP9M5Qcsuj8w1ihPFU4wSdA
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
 SeaDataNET CDI FIP 2020,B2HANDLE,http://purl.org/np/RAJZDDm6ganlkehRZa2NxGoDmT0fOHIyIoSdhj9ifKzeU
