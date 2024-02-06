@@ -64,7 +64,7 @@ select distinct ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newver
       ?disapproval npa:hasHeadGraph ?dh .
       ?disapproval npa:hasValidSignatureForPublicKey ?dpubkey .
     }
-    graph <https://w3id.org/np/RAcibaPCpTRKDYUVYdI9Je7O4BTfMzUqRi3wmJeKfKfE0#assertion> {
+    graph <https://w3id.org/np/RAch-9UATp3EcTEPSGoMO7Rxy_KKpVxSobPkwhU-nb7oE#assertion> {
       ?dpubkeys npx:hasPublicKey ?dpubkey .
     }
     graph ?dh {
@@ -81,7 +81,7 @@ select distinct ?thing ?label ?description ?np ?date ?pubkey ?retraction ?newver
       ?qualification_np npa:hasHeadGraph ?qh .
       ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
     }
-    graph <https://w3id.org/np/RAcibaPCpTRKDYUVYdI9Je7O4BTfMzUqRi3wmJeKfKfE0#assertion> {
+    graph <https://w3id.org/np/RAch-9UATp3EcTEPSGoMO7Rxy_KKpVxSobPkwhU-nb7oE#assertion> {
       ?qpubkeys npx:hasPublicKey ?qpubkey .
     }
     graph ?qh {
