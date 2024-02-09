@@ -68,7 +68,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
       ?disapproval npa:hasHeadGraph ?dh .
       ?disapproval npa:hasValidSignatureForPublicKey ?dpubkey .
     }
-    graph <https://w3id.org/np/RAch-9UATp3EcTEPSGoMO7Rxy_KKpVxSobPkwhU-nb7oE#assertion> {
+    graph <https://w3id.org/np/RAmCO192cYgaaXh5tr5ycf56VZ73Fl6Heq6ykntevM_dU#assertion> {
       ?qpubkeys npx:hasPublicKey ?qpubkey .
     }
     graph ?dh {
@@ -85,7 +85,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
       ?qualification_np npa:hasHeadGraph ?qh .
       ?qualification_np npa:hasValidSignatureForPublicKey ?qpubkey .
     }
-    graph <https://w3id.org/np/RAch-9UATp3EcTEPSGoMO7Rxy_KKpVxSobPkwhU-nb7oE#assertion> {
+    graph <https://w3id.org/np/RAmCO192cYgaaXh5tr5ycf56VZ73Fl6Heq6ykntevM_dU#assertion> {
       ?qpubkeys npx:hasPublicKey ?qpubkey .
     }
     graph ?qh {
