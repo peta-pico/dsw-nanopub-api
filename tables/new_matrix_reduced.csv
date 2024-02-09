@@ -2480,7 +2480,7 @@ SeaDataNET CDI FIP 2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hC
 SeaDataNET CDI FIP 2021,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
 SeaDataNET CDI FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET Sextant FIP 2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
-SeaDataNET Sextant FIP 2019,INSPIRE registry,http://purl.org/np/RAwm39nACOKcnsrE27u7zb0EitefpeIUCvQI0p5RHJsfg
+SeaDataNET Sextant FIP 2019,INSPIRE registry,https://w3id.org/np/RAySzt0Q3GV3hPNykGNgdWSecOR1mEKk9R3DjVMjyLDs8
 SeaDataNET Sextant FIP 2019,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
 SeaDataNET Sextant FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET Sextant FIP 2021,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
@@ -2488,7 +2488,7 @@ SeaDataNET Sextant FIP 2022,GEMET | General Multilingual Environmental Thesaurus
 SeaDataNET Sextant FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET Sextant FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET Sextant FIP 2020,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
-SeaDataNET Sextant FIP 2020,INSPIRE registry,http://purl.org/np/RAwm39nACOKcnsrE27u7zb0EitefpeIUCvQI0p5RHJsfg
+SeaDataNET Sextant FIP 2020,INSPIRE registry,https://w3id.org/np/RAySzt0Q3GV3hPNykGNgdWSecOR1mEKk9R3DjVMjyLDs8
 IUPAC Standards,IUPAC Gold Book ,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ
 eLTER FIP 2022,eLTER_CL | eLTER Controlled Lists,https://w3id.org/np/RAi7-cOYy4fB4QyIdyS33dGvhDmqTNeCgwPlRWFOeYcNE
 eLTER FIP 2022,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
@@ -2509,7 +2509,7 @@ IAGOS FIP 2020,GCMD Keywords | Global Change Master Directory Keywords,http://pu
 IAGOS FIP 2020,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
 INDIGEO PNDB RSI UBO,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
 INDIGEO PNDB RSI UBO,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
-INDIGEO PNDB RSI UBO,INSPIRE registry,http://purl.org/np/RAwm39nACOKcnsrE27u7zb0EitefpeIUCvQI0p5RHJsfg
+INDIGEO PNDB RSI UBO,INSPIRE registry,https://w3id.org/np/RAySzt0Q3GV3hPNykGNgdWSecOR1mEKk9R3DjVMjyLDs8
 LifeWatch Marine FIP 2019,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
 LifeWatch Marine FIP 2019,Marine Regions georeferences,http://purl.org/np/RAwVXeIR1JNH7P7bNB57JF2rAYE5L7LIpDYtt80mV9RcA
 LifeWatch Marine FIP 2019,Aquatic Sciences and Fisheries Thesaurus,http://purl.org/np/RAjauVt4MMX2xt4ovGzOFkBXRHL3uvG7TBzP4ALQYbWeY
