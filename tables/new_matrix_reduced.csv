@@ -1650,7 +1650,7 @@ ACTRIS InSitu FIP 2019,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7
 ACTRIS InSitu FIP 2021,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 ACTRIS InSitu FIP 2022,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 ACTRIS InSitu FIP 2020,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
-ADVANCE FIP,CEDAR workbench user account,http://purl.org/np/RAyHeJFCuPxLvp919SV_gNhe7z7WAeiDZ8CgBVBncxPQc
+ADVANCE FIP,CEDAR workbench user account,https://w3id.org/np/RAMpIfwUqlQmdmFbURsfpBJclbWHA5GmUSVZ2bNWiKm3o
 AnaEE CREA FIP 2019,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 AnaEE CREA FIP 2021,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 AnaEE_CREA_FIP_2020,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
@@ -1721,7 +1721,7 @@ Nanopublication FIP,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSk
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 WorldFAIR WP04 NANOMATERIALS FIP01,Keycloak Single-Sign On,http://purl.org/np/RAOhpi4pd0_dAOReqbH_p9URwV30ErkyGK775n4lb9VJg
-JB-test,CEDAR workbench user account,http://purl.org/np/RAyHeJFCuPxLvp919SV_gNhe7z7WAeiDZ8CgBVBncxPQc
+JB-test,CEDAR workbench user account,https://w3id.org/np/RAMpIfwUqlQmdmFbURsfpBJclbWHA5GmUSVZ2bNWiKm3o
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SeaDataNET CDI FIP 2020,SDN-MID-Service | SeaDataNet Marine ID AAA service,http://purl.org/np/RAQTqFG5XHX_rWrNujYGkKwWA8vgOpZar2uGTuG0IY0Jw
@@ -1873,7 +1873,7 @@ Nanopublication FIP,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSk
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,Keycloak Single-Sign On,http://purl.org/np/RAOhpi4pd0_dAOReqbH_p9URwV30ErkyGK775n4lb9VJg
 WorldFAIR WP04 NANOMATERIALS FIP01,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
-JB-test,CEDAR workbench user account,http://purl.org/np/RAyHeJFCuPxLvp919SV_gNhe7z7WAeiDZ8CgBVBncxPQc
+JB-test,CEDAR workbench user account,https://w3id.org/np/RAMpIfwUqlQmdmFbURsfpBJclbWHA5GmUSVZ2bNWiKm3o
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CLARIN AAI,http://purl.org/np/RAgG5ARw_ZRoK9FE3WxILU3ZtjP3Hf2uWh1krOcm5R9Ho
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,Simple Web-service Offering Repository Deposit (SWORD) API (v2.0),http://purl.org/np/RArO-JI6-z6G-wVk636iGn-Zz8_amE8-7RnqaSrBwM5mg
