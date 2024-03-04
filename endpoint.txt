@@ -1,1 +1,1 @@
-https://virtuoso.nps.petapico.org/sparql
+https://virtuoso.nps.knowledgepixels.com/sparql
