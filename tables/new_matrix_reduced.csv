@@ -31,6 +31,7 @@ ACTRIS GRES FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifs
 ACTRIS InSitu FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 ACTRIS InSitu FIP 2022,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 ADVANCE FIP,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
+Copy of ADVANCE FIP,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 AnaEE FIP 2021,UUID | Universally Unique Identifier,http://purl.org/np/RAhtqDSSb5hNqBrpSGl25xayPVhQJ1s6IXImbcoUTfQYI
 AnaEE FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 AnaEE FIP 2020,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
@@ -208,6 +209,7 @@ ACTRIS InSitu FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6i
 ACTRIS InSitu FIP 2022,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 ACTRIS InSitu FIP 2020,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 ADVANCE FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+Copy of ADVANCE FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 AnaEE CREA FIP 2019,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 AnaEE CREA FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 AnaEE_CREA_FIP_2020,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
@@ -378,6 +380,7 @@ ACTRIS InSitu FIP 2021,WMO Core Profile | World Meteorological Organization Core
 ACTRIS InSitu FIP 2022,WMO Core Profile | World Meteorological Organization Core Metadata Profile,http://purl.org/np/RAMR4hXgFVP1uUF6VLwAZk0wjkFJgzVQYF2JttNCr9B4U
 ACTRIS InSitu FIP 2020,WMO Core Profile | World Meteorological Organization Core Metadata Profile,http://purl.org/np/RAMR4hXgFVP1uUF6VLwAZk0wjkFJgzVQYF2JttNCr9B4U
 ADVANCE FIP,ADVANCE metadata schema for biodiversity monitoring,http://purl.org/np/RApX2LBR50Ts23FkMFpqOAAPrMe2UHXmujndOZ-1X_uss
+Copy of ADVANCE FIP,ADVANCE metadata schema for biodiversity monitoring,http://purl.org/np/RApX2LBR50Ts23FkMFpqOAAPrMe2UHXmujndOZ-1X_uss
 AnaEE CREA FIP 2019,DCAT | Data Catalog Vocabulary Version 3,http://purl.org/np/RAse6lNAHQyotpGAt7cG75FPx6EvM4MSMau9CM8X6VtSA
 AnaEE CREA FIP 2021,DCAT | Data Catalog Vocabulary Version 3,http://purl.org/np/RAse6lNAHQyotpGAt7cG75FPx6EvM4MSMau9CM8X6VtSA
 AnaEE_CREA_FIP_2020,DCAT | Data Catalog Vocabulary Version 3,http://purl.org/np/RAse6lNAHQyotpGAt7cG75FPx6EvM4MSMau9CM8X6VtSA
@@ -937,6 +940,7 @@ ACTRIS InSitu FIP 2020,EBAS database,http://purl.org/np/RAb46QdxA7M25zf6DsGaHUjm
 ACTRIS InSitu FIP 2020,WMO Search | World Meteorological Organization Search,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ
 ACTRIS InSitu FIP 2020,GEOSS Portal | Global Earth Observation System of Systems Portal,http://purl.org/np/RAa9uACB-2-fE0qcFXKMlV2VPV3-0W_l4NKl7c-YnOrgc
 ADVANCE FIP,PANGAEA | Data Publisher for Earth and Environmental Science (PANGAEA),https://w3id.org/np/RAI-yUMy8A2N331WXe7CucMjaB4eW-yzNbwqnh4bvaxVM
+Copy of ADVANCE FIP,PANGAEA | Data Publisher for Earth and Environmental Science (PANGAEA),https://w3id.org/np/RAI-yUMy8A2N331WXe7CucMjaB4eW-yzNbwqnh4bvaxVM
 Euro Argo FIP 2019,Euro-ARGO Data Selection,http://purl.org/np/RAgIAL5TtpDPEzoupni49SNQ8k7Ra1VMkzm_-JUhd31Ws
 Euro Argo FIP 2019,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 EuroArgo FIP 2020,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
@@ -1154,6 +1158,7 @@ ACTRIS InSitu FIP 2021,OAI-PMH Schema | Open Archives Initiative Protocol for Me
 ACTRIS InSitu FIP 2022,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 ACTRIS InSitu FIP 2020,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 ADVANCE FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
+Copy of ADVANCE FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 AnaEE CREA FIP 2019,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 AnaEE CREA FIP 2021,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 AnaEE_CREA_FIP_2020,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
@@ -1205,8 +1210,8 @@ Stockholm Convention Global Monitoring Plan DWH,HTTPS | Hypertext Transfer Proto
 Stockholm Convention Global Monitoring Plan DWH,SPARQL (open) endpoint,http://purl.org/np/RAkU_Doo6GSAf3AkZUYOPh4PWLQhLxtO7uMlghodnEjMI
 GalaxyClimate,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 GalaxyClimate,HTTP | Hypertext Transfer Protocol,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8
-PandemicPACT FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 PandemicPACT FIP,HTTP | Hypertext Transfer Protocol,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8
+PandemicPACT FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 HBM4EU | Human BioMonitoring 4 EU Project,SFTP | Secure File Transfer Protocol,http://purl.org/np/RAcDEmHi0vZmZ7bZqPa51WgTKvJ4Jp22I_lVBqHLClG6U
 ICOS FIP 2023,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 ICOS FIP 2023,OPeNDAP | Open-source Project for a Network Data Access Protocol,http://purl.org/np/RAS4Mk7jb2yf_da30Nm6vFP1jIfEDcoy6Hz3wZpbnRulU
@@ -1438,6 +1443,7 @@ ACTRIS InSitu FIP 2022,HTTPS | Hypertext Transfer Protocol Secure,http://purl.or
 ACTRIS InSitu FIP 2020,OPeNDAP | Open-source Project for a Network Data Access Protocol,http://purl.org/np/RAS4Mk7jb2yf_da30Nm6vFP1jIfEDcoy6Hz3wZpbnRulU
 ACTRIS InSitu FIP 2020,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 ADVANCE FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
+Copy of ADVANCE FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 AnaEE CREA FIP 2019,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 AnaEE CREA FIP 2021,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 AnaEE_CREA_FIP_2020,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
@@ -1650,7 +1656,8 @@ ACTRIS InSitu FIP 2019,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7
 ACTRIS InSitu FIP 2021,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 ACTRIS InSitu FIP 2022,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
 ACTRIS InSitu FIP 2020,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc
-ADVANCE FIP,CEDAR workbench user account,http://purl.org/np/RAyHeJFCuPxLvp919SV_gNhe7z7WAeiDZ8CgBVBncxPQc
+ADVANCE FIP,CEDAR workbench user account,https://w3id.org/np/RAMpIfwUqlQmdmFbURsfpBJclbWHA5GmUSVZ2bNWiKm3o
+Copy of ADVANCE FIP,CEDAR workbench user account,https://w3id.org/np/RAMpIfwUqlQmdmFbURsfpBJclbWHA5GmUSVZ2bNWiKm3o
 AnaEE CREA FIP 2019,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 AnaEE CREA FIP 2021,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 AnaEE_CREA_FIP_2020,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
@@ -1721,7 +1728,7 @@ Nanopublication FIP,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSk
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
 WorldFAIR WP04 NANOMATERIALS FIP01,Keycloak Single-Sign On,http://purl.org/np/RAOhpi4pd0_dAOReqbH_p9URwV30ErkyGK775n4lb9VJg
-JB-test,CEDAR workbench user account,http://purl.org/np/RAyHeJFCuPxLvp919SV_gNhe7z7WAeiDZ8CgBVBncxPQc
+JB-test,CEDAR workbench user account,https://w3id.org/np/RAMpIfwUqlQmdmFbURsfpBJclbWHA5GmUSVZ2bNWiKm3o
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SeaDataNET CDI FIP 2020,SDN-MID-Service | SeaDataNet Marine ID AAA service,http://purl.org/np/RAQTqFG5XHX_rWrNujYGkKwWA8vgOpZar2uGTuG0IY0Jw
@@ -1873,7 +1880,7 @@ Nanopublication FIP,Open Data,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSk
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,Keycloak Single-Sign On,http://purl.org/np/RAOhpi4pd0_dAOReqbH_p9URwV30ErkyGK775n4lb9VJg
 WorldFAIR WP04 NANOMATERIALS FIP01,OAuth | Open Authorization,http://purl.org/np/RAMUc_3Ykh5NuxbqF1Liz2h21U67CBEfvm0MXHxtjkjbg
-JB-test,CEDAR workbench user account,http://purl.org/np/RAyHeJFCuPxLvp919SV_gNhe7z7WAeiDZ8CgBVBncxPQc
+JB-test,CEDAR workbench user account,https://w3id.org/np/RAMpIfwUqlQmdmFbURsfpBJclbWHA5GmUSVZ2bNWiKm3o
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CLARIN AAI,http://purl.org/np/RAgG5ARw_ZRoK9FE3WxILU3ZtjP3Hf2uWh1krOcm5R9Ho
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,Simple Web-service Offering Repository Deposit (SWORD) API (v2.0),http://purl.org/np/RArO-JI6-z6G-wVk636iGn-Zz8_amE8-7RnqaSrBwM5mg
@@ -2020,6 +2027,7 @@ ACTRIS InSitu FIP 2021,XMLS | eXtensible Markup Language Schema,http://purl.org/
 ACTRIS InSitu FIP 2022,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 ACTRIS InSitu FIP 2020,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 ADVANCE FIP,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
+Copy of ADVANCE FIP,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
 AnaEE CREA FIP 2019,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 AnaEE CREA FIP 2021,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 AnaEE_CREA_FIP_2020,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
@@ -2197,6 +2205,7 @@ ACTRIS InSitu FIP 2021,NetCDF | Network Common Data Form,http://purl.org/np/RALd
 ACTRIS InSitu FIP 2022,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
 ACTRIS InSitu FIP 2020,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
 ADVANCE FIP,CSV File Format ,http://purl.org/np/RAcNC9zQOEc9RPXD07R91aMNSlYmJR9G4kRT_Pm4FpzkE
+Copy of ADVANCE FIP,CSV File Format ,http://purl.org/np/RAcNC9zQOEc9RPXD07R91aMNSlYmJR9G4kRT_Pm4FpzkE
 AnaEE CREA FIP 2019,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 AnaEE CREA FIP 2021,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 AnaEE_CREA_FIP_2020,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
@@ -2366,6 +2375,7 @@ ACTRIS InSitu FIP 2022,ACTRIS Vocabulary,http://purl.org/np/RAtsyc6VhRQQliAMPlcv
 ACTRIS InSitu FIP 2022,IUPAC Gold Book ,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ
 ACTRIS InSitu FIP 2020,CF SN | Climate and Forecast Standard Names Parameter Vocabulary,http://purl.org/np/RAAKVxy0ddPXoYA-zCIzRJyDWLOv_0KMYcbiH7ZN-bL0s
 ADVANCE FIP,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
+Copy of ADVANCE FIP,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
 AnaEE CREA FIP 2019,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 AnaEE CREA FIP 2021,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 AnaEE_CREA_FIP_2020,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
@@ -2373,12 +2383,19 @@ AnaEE FIP 2021,anaeeThes | AnaEE Thesaurus,http://purl.org/np/RA0L4LP-hH87a-mgA6
 AnaEE FIP 2020,anaeeThes | AnaEE Thesaurus,http://purl.org/np/RA0L4LP-hH87a-mgA64m1Vusfyo8nRmAPa-E3nQBYZUOo
 AnaEE FIP 2022,anaeeThes | AnaEE Thesaurus,http://purl.org/np/RA0L4LP-hH87a-mgA64m1Vusfyo8nRmAPa-E3nQBYZUOo
 AnaEE FIP 2019,anaeeThes | AnaEE Thesaurus,http://purl.org/np/RA0L4LP-hH87a-mgA64m1Vusfyo8nRmAPa-E3nQBYZUOo
+Euro Argo FIP 2019,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 Euro Argo FIP 2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+EuroArgo FIP 2020,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EuroArgo FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+Euro Argo FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 Euro Argo FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+Euro Argo FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 Euro Argo FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+DANUBIUS FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 DANUBIUS FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+DANUBIUS FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 DANUBIUS FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+DANUBIUS FIP 2019,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 DANUBIUS FIP 2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 DiSSCo FIP 2019,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences,http://purl.org/np/RAAEqbPwfnoD1mAD7J9XFtY1TeTVi0YSJMLOMYGYKwS5g
 DiSSCo FIP 2019,ABCD | Access to Biological Collection Data,http://purl.org/np/RANS-bRIhaK8BMWuxGr_lb7a-nPt2O1_ijrPiyNTNe8uI
@@ -2389,9 +2406,13 @@ DiSSCo FIP 2021,ABCD | Access to Biological Collection Data,http://purl.org/np/R
 DiSSCo FIP 2020,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences,http://purl.org/np/RAAEqbPwfnoD1mAD7J9XFtY1TeTVi0YSJMLOMYGYKwS5g
 DiSSCo FIP 2020,ABCD | Access to Biological Collection Data,http://purl.org/np/RANS-bRIhaK8BMWuxGr_lb7a-nPt2O1_ijrPiyNTNe8uI
 EISCAT FIP 2022,Space Physics Ontology,http://purl.org/np/RA_Cpl5jMyklnCuVSGhC_rRygjtsCQhvFawT8flydZlAE
+EMSO ERIC FIP 2020 bm,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EMSO ERIC FIP 2020 bm,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+EMSO ERIC FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EMSO ERIC FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+EMSO ERIC FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EMSO ERIC FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+EMSO ERIC FIP 2019 bm,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EMSO ERIC FIP 2019 bm,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 EPND Case study 1,,
 EPOS FIP 2022,EPOS Common Vocabulary,http://purl.org/np/RABfZVUxCG8bwscTR41aLl_O_-NbCuD39I73vRbkUFO50
@@ -2421,6 +2442,7 @@ LGBTQ+ Linked Open Vocabulary FIP,Homosaurus,http://purl.org/np/RAkaanpx9ThwPJuH
 LGBTQ+ Linked Open Vocabulary FIP,RVM | Répertoire de vedettes-matière de l'Université Laval ,http://purl.org/np/RAhjjm6dptxfd6_hQxldIlrmy0wlil3hywSQE6pP_ep6c
 LGBTQ+ Linked Open Vocabulary FIP,Library of Congress Subject Headings (LCSH),http://purl.org/np/RAPbPkvyFnB0zf4Y80_RShjNfCZ9VBLQKvIuI9lUfZjnY
 LifeWatch Ecosystems FIP 2021,GeoDCAT-AP,http://purl.org/np/RA7L2DFHltF5fCvf4KFM2Is6hPxj3B5F9kId1KQxuv2rk
+LifeWatch Ecosystems FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Ecosystems FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch Ecosystems FIP 2021,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 LifeWatch Ecosystems FIP 2021,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RASOS3zIV3RgezDVKvEGIUJX4dFDmKpjCsFpAJzdsV-7I
@@ -2440,6 +2462,7 @@ LifeWatch Ecosystems FIP 2022,GeoDCAT-AP,http://purl.org/np/RA7L2DFHltF5fCvf4KFM
 LifeWatch Ecosystems FIP 2022,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 LifeWatch Ecosystems FIP 2022,FISHTRAITS | Fish Traits Thesaurus,http://purl.org/np/RAlOhTStK4UkqcORcVY4bYDVU2Hr0kb6FE-8Gv8Ax4M-4
 LifeWatch Ecosystems FIP 2022,PHYTOTRAITS | The Phytoplankton Traits,http://purl.org/np/RAb4W2c0luxXyvlcnHSEs3UPn4XgT9N5myXmWOm4Juxig
+LifeWatch Ecosystems FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Ecosystems FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch Ecosystems FIP 2022,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RASOS3zIV3RgezDVKvEGIUJX4dFDmKpjCsFpAJzdsV-7I
 LifeWatch Ecosystems FIP 2022,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
@@ -2453,6 +2476,7 @@ LifeWatch Ecosystems FIP 2020,ALIENSPECIES | Alien Species Thesaurus,http://purl
 LifeWatch Ecosystems FIP 2020,GeoDCAT-AP,http://purl.org/np/RA7L2DFHltF5fCvf4KFM2Is6hPxj3B5F9kId1KQxuv2rk
 LifeWatch Ecosystems FIP 2020,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
 LifeWatch Ecosystems FIP 2020,EUNIS Habitat Classification,http://purl.org/np/RAWxZ9pllpQ_fGH9rukYZOS1sp_CSfQEB-40hODdfyjmc
+LifeWatch Ecosystems FIP 2020,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Ecosystems FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch Ecosystems FIP 2020,EML >=2.2.0 | Ecological Metadata Language >=2.2.0,http://purl.org/np/RASOS3zIV3RgezDVKvEGIUJX4dFDmKpjCsFpAJzdsV-7I
 LifeWatch Ecosystems FIP 2020,LW_CO | LifeWatch core ontology,http://purl.org/np/RAPbMvK4zFt_-lsFMWTFoZsyV0UuhqJFlkiJc1IEF6uTo
@@ -2468,24 +2492,32 @@ SSHOC-NL-SEH | SSHOC-NL Socio Economic History,DCAT | Data Catalog Vocabulary Ve
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,EAD Encoded Archival Description,http://purl.org/np/RACPHNcUYMNkpubD7DgRabLc_-kctT92o7QehQSMk7xgY
 Social Science Survey Research V2,Thesaurus Sozialwissenschaften (THESOZ),http://purl.org/np/RA1Ra0mFnCIMEAfwTbfg0dBO6LEu45UOycBDp0f7Z4ZH4
 Social Science Survey Research V2,ELSST|European Language Social Science Thesaurus,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws
+SeaDataNET CDI FIP 2020,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET CDI FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET CDI FIP 2020,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
 SeaDataNET CDI FIP 2022,DCAT | Data Catalog Vocabulary Version 2,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo
 SeaDataNET CDI FIP 2022,GeoDCAT-AP,http://purl.org/np/RA7L2DFHltF5fCvf4KFM2Is6hPxj3B5F9kId1KQxuv2rk
+SeaDataNET CDI FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET CDI FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET CDI FIP 2022,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
 SeaDataNET CDI FIP 2022,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
 SeaDataNET CDI FIP 2019,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
+SeaDataNET CDI FIP 2019,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET CDI FIP 2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET CDI FIP 2021,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
+SeaDataNET CDI FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET CDI FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+SeaDataNET Sextant FIP 2019,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET Sextant FIP 2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET Sextant FIP 2019,INSPIRE registry,https://w3id.org/np/RAySzt0Q3GV3hPNykGNgdWSecOR1mEKk9R3DjVMjyLDs8
 SeaDataNET Sextant FIP 2019,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
+SeaDataNET Sextant FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET Sextant FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET Sextant FIP 2021,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
 SeaDataNET Sextant FIP 2022,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
+SeaDataNET Sextant FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET Sextant FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+SeaDataNET Sextant FIP 2020,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET Sextant FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET Sextant FIP 2020,GEMET | General Multilingual Environmental Thesaurus,http://purl.org/np/RACMyYD25XVBmssUFuddVMBw6NN8cR0s4lIsKBWB8mxA4
 SeaDataNET Sextant FIP 2020,INSPIRE registry,https://w3id.org/np/RAySzt0Q3GV3hPNykGNgdWSecOR1mEKk9R3DjVMjyLDs8
@@ -2514,13 +2546,16 @@ LifeWatch Marine FIP 2019,WoRMS | World Register of Marine Species,http://purl.o
 LifeWatch Marine FIP 2019,Marine Regions georeferences,http://purl.org/np/RAwVXeIR1JNH7P7bNB57JF2rAYE5L7LIpDYtt80mV9RcA
 LifeWatch Marine FIP 2019,Aquatic Sciences and Fisheries Thesaurus,http://purl.org/np/RAjauVt4MMX2xt4ovGzOFkBXRHL3uvG7TBzP4ALQYbWeY
 LifeWatch Marine FIP 2022,Aquatic Sciences and Fisheries Thesaurus,http://purl.org/np/RAjauVt4MMX2xt4ovGzOFkBXRHL3uvG7TBzP4ALQYbWeY
+LifeWatch Marine FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Marine FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch Marine FIP 2022,Marine Regions georeferences,http://purl.org/np/RAwVXeIR1JNH7P7bNB57JF2rAYE5L7LIpDYtt80mV9RcA
 LifeWatch Marine FIP 2022,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
 LifeWatch Marine FIP 2021,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
 LifeWatch Marine FIP 2021,Aquatic Sciences and Fisheries Thesaurus,http://purl.org/np/RAjauVt4MMX2xt4ovGzOFkBXRHL3uvG7TBzP4ALQYbWeY
 LifeWatch Marine FIP 2021,Marine Regions georeferences,http://purl.org/np/RAwVXeIR1JNH7P7bNB57JF2rAYE5L7LIpDYtt80mV9RcA
+LifeWatch Marine FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Marine FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+LifeWatch_Marine_FIP_2020,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch_Marine_FIP_2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch_Marine_FIP_2020,Aquatic Sciences and Fisheries Thesaurus,http://purl.org/np/RAjauVt4MMX2xt4ovGzOFkBXRHL3uvG7TBzP4ALQYbWeY
 LifeWatch_Marine_FIP_2020,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
@@ -2571,6 +2606,7 @@ ACTRIS InSitu FIP 2022,IUPAC Gold Book ,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR
 ACTRIS InSitu FIP 2022,ACTRIS Vocabulary,http://purl.org/np/RAtsyc6VhRQQliAMPlcvS5mHmtWvi_8J5d_SFyugDJ2qk
 ACTRIS InSitu FIP 2022,CF SN | Climate and Forecast Standard Names Parameter Vocabulary,http://purl.org/np/RAAKVxy0ddPXoYA-zCIzRJyDWLOv_0KMYcbiH7ZN-bL0s
 ADVANCE FIP,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
+Copy of ADVANCE FIP,EnvThes | Environmental Thesaurus,http://purl.org/np/RAh0UxI-HQseaz4wKxvvn3TVufOC1J6MVjiBA8yShoHEc
 AnaEE CREA FIP 2019,anaeeThes | AnaEE Thesaurus,http://purl.org/np/RA0L4LP-hH87a-mgA64m1Vusfyo8nRmAPa-E3nQBYZUOo
 AnaEE CREA FIP 2021,anaeeThes | AnaEE Thesaurus,http://purl.org/np/RA0L4LP-hH87a-mgA64m1Vusfyo8nRmAPa-E3nQBYZUOo
 AnaEE_CREA_FIP_2020,anaeeThes | AnaEE Thesaurus,http://purl.org/np/RA0L4LP-hH87a-mgA64m1Vusfyo8nRmAPa-E3nQBYZUOo
@@ -2578,20 +2614,30 @@ AnaEE FIP 2021,OBOE-AnaEE ontology,http://purl.org/np/RA_5UF9Equ_tBCTG-LwA0eCVIu
 AnaEE FIP 2020,OBOE-AnaEE ontology,http://purl.org/np/RA_5UF9Equ_tBCTG-LwA0eCVIurryenIzlNSZJnHKArQg
 AnaEE FIP 2022,OBOE-AnaEE ontology,http://purl.org/np/RA_5UF9Equ_tBCTG-LwA0eCVIurryenIzlNSZJnHKArQg
 AnaEE FIP 2019,OBOE-AnaEE ontology,http://purl.org/np/RA_5UF9Equ_tBCTG-LwA0eCVIurryenIzlNSZJnHKArQg
+Euro Argo FIP 2019,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 Euro Argo FIP 2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+EuroArgo FIP 2020,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EuroArgo FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+Euro Argo FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 Euro Argo FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+Euro Argo FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 Euro Argo FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+DANUBIUS FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 DANUBIUS FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+DANUBIUS FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 DANUBIUS FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 DiSSCo FIP 2019,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences,http://purl.org/np/RAAEqbPwfnoD1mAD7J9XFtY1TeTVi0YSJMLOMYGYKwS5g
 DiSSCo FIP 2022,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences,http://purl.org/np/RAAEqbPwfnoD1mAD7J9XFtY1TeTVi0YSJMLOMYGYKwS5g
 DiSSCo FIP 2021,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences,http://purl.org/np/RAAEqbPwfnoD1mAD7J9XFtY1TeTVi0YSJMLOMYGYKwS5g
 DiSSCo FIP 2020,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences,http://purl.org/np/RAAEqbPwfnoD1mAD7J9XFtY1TeTVi0YSJMLOMYGYKwS5g
 EISCAT FIP 2022,Space Physics Ontology,http://purl.org/np/RA_Cpl5jMyklnCuVSGhC_rRygjtsCQhvFawT8flydZlAE
+EMSO ERIC FIP 2020 bm,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EMSO ERIC FIP 2020 bm,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+EMSO ERIC FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EMSO ERIC FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+EMSO ERIC FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EMSO ERIC FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+EMSO ERIC FIP 2019 bm,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 EMSO ERIC FIP 2019 bm,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 EPND Case study 1,EPND CS1 SHACL Description | Shape constraint language description for EPND Case study 1,http://purl.org/np/RAkNdNDIPRP8rDzvRPuXZMoeOishBzVaI2KX7ypcawOyQ
 EPOS FIP 2022,EPOS Common Vocabulary,http://purl.org/np/RABfZVUxCG8bwscTR41aLl_O_-NbCuD39I73vRbkUFO50
@@ -2629,6 +2675,7 @@ LifeWatch Ecosystems FIP 2021,PHYTOTRAITS | The Phytoplankton Traits,http://purl
 LifeWatch Ecosystems FIP 2021,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
 LifeWatch Ecosystems FIP 2021,FISHTRAITS | Fish Traits Thesaurus,http://purl.org/np/RAlOhTStK4UkqcORcVY4bYDVU2Hr0kb6FE-8Gv8Ax4M-4
 LifeWatch Ecosystems FIP 2021,IUCN | International Union for Conservation of Nature - Red List of Threatened Species,http://purl.org/np/RAsZUeEElg6eQ0hNs6ptqDDRuyUNeIQFv7ZTBzknfRMB8
+LifeWatch Ecosystems FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Ecosystems FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch Ecosystems FIP 2021,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
 LifeWatch Ecosystems FIP 2021,Marine Regions georeferences,http://purl.org/np/RAwVXeIR1JNH7P7bNB57JF2rAYE5L7LIpDYtt80mV9RcA
@@ -2643,11 +2690,13 @@ LifeWatch Ecosystems FIP 2022,CF SN | Climate and Forecast Standard Names Parame
 LifeWatch Ecosystems FIP 2022,Marine Regions georeferences,http://purl.org/np/RAwVXeIR1JNH7P7bNB57JF2rAYE5L7LIpDYtt80mV9RcA
 LifeWatch Ecosystems FIP 2022,ALIENSPECIES | Alien Species Thesaurus,http://purl.org/np/RA3sucbA34GKtCzYa1BW0VYdyH7JsbpmZAqJ3GfYsUJtQ
 LifeWatch Ecosystems FIP 2022,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
+LifeWatch Ecosystems FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Ecosystems FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch Ecosystems FIP 2022,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
 LifeWatch Ecosystems FIP 2020,CF SN | Climate and Forecast Standard Names Parameter Vocabulary,http://purl.org/np/RAAKVxy0ddPXoYA-zCIzRJyDWLOv_0KMYcbiH7ZN-bL0s
 LifeWatch Ecosystems FIP 2020,ISO 3166-1:2013 Codes for the representation of names of countries and their subdivisions - Part 1: Country codes,http://purl.org/np/RA3JN4yfB_gPFq1caYsgD9b8ALpjMrPzeAt3n2M115LkQ
 LifeWatch Ecosystems FIP 2020,MACROALGAETRAITS | Macroalgae Traits Thesaurus,http://purl.org/np/RA-oiR7ecFjlb8yuc3bAC0cH0iBiV2m9e-MAeWFni9F3w
+LifeWatch Ecosystems FIP 2020,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Ecosystems FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 LifeWatch Ecosystems FIP 2020,WoRMS | World Register of Marine Species,http://purl.org/np/RAxA8AYzdj6FwsAkRqz62ugdeIw54snGa8Upgoss8g2RE
 LifeWatch Ecosystems FIP 2020,ALIENSPECIES | Alien Species Thesaurus,http://purl.org/np/RA3sucbA34GKtCzYa1BW0VYdyH7JsbpmZAqJ3GfYsUJtQ
@@ -2668,15 +2717,21 @@ SSHOC-NL-SEH | SSHOC-NL Socio Economic History,AMCO Repertorium van Nederlandse 
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,IDS The Intermediate Data Structure for Longitudinal Historical Microdata,http://purl.org/np/RAZHhesTi4w3mxTTTLVte6hEuK-RVASTIoPtBb4r0bmE4
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,History Of Work Information System (HISCO),http://purl.org/np/RA71mYU3ODmId2dxjc-WND2MGFAmWP2lAltImL8hshWp8
 SeaDataNET CDI FIP 2020,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
+SeaDataNET CDI FIP 2020,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET CDI FIP 2020,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+SeaDataNET CDI FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET CDI FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET CDI FIP 2022,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
+SeaDataNET CDI FIP 2019,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET CDI FIP 2019,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET CDI FIP 2019,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
+SeaDataNET CDI FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET CDI FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET CDI FIP 2021,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
 SeaDataNET Sextant FIP 2021,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
+SeaDataNET Sextant FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET Sextant FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
+SeaDataNET Sextant FIP 2022,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 SeaDataNET Sextant FIP 2022,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
 SeaDataNET Sextant FIP 2022,SDM MD | SeaDataNet metadata directories,http://purl.org/np/RAk-ggyV5rqTSEDmjcy9WAzQY5oXfZTamwVkcHcrTE_28
 IUPAC Standards,IUPAC Gold Book ,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ
@@ -2717,6 +2772,7 @@ ACTRIS InSitu FIP 2021,WMO Core Profile | World Meteorological Organization Core
 ACTRIS InSitu FIP 2022,WMO Core Profile | World Meteorological Organization Core Metadata Profile,http://purl.org/np/RAMR4hXgFVP1uUF6VLwAZk0wjkFJgzVQYF2JttNCr9B4U
 ACTRIS InSitu FIP 2020,WMO Core Profile | World Meteorological Organization Core Metadata Profile,http://purl.org/np/RAMR4hXgFVP1uUF6VLwAZk0wjkFJgzVQYF2JttNCr9B4U
 ADVANCE FIP,ADVANCE metadata schema for biodiversity monitoring,http://purl.org/np/RApX2LBR50Ts23FkMFpqOAAPrMe2UHXmujndOZ-1X_uss
+Copy of ADVANCE FIP,ADVANCE metadata schema for biodiversity monitoring,http://purl.org/np/RApX2LBR50Ts23FkMFpqOAAPrMe2UHXmujndOZ-1X_uss
 AnaEE CREA FIP 2019,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
 AnaEE CREA FIP 2021,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
 AnaEE_CREA_FIP_2020,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
@@ -3043,6 +3099,7 @@ ACTRIS DVAS FIP 2022,CC BY 4.0 | Attribution 4.0 International,http://purl.org/n
 ACTRIS DVAS FIP 2021,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 ACTRIS GRES FIP 2022,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 ADVANCE FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
+Copy of ADVANCE FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 AnaEE CREA FIP 2019,GNU General Public License v3.0 or later,http://purl.org/np/RAsc1NzTeTMYfxxtwNHegPwFEu2SJoVt_8gc2pjkcsyo0
 AnaEE CREA FIP 2021,GNU General Public License v3.0 or later,http://purl.org/np/RAsc1NzTeTMYfxxtwNHegPwFEu2SJoVt_8gc2pjkcsyo0
 AnaEE_CREA_FIP_2020,GNU General Public License v3.0 or later,http://purl.org/np/RAsc1NzTeTMYfxxtwNHegPwFEu2SJoVt_8gc2pjkcsyo0
@@ -3149,6 +3206,7 @@ ACTRIS GRES FIP 2021,CC BY 4.0 | Attribution 4.0 International,http://purl.org/n
 ACTRIS InSitu FIP 2021,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 ACTRIS InSitu FIP 2022,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 ADVANCE FIP,CC BY SA 4.0 | Attribution-ShareAlike 4.0 International,http://purl.org/np/RA73P4emRUrf95co-6Qr-1KlrTlRzkd1t3Jqzb1ASSHm8
+Copy of ADVANCE FIP,CC BY SA 4.0 | Attribution-ShareAlike 4.0 International,http://purl.org/np/RA73P4emRUrf95co-6Qr-1KlrTlRzkd1t3Jqzb1ASSHm8
 AnaEE CREA FIP 2019,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 AnaEE CREA FIP 2021,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 AnaEE_CREA_FIP_2020,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
@@ -3308,6 +3366,7 @@ ACTRIS GRES FIP 2021,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIh
 ACTRIS InSitu FIP 2021,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ACTRIS InSitu FIP 2022,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ADVANCE FIP,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
+Copy of ADVANCE FIP,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
 AnaEE CREA FIP 2019,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 AnaEE CREA FIP 2021,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 AnaEE_CREA_FIP_2020,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
@@ -3410,6 +3469,7 @@ ACTRIS GRES FIP 2022,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIh
 ACTRIS GRES FIP 2021,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ACTRIS InSitu FIP 2022,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 ADVANCE FIP,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
+Copy of ADVANCE FIP,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
 AnaEE CREA FIP 2019,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 AnaEE CREA FIP 2021,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 AnaEE_CREA_FIP_2020,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
