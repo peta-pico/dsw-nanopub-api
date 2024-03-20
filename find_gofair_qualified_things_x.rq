@@ -13,6 +13,7 @@ select distinct ?thing ?label ?np ?date ?qualification_np where {
   graph npa:graph {
     ?np npa:hasHeadGraph ?h .
     ?np dct:created ?date .
+    filter(str(?date) > "2022")
     ?np npa:hasValidSignatureForPublicKey ?pubkey .
   }
   graph ?h {
