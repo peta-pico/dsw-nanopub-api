@@ -13,6 +13,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
   graph npa:graph {
     ?np npa:hasHeadGraph ?h .
     ?np dct:created ?date .
+    filter(str(?date) > "2022")
     ?np npa:hasValidSignatureForPublicKey ?pubkey .
   }
   graph ?h {
