@@ -14,6 +14,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
 {
   graph npa:graph {
     ?np dct:created ?date .
+    filter(str(?date) > "2022")
     ?np npa:hasValidSignatureForPublicKey ?pubkey .
     ?np np:hasAssertion ?a .
     filter not exists { ?npx npx:invalidates ?np ; npa:hasValidSignatureForPublicKey ?pubkey . }
@@ -27,6 +28,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
 } union { service <https://query.np.trustyuri.net/repo/type/070fa9a0f87a189bc2eb9d4c1a14f68f11538cc2229b9f4fd6ac026a3d2ce570> {
   graph npa:graph {
     ?np dct:created ?date .
+    filter(str(?date) > "2022")
     ?np npa:hasValidSignatureForPublicKey ?pubkey .
     ?np np:hasAssertion ?a .
     filter not exists { ?npx npx:invalidates ?np ; npa:hasValidSignatureForPublicKey ?pubkey . }
