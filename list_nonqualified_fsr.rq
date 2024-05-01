@@ -9,7 +9,7 @@ prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 prefix dct: <http://purl.org/dc/terms/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types) ?date where {
+select distinct ?np ?label (group_concat(distinct ?typelabel; separator = ", ") as ?types) ?date where {
   graph npa:graph {
     ?np npa:hasHeadGraph ?h .
     ?np dct:created ?date .
