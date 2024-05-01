@@ -2032,6 +2032,7 @@ WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,RDA CTS | RDA Core Trust Seal Certificat
 ACTRIS ARES FIP 2019,JSON Schema | JavaScript Object Notation Schema,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI
 ACTRIS ARES FIP 2020,JSON Schema | JavaScript Object Notation Schema,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI
 ACTRIS ARES FIP 2022,JSON Schema | JavaScript Object Notation Schema,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI
+ACTRIS ARES FIP 2022,SKOS | Simple Knowledge Organization System,https://w3id.org/np/RArNj4pHdAIu4zHXNRwD87PU8obq5e-0AzD7u5TzYXEH0
 ACTRIS ARES FIP 2022,SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
 ACTRIS ARES FIP 2021,JSON Schema | JavaScript Object Notation Schema,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI
 ACTRIS-ASC_FIP_2022,JSON | JavaScript Object Notation,http://purl.org/np/RAbV2g2AjtbD_n53nwC5B0eERessUJbrZO5PVRzM6ioC8
@@ -2141,6 +2142,7 @@ PARC TOXRIC FIP,IUPAC SMILES+ Specification ,http://purl.org/np/RA7rY4dFdjtt8ce0
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,SKOS | Simple Knowledge Organization System,https://w3id.org/np/RArNj4pHdAIu4zHXNRwD87PU8obq5e-0AzD7u5TzYXEH0
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
 SeaDataNET CDI FIP 2020,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 SeaDataNET CDI FIP 2020,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
@@ -2160,6 +2162,7 @@ SeaDataNET Sextant FIP 2022,XMLS | eXtensible Markup Language Schema,http://purl
 SeaDataNET Sextant FIP 2020,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 SeaDataNET Sextant FIP 2020,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 WorldFAIR WP11 Oceanography,JSON Schema | JavaScript Object Notation Schema,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI
+WorldFAIR WP11 Oceanography,SKOS | Simple Knowledge Organization System,https://w3id.org/np/RArNj4pHdAIu4zHXNRwD87PU8obq5e-0AzD7u5TzYXEH0
 WorldFAIR WP11 Oceanography,SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
 WorldFAIR WP11 Oceanography,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
 IUPAC Standards,International Chemical Identifier ,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw
@@ -2192,6 +2195,7 @@ IAGOS FIP 2022,JSON | JavaScript Object Notation,http://purl.org/np/RAbV2g2AjtbD
 IAGOS FIP 2020,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 IAGOS FIP 2020,JSON | JavaScript Object Notation,http://purl.org/np/RAbV2g2AjtbD_n53nwC5B0eERessUJbrZO5PVRzM6ioC8
 IAGOS FIP 2020,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
+INDIGEO PNDB RSI UBO,SKOS | Simple Knowledge Organization System,https://w3id.org/np/RArNj4pHdAIu4zHXNRwD87PU8obq5e-0AzD7u5TzYXEH0
 INDIGEO PNDB RSI UBO,SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
 INDIGEO PNDB RSI UBO,XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 IUPAC Gold Book (original FIP),Crossref (DOI),http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY
@@ -2298,6 +2302,7 @@ IPCHEM,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6
 IPCHEM,International Chemical Identifier ,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw
 LGBTQ+ Linked Open Vocabulary FIP,RDFS | Resource Description Framework Schema,http://purl.org/np/RAZnY3uCZKUvasXcQkIYl6YcIJOtUi5H9ZAKmd27BEhxk
 LGBTQ+ Linked Open Vocabulary FIP,RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
+LGBTQ+ Linked Open Vocabulary FIP,SKOS | Simple Knowledge Organization System,https://w3id.org/np/RArNj4pHdAIu4zHXNRwD87PU8obq5e-0AzD7u5TzYXEH0
 LGBTQ+ Linked Open Vocabulary FIP,SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
 LGBTQ+ Linked Open Vocabulary FIP,Turtle Format,http://purl.org/np/RAcAe-ljg14EaVYyTAMCtNltLR8DW8Bqr3W3Z6f3SmTvM
 LGBTQ+ Linked Open Vocabulary FIP,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
@@ -2353,6 +2358,7 @@ IAGOS FIP 2019,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_
 IAGOS FIP 2021,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
 IAGOS FIP 2022,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
 IAGOS FIP 2020,NetCDF | Network Common Data Form,http://purl.org/np/RALdTeTDMr1_FEVhZj63uDVh-LYS7jPvW-wpbIkAnWVFc
+IUPAC Gold Book (original FIP),SKOS | Simple Knowledge Organization System,https://w3id.org/np/RArNj4pHdAIu4zHXNRwD87PU8obq5e-0AzD7u5TzYXEH0
 IUPAC Gold Book (original FIP),SKOS|Simple Knowledge Organization System,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38
 LifeWatch Marine FIP 2019,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
 LifeWatch Marine FIP 2022,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
