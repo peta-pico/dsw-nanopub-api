@@ -22,7 +22,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
   }
   graph ?a {
     ?thing a ?maintype .
-    values ?maintype { <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> } .
+    values ?maintype { <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> <https://w3id.org/fair/fip/terms/Available-FAIR-Supporting-Resource> <https://w3id.org/fair/fip/terms/Available-FAIR-Enabling-Resource> } .
     ?thing a ?type .
     filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> )
     filter( ?type != <https://w3id.org/fair/fip/terms/Available-FAIR-Supporting-Resource> )
