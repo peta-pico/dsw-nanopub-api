@@ -21,7 +21,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
     filter not exists { ?np npx:hasNanopubType npx:ExampleNanopub . }
   }
   graph ?a {
-    ?thing a <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> .
+    #?thing a <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> .
     ?thing a ?type .
     ?thing rdfs:label ?labelx .
   }
@@ -35,7 +35,7 @@ select distinct ?np ?label (group_concat(?typelabel; separator = ", ") as ?types
     filter not exists { ?np npx:hasNanopubType npx:ExampleNanopub . }
   }
   graph ?a {
-    ?thing a <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> .
+    #?thing a <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> .
     ?thing a ?type .
     ?thing rdfs:label ?labelx .
   }
