@@ -70,8 +70,8 @@ EPOS FIP 2022,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRb
 EPOS FIP 2022,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 EPOS FIP 2019,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 EPOS ICS C FIP 2021,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
-EnvDS FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 EnvDS FIP,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
+EnvDS FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 GFTS,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 GFTS,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
 Stockholm Convention Global Monitoring Plan DWH,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
@@ -437,7 +437,7 @@ EPOS FIP 2022,European Plate Observing System - Data Catalogue vocabulary - Appl
 EPOS FIP 2019,European Plate Observing System - Data Catalogue vocabulary - Application Profile,http://purl.org/np/RAY4NNI5VLgyjWbw_3gD00jqgHYvyEPc-NB8cA_bZIOq4
 EPOS FIP 2019,EPOS Metadata Model,http://purl.org/np/RA5N4iyaenl9O0i2fsnUwNaqrvxCy1B22Ubomgse6ZJSc
 EPOS ICS C FIP 2021,European Plate Observing System - Data Catalogue vocabulary - Application Profile,http://purl.org/np/RAY4NNI5VLgyjWbw_3gD00jqgHYvyEPc-NB8cA_bZIOq4
-EnvDS FIP,Research Object Crate,http://purl.org/np/RAoL8yweXQtkI0nrPZEFwx2ft8DebueFFjWd7rjZr9qOM
+EnvDS FIP,RO-Crate | Research Object Crate,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM
 GFTS,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
 Stockholm Convention Global Monitoring Plan DWH,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis
 GalaxyClimate,Research Object Crate,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA
@@ -3053,8 +3053,8 @@ EMSO ERIC FIP 2022,OceanSITES | OceanSITES Data Format,http://purl.org/np/RAJrKV
 EMSO ERIC FIP 2021,OceanSITES | OceanSITES Data Format,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYKYZ5Fj4
 EMSO ERIC FIP 2019 bm,OceanSITES | OceanSITES Data Format,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYKYZ5Fj4
 EPND Case study 1,SNOMED CT ontology | SNOMED Clinical Terms Ontology,http://purl.org/np/RAW1zDE59iIcXR1Z3Nxpn1Md_RDfI_BDXUgqAGvuiZthE
-EnvDS FIP,Research Object Crate,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA
 EnvDS FIP,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
+EnvDS FIP,Research Object Crate,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA
 GFTS,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
 GalaxyClimate,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
 PandemicPACT FIP,DataCite Metadata Scheme,http://purl.org/np/RAl80tWl_i_CPaLWi13ofQe3tLCuY74uby1v8VbzfY8_0
