@@ -105,6 +105,7 @@ ICOS FIP 2019,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRb
 IPCHEM,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 IPCHEM,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 LGBTQ+ Linked Open Vocabulary FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+LISS Data Archive FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch Ecosystems FIP 2019,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch Ecosystems FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch Ecosystems FIP 2022,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
@@ -272,6 +273,7 @@ IPCHEM,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfO
 IPCHEM,UUID | Universally Unique Identifier,http://purl.org/np/RAhtqDSSb5hNqBrpSGl25xayPVhQJ1s6IXImbcoUTfQYI
 IPCHEM,UUID | Universally Unique Identifier,http://purl.org/np/RAhtqDSSb5hNqBrpSGl25xayPVhQJ1s6IXImbcoUTfQYI
 LGBTQ+ Linked Open Vocabulary FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+LISS Data Archive FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch Ecosystems FIP 2019,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch Ecosystems FIP 2021,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch Ecosystems FIP 2022,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
@@ -463,6 +465,7 @@ ICOS FIP 2019,GeoDCAT-AP,http://purl.org/np/RA7L2DFHltF5fCvf4KFM2Is6hPxj3B5F9kId
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
 LGBTQ+ Linked Open Vocabulary FIP,MARC21 Format for Bibliographic Data,http://purl.org/np/RAnzko_TgZ7aI884gMfVpfPQEKoR34jIVV-_khLUA9jjU
 LGBTQ+ Linked Open Vocabulary FIP,BIBFRAME 2.0,http://purl.org/np/RAuBubbociYvNsqiHudoQ6bt3RSPMBpgBB-I5Ep_VLJ0s
+LISS Data Archive FIP,DDI Lifecycle 3.1,https://w3id.org/np/RAjkgPdupBcUkAd5pnGzxLaZWA84tEeHSR-qvYhJmOh2M
 LifeWatch Ecosystems FIP 2019,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
 LifeWatch Ecosystems FIP 2019,EML | Ecological Metadata Language,http://purl.org/np/RAOPGoOczaegFi3GRE4hOU-37ddBMRDAJehqgA5xEm_pI
 LifeWatch Ecosystems FIP 2021,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
@@ -647,6 +650,7 @@ ICOS FIP 2022,LOD | Linked Open Data,http://purl.org/np/RAaG3HBFawImbh3dHLK-bJZp
 ICOS FIP 2019,LOD | Linked Open Data,http://purl.org/np/RAaG3HBFawImbh3dHLK-bJZpEOcblSJUTAZvhaypiMaw4
 IPCHEM,,
 LGBTQ+ Linked Open Vocabulary FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+LISS Data Archive FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 LifeWatch Ecosystems FIP 2019,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
 LifeWatch Ecosystems FIP 2021,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
 LifeWatch Ecosystems FIP 2022,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
@@ -791,6 +795,12 @@ ICOS FIP 2022,B2FIND,http://purl.org/np/RA9ISbUauVHNpcfynVcz3fgoPcumM410nA8G2gRu
 ICOS FIP 2022,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
 ICOS FIP 2019,B2FIND,http://purl.org/np/RA9ISbUauVHNpcfynVcz3fgoPcumM410nA8G2gRuLt2hg
 ICOS FIP 2019,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
+LISS Data Archive FIP,LISS Data Archive,https://w3id.org/np/RACEE6zu5NoXHipwdS_PEkozurLlftYbn0qj-Qg_uWBK0
+LISS Data Archive FIP,GESIS Search,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc
+LISS Data Archive FIP,Survey Data Netherlands ,https://w3id.org/np/RA9jSAImfXnL74vfwiiT2qXZqz5klHYDyy0Meah_UqGaQ
+LISS Data Archive FIP,ODISSEI Portal,http://purl.org/np/RAcv6GezhLQWkYxGltQo_UBVRUJdmroqGkxFSJVOtqXDg
+LISS Data Archive FIP,CESSDA Data Catalogue,http://purl.org/np/RAwXD9PVzFg8U0G7BXKh61OmTe37NDI5W_MXaGXRf5GFA
+LISS Data Archive FIP,B2FIND,http://purl.org/np/RA9ISbUauVHNpcfynVcz3fgoPcumM410nA8G2gRuLt2hg
 LifeWatch Ecosystems FIP 2021,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
 LifeWatch Ecosystems FIP 2021,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
 LifeWatch Ecosystems FIP 2022,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
@@ -1022,6 +1032,7 @@ ICOS FIP 2022,Dimensions,http://purl.org/np/RA9dDob7paL9ONPCh5iJNE-jftu9-Z_vmuTW
 ICOS FIP 2022,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
 ICOS FIP 2019,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal,http://purl.org/np/RA2BX78JejSHyJsRSkvfRY3_YAzlv749lrPYcCRq1jWZY
 ICOS FIP 2019,re3data | Registry of Research Data Repositories,http://purl.org/np/RAlMS06O1ybZUqangqEjq7IMcPhs74QeWPGc5PPIAiELY
+LISS Data Archive FIP,LISS Data Archive,https://w3id.org/np/RACEE6zu5NoXHipwdS_PEkozurLlftYbn0qj-Qg_uWBK0
 LifeWatch Ecosystems FIP 2021,Google Search,http://purl.org/np/RAi15QDDbLsQv-sJmThI3ecyluuDr6tgpHCSSRiDZnJzo
 LifeWatch Ecosystems FIP 2021,DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
 LifeWatch Ecosystems FIP 2022,LifeWatch ERIC Metadata Catalogue,http://purl.org/np/RAG7G7nyJ8l-O6oQvTexZvBIRbaljYkYFAOCKeqsXIgdg
@@ -1272,6 +1283,8 @@ IPCHEM,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3
 IPCHEM,SPARQL (open) endpoint,http://purl.org/np/RAkU_Doo6GSAf3AkZUYOPh4PWLQhLxtO7uMlghodnEjMI
 LGBTQ+ Linked Open Vocabulary FIP,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 LGBTQ+ Linked Open Vocabulary FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
+LISS Data Archive FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
+LISS Data Archive FIP,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema,http://purl.org/np/RAgLYijxrGXwrojSBy75aX4_r_F8Z2qJ1FfKI5JiQQoZk
 LifeWatch Ecosystems FIP 2019,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 LifeWatch Ecosystems FIP 2021,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 LifeWatch Ecosystems FIP 2022,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
@@ -2003,6 +2016,8 @@ ICOS FIP 2020,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNa
 ICOS FIP 2021,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
 ICOS FIP 2022,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
 ICOS FIP 2019,The ICOS Preservation Policy,http://purl.org/np/RAyZ8K5kvOT_qDPLNaB6H_Qv1AQ99rloHUE75Ew0tHTDQ
+LISS Data Archive FIP,RDA CTS | RDA Core Trust Seal Certification,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4
+LISS Data Archive FIP,RDA CTS | RDA Core Trust Seal Certification,http://purl.org/np/RATeQzbXaxtaF3zCgISMqrqw235tCKG43eN2Z7g4Pws24
 NORMAN Database System- MassBank EU,MBEU_MPP | MassBank Europe Metadata Preservation Policy,http://purl.org/np/RA4TRi7z-xt2bM94yzv-wHZPPayXOlRG4t-Y9xaFa1SkM
 Nanopublication FIP,NP_MPP | Metadata preservation policy for nanopublications,http://purl.org/np/RAHgNhdw0SHzh4shMFkGkKnqEDgSzBP_R-CQFe1P8KW64
 JB-test,Argo GDAC long term archive,http://purl.org/np/RA5m0OcAgs1kBJ7hWDj-vP8OrmzefTfTD6W7hgdOvWY0g
@@ -2480,6 +2495,10 @@ LGBTQ+ Linked Open Vocabulary FIP,QLIT | Queer Literature Indexing Thesaurus,htt
 LGBTQ+ Linked Open Vocabulary FIP,Homosaurus,http://purl.org/np/RAkaanpx9ThwPJuHKsUSBQtvEkS4eaCX4p4hW67KIFOpk
 LGBTQ+ Linked Open Vocabulary FIP,RVM | Répertoire de vedettes-matière de l'Université Laval ,http://purl.org/np/RAhjjm6dptxfd6_hQxldIlrmy0wlil3hywSQE6pP_ep6c
 LGBTQ+ Linked Open Vocabulary FIP,Library of Congress Subject Headings (LCSH),http://purl.org/np/RAPbPkvyFnB0zf4Y80_RShjNfCZ9VBLQKvIuI9lUfZjnY
+LISS Data Archive FIP,DDI Controlled Vocabularies,http://purl.org/np/RAZVaY2uNntIyIJVo_f43W9csVA__TohoawN9ZzM0SECs
+LISS Data Archive FIP,ELSST|European Language Social Science Thesaurus,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws
+LISS Data Archive FIP,ISCO-08 | The International Standard Classification of Occupations,https://w3id.org/np/RA1qhkgRApF8eT0K31wqsxEW8DTBljNMZAtcA12gqL6BA
+LISS Data Archive FIP,DCMI Metadata Terms|Dublin Core Metadata Terms,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E
 LifeWatch Ecosystems FIP 2021,GeoDCAT-AP,http://purl.org/np/RA7L2DFHltF5fCvf4KFM2Is6hPxj3B5F9kId1KQxuv2rk
 LifeWatch Ecosystems FIP 2021,NVS | NERC Vocabularies,https://w3id.org/np/RAMNJRKZqvGaczJgI4gqwx7M9ubk7qEq155NamlN0MyZI
 LifeWatch Ecosystems FIP 2021,NVS | NERC Vocabulary Service,http://purl.org/np/RALo5hCkjUypW1--FowBTySxAtHqnyD4GqgcYio9EuOVI
@@ -2875,6 +2894,7 @@ ICOS FIP 2021,ICOS Ontology | Integrated Carbon Observation System Ontology,http
 ICOS FIP 2022,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 ICOS FIP 2019,ICOS Ontology | Integrated Carbon Observation System Ontology,http://purl.org/np/RALCNek-_XO6p7DXGRvP5sEc3Uxg8NQNWKfwcREd8FQA4
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
+LISS Data Archive FIP,DDI Lifecycle 3.1,https://w3id.org/np/RAjkgPdupBcUkAd5pnGzxLaZWA84tEeHSR-qvYhJmOh2M
 LifeWatch Ecosystems FIP 2019,EML | Ecological Metadata Language,http://purl.org/np/RAOPGoOczaegFi3GRE4hOU-37ddBMRDAJehqgA5xEm_pI
 LifeWatch Ecosystems FIP 2019,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
 LifeWatch Ecosystems FIP 2021,ISO 19139 | Geographic information - Metadata - XML schema implementation,http://purl.org/np/RA16xMcsHVSBrplHnx4UPWTXyq6WeS_XydAVBNXmlqGWY
@@ -3074,6 +3094,7 @@ ICOS FIP 2019,ICOS Ontology | Integrated Carbon Observation System Ontology,http
 ICOS FIP 2019,NetCDF CF-1.7,http://purl.org/np/RA4Stwox5_Lq95jY7JU8pySzrQqA13FEK-D83WE2w8Dgo
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
 LGBTQ+ Linked Open Vocabulary FIP,DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
+LISS Data Archive FIP,DDI Lifecycle 3.1,https://w3id.org/np/RAjkgPdupBcUkAd5pnGzxLaZWA84tEeHSR-qvYhJmOh2M
 LifeWatch Ecosystems FIP 2019,DwC-A | Darwin Core Archive,http://purl.org/np/RAC18S3lggrM7SoZ7QuwIFr0gV-TvY9Le2y2saWoMg34o
 LifeWatch Ecosystems FIP 2019,EML | Ecological Metadata Language,http://purl.org/np/RAOPGoOczaegFi3GRE4hOU-37ddBMRDAJehqgA5xEm_pI
 LifeWatch Ecosystems FIP 2019,NetCDF_CF_SDN | NETCDF CF format SeaDataNet Profile,http://purl.org/np/RApG3XPVbzIYjZn_j2ihhIXr13Rx4S1NzxVTpCWgbrmfA
@@ -3193,6 +3214,7 @@ ICOS FIP 2020,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.o
 ICOS FIP 2021,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 ICOS FIP 2022,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 ICOS FIP 2019,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
+LISS Data Archive FIP,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 LifeWatch Ecosystems FIP 2019,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 LifeWatch Ecosystems FIP 2019,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA
 LifeWatch Ecosystems FIP 2021,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
@@ -3308,6 +3330,7 @@ ICOS FIP 2022,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.o
 ICOS FIP 2022,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 ICOS FIP 2019,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 LGBTQ+ Linked Open Vocabulary FIP,CC BY-NC-ND 4.0 | Attribution-NonCommercial-NoDerivatives 4.0 International,http://purl.org/np/RAsHps5X17EiVP-ByVsvIqn3rKwP64PFqiH1IWY4Pe5i4
+LISS Data Archive FIP,LISS Usage License,https://w3id.org/np/RAp7ysXvcmMUm5xxd4DLfDXVRDSHbUOV5UM35Rb5dEV8g
 LifeWatch Ecosystems FIP 2019,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 LifeWatch Ecosystems FIP 2019,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA
 LifeWatch Ecosystems FIP 2019,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
@@ -3456,6 +3479,7 @@ ICOS FIP 2022,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEn
 ICOS FIP 2019,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 IPCHEM,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
+LISS Data Archive FIP,DDI Lifecycle 3.1,https://w3id.org/np/RAjkgPdupBcUkAd5pnGzxLaZWA84tEeHSR-qvYhJmOh2M
 Nanopublication FIP,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 JB-test,CERIF | Common European Research Information Format,http://purl.org/np/RAtv_q4s-8xxL_is8gV8GPDwoqVY550Omdvy9Rg0Liaqc
 PARC TOXRIC FIP,CKAN | Comprehensive Knowledge Archive Network,http://purl.org/np/RA2ZRsIVy0tmN5lKAocqMXxaiBgmMBwPV_J_TC74SYtok
@@ -3570,6 +3594,7 @@ ICOS FIP 2022,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEn
 ICOS FIP 2019,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 IPCHEM,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe,http://purl.org/np/RAXSTAZxAoVgTvt5PEeX3uHuJsu2hH-djhrsYpU8-NiQA
+LISS Data Archive FIP,DDI Lifecycle 3.1,https://w3id.org/np/RAjkgPdupBcUkAd5pnGzxLaZWA84tEeHSR-qvYhJmOh2M
 Nanopublication FIP,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 WorldFAIR WP04 NANOMATERIALS FIP01,PREservation Metadata Implementation Strategies (PREMIS) v3.0,http://purl.org/np/RAHagwV-mH0CNigqEnjYefZmcG0tx6AJOECwmaeRrrbII
 PARC TOXRIC FIP,DDI Lifecycle 3.2 Metadata Schema,http://purl.org/np/RAKk2DMKAucMpTnicHQthFjTU4W86F482XieWKO9VXFO8
