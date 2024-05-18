@@ -124,6 +124,7 @@ WorldFAIR WP04 NANOMATERIALS FIP01,ORCID | Open Researcher and Contributor ID,ht
 WorldFAIR WP04 NANOMATERIALS FIP01,IUPAC International Chemical Identifier,http://purl.org/np/RAp2h5QufBE4kWgqbhwyajGHzvTN-foKe14pQYypDQKWk
 WorldFAIR WP04 NANOMATERIALS FIP01,ROR | Research Organization Registry,http://purl.org/np/RAG6QURkgCCpJnr2Omx1dHA9j7AatPO4Kc1EIfhhg3LyE
 WorldFAIR WP04 NANOMATERIALS FIP01,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 PARC HBM | PARC Human Biomonitoring Data,DARA | DOI registration agency for social and economic data,http://purl.org/np/RAL87YhOZ27MRxHv0562P9wPwWWe6pJ8YXkkMEC3oxOFA
 PARC TOXRIC FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 PARC TOXRIC FIP,PURL | Persistent Uniform Resource Locator,http://purl.org/np/RAP2JVnzTTJImG7qQQd7v9u0vu6kDlcGc0006R2S86L6A
@@ -285,6 +286,7 @@ Nanopublication FIP,PURL | Persistent Uniform Resource Locator,http://purl.org/n
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 WorldFAIR WP04 NANOMATERIALS FIP01,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 WorldFAIR WP04 NANOMATERIALS FIP01,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 PARC TOXRIC FIP,ORCID | Open Researcher and Contributor ID,http://purl.org/np/RAtIFnvA0nuTJjr4QEBw8j_CNW-8D7xLAC42qLxSZqDMo
 PARC TOXRIC FIP,URI | Uniform Resource Identifier,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c
 PARC TOXRIC FIP,TOXRIC-TAID | TOXRIC Unique ID for chemicals,https://w3id.org/np/RAWdw6V8WqtS_znzrYZkKzNP9M5Qcsuj8w1ihPFU4wSdA
@@ -486,6 +488,7 @@ WorldFAIR WP04 NANOMATERIALS FIP01,QMRF | QSAR Model Reporting Format,https://w3
 WorldFAIR WP04 NANOMATERIALS FIP01,Frictionless datapackage metadata standard,http://purl.org/np/RA3ANxquLS74NljEgj7Z9zGzEwwZRv8cc8BcCX1YjlFkY
 WorldFAIR WP04 NANOMATERIALS FIP01,DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
 WorldFAIR WP04 NANOMATERIALS FIP01,Characterisation-Data,http://purl.org/np/RA820rU-2R1m7RUEaK3Kd6IA0y6keZLX4NdYFM2x79RTQ
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),DataCite Metadata Schema Version 3.1,http://purl.org/np/RAOQ3iT6k_JCfwkreOvbcvQ38jUZcQZIalxAfabGQtZuU
 PARC TOXRIC FIP,DDI Lifecycle 3.2 Metadata Schema,http://purl.org/np/RAKk2DMKAucMpTnicHQthFjTU4W86F482XieWKO9VXFO8
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,Encoded Archival Description,http://purl.org/np/RAZ3fpdCrJvdoWjgK1BW02Anv4AocL6FnJkgtjGYD7hHg
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,MARC21 Format for Bibliographic Data,http://purl.org/np/RAnzko_TgZ7aI884gMfVpfPQEKoR34jIVV-_khLUA9jjU
@@ -659,6 +662,7 @@ ODISSEI MCAL FIP,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3
 Materials Project,,
 Nanopublication FIP,NP_onto | Nanopublication Ontology,https://w3id.org/np/RAM5zmbkctjoWZRFD2EKlKjfcrN5AnJtAN7XjUrIPUcBA
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),DataCite | DataCite Ontology,http://purl.org/np/RAyz2MgaMT31GFTEsgMilmLw65PaPDCn1DDbkxVGrA08k
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,Handle System,http://purl.org/np/RAzcNzcKSufkPxII5n6Es_r38AcnEPiJpjbUxVdSMkcuA
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,DOI | Digital Object Identifier,http://purl.org/np/RAVI6ifsFrq3vkzlwYn5-D-x31ORGJEZ8af0DsBfzQprU
 Social Science Survey Research V2,DA|RA DOI registration agency for social and economic data.,http://purl.org/np/RAbX1P-3IYukp9P1L1mqspwiZjN-mM0_IAiP662KJFhjo
@@ -827,6 +831,7 @@ WorldFAIR WP04 NANOMATERIALS FIP01,Zenodo,https://w3id.org/np/RAnh2U-tqJDUghZemQ
 WorldFAIR WP04 NANOMATERIALS FIP01,NSC open dataset inventory,http://purl.org/np/RAjovVPhMA4bCa0SVhPre5x17hn1mPqc5rjtPpRoSh-uM
 WorldFAIR WP04 NANOMATERIALS FIP01,NanoCommons Knowledge Base,http://purl.org/np/RA1kA_6seb_Ea7QzQjZjSvZjfoEJf8r-78Zpz4_PE7Nng
 WorldFAIR WP04 NANOMATERIALS FIP01,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),The Dataverse Project,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,The Dataverse Project,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History, Netwerk Digitaal Erfgoed (the Dutch Digital Heritage Network) Dataset Register,http://purl.org/np/RAlzPQ0qu74AzU_-U8QXlNB1Clr3Lrfk6WGjy4DP7L5VA
 Social Science Survey Research V2,GESIS Search,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc
@@ -1056,6 +1061,7 @@ WorldFAIR WP04 NANOMATERIALS FIP01,eNanoMapper database,http://purl.org/np/RATFt
 WorldFAIR WP04 NANOMATERIALS FIP01,NanoCommons Knowledge Base,http://purl.org/np/RA1kA_6seb_Ea7QzQjZjSvZjfoEJf8r-78Zpz4_PE7Nng
 WorldFAIR WP04 NANOMATERIALS FIP01,Google Dataset Search,http://purl.org/np/RABQevgoBbk9Xi5bfHwvz4aEf5ZLf2Me02NkjcR6g0mng
 WorldFAIR WP04 NANOMATERIALS FIP01,nanoPharos database,http://purl.org/np/RAV8n1_dl6yXvoryYdX9nUwk_Ym0jiVWgFhikw3STq3b4
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),The Dataverse Project,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,DANS Data Station-Social Science and Humanities (SSH),https://w3id.org/np/RA4_3aIOoOLiIrTVW1ZUDeV-qv8qCGZXcl8ACKZ3L1RMI
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,The Dataverse Project,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k
 Social Science Survey Research V2,GESIS Search,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc
@@ -1297,6 +1303,7 @@ Nanopublication FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/n
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 WorldFAIR WP04 NANOMATERIALS FIP01,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 JB-test,CSW | Catalog Service for the Web,http://purl.org/np/RAqJyIk27OEWW4hIMR5Q88KQdQOj4BY7sPx4277MjZWOQ
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
@@ -1580,6 +1587,7 @@ Nanopublication FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/n
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 WorldFAIR WP04 NANOMATERIALS FIP01,FTP | File Transfer Protocol,http://purl.org/np/RAESPjGTx-3Ih4rkLnS8lkYFJ2J0LZm94h62UbQB5MYl8
 WorldFAIR WP04 NANOMATERIALS FIP01,REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),REST | Representational state transfer,http://purl.org/np/RAj9cBV1oIiewQr3lujUdASIBzt596ti_qUXh4ikWAl9w
 PARC HBM | PARC Human Biomonitoring Data,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
 JB-test,CSW | Catalog Service for the Web,http://purl.org/np/RAqJyIk27OEWW4hIMR5Q88KQdQOj4BY7sPx4277MjZWOQ
 PARC TOXRIC FIP,HTTPS | Hypertext Transfer Protocol Secure,http://purl.org/np/RAQMemFusa3RG0PhZ7oY9uL-Io2ey339_Moj1zL2jwvTE
@@ -2150,6 +2158,8 @@ NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformati
 WorldFAIR WP04 NANOMATERIALS FIP01,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
 WorldFAIR WP04 NANOMATERIALS FIP01,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
 WorldFAIR WP04 NANOMATERIALS FIP01,RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),JSON Schema | JavaScript Object Notation Schema,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
 JB-test,IUPAC Standard InChI-based Representation of Chemical Reactions,http://purl.org/np/RAm3fujGbvDzV5iSQb3eWx1elxWu9UQUPsHWtNAbZTa-M
 PARC TOXRIC FIP,JSON | JavaScript Object Notation,http://purl.org/np/RAbV2g2AjtbD_n53nwC5B0eERessUJbrZO5PVRzM6ioC8
 PARC TOXRIC FIP,International Chemical Identifier ,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw
@@ -2338,6 +2348,7 @@ Nanopublication FIP,RDF | Resource Description Framework,http://purl.org/np/RAut
 WorldFAIR WP04 NANOMATERIALS FIP01,RDF | Resource Description Framework,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs
 WorldFAIR WP04 NANOMATERIALS FIP01,JSON-LD | JavaScript Object Notation for Linking Data,http://purl.org/np/RAnRDe5tB9qKa67_GjDBPz5ufvBHO9HAnM1xKB5lsIyF4
 WorldFAIR WP04 NANOMATERIALS FIP01,OWL | Web Ontology Language,http://purl.org/np/RAOZ4YZDrUS8GCZU_0Quq8ZQE6GDDGpizfkIBtrfYf_Bo
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),XMLS | eXtensible Markup Language Schema,http://purl.org/np/RAfAreXE6tzkX1FOvK-nDL4tvmNCAJKCa-WVj9XSfTMx4
 JB-test,CKAN | Comprehensive Knowledge Archive Network,http://purl.org/np/RA2ZRsIVy0tmN5lKAocqMXxaiBgmMBwPV_J_TC74SYtok
 PARC TOXRIC FIP,International Chemical Identifier ,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw
 PARC TOXRIC FIP,IUPAC SMILES+ Specification ,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc
@@ -2911,6 +2922,7 @@ LifeWatch Ecosystems FIP 2020,EML >=2.2.0 | Ecological Metadata Language >=2.2.0
 LifeWatch Ecosystems FIP 2020,Parthenos Entities,http://purl.org/np/RAQWPnVTkiVRY9SjkTL0E7pA7ZmgSRLkuLYePDZo9gJtA
 LifeWatch Ecosystems FIP 2020,LUPO | LifeWatch ERIC Upper Ontology,http://purl.org/np/RAC-W3xuD9L89BLk2RUBYgbcUU40zCfVNwAQ8kyhEqang
 Nanopublication FIP,NP_onto | Nanopublication Ontology,https://w3id.org/np/RAM5zmbkctjoWZRFD2EKlKjfcrN5AnJtAN7XjUrIPUcBA
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
 PARC TOXRIC FIP,Schema.org Dataset,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y
 PARC TOXRIC FIP,DC | Dublin Core,http://purl.org/np/RAK3QFfVH3RgiiuQgzFbFwABVhk3Jkjzd1XuATnoOavrA
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,IDS The Intermediate Data Structure for Longitudinal Historical Microdata,http://purl.org/np/RAZHhesTi4w3mxTTTLVte6hEuK-RVASTIoPtBb4r0bmE4
@@ -3235,6 +3247,8 @@ NORMAN Database System- MassBank EU,CC BY 4.0 | Attribution 4.0 International,ht
 Nanopublication FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 WorldFAIR WP04 NANOMATERIALS FIP01,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 PARC TOXRIC FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 Social Science Survey Research V2,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication,http://purl.org/np/RAVKwCGh_nTX2V3XLOEOwhEu3Pz_8YSaGyVGGoMOlduCs
 SeaDataNET CDI FIP 2020,SDN DA L 1.0 | SeaDataNet Data Access License 1.0,http://purl.org/np/RAbOXm97oubkwYaYE8q58TWOtMYSQ2C4Wu0l0rybBA4YM
@@ -3348,6 +3362,7 @@ Nanopublication FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 WorldFAIR WP04 NANOMATERIALS FIP01,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 WorldFAIR WP04 NANOMATERIALS FIP01,Open Government Licence v3.0 for Public Sector Information (UK),http://purl.org/np/RAC-UKW_GSIdHvRc8OZJyAcQK1__Ey56ge7RIrVaOthM0
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 JB-test,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 PARC TOXRIC FIP,CC BY 4.0 | Attribution 4.0 International,http://purl.org/np/RAzrzsRCI_jNEBWXYQf8nfBTvFtE5AuvUGpCMv5yqx2MA
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,CC-BY-NC 2.0,http://purl.org/np/RAWCImVlPF6-8_6LzXaXiRYqyQQMnVq8hDwngXzuOYPyI
@@ -3597,6 +3612,7 @@ IPCHEM,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in
 LISS Data Archive FIP,DDI Lifecycle 3.1,https://w3id.org/np/RAjkgPdupBcUkAd5pnGzxLaZWA84tEeHSR-qvYhJmOh2M
 Nanopublication FIP,PROV-O | W3C PROV Ontology,http://purl.org/np/RAQXMhOmGWiIhMUa0HEnr_YWLkUdv5ViHQ4IsEmKoZARY
 WorldFAIR WP04 NANOMATERIALS FIP01,PREservation Metadata Implementation Strategies (PREMIS) v3.0,http://purl.org/np/RAHagwV-mH0CNigqEnjYefZmcG0tx6AJOECwmaeRrrbII
+GEOROC | Geochemistry of Rocks of the Oceans and Continents),Observations Data Model 2 | ODM2,https://w3id.org/np/RA8bhiNYaZs6vn1Szxynf1KO8fascE-m8zknTzb2GGxbs
 PARC TOXRIC FIP,DDI Lifecycle 3.2 Metadata Schema,http://purl.org/np/RAKk2DMKAucMpTnicHQthFjTU4W86F482XieWKO9VXFO8
 PARC TOXRIC FIP,MIDS | Minimum Information Standard for Digital Specimens,http://purl.org/np/RAbU1Pg-kRI2F3QhWMONgqzQf9bkDSh4B_SbkLy3d-0UY
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,DCAT | Data Catalog Vocabulary Version 3,http://purl.org/np/RAse6lNAHQyotpGAt7cG75FPx6EvM4MSMau9CM8X6VtSA
