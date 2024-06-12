@@ -1,7 +1,7 @@
 #+ summary: List non-qualified FAIR Enabling/Supporting Resources
 #+ method: GET
 #+ pagination: 10000
-#+ endpoint: https://query.np.trustyuri.net/repo/type/3ef5b11551ebc44e34f4bca614b387204447656ce195314532769ca7b20143fe
+#+ endpoint: https://query.np.trustyuri.net/repo/empty
 
 prefix np: <http://www.nanopub.org/nschema#>
 prefix npa: <http://purl.org/nanopub/admin/>
@@ -11,21 +11,15 @@ prefix dct: <http://purl.org/dc/terms/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 select distinct ?np ?label (group_concat(distinct ?typelabel; separator = ", ") as ?types) ?date where {
-{
-  graph npa:graph {
-    ?np dct:created ?date .
-    filter(str(?date) > "2022")
-    ?np npa:hasValidSignatureForPublicKey ?pubkey .
-    ?np np:hasAssertion ?a .
-    filter not exists { ?npx npx:invalidates ?np ; npa:hasValidSignatureForPublicKey ?pubkey . }
-    filter not exists { ?np npx:hasNanopubType npx:ExampleNanopub . }
-  }
-  graph ?a {
-    #?thing a <https://w3id.org/fair/fip/terms/FAIR-Enabling-Resource> .
-    ?thing a ?type .
-    ?thing rdfs:label ?labelx .
-  }
-} union { service <https://query.np.trustyuri.net/repo/type/070fa9a0f87a189bc2eb9d4c1a14f68f11538cc2229b9f4fd6ac026a3d2ce570> {
+
+values ?service {
+  <https://query.np.trustyuri.net/repo/type/3ef5b11551ebc44e34f4bca614b387204447656ce195314532769ca7b20143fe>
+  <https://query.np.trustyuri.net/repo/type/070fa9a0f87a189bc2eb9d4c1a14f68f11538cc2229b9f4fd6ac026a3d2ce570>
+  <https://query.np.trustyuri.net/repo/type/6a09747868afc83837e38d1bac79362fbcc3e2032cff2f2d244f4e24cbd085c6>
+  <https://query.np.trustyuri.net/repo/type/92efd7a0ea4be4e01ec0817ccec87f975203b30addcc3166a204498ffed73b66>
+  <https://query.np.trustyuri.net/repo/type/2d7aa7a2eac5d58b5cf928ab5e5a71ed1bda00845942f26fc31647c42c7c58a3>
+}
+service ?service {
   graph npa:graph {
     ?np dct:created ?date .
     filter(str(?date) > "2022")
@@ -39,7 +33,8 @@ select distinct ?np ?label (group_concat(distinct ?typelabel; separator = ", ") 
     ?thing a ?type .
     ?thing rdfs:label ?labelx .
   }
-} }
+}
+  
 filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource> )
 filter( ?type != <https://w3id.org/fair/fip/terms/Available-FAIR-Supporting-Resource> )
 filter( ?type != <https://w3id.org/fair/fip/terms/FAIR-Supporting-Resource-to-be-Developed> )
