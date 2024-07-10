@@ -2751,9 +2751,9 @@ EPOS ICS C FIP 2021,http://purl.org/np/RASprqFEVJNe7eK1OfVKRL1xo9zk_iacCmTGCvZzu
 EPOS ICS C FIP 2021,http://purl.org/np/RASprqFEVJNe7eK1OfVKRL1xo9zk_iacCmTGCvZzucGdw#EPOS_vocab,EPOS Common Vocabulary
 EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 GFTS,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
+GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAr9UU89m_5fXYPPowF2lL9u5ugfhJ4em3zc62mTts6f4#ISCED,ISCED | International Standard Classification of Education
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA1qhkgRApF8eT0K31wqsxEW8DTBljNMZAtcA12gqL6BA#ISCO-08,ISCO-08 | The International Standard Classification of Occupations
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAKy68K-ubbaV8BKrbYyJQ1NYKcCkvQPpgrQ7rdWbvjRU#ISO_3166,ISO 3166-1:2013 Codes for the representation of names of countries and their subdivisions - Part 1: Country codes
-GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAr9UU89m_5fXYPPowF2lL9u5ugfhJ4em3zc62mTts6f4#ISCED,ISCED | International Standard Classification of Education
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis#SCGMPDWH_AIR,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air
 GalaxyClimate,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 ICOS FIP 2023,http://purl.org/np/RA4oRRKTg5X-e0JOtnuXbrZBaNRJnMICD_R3z4r6olOTU#ICOS_ontology,ICOS Ontology | Integrated Carbon Observation System Ontology
