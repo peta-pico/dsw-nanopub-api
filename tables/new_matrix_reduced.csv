@@ -144,6 +144,7 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2Zuj
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
 eLTER FIP 2022,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UUID,UUID | Universally Unique Identifier
 eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -307,6 +308,7 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2Zuj
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAlJWrHr5IoakeWZPArI8o_cm8e-ICnxQbGAIFkPuaQ5I#W3ID_Identifiers,W3ID | Permanent Identifiers for the Web
 WorldFAIR WP11 Oceanography,http://purl.org/np/RA7G8fg6dqE5NhP7QdDYI9ELM5nlQKILdbm-m24nW0AdM#PURL,PURL | Persistent Uniform Resource Locator
@@ -518,6 +520,11 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFu
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAuBubbociYvNsqiHudoQ6bt3RSPMBpgBB-I5Ep_VLJ0s#BIBFRAME,BIBFRAME 2.0
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAnzko_TgZ7aI884gMfVpfPQEKoR34jIVV-_khLUA9jjU#MARC21,MARC21 Format for Bibliographic Data
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAlccZ6j-6lF7tY8Yqdk9gDBWPW44pTVKh9D-AF-Lt-1g#europeana-dm,Europeana Data Model for Cultural Heritage (EDM)
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RA2GD-97i_-2PrKgV-KWvZd9NHcCuB8OfRS71ydZ3yxGI#MODS,Metadata Object Description Schema
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
 ME/CFS ZonMw_FIP_demo,http://purl.org/np/RAEzvCPB-MKzzPxj3PfMj1MaflPK8BglDSoOLqP1Y0v6A#M4M_COVID-19_Project-Admin_V4,Metadata for machines (M4M) Project Admin form
 eLTER FIP 2022,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
@@ -688,6 +695,7 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2Zuj
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAJoZ48FivLcOr6qGl7mGw8IHJYKc3KzLwNcCjGmQjyXo#FEDORA-O2O,FEDORA-O2O | FEDORA Object to Object relationship metadata
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RA5RtSCnuHHEtc9br5zjy43LZfrdgIZfbdFosC7Hh6Xw4#OceanInforHub_metadata,OIH | Ocean InfoHub metadata service
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
 eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -874,6 +882,16 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4YzRoaVMEI6uw#SDN_Sextant,SDN-Sextant | SeaDataNet Sextant search engines
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4YzRoaVMEI6uw#SDN_Sextant,SDN-Sextant | SeaDataNet Sextant search engines
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4YzRoaVMEI6uw#SDN_Sextant,SDN-Sextant | SeaDataNet Sextant search engines
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAA4UDK-d0iNATmMPgreqG9ISNU5vHHHCMLygQ_9FWbmE#GBooks,GBooks | Google Books
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAZ9rsGtk8RaWoHQQuyAJW6xyQgx-okVsAX0K64c8kWzw#HetGeheugen,HetGeheugen | Beeldbank het Geheugen
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAxIppYOHZVLZZ5PpB4tyt_woVvBO9sWXcQYZzHCVeNuc#Delpher,Delpher
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAirq-tJ5Ym8zQRwsiXYnCz9nCHNT74F-7aBgly6H8A9E#Allmaps,Allmaps
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAiS7QabLv-zc_0PnMSCGt4o2ZGyFyrqLyBo-LDv43MdA#WOL,WOL | Webportaal Ons Land
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAdOdXPneNXKaoJ-N8W8Qa6HaRVZtRjUCccfVdfZNlciQ#UBL-DC_REG,UBL-DC_REG | Leiden University Libraries Digital Collections Service
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAzYndwcdMd1dAnL_6gTmNKsuEpEAMTBS63iVfYBpZDho#WorldCat,WorldCat | WorldCat.org
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAYSoPOD3Xrz7dLkYR2S5FOsD2ojMMrG7LsjXjQO4P0O0#Biblissima,Biblissima | Portail Biblissima
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RA5j-OIemsw7e5tVk2zAatZspLfjRoIXBskI6OUobBoeg#PrimoVE,PrimoVE | Primo VE
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAY9qwRnRwMcXjLCH3-cicAeeseoCQbMV3klVyQ6zVZEw#europeana,Europeana
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAbAowLFI7EbH9ZfyF0qwZTrseIoInNjhoSPwJ4AE8kW4#OBIS_OceanBiodiversity,OBIS | Ocean Biodiversity Information System
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAzhwif5PZPUB8BC-c0ZP-N2AFAkGjuYWHLEQ5hEJnKAQ#ODIS_Catalogue,ODIS: IOC Ocean Data and Information System Catalogue of Sources
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
@@ -1092,6 +1110,12 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4YzRoaVMEI6uw#SDN_Sextant,SDN-Sextant | SeaDataNet Sextant search engines
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4YzRoaVMEI6uw#SDN_Sextant,SDN-Sextant | SeaDataNet Sextant search engines
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4YzRoaVMEI6uw#SDN_Sextant,SDN-Sextant | SeaDataNet Sextant search engines
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAA4UDK-d0iNATmMPgreqG9ISNU5vHHHCMLygQ_9FWbmE#GBooks,GBooks | Google Books
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAiS7QabLv-zc_0PnMSCGt4o2ZGyFyrqLyBo-LDv43MdA#WOL,WOL | Webportaal Ons Land
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAZ9rsGtk8RaWoHQQuyAJW6xyQgx-okVsAX0K64c8kWzw#HetGeheugen,HetGeheugen | Beeldbank het Geheugen
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAxIppYOHZVLZZ5PpB4tyt_woVvBO9sWXcQYZzHCVeNuc#Delpher,Delpher
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAY9qwRnRwMcXjLCH3-cicAeeseoCQbMV3klVyQ6zVZEw#europeana,Europeana
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAdOdXPneNXKaoJ-N8W8Qa6HaRVZtRjUCccfVdfZNlciQ#UBL-DC_REG,UBL-DC_REG | Leiden University Libraries Digital Collections Service
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAzhwif5PZPUB8BC-c0ZP-N2AFAkGjuYWHLEQ5hEJnKAQ#ODIS_Catalogue,ODIS: IOC Ocean Data and Information System Catalogue of Sources
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
 eLTER FIP 2022,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ#WMO_Search,WMO Search | World Meteorological Organization Search
@@ -1362,6 +1386,7 @@ SeaDataNET Sextant FIP 2021,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaG
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 IUPAC Standards,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
@@ -1631,6 +1656,7 @@ SeaDataNET Sextant FIP 2021,http://purl.org/np/RAkZcKw78nvhrCpqtPTP-JUv8Qr9N72Gj
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAkZcKw78nvhrCpqtPTP-JUv8Qr9N72Gjnaohpmd7UoKs#ERDDAP,ERDDAP
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAkZcKw78nvhrCpqtPTP-JUv8Qr9N72Gjnaohpmd7UoKs#ERDDAP,ERDDAP
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 IUPAC Standards,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
@@ -1809,6 +1835,8 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+Leiden University Libraries Digital Collections FIP,,
+Leiden University Libraries Digital Collections FIP,,
 eLTER FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER_FIP_2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -1965,6 +1993,8 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAEvHo9HYgH4jIdtmo1L4VWnBDOp08RKn
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAEvHo9HYgH4jIdtmo1L4VWnBDOp08RKng9RWCa6ZGdQ4#SDN_M_ID,SDN-MID-Service | SeaDataNet Marine ID AAA service
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAEvHo9HYgH4jIdtmo1L4VWnBDOp08RKng9RWCa6ZGdQ4#SDN_M_ID,SDN-MID-Service | SeaDataNet Marine ID AAA service
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAEvHo9HYgH4jIdtmo1L4VWnBDOp08RKng9RWCa6ZGdQ4#SDN_M_ID,SDN-MID-Service | SeaDataNet Marine ID AAA service
+Leiden University Libraries Digital Collections FIP,,
+Leiden University Libraries Digital Collections FIP,,
 eLTER FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER_FIP_2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -2220,6 +2250,11 @@ SeaDataNET Sextant FIP 2022,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHr
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAQLETXaxPTEvZdt7Cx761TwcHLzBKPF3J6bM5YCY2llY#XML,eXtensible Markup Language (XML)
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAnzko_TgZ7aI884gMfVpfPQEKoR34jIVV-_khLUA9jjU#MARC21,MARC21 Format for Bibliographic Data
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAT7RQ0uzSMeQ5tznGfIA7v35NC4CFQegZvUWlsfptBzE#TXT,TXT | text file
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+Leiden University Libraries Digital Collections FIP,,
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS | Simple Knowledge Organization System
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
@@ -2405,6 +2440,12 @@ SeaDataNET Sextant FIP 2021,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvGXHpXXL_0#ODV_ASCII,ODV_ASCII | Ocean Data View ASCII format for marine datasets
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvGXHpXXL_0#ODV_ASCII,ODV_ASCII | Ocean Data View ASCII format for marine datasets
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAqJhu6LHwidmg3dB7vGx6JIEM_3U2g6sKntmGasoCcak#jpeg,JPEG File Format
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAuxR5Gx_uvvBVoePV226Lk86VRYrh9EpmqFXU7f_oojQ#pdf,Portable Document Format (PDF)
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAwE-EIaqumE13m7DVdZS01dX6ivVQuiELdCmK27nHtyI#MP3,MP3 | Moving Picture Experts Group Audio Layer 3
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAJdZMR50rbrKU181CG3-QIjIXqM1pcvDMCP_pIk2AYsQ#WAV,WAV | Waveform Audio File Format
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAiPPu60BXJzqREvhZ1bchfK9W2HvmD3NaNhH1NHC8J0A#IIIF,International Image Interoperability Framework (IIIF)
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAi2XqkUsg08QLQ6HuS7PXHREjruRsfCTpr7oFSMR3dPI#tiff,Tag Image File Format (TIFF)
 IUPAC Standards,http://purl.org/np/RAc6MkVnrJtGtaEvlPgrrYFGu2WP7sigoGC7AmVZocWWI#SolubilitySchema,IUPAC Solubility Metadata Schema for Chemical Systems 
 IUPAC Standards,http://purl.org/np/RAXZ8OBqfEm-Obxm96Fd_ZkEx19QpNZMoU-CoS5l159Ck#CIF-test,CIF Test
 IUPAC Standards,http://purl.org/np/RAUwETQnCLV1LSmuvtio-WkyEViy_EjRAMXNwVvcRiOIg#MAPT,IUPAC Machine Accessible Periodic Table 
@@ -2630,6 +2671,12 @@ SeaDataNET Sextant FIP 2020,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEs
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAudR0-o90xJnKEiC8tnjuZKKikEtCWsqg5kjtg_-lSr0#GEMET,GEMET | General Multilingual Environmental Thesaurus
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAb5O09N_TdjCo4dXowiEvF2Tj-HDTqIKZ7O7yegqk5H8#INSPIRE_reg,INSPIRE registry
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RArTxqXrFLnFx-eqH0JCIBKX4IKQ0pO4hQLbvlxjQ7VmI#AST,AST | African Studies Thesaurus of African Studies Centre Leiden (ASCL)
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAFyd7CTBWiHYdHsESPLWIZvvhAlav0r6J9ahbT4iCKdo#TGN,TGN | Getty Thesaurus for Geographic Names
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RACDrTxN8u5Ql0hNGhHDV1pEWisdUyYzS-oknJNOuLZ9c#aat,Getty Art & Architecture Thesaurus (AAT)
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RA8vvjr-6S02iSQO73oVoMMHUf8VLQ4cpmhCcJeCKdgDg#BCL,BCL | Nederlandse Basisclassificatie = Dutch Basic Classification Codes
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAAUdJ7dOf4YIJk8hpseyBdwjxsh6P4rZLVmaWmGauXII#lcnaf,Library of Congress Name Authority File (LCNAF)
+Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAC-2sV63oW5wxIhOULsznTwRrkLvOpCfJYNxhMSVMyNc#NTA,NTA | Nationale Thesaurus voor Auteursnamen ID
 WorldFAIR WP11 Oceanography,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 WorldFAIR WP11 Oceanography,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RApeTcHy8l7_BdOHqyoIbgc7Gmz9cboHIyM_ALN58dSbM#SWEET,SWEET | Semantic Web for Earth and Environmental Terminology
@@ -2993,6 +3040,12 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAiPPu60BXJzqREvhZ1bchfK9W2HvmD3NaNhH1NHC8J0A#IIIF,International Image Interoperability Framework (IIIF)
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RACPHNcUYMNkpubD7DgRabLc_-kctT92o7QehQSMk7xgY#EAD,EAD Encoded Archival Description
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RA2GD-97i_-2PrKgV-KWvZd9NHcCuB8OfRS71ydZ3yxGI#MODS,Metadata Object Description Schema
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAnzko_TgZ7aI884gMfVpfPQEKoR34jIVV-_khLUA9jjU#MARC21,MARC21 Format for Bibliographic Data
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAlccZ6j-6lF7tY8Yqdk9gDBWPW44pTVKh9D-AF-Lt-1g#europeana-dm,Europeana Data Model for Cultural Heritage (EDM)
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RA5RtSCnuHHEtc9br5zjy43LZfrdgIZfbdFosC7Hh6Xw4#OceanInforHub_metadata,OIH | Ocean InfoHub metadata service
 eLTER FIP 2022,http://purl.org/np/RAS95nqgBVT5tVaQiUfCwgFWjxIiwxtkZlkeMIRLDw9KU#DEIMS-SDR_SMM,DEIMS-SDR Site Metadata Model
 eLTER FIP 2022,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#INSPIRE-EMF,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities
@@ -3185,6 +3238,8 @@ SeaDataNET Sextant FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvGXHpXXL_0#ODV_ASCII,ODV_ASCII | Ocean Data View ASCII format for marine datasets
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAiPPu60BXJzqREvhZ1bchfK9W2HvmD3NaNhH1NHC8J0A#IIIF,International Image Interoperability Framework (IIIF)
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAlccZ6j-6lF7tY8Yqdk9gDBWPW44pTVKh9D-AF-Lt-1g#europeana-dm,Europeana Data Model for Cultural Heritage (EDM)
 IUPAC Standards,http://purl.org/np/RAhUpOFFK08DwlZV3uHfy98yJJl8_Icmx-E9KoxO32LxM#FAIRSpec,IUPAC Standard for FAIR Data Management of Spectroscopic Data
 IUPAC Standards,,
 eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
@@ -3313,6 +3368,7 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY77
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 IUPAC Standards,http://purl.org/np/RAsHps5X17EiVP-ByVsvIqn3rKwP64PFqiH1IWY4Pe5i4#CC-BY-NC-ND-4.0,CC BY-NC-ND 4.0 | Attribution-NonCommercial-NoDerivatives 4.0 International
 eLTER FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
@@ -3432,6 +3488,7 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAny8a_ZxXjhgNkl0LjdTIU6OYLhnrtax
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAny8a_ZxXjhgNkl0LjdTIU6OYLhnrtax9AmXyvxhbs3Q#SDN_DP,SDN DP | SeadataNet Data Policy and User License
+Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAEEcqbP_ghoZdqL-qsrjYp3YREEZMKuXb4t7xSGnIov8#CC-BY-SA-4.0,CC BY SA 4.0 | Attribution-ShareAlike 4.0 International
 IUPAC Standards,http://purl.org/np/RAsHps5X17EiVP-ByVsvIqn3rKwP64PFqiH1IWY4Pe5i4#CC-BY-NC-ND-4.0,CC BY-NC-ND 4.0 | Attribution-NonCommercial-NoDerivatives 4.0 International
 eLTER FIP 2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
