@@ -456,6 +456,7 @@ EPOS FIP 2019,http://purl.org/np/RAUkmw0yO27WAtIrKQMVur8lCFqUQjI9E_e-h4e1gt4wc#E
 EPOS FIP 2019,http://purl.org/np/RA8tguXyD-aeLuuWlyeE20bghwk7ZVuNY7V458ARYRIUU#EPOS-Metadata-Model,EPOS Metadata Model
 EPOS ICS C FIP 2021,http://purl.org/np/RAUkmw0yO27WAtIrKQMVur8lCFqUQjI9E_e-h4e1gt4wc#EPOS-DCAT-AP,European Plate Observing System - Data Catalogue vocabulary - Application Profile
 EnvDS FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+FAIR-SaaS,http://purl.org/np/RAhVNx-s-ySjdXAYCv16D489EN4Kdum_-jCJsMc1dpxQ4#FDP,FDP|FAIR Data Point
 GFTS,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAsCYwueA2yrmAj_lOyB-yQdPw4KuLD1zMKui8QmvNdrI#DDI-Lifecycle_3.3,DDI Lifecycle 3.3 Metadata Schema
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis#SCGMPDWH_AIR,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air
@@ -798,6 +799,7 @@ EPOS FIP 2019,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#E
 EPOS ICS C FIP 2021,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#EPOS_Portal,EPOS ICS Data Portal
 EPOS ICS C FIP 2021,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#EPOS_Portal,EPOS ICS Data Portal
 EnvDS FIP,,
+FAIR-SaaS,http://purl.org/np/RAfMkkFKd5e3EQD_S72zAHdYx6dJSUH_dAfgzKWIfXMBo#FDP,FAIR Data Point
 GFTS,,
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAXarvviWi2Dz7NGpN9A_zU7hz6Uh5xuxBZNZciReqtGw#GGP-Data-Catalog,GGP Data Catalog
 GalaxyClimate,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
@@ -1050,6 +1052,7 @@ EPOS FIP 2019,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#E
 EPOS ICS C FIP 2021,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#EPOS_Portal,EPOS ICS Data Portal
 EPOS ICS C FIP 2021,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#EPOS_Portal,EPOS ICS Data Portal
 EnvDS FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+FAIR-SaaS,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 GFTS,,
 GFTS,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAXarvviWi2Dz7NGpN9A_zU7hz6Uh5xuxBZNZciReqtGw#GGP-Data-Catalog,GGP Data Catalog
@@ -1288,6 +1291,7 @@ EPOS FIP 2019,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#H
 EPOS FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 EPOS ICS C FIP 2021,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 EnvDS FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+FAIR-SaaS,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
@@ -1598,6 +1602,7 @@ EPOS ICS C FIP 2021,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA
 EPOS ICS C FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 EPOS ICS C FIP 2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 EnvDS FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+FAIR-SaaS,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0HgbNsaiXnkfTuGtWjiHPGM6WaBc8mHXbz4P_sSE13U#TCP-IP,TCP/IP | Internet protocol suite
@@ -2183,6 +2188,7 @@ EPOS FIP 2019,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#J
 EPOS FIP 2019,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 EPOS ICS C FIP 2021,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 EnvDS FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+FAIR-SaaS,https://w3id.org/np/RA5uOSubO87LVneq_S2SiAC8jagqF4KQNJKFNbrRVxSzg#SHACL,Shapes Constraint Language
 GFTS,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0TiA-v50EOl6Zt0uOQr_Lolv2rao1gMXjHNl6WmW0Mk#DDI-XML,DDI XML | DDI 3.2 XML Schema
@@ -2395,6 +2401,7 @@ EPOS FIP 2019,http://purl.org/np/RAqJhu6LHwidmg3dB7vGx6JIEM_3U2g6sKntmGasoCcak#j
 EPOS ICS C FIP 2021,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 EPOS ICS C FIP 2021,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 EnvDS FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+FAIR-SaaS,https://w3id.org/np/RAYthYl2yQXZASHpK73bqlnDQ8lE9fXHB23yLHsIuRzvQ#FHIR,Fast Healthcare Interoperability Resources
 GFTS,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 GalaxyClimate,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
@@ -2585,6 +2592,7 @@ EPOS FIP 2019,http://purl.org/np/RA4b-LIptEtHjOVWfK1uvEwd0s9NAWtKKEHTsXklIC6fU#C
 EPOS ICS C FIP 2021,http://purl.org/np/RASprqFEVJNe7eK1OfVKRL1xo9zk_iacCmTGCvZzucGdw#EPOS_vocab,EPOS Common Vocabulary
 EPOS ICS C FIP 2021,http://purl.org/np/RASprqFEVJNe7eK1OfVKRL1xo9zk_iacCmTGCvZzucGdw#EPOS_vocab,EPOS Common Vocabulary
 EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
+FAIR-SaaS,https://w3id.org/np/RAbHn_YU2akpGoGsdJJp58WEF75wq8ijAIjjJQYV5HQ_g#DASH,DASH | Data Shapes
 GFTS,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RApSSuO7fciGYz4CSYHnqQZ60qDx6pvEdraDhBmBLJrGA#CESSDA-Topic-Classification,CESSDA Controlled Vocabulary for CESSDA Topic Classification
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis#SCGMPDWH_AIR,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air
@@ -3006,6 +3014,7 @@ EPOS FIP 2019,http://purl.org/np/RAGhCnj_zKSZURRm5MgkkeLAnGfGYp3Bw_he3pYS4k0o4#D
 EPOS ICS C FIP 2021,http://purl.org/np/RA4b-LIptEtHjOVWfK1uvEwd0s9NAWtKKEHTsXklIC6fU#CERIF,CERIF | Common European Research Information Format
 EPOS ICS C FIP 2021,http://purl.org/np/RAUkmw0yO27WAtIrKQMVur8lCFqUQjI9E_e-h4e1gt4wc#EPOS-DCAT-AP,European Plate Observing System - Data Catalogue vocabulary - Application Profile
 EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
+FAIR-SaaS,http://purl.org/np/RAFvNzVlN_M4tXWryXeM_9mk88rdcQ0Ct3_L-5YVlMarc#DCAT3,DCAT | Data Catalog Vocabulary Version 3
 GFTS,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAfE73MeNzkRIq8thrVTIYwh8k0Ia0liajjv4KhnLxMks#DDI-L_3.3,DDI-Lifecycle 3.3 
 GalaxyClimate,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
