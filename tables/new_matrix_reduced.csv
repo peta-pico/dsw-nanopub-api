@@ -133,9 +133,9 @@ GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/
 PARC HBM | PARC Human Biomonitoring Data,http://purl.org/np/RALWtAcbWMjmHQoBd9Mf7gCYRSAwTFmFFsy-1rHeNgIjs#DARA,DARA | DOI registration agency for social and economic data
 PARC TOXRIC FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 PARC TOXRIC FIP,http://purl.org/np/RA7G8fg6dqE5NhP7QdDYI9ELM5nlQKILdbm-m24nW0AdM#PURL,PURL | Persistent Uniform Resource Locator
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAp6tnBfL3EKhP1Au96qVyZ4jbYDmfZPG99KmLyl6Lhg8#OpenSearch,OpenSearch
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAp6tnBfL3EKhP1Au96qVyZ4jbYDmfZPG99KmLyl6Lhg8#OpenSearch,OpenSearch
 Social Science Survey Research V2,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 Social Science Survey Research V2.1,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAk5umcWPZegtZTBJACkE9CDap7KNwSgR8umS3SnuvW2A#SDN_CDI_PID,SDN CDI PID | SeaDataNet CDI PID
@@ -832,12 +832,12 @@ ICOS FIP 2022,http://purl.org/np/RAV8X0IMEVAUAZchTc7DTnBAlFwrqOsFhhsXofy_Tiwts#I
 ICOS FIP 2019,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 ICOS FIP 2019,http://purl.org/np/RAV8X0IMEVAUAZchTc7DTnBAlFwrqOsFhhsXofy_Tiwts#ICOS_Carbon_Portal,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal
 COVID-19 INSPIRE Population Health FIP,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
-LISS Data Archive FIP,https://w3id.org/np/RACEE6zu5NoXHipwdS_PEkozurLlftYbn0qj-Qg_uWBK0#LISS-Data-Archive,LISS Data Archive
-LISS Data Archive FIP,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc#GESIS-Search,GESIS Search
-LISS Data Archive FIP,https://w3id.org/np/RA9jSAImfXnL74vfwiiT2qXZqz5klHYDyy0Meah_UqGaQ#Survey-Data-Netherlands,Survey Data Netherlands 
 LISS Data Archive FIP,http://purl.org/np/RAcv6GezhLQWkYxGltQo_UBVRUJdmroqGkxFSJVOtqXDg#ODISSEI_Portal,ODISSEI Portal
-LISS Data Archive FIP,https://doi.org/10.25504/FAIRsharing.a12316,CESSDA Data Catalogue
+LISS Data Archive FIP,https://w3id.org/np/RACEE6zu5NoXHipwdS_PEkozurLlftYbn0qj-Qg_uWBK0#LISS-Data-Archive,LISS Data Archive
 LISS Data Archive FIP,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
+LISS Data Archive FIP,https://w3id.org/np/RA9jSAImfXnL74vfwiiT2qXZqz5klHYDyy0Meah_UqGaQ#Survey-Data-Netherlands,Survey Data Netherlands 
+LISS Data Archive FIP,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc#GESIS-Search,GESIS Search
+LISS Data Archive FIP,https://doi.org/10.25504/FAIRsharing.a12316,CESSDA Data Catalogue
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
 LifeWatch Ecosystems FIP 2022,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
@@ -846,10 +846,10 @@ LifeWatch Ecosystems FIP 2022,,
 LifeWatch Ecosystems FIP 2022,http://purl.org/np/RAUxmZt_R6a9RGB_BxooKts20HhxSxkkTIQpKpGAMYxgY#LWERIC-MetadataCatalogue,LifeWatch ERIC Metadata Catalogue
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
-ODISSEI MCAL FIP,http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc#DANS-Data-Station-SSH,DANS Data Station-Social Science and Humanities (SSH)
-ODISSEI MCAL FIP,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k#Dataverse,The Dataverse Project
 ODISSEI MCAL FIP,http://purl.org/np/RAxFCNuhATummgV6vm5IYRcAsR1xWSMjmIhAVotEV0hB0#Figshare,Figshare | Figshare
+ODISSEI MCAL FIP,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k#Dataverse,The Dataverse Project
 ODISSEI MCAL FIP,http://purl.org/np/RAcv6GezhLQWkYxGltQo_UBVRUJdmroqGkxFSJVOtqXDg#ODISSEI_Portal,ODISSEI Portal
+ODISSEI MCAL FIP,http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc#DANS-Data-Station-SSH,DANS Data Station-Social Science and Humanities (SSH)
 ODISSEI MCAL FIP,http://purl.org/np/RAqp3yZPVRAQvtIjAg9p6DGZI9af3VPb3rNi9AlpVvGd8#OSF,OSF | Open Science Framework
 ODISSEI MCAL FIP,http://purl.org/np/RAqp3yZPVRAQvtIjAg9p6DGZI9af3VPb3rNi9AlpVvGd8#OSF,Open Science Framework
 Materials Project,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
@@ -1095,9 +1095,9 @@ LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQ
 ODISSEI MCAL FIP,http://purl.org/np/RAqp3yZPVRAQvtIjAg9p6DGZI9af3VPb3rNi9AlpVvGd8#OSF,OSF | Open Science Framework
 ODISSEI MCAL FIP,http://purl.org/np/RAqp3yZPVRAQvtIjAg9p6DGZI9af3VPb3rNi9AlpVvGd8#OSF,Open Science Framework
 ODISSEI MCAL FIP,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k#Dataverse,The Dataverse Project
-ODISSEI MCAL FIP,http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc#DANS-Data-Station-SSH,DANS Data Station-Social Science and Humanities (SSH)
-ODISSEI MCAL FIP,http://purl.org/np/RAxFCNuhATummgV6vm5IYRcAsR1xWSMjmIhAVotEV0hB0#Figshare,Figshare | Figshare
 ODISSEI MCAL FIP,http://purl.org/np/RAQ4b06P9_1yecdse1rzkdQ94Kp0TKi4NJRUXp6nyVxIY#TriplyDB,TriplyDB
+ODISSEI MCAL FIP,http://purl.org/np/RAxFCNuhATummgV6vm5IYRcAsR1xWSMjmIhAVotEV0hB0#Figshare,Figshare | Figshare
+ODISSEI MCAL FIP,http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc#DANS-Data-Station-SSH,DANS Data Station-Social Science and Humanities (SSH)
 NORMAN Database System- MassBank EU,https://doi.org/10.25504/FAIRsharing.dk451a,MassBank Europe
 Nanopublication FIP,http://purl.org/np/RAeaGuD9rdXC8UWz1TCdNEDuvl-bXh2YKeWwVoW1PARFQ#nanodash,nanodash
 Nanopublication FIP,http://purl.org/np/RAIPktlfKkKKMgS1nhCA9oA3oypSXjIjhMjXXxSs0k3A0#NP_SPARQL,NP_SPARQL | Nanopub SPARQL Query Editor
@@ -1110,8 +1110,8 @@ WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RAV8n1_dl6yXvoryYdX9nUwk_Y
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://purl.org/np/RA-7YdatF38SxYdikEs11XiD9rEpYOsXZaTu8o9d1vRp0#NanoPharos,NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics
 NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://purl.org/np/RA-7YdatF38SxYdikEs11XiD9rEpYOsXZaTu8o9d1vRp0#NanoPharos,NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k#Dataverse,The Dataverse Project
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc#DANS-Data-Station-SSH,DANS Data Station-Social Science and Humanities (SSH)
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k#Dataverse,The Dataverse Project
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc#DANS-Data-Station-SSH,DANS Data Station-Social Science and Humanities (SSH)
 Social Science Survey Research V2,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc#GESIS-Search,GESIS Search
 Social Science Survey Research V2.1,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc#GESIS-Search,GESIS Search
 SeaDataNET CDI FIP 2022,http://purl.org/np/RAGU7fcmWADuNzEpP5ttJrTFOqbuuZP0rJ35JgdvZke2M#GEOSS_Portal,GEOSS Portal | Global Earth Observation System of Systems Portal
@@ -1294,8 +1294,8 @@ EnvDS FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS
 FAIR-SaaS,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-GGP | Generations & Gender Programme FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0HgbNsaiXnkfTuGtWjiHPGM6WaBc8mHXbz4P_sSE13U#TCP-IP,TCP/IP | Internet protocol suite
+GGP | Generations & Gender Programme FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
@@ -1369,8 +1369,8 @@ GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/
 JB-test,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 PARC TOXRIC FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 Social Science Survey Research V2,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 Social Science Survey Research V2.1,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
@@ -1605,8 +1605,8 @@ EnvDS FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS
 FAIR-SaaS,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0HgbNsaiXnkfTuGtWjiHPGM6WaBc8mHXbz4P_sSE13U#TCP-IP,TCP/IP | Internet protocol suite
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0HgbNsaiXnkfTuGtWjiHPGM6WaBc8mHXbz4P_sSE13U#TCP-IP,TCP/IP | Internet protocol suite
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 GalaxyClimate,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
@@ -1646,8 +1646,8 @@ LifeWatch Ecosystems FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYh
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 LifeWatch Ecosystems FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-ODISSEI MCAL FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 ODISSEI MCAL FIP,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
+ODISSEI MCAL FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 MLCommons,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 NORMAN Database System- MassBank EU,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 Nanopublication FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
@@ -2253,8 +2253,8 @@ PARC TOXRIC FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw
 PARC TOXRIC FIP,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw#InChI,International Chemical Identifier 
 PARC TOXRIC FIP,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc#SMILESplus,IUPAC SMILES+ Specification 
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAIpnldLlIedp5J7Jcy8pt_X9_YpOez4rO-fHxZl0T96Y#OWL,OWL | Web Ontology Language
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS | Simple Knowledge Organization System
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
 SeaDataNET CDI FIP 2020,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
@@ -2450,10 +2450,10 @@ JB-test,http://purl.org/np/RAw8cpti1Df1z7MLB6_mWkB2R4clObaPsyklAlLhwbOCw#CKAN,CK
 PARC TOXRIC FIP,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw#InChI,International Chemical Identifier 
 PARC TOXRIC FIP,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc#SMILESplus,IUPAC SMILES+ Specification 
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAVoIiicDuWm0TCWvcpXIo5PoA7RdCv8WVDwdtYUuAEVc#HTML,HTML: The HyperText Markup Language
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAIpnldLlIedp5J7Jcy8pt_X9_YpOez4rO-fHxZl0T96Y#OWL,OWL | Web Ontology Language
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAVoIiicDuWm0TCWvcpXIo5PoA7RdCv8WVDwdtYUuAEVc#HTML,HTML: The HyperText Markup Language
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvGXHpXXL_0#ODV_ASCII,ODV_ASCII | Ocean Data View ASCII format for marine datasets
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 SeaDataNET CDI FIP 2022,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
@@ -2612,10 +2612,10 @@ LGBTQ+ Linked Open Vocabulary FIP,http://purl.org/np/RAd6t6NdoESOhEi4f2MC-yJ-l3k
 LGBTQ+ Linked Open Vocabulary FIP,http://purl.org/np/RAkaanpx9ThwPJuHKsUSBQtvEkS4eaCX4p4hW67KIFOpk#homosaurus,Homosaurus
 LGBTQ+ Linked Open Vocabulary FIP,http://purl.org/np/RAhjjm6dptxfd6_hQxldIlrmy0wlil3hywSQE6pP_ep6c#RVM,RVM | Répertoire de vedettes-matière de l'Université Laval 
 LGBTQ+ Linked Open Vocabulary FIP,http://purl.org/np/RAPbPkvyFnB0zf4Y80_RShjNfCZ9VBLQKvIuI9lUfZjnY#lcsh,Library of Congress Subject Headings (LCSH)
-LISS Data Archive FIP,http://purl.org/np/RAZVaY2uNntIyIJVo_f43W9csVA__TohoawN9ZzM0SECs#DDI-Controlled-Vocabularies,DDI Controlled Vocabularies
-LISS Data Archive FIP,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws#ELSST,ELSST|European Language Social Science Thesaurus
-LISS Data Archive FIP,https://w3id.org/np/RA1qhkgRApF8eT0K31wqsxEW8DTBljNMZAtcA12gqL6BA#ISCO-08,ISCO-08 | The International Standard Classification of Occupations
 LISS Data Archive FIP,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
+LISS Data Archive FIP,http://purl.org/np/RAZVaY2uNntIyIJVo_f43W9csVA__TohoawN9ZzM0SECs#DDI-Controlled-Vocabularies,DDI Controlled Vocabularies
+LISS Data Archive FIP,https://w3id.org/np/RA1qhkgRApF8eT0K31wqsxEW8DTBljNMZAtcA12gqL6BA#ISCO-08,ISCO-08 | The International Standard Classification of Occupations
+LISS Data Archive FIP,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws#ELSST,ELSST|European Language Social Science Thesaurus
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RATJqkoRpT6A1XBZfRNGEKEXRe8EJIW4hLT17WmLjzSu4#GeoDCAT-AP,GeoDCAT-AP
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
@@ -2663,8 +2663,8 @@ PARC TOXRIC FIP,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ
 PARC TOXRIC FIP,http://purl.org/np/RATt4Su6Nt6dP4JShHtWnxp2s8-lIB-C3qVmoJih2A5nQ#CVCL,Cellosaurus
 PARC TOXRIC FIP,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
 PARC TOXRIC FIP,http://purl.org/np/RAVAVosrskaZNJP2MtoEkVlNJXyuY4hB5fW2D4jOb4OvQ#ChEMBL,ChEMBL | Chemical database of the European Molecular Biology Laboratory
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RACPHNcUYMNkpubD7DgRabLc_-kctT92o7QehQSMk7xgY#EAD,EAD Encoded Archival Description
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 Social Science Survey Research V2,http://purl.org/np/RA1Ra0mFnCIMEAfwTbfg0dBO6LEu45UOycBDp0f7Z4ZH4#THESOZ,Thesaurus Sozialwissenschaften (THESOZ)
 Social Science Survey Research V2,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws#ELSST,ELSST|European Language Social Science Thesaurus
 Social Science Survey Research V2.1,http://purl.org/np/RA1Ra0mFnCIMEAfwTbfg0dBO6LEu45UOycBDp0f7Z4ZH4#THESOZ,Thesaurus Sozialwissenschaften (THESOZ)
@@ -2836,8 +2836,8 @@ EPOS ICS C FIP 2021,http://purl.org/np/RASprqFEVJNe7eK1OfVKRL1xo9zk_iacCmTGCvZzu
 EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 GFTS,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAr9UU89m_5fXYPPowF2lL9u5ugfhJ4em3zc62mTts6f4#ISCED,ISCED | International Standard Classification of Education
-GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA1qhkgRApF8eT0K31wqsxEW8DTBljNMZAtcA12gqL6BA#ISCO-08,ISCO-08 | The International Standard Classification of Occupations
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAKy68K-ubbaV8BKrbYyJQ1NYKcCkvQPpgrQ7rdWbvjRU#ISO_3166,ISO 3166-1:2013 Codes for the representation of names of countries and their subdivisions - Part 1: Country codes
+GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA1qhkgRApF8eT0K31wqsxEW8DTBljNMZAtcA12gqL6BA#ISCO-08,ISCO-08 | The International Standard Classification of Occupations
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis#SCGMPDWH_AIR,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air
 GalaxyClimate,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 ICOS FIP 2023,http://purl.org/np/RA4oRRKTg5X-e0JOtnuXbrZBaNRJnMICD_R3z4r6olOTU#ICOS_ontology,ICOS Ontology | Integrated Carbon Observation System Ontology
@@ -2904,11 +2904,11 @@ WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RAG_WQ6LruDpmtuhfQpS2IsIcf
 WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RAGVk8evrODJcvukhw3d74EG_DeKU90r9uyfUlHNAwlOI#eNM,eNanoMapper ontology
 PARC TOXRIC FIP,http://purl.org/np/RAs41FHxGOt4qdgCZjHpjrHvJTSgHuhAAArWA8Ievp7sM#TOXRIC_Vocabulary,TOXRIC_Vocabulary | TOXRIC Toxicity Categories and Feature Space Vocabulary
 PARC TOXRIC FIP,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ#GoldBook,IUPAC Gold Book 
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RASXWcOQiK-njawxZ7HC0knGy0sDGGGxr9pgptexTgXOk#AMCO,AMCO Repertorium van Nederlandse gemeenten vanaf 1812 waaraan toegevoegd de Amsterdamse code
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAfUEUCJ_nRVSOlukuyfuUWOblEMqqRgrG9yk47y2izdI#H-ICD,Historical ICD
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RASXWcOQiK-njawxZ7HC0knGy0sDGGGxr9pgptexTgXOk#AMCO,AMCO Repertorium van Nederlandse gemeenten vanaf 1812 waaraan toegevoegd de Amsterdamse code
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAZHhesTi4w3mxTTTLVte6hEuK-RVASTIoPtBb4r0bmE4#IDS,IDS The Intermediate Data Structure for Longitudinal Historical Microdata
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,,
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAZHhesTi4w3mxTTTLVte6hEuK-RVASTIoPtBb4r0bmE4#IDS,IDS The Intermediate Data Structure for Longitudinal Historical Microdata
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RASXWcOQiK-njawxZ7HC0knGy0sDGGGxr9pgptexTgXOk#AMCO,AMCO Repertorium van Nederlandse gemeenten vanaf 1812 waaraan toegevoegd de Amsterdamse code
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RASXWcOQiK-njawxZ7HC0knGy0sDGGGxr9pgptexTgXOk#AMCO,AMCO Repertorium van Nederlandse gemeenten vanaf 1812 waaraan toegevoegd de Amsterdamse code
 SeaDataNET CDI FIP 2020,http://purl.org/np/RA-jfSyTtRWyiQFhwKfoB499p-7sf9IfY2mZ3boRcKQUs#SDM_MD,SDM MD | SeaDataNet metadata directories
 SeaDataNET CDI FIP 2020,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 SeaDataNET CDI FIP 2020,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
@@ -3506,8 +3506,8 @@ NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://pur
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 JB-test,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 PARC TOXRIC FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAWCImVlPF6-8_6LzXaXiRYqyQQMnVq8hDwngXzuOYPyI#CC-BY-NC,CC-BY-NC 2.0
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RANZIJZQhwoROxTV1x5cZWDNK2-N1RZDHnYAAQA6J34CM#CC-BY-SA,CC-BY-SA 4.0 | Creative Commons Attribution-ShareAlike 4.0 International
+SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAWCImVlPF6-8_6LzXaXiRYqyQQMnVq8hDwngXzuOYPyI#CC-BY-NC,CC-BY-NC 2.0
 Social Science Survey Research V2,http://purl.org/np/RARz1Nm2pGfyBYGsqOnE50Xrn4WGTZzAfg3BiSvuE8RZk#GESIS-Usage-Regulations-2018,GESIS Usage Regulations 2018
 Social Science Survey Research V2.1,http://purl.org/np/RARz1Nm2pGfyBYGsqOnE50Xrn4WGTZzAfg3BiSvuE8RZk#GESIS-Usage-Regulations-2018,GESIS Usage Regulations 2018
 SeaDataNET CDI FIP 2020,http://purl.org/np/RA9ilkEYiR7_Ed53QvhieSd8hpwXdy5cQtAd3vp_rOMN0#SDN_DA_L_1.0,SDN DA L 1.0 | SeaDataNet Data Access License 1.0
