@@ -148,9 +148,6 @@ SeaDataNET Sextant FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2Zuj
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
-eLTER FIP 2022,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UUID,UUID | Universally Unique Identifier
-eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-eLTER FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER FIP 2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER_FIP_2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -161,6 +158,9 @@ eLTERFIP2022,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UU
 eLTERFIP2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER FIP 2020,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+eLTER FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+eLTER FIP 2022,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UUID,UUID | Universally Unique Identifier
+eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 IAGOS FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -317,9 +317,6 @@ WorldFAIR WP11 Oceanography,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2Zuj
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAlJWrHr5IoakeWZPArI8o_cm8e-ICnxQbGAIFkPuaQ5I#W3ID_Identifiers,W3ID | Permanent Identifiers for the Web
 WorldFAIR WP11 Oceanography,http://purl.org/np/RA7G8fg6dqE5NhP7QdDYI9ELM5nlQKILdbm-m24nW0AdM#PURL,PURL | Persistent Uniform Resource Locator
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
-eLTER FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
-eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-eLTER FIP 2022,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#DEIMS-ID,DEIMS.ID
 eLTER FIP 2019,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#DEIMS-ID,DEIMS.ID
 eLTER FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
@@ -332,6 +329,9 @@ eLTERFIP2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Ha
 eLTER FIP 2020,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER FIP 2020,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#DEIMS-ID,DEIMS.ID
 eLTER FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+eLTER FIP 2022,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#DEIMS-ID,DEIMS.ID
+eLTER FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2021,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#DEIMS-ID,DEIMS.ID
 eLTER FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
@@ -534,8 +534,6 @@ Leiden University Libraries Digital Collections FIP,http://purl.org/np/RA2GD-97i
 Leiden University Libraries Digital Collections FIP,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
 ME/CFS ZonMw_FIP_demo,http://purl.org/np/RAEzvCPB-MKzzPxj3PfMj1MaflPK8BglDSoOLqP1Y0v6A#M4M_COVID-19_Project-Admin_V4,Metadata for machines (M4M) Project Admin form
-eLTER FIP 2022,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
-eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2019,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2019,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 eLTER_FIP_2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
@@ -544,6 +542,8 @@ eLTERFIP2022,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DC
 eLTERFIP2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2020,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2020,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
+eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
+eLTER FIP 2022,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 eLTER FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2021,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 IAGOS FIP 2019,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
@@ -706,11 +706,11 @@ SeaDataNET Sextant FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2Zuj
 Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAJoZ48FivLcOr6qGl7mGw8IHJYKc3KzLwNcCjGmQjyXo#FEDORA-O2O,FEDORA-O2O | FEDORA Object to Object relationship metadata
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RA5RtSCnuHHEtc9br5zjy43LZfrdgIZfbdFosC7Hh6Xw4#OceanInforHub_metadata,OIH | Ocean InfoHub metadata service
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
-eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER_FIP_2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTERFIP2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 IAGOS FIP 2019,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 IAGOS FIP 2021,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
@@ -906,10 +906,6 @@ WorldFAIR WP11 Oceanography,https://w3id.org/np/RAbAowLFI7EbH9ZfyF0qwZTrseIoInNj
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAzhwif5PZPUB8BC-c0ZP-N2AFAkGjuYWHLEQ5hEJnKAQ#ODIS_Catalogue,ODIS: IOC Ocean Data and Information System Catalogue of Sources
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
 ME/CFS ZonMw_FIP_demo,http://purl.org/np/RA06MWUasZj64aV6Q2lDRmW5NB-T1c6C_qnYPAqvpKM3Y#COVID19-data-portal,COVID-19 metadata and data portal
-eLTER FIP 2022,,
-eLTER FIP 2022,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
-eLTER FIP 2022,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
-eLTER FIP 2022,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 eLTER FIP 2019,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 eLTER FIP 2019,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER FIP 2019,,
@@ -924,6 +920,10 @@ eLTERFIP2022,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eL
 eLTER FIP 2020,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 eLTER FIP 2020,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER FIP 2020,,
+eLTER FIP 2022,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
+eLTER FIP 2022,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
+eLTER FIP 2022,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
+eLTER FIP 2022,,
 eLTER FIP 2021,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER FIP 2021,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 eLTER FIP 2021,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
@@ -1130,10 +1130,6 @@ Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAY9qwRnR
 Leiden University Libraries Digital Collections FIP,https://w3id.org/np/RAdOdXPneNXKaoJ-N8W8Qa6HaRVZtRjUCccfVdfZNlciQ#UBL-DC_REG,UBL-DC_REG | Leiden University Libraries Digital Collections Service
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAzhwif5PZPUB8BC-c0ZP-N2AFAkGjuYWHLEQ5hEJnKAQ#ODIS_Catalogue,ODIS: IOC Ocean Data and Information System Catalogue of Sources
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
-eLTER FIP 2022,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ#WMO_Search,WMO Search | World Meteorological Organization Search
-eLTER FIP 2022,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
-eLTER FIP 2022,http://purl.org/np/RAUEhNrbkNil4yh9jT69DefWB7c9q7b-8knKV2ibECnIo#eLTER-CDN,eLTER-CDN | eLTER Central Data Node
-eLTER FIP 2022,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER FIP 2019,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER FIP 2019,http://purl.org/np/RAUEhNrbkNil4yh9jT69DefWB7c9q7b-8knKV2ibECnIo#eLTER-CDN,eLTER-CDN | eLTER Central Data Node
 eLTER FIP 2019,,
@@ -1148,6 +1144,10 @@ eLTERFIP2022,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ#WM
 eLTER FIP 2020,http://purl.org/np/RAUEhNrbkNil4yh9jT69DefWB7c9q7b-8knKV2ibECnIo#eLTER-CDN,eLTER-CDN | eLTER Central Data Node
 eLTER FIP 2020,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER FIP 2020,,
+eLTER FIP 2022,http://purl.org/np/RAUEhNrbkNil4yh9jT69DefWB7c9q7b-8knKV2ibECnIo#eLTER-CDN,eLTER-CDN | eLTER Central Data Node
+eLTER FIP 2022,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
+eLTER FIP 2022,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
+eLTER FIP 2022,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ#WMO_Search,WMO Search | World Meteorological Organization Search
 eLTER FIP 2021,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER FIP 2021,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
 eLTER FIP 2021,,
@@ -1405,13 +1405,6 @@ Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAnwFn9lc
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 IUPAC Standards,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-eLTER FIP 2022,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
-eLTER FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
-eLTER FIP 2022,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
-eLTER FIP 2022,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
-eLTER FIP 2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
-eLTER FIP 2022,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
-eLTER FIP 2022,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 eLTER FIP 2019,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
 eLTER FIP 2019,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
 eLTER FIP 2019,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
@@ -1440,6 +1433,13 @@ eLTER FIP 2020,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#
 eLTER FIP 2020,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 eLTER FIP 2020,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 eLTER FIP 2020,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
+eLTER FIP 2022,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
+eLTER FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
+eLTER FIP 2022,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
+eLTER FIP 2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
+eLTER FIP 2022,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
+eLTER FIP 2022,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
+eLTER FIP 2022,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 eLTER FIP 2021,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
 eLTER FIP 2021,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
 eLTER FIP 2021,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
@@ -1677,10 +1677,6 @@ Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAnwFn9lc
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 IUPAC Standards,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-eLTER FIP 2022,http://purl.org/np/RANyuuxLlxlxaTPw5i8YvMjFMAgLM57oMnoRcSE5GKeqU#SOS,SOS | Sensor Observation Service
-eLTER FIP 2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
-eLTER FIP 2022,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
-eLTER FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 eLTER FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 eLTER FIP 2019,http://purl.org/np/RANyuuxLlxlxaTPw5i8YvMjFMAgLM57oMnoRcSE5GKeqU#SOS,SOS | Sensor Observation Service
 eLTER_FIP_2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
@@ -1694,6 +1690,10 @@ eLTERFIP2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WF
 eLTER FIP 2020,http://purl.org/np/RANyuuxLlxlxaTPw5i8YvMjFMAgLM57oMnoRcSE5GKeqU#SOS,SOS | Sensor Observation Service
 eLTER FIP 2020,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 eLTER FIP 2020,http://purl.org/np/RAkZcKw78nvhrCpqtPTP-JUv8Qr9N72Gjnaohpmd7UoKs#ERDDAP,ERDDAP
+eLTER FIP 2022,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
+eLTER FIP 2022,http://purl.org/np/RANyuuxLlxlxaTPw5i8YvMjFMAgLM57oMnoRcSE5GKeqU#SOS,SOS | Sensor Observation Service
+eLTER FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+eLTER FIP 2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 eLTER FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 eLTER FIP 2021,http://purl.org/np/RANyuuxLlxlxaTPw5i8YvMjFMAgLM57oMnoRcSE5GKeqU#SOS,SOS | Sensor Observation Service
 eLTER FIP 2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
@@ -1855,11 +1855,11 @@ SeaDataNET Sextant FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 Leiden University Libraries Digital Collections FIP,,
 Leiden University Libraries Digital Collections FIP,,
-eLTER FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER_FIP_2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTERFIP2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+eLTER FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 IAGOS FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 IAGOS FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -2014,11 +2014,11 @@ SeaDataNET Sextant FIP 2022,http://purl.org/np/RAEvHo9HYgH4jIdtmo1L4VWnBDOp08RKn
 SeaDataNET Sextant FIP 2020,http://purl.org/np/RAEvHo9HYgH4jIdtmo1L4VWnBDOp08RKng9RWCa6ZGdQ4#SDN_M_ID,SDN-MID-Service | SeaDataNet Marine ID AAA service
 Leiden University Libraries Digital Collections FIP,,
 Leiden University Libraries Digital Collections FIP,,
-eLTER FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER_FIP_2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTERFIP2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+eLTER FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 IAGOS FIP 2019,http://purl.org/np/RAESutxI_uSzDxudrQsj_lRPGbUyRUVB2M41F8gCEeR88#OpenID,OpenID Connect
 IAGOS FIP 2019,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
@@ -2116,11 +2116,11 @@ Social Science Survey Research V2.1,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhE
 Social Science Survey Research V2.1,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RA5RtSCnuHHEtc9br5zjy43LZfrdgIZfbdFosC7Hh6Xw4#OceanInforHub_metadata,OIH | Ocean InfoHub metadata service
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
-eLTER FIP 2022,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTER FIP 2019,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTER_FIP_2022,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTERFIP2022,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTER FIP 2020,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
+eLTER FIP 2022,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTER FIP 2021,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 IAGOS FIP 2021,http://purl.org/np/RA58nom0Qc05IAXovmdC68SnadhFc_1zL7iQGQgBWuRT0#IAGOS_MLP,IAGOS Data Preservation Policy
 IAGOS FIP 2022,http://purl.org/np/RA58nom0Qc05IAXovmdC68SnadhFc_1zL7iQGQgBWuRT0#IAGOS_MLP,IAGOS Data Preservation Policy
@@ -2289,8 +2289,6 @@ IUPAC Standards,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc
 IUPAC Standards,http://purl.org/np/RAm3fujGbvDzV5iSQb3eWx1elxWu9UQUPsHWtNAbZTa-M#RInChI,IUPAC Standard InChI-based Representation of Chemical Reactions
 IUPAC Standards,http://purl.org/np/RAJDnDdcKUPfD8aQka1QKua4-KVr9Cuo55x0Z5gMXraUo#MInChI,IUPAC Standard InChI-based Representation of Mixture Composition 
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
-eLTER FIP 2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
-eLTER FIP 2022,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 eLTER FIP 2019,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2019,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 eLTER_FIP_2022,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
@@ -2299,6 +2297,8 @@ eLTERFIP2022,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JS
 eLTERFIP2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2020,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 eLTER FIP 2020,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
+eLTER FIP 2022,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
+eLTER FIP 2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2021,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 eLTER FIP 2021,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 IAGOS FIP 2019,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
@@ -2477,11 +2477,11 @@ IUPAC Standards,http://purl.org/np/RAXZ8OBqfEm-Obxm96Fd_ZkEx19QpNZMoU-CoS5l159Ck
 IUPAC Standards,http://purl.org/np/RAUwETQnCLV1LSmuvtio-WkyEViy_EjRAMXNwVvcRiOIg#MAPT,IUPAC Machine Accessible Periodic Table 
 IUPAC Standards,http://purl.org/np/RAXLVL83cJTiJ-3mymGmZb-Gq4DpW17oU0mDwR2AXXrZk#ThermoML,IUPAC XML-based Standard for Thermodynamic Property Data
 IUPAC Standards,http://purl.org/np/RAnKE8XB48MCGLKgUKnBpv__Gw85IzWfQ9o2ux-ISwYzU#AIF,IUPAC Adsorption Information File
-eLTER FIP 2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2019,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER_FIP_2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTERFIP2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2020,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
+eLTER FIP 2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2021,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 IAGOS FIP 2019,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 IAGOS FIP 2021,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
@@ -2711,14 +2711,14 @@ WorldFAIR WP11 Oceanography,https://w3id.org/np/RAnoltSH1f1Gv678PF2Rs_h7U6NT5y_Q
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
 IUPAC Standards,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ#GoldBook,IUPAC Gold Book 
-eLTER FIP 2022,http://purl.org/np/RA3GQ4mu89KEDa3YeAlJ66X85tALejxeJNfI9vb2-YVRQ#eLTER_CL,eLTER_CL | eLTER Controlled Lists
-eLTER FIP 2022,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
 eLTER FIP 2019,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
 eLTER_FIP_2022,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
 eLTER_FIP_2022,http://purl.org/np/RA3GQ4mu89KEDa3YeAlJ66X85tALejxeJNfI9vb2-YVRQ#eLTER_CL,eLTER_CL | eLTER Controlled Lists
 eLTERFIP2022,http://purl.org/np/RA3GQ4mu89KEDa3YeAlJ66X85tALejxeJNfI9vb2-YVRQ#eLTER_CL,eLTER_CL | eLTER Controlled Lists
 eLTERFIP2022,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
 eLTER FIP 2020,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
+eLTER FIP 2022,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
+eLTER FIP 2022,http://purl.org/np/RA3GQ4mu89KEDa3YeAlJ66X85tALejxeJNfI9vb2-YVRQ#eLTER_CL,eLTER_CL | eLTER Controlled Lists
 eLTER FIP 2021,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
 IAGOS FIP 2019,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 IAGOS FIP 2019,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
@@ -3077,11 +3077,6 @@ Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAnzko_Tg
 Leiden University Libraries Digital Collections FIP,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
 Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAlccZ6j-6lF7tY8Yqdk9gDBWPW44pTVKh9D-AF-Lt-1g#europeana-dm,Europeana Data Model for Cultural Heritage (EDM)
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RA5RtSCnuHHEtc9br5zjy43LZfrdgIZfbdFosC7Hh6Xw4#OceanInforHub_metadata,OIH | Ocean InfoHub metadata service
-eLTER FIP 2022,http://purl.org/np/RAS95nqgBVT5tVaQiUfCwgFWjxIiwxtkZlkeMIRLDw9KU#DEIMS-SDR_SMM,DEIMS-SDR Site Metadata Model
-eLTER FIP 2022,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#INSPIRE-EMF,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities
-eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
-eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
-eLTER FIP 2022,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 eLTER FIP 2019,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#INSPIRE-EMF,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities
 eLTER FIP 2019,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2019,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
@@ -3098,6 +3093,11 @@ eLTERFIP2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#IS
 eLTER FIP 2020,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 eLTER FIP 2020,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#INSPIRE-EMF,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities
 eLTER FIP 2020,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
+eLTER FIP 2022,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#INSPIRE-EMF,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities
+eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
+eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+eLTER FIP 2022,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
+eLTER FIP 2022,http://purl.org/np/RAS95nqgBVT5tVaQiUfCwgFWjxIiwxtkZlkeMIRLDw9KU#DEIMS-SDR_SMM,DEIMS-SDR Site Metadata Model
 eLTER FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2021,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 eLTER FIP 2021,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#INSPIRE-EMF,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities
@@ -3272,9 +3272,6 @@ Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAiPPu60B
 Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAlccZ6j-6lF7tY8Yqdk9gDBWPW44pTVKh9D-AF-Lt-1g#europeana-dm,Europeana Data Model for Cultural Heritage (EDM)
 IUPAC Standards,http://purl.org/np/RAhUpOFFK08DwlZV3uHfy98yJJl8_Icmx-E9KoxO32LxM#FAIRSpec,IUPAC Standard for FAIR Data Management of Spectroscopic Data
 IUPAC Standards,,
-eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
-eLTER FIP 2022,http://purl.org/np/RAiUOnHVIVD110BqdD3FmXP_nU-9rXlgjVDg5j10HdqB0#SensorML,OGC SensorML | Open Geospatial Consortium Sensor Model Language
-eLTER FIP 2022,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
 eLTER FIP 2019,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
 eLTER FIP 2019,http://purl.org/np/RAiUOnHVIVD110BqdD3FmXP_nU-9rXlgjVDg5j10HdqB0#SensorML,OGC SensorML | Open Geospatial Consortium Sensor Model Language
 eLTER_FIP_2022,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
@@ -3285,6 +3282,9 @@ eLTERFIP2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-
 eLTERFIP2022,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
 eLTER FIP 2020,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
 eLTER FIP 2020,http://purl.org/np/RAiUOnHVIVD110BqdD3FmXP_nU-9rXlgjVDg5j10HdqB0#SensorML,OGC SensorML | Open Geospatial Consortium Sensor Model Language
+eLTER FIP 2022,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
+eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+eLTER FIP 2022,http://purl.org/np/RAiUOnHVIVD110BqdD3FmXP_nU-9rXlgjVDg5j10HdqB0#SensorML,OGC SensorML | Open Geospatial Consortium Sensor Model Language
 eLTER FIP 2021,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
 eLTER FIP 2021,http://purl.org/np/RAiUOnHVIVD110BqdD3FmXP_nU-9rXlgjVDg5j10HdqB0#SensorML,OGC SensorML | Open Geospatial Consortium Sensor Model Language
 eLTER FIP 2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
@@ -3402,11 +3402,11 @@ SeaDataNET Sextant FIP 2020,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY77
 Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 IUPAC Standards,http://purl.org/np/RAsHps5X17EiVP-ByVsvIqn3rKwP64PFqiH1IWY4Pe5i4#CC-BY-NC-ND-4.0,CC BY-NC-ND 4.0 | Attribution-NonCommercial-NoDerivatives 4.0 International
-eLTER FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTER FIP 2019,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTER_FIP_2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTERFIP2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTER FIP 2020,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
+eLTER FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTER FIP 2021,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 IAGOS FIP 2021,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 IAGOS FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
@@ -3523,11 +3523,11 @@ SeaDataNET Sextant FIP 2020,http://purl.org/np/RAny8a_ZxXjhgNkl0LjdTIU6OYLhnrtax
 Leiden University Libraries Digital Collections FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAEEcqbP_ghoZdqL-qsrjYp3YREEZMKuXb4t7xSGnIov8#CC-BY-SA-4.0,CC BY SA 4.0 | Attribution-ShareAlike 4.0 International
 IUPAC Standards,http://purl.org/np/RAsHps5X17EiVP-ByVsvIqn3rKwP64PFqiH1IWY4Pe5i4#CC-BY-NC-ND-4.0,CC BY-NC-ND 4.0 | Attribution-NonCommercial-NoDerivatives 4.0 International
-eLTER FIP 2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 eLTER FIP 2019,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 eLTER_FIP_2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 eLTERFIP2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 eLTER FIP 2020,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
+eLTER FIP 2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 eLTER FIP 2021,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 IAGOS FIP 2019,http://purl.org/np/RAAjwTSUI8rHdv-NT351Y6y5sA12Pg8uW7H5YU62abRjQ#IAGOS_DP,IAGOS Data Policy
 IAGOS FIP 2019,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
@@ -3665,8 +3665,6 @@ SeaDataNET Sextant FIP 2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcO
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAXKj086gOTnOBnbQShZIh7Stz6ahqaWRKxf3dMq6M2oM#Schema.org,Schema.org
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
-eLTER FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
-eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2019,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER_FIP_2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
@@ -3675,6 +3673,8 @@ eLTERFIP2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#IS
 eLTERFIP2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2020,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+eLTER FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 IAGOS FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
@@ -3778,11 +3778,11 @@ SeaDataNET Sextant FIP 2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcO
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y#Schema.org_Dataset,Schema.org Dataset
 IUPAC Standards,http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
-eLTER FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER_FIP_2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTERFIP2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+eLTER FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IAGOS FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IAGOS FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
