@@ -163,6 +163,8 @@ eLTER FIP 2022,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#
 eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+GO FAIR US Repo FIP Demo,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c#URI,URI | Uniform Resource Identifier
+GO FAIR US Repo FIP Demo,http://purl.org/np/RA5tPfcwo9y5_NJ8hXMv0SH5zGcAmqsu93AmqV5HpFqbA#DDI-URN,DDI URN | Uniform Resource Name
 IAGOS FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 IAGOS FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 IAGOS FIP 2021,http://purl.org/np/RAkc-x5DEBnK06XXpw4uh1ZzZcfEF4Kc8zV4m9xUw6j28#ePIC,ePIC | Persistent Identifier Consortium for eResearch
@@ -335,6 +337,7 @@ eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#
 eLTER FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2021,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#DEIMS-ID,DEIMS.ID
 eLTER FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 IAGOS FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 IAGOS FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 IAGOS FIP 2021,http://purl.org/np/RAkc-x5DEBnK06XXpw4uh1ZzZcfEF4Kc8zV4m9xUw6j28#ePIC,ePIC | Persistent Identifier Consortium for eResearch
@@ -546,6 +549,8 @@ eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#
 eLTER FIP 2022,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 eLTER FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2021,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
+GO FAIR US Repo FIP Demo,https://w3id.org/np/RA_oqII_3ddFHoCgZm1n6Cpobuyvj-lgl0DesbbeB1jHA#DataCiteMetadata4.4,DataCite Metadata Schema v4.4
+GO FAIR US Repo FIP Demo,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
 IAGOS FIP 2019,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 IAGOS FIP 2019,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 IAGOS FIP 2019,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
@@ -712,6 +717,7 @@ eLTERFIP2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DO
 eLTER FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 IAGOS FIP 2019,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 IAGOS FIP 2021,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 IAGOS FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
@@ -928,6 +934,9 @@ eLTER FIP 2021,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#
 eLTER FIP 2021,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 eLTER FIP 2021,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
 eLTER FIP 2021,,
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAGv90JSxsBhhVhdJq_6CtOrHCLBbAuMLdkhES3dkog8o#r3data,re3data | Registry of Research Data Repositories
+GO FAIR US Repo FIP Demo,https://w3id.org/np/RAqEeg0TsBbCE6tdp3xdZifswbiUEOh8psfJ8LoD5zrDc#FS,FAIRsharing
+GO FAIR US Repo FIP Demo,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 IAGOS FIP 2019,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 IAGOS FIP 2019,http://purl.org/np/RA4vJcJ6unDqQm8iBb_DDlquVD6cl89vRtW3tQfRIVwd8#GAW,GAWSIS | Global Atmosphere Watch Station Information System
 IAGOS FIP 2019,http://purl.org/np/RAGU7fcmWADuNzEpP5ttJrTFOqbuuZP0rJ35JgdvZke2M#GEOSS_Portal,GEOSS Portal | Global Earth Observation System of Systems Portal
@@ -1152,6 +1161,9 @@ eLTER FIP 2021,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#
 eLTER FIP 2021,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
 eLTER FIP 2021,,
 eLTER FIP 2021,http://purl.org/np/RAUEhNrbkNil4yh9jT69DefWB7c9q7b-8knKV2ibECnIo#eLTER-CDN,eLTER-CDN | eLTER Central Data Node
+GO FAIR US Repo FIP Demo,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
+GO FAIR US Repo FIP Demo,https://w3id.org/np/RAqEeg0TsBbCE6tdp3xdZifswbiUEOh8psfJ8LoD5zrDc#FS,FAIRsharing
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAGv90JSxsBhhVhdJq_6CtOrHCLBbAuMLdkhES3dkog8o#r3data,re3data | Registry of Research Data Repositories
 IAGOS FIP 2019,http://purl.org/np/RA4vJcJ6unDqQm8iBb_DDlquVD6cl89vRtW3tQfRIVwd8#GAW,GAWSIS | Global Atmosphere Watch Station Information System
 IAGOS FIP 2019,http://purl.org/np/RAGU7fcmWADuNzEpP5ttJrTFOqbuuZP0rJ35JgdvZke2M#GEOSS_Portal,GEOSS Portal | Global Earth Observation System of Systems Portal
 IAGOS FIP 2019,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
@@ -1447,6 +1459,7 @@ eLTER FIP 2021,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#
 eLTER FIP 2021,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 eLTER FIP 2021,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 eLTER FIP 2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 IAGOS FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 IAGOS FIP 2019,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 IAGOS FIP 2019,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
@@ -1697,6 +1710,8 @@ eLTER FIP 2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#
 eLTER FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 eLTER FIP 2021,http://purl.org/np/RANyuuxLlxlxaTPw5i8YvMjFMAgLM57oMnoRcSE5GKeqU#SOS,SOS | Sensor Observation Service
 eLTER FIP 2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+GO FAIR US Repo FIP Demo,http://purl.org/np/RARv4EFw3iwjRn01xnpto4yzc15buTVcm2_q-8a3jLoZw#FTP,FTP | File Transfer Protocol
 IAGOS FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 IAGOS FIP 2019,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 IAGOS FIP 2019,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
@@ -1861,6 +1876,7 @@ eLTERFIP2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OP
 eLTER FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
 IAGOS FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 IAGOS FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 IAGOS FIP 2022,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#eduGAIN,eduGAIN Interfederation Service
@@ -2020,6 +2036,9 @@ eLTERFIP2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OP
 eLTER FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 eLTER FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAESutxI_uSzDxudrQsj_lRPGbUyRUVB2M41F8gCEeR88#OpenID,OpenID Connect
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAp9mAr8_rruqiCKS9bI_1SgWZf4m-9dX6BCHEUSNuQoU#CEDAR_user_account,CEDAR workbench user account
 IAGOS FIP 2019,http://purl.org/np/RAESutxI_uSzDxudrQsj_lRPGbUyRUVB2M41F8gCEeR88#OpenID,OpenID Connect
 IAGOS FIP 2019,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
 IAGOS FIP 2019,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#eduGAIN,eduGAIN Interfederation Service
@@ -2122,6 +2141,7 @@ eLTERFIP2022,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eL
 eLTER FIP 2020,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTER FIP 2022,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTER FIP 2021,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
+GO FAIR US Repo FIP Demo,https://w3id.org/np/RAf-VpzK4W37ydpBg7jCs-hWv0W3ssX5J_kjzfRemTMN0#osf-mpp,OSF MPP | OSF Metadata Preservation Policy
 IAGOS FIP 2021,http://purl.org/np/RA58nom0Qc05IAXovmdC68SnadhFc_1zL7iQGQgBWuRT0#IAGOS_MLP,IAGOS Data Preservation Policy
 IAGOS FIP 2022,http://purl.org/np/RA58nom0Qc05IAXovmdC68SnadhFc_1zL7iQGQgBWuRT0#IAGOS_MLP,IAGOS Data Preservation Policy
 INDIGEO PNDB RSI UBO,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
@@ -2301,6 +2321,8 @@ eLTER FIP 2022,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#
 eLTER FIP 2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2021,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 eLTER FIP 2021,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 IAGOS FIP 2019,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 IAGOS FIP 2019,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 IAGOS FIP 2019,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
@@ -2483,6 +2505,8 @@ eLTERFIP2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XM
 eLTER FIP 2020,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 eLTER FIP 2021,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 IAGOS FIP 2019,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 IAGOS FIP 2021,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 IAGOS FIP 2022,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
@@ -2720,6 +2744,9 @@ eLTER FIP 2020,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#
 eLTER FIP 2022,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
 eLTER FIP 2022,http://purl.org/np/RA3GQ4mu89KEDa3YeAlJ66X85tALejxeJNfI9vb2-YVRQ#eLTER_CL,eLTER_CL | eLTER Controlled Lists
 eLTER FIP 2021,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAPbPkvyFnB0zf4Y80_RShjNfCZ9VBLQKvIuI9lUfZjnY#lcsh,Library of Congress Subject Headings (LCSH)
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 IAGOS FIP 2019,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 IAGOS FIP 2019,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
 IAGOS FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
@@ -2931,6 +2958,8 @@ WorldFAIR WP11 Oceanography,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc
 WorldFAIR WP11 Oceanography,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 WorldFAIR WP11 Oceanography,https://w3id.org/np/RAnoltSH1f1Gv678PF2Rs_h7U6NT5y_QmxwoP2RcJjixM#ENVO,ENVO | Environment Ontology
 IUPAC Standards,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ#GoldBook,IUPAC Gold Book 
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 IAGOS FIP 2019,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 IAGOS FIP 2019,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
 IAGOS FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
@@ -3408,6 +3437,7 @@ eLTERFIP2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC
 eLTER FIP 2020,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTER FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTER FIP 2021,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAeB7rO4dbDI-oFz-G5oSe4Ih-7W9IRlZkVwG6p0AlP-E#BSD-3-Clause,"BSD 3-Clause ""New"" or ""Revised"" License"
 IAGOS FIP 2021,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 IAGOS FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 IAGOS FIP 2020,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
@@ -3529,6 +3559,7 @@ eLTERFIP2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC
 eLTER FIP 2020,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 eLTER FIP 2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 eLTER FIP 2021,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 IAGOS FIP 2019,http://purl.org/np/RAAjwTSUI8rHdv-NT351Y6y5sA12Pg8uW7H5YU62abRjQ#IAGOS_DP,IAGOS Data Policy
 IAGOS FIP 2019,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 IAGOS FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
@@ -3677,6 +3708,7 @@ eLTER FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#
 eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IAGOS FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IAGOS FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IAGOS FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
@@ -3784,6 +3816,7 @@ eLTERFIP2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PR
 eLTER FIP 2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+GO FAIR US Repo FIP Demo,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IAGOS FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IAGOS FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 IAGOS FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
