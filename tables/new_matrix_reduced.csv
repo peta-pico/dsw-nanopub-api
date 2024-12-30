@@ -2208,7 +2208,7 @@ EPOS FIP 2019,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#J
 EPOS FIP 2019,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 EPOS ICS C FIP 2021,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 EnvDS FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
-FAIR-SaaS,https://w3id.org/np/RA5uOSubO87LVneq_S2SiAC8jagqF4KQNJKFNbrRVxSzg#SHACL,Shapes Constraint Language
+FAIR-SaaS,http://purl.org/np/RA0De1rNQiAQHHYHetHI4xMn1eA9XCU-FbIQQ2aR_ybKo#SHACL,SHACL Shapes Constraint Language
 GFTS,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0TiA-v50EOl6Zt0uOQr_Lolv2rao1gMXjHNl6WmW0Mk#DDI-XML,DDI XML | DDI 3.2 XML Schema
