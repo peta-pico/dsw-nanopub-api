@@ -1,4 +1,6 @@
 fip_title,resource_pref_id,reslabel
+testmarek,http://purl.org/np/RAyNaDj8ru3RUNoBacACVvIqIZvBGgOZ9TL7BsBasOvHM#B2HANDLE,B2HANDLE
+testmarek,https://w3id.org/np/RAp3fIzqG9r4IlvjvnMpkU6bvJhwD7U_xJAQ-H5niEmlM#AOP-WIKI-ID,AOP-WIKI-ID | Adverse Outcome Pathways Wiki Identifier
 ACTRIS ARES FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ARES FIP 2022,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
 ACTRIS ARES FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
