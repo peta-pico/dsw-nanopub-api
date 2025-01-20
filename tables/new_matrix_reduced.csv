@@ -454,14 +454,14 @@ EMSO ERIC FIP 2020 bm,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYK
 EMSO ERIC FIP 2022,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYKYZ5Fj4#OceanSites,OceanSITES | OceanSITES Data Format
 EMSO ERIC FIP 2021,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYKYZ5Fj4#OceanSites,OceanSITES | OceanSITES Data Format
 EMSO ERIC FIP 2019 bm,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYKYZ5Fj4#OceanSites,OceanSITES | OceanSITES Data Format
-EPND Case study 1,,
+EPND Case study 1,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 EPOS FIP 2022,http://purl.org/np/RA8tguXyD-aeLuuWlyeE20bghwk7ZVuNY7V458ARYRIUU#EPOS-Metadata-Model,EPOS Metadata Model
 EPOS FIP 2022,http://purl.org/np/RAUkmw0yO27WAtIrKQMVur8lCFqUQjI9E_e-h4e1gt4wc#EPOS-DCAT-AP,European Plate Observing System - Data Catalogue vocabulary - Application Profile
 EPOS FIP 2019,http://purl.org/np/RAUkmw0yO27WAtIrKQMVur8lCFqUQjI9E_e-h4e1gt4wc#EPOS-DCAT-AP,European Plate Observing System - Data Catalogue vocabulary - Application Profile
 EPOS FIP 2019,http://purl.org/np/RA8tguXyD-aeLuuWlyeE20bghwk7ZVuNY7V458ARYRIUU#EPOS-Metadata-Model,EPOS Metadata Model
 EPOS ICS C FIP 2021,http://purl.org/np/RAUkmw0yO27WAtIrKQMVur8lCFqUQjI9E_e-h4e1gt4wc#EPOS-DCAT-AP,European Plate Observing System - Data Catalogue vocabulary - Application Profile
 EnvDS FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-FAIR-SaaS,http://purl.org/np/RAhVNx-s-ySjdXAYCv16D489EN4Kdum_-jCJsMc1dpxQ4#FDP,FDP|FAIR Data Point
+FAIR-SaaS,,
 GFTS,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAsCYwueA2yrmAj_lOyB-yQdPw4KuLD1zMKui8QmvNdrI#DDI-Lifecycle_3.3,DDI Lifecycle 3.3 Metadata Schema
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis#SCGMPDWH_AIR,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air
@@ -807,7 +807,7 @@ EPOS FIP 2019,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#E
 EPOS ICS C FIP 2021,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#EPOS_Portal,EPOS ICS Data Portal
 EPOS ICS C FIP 2021,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#EPOS_Portal,EPOS ICS Data Portal
 EnvDS FIP,,
-FAIR-SaaS,http://purl.org/np/RAfMkkFKd5e3EQD_S72zAHdYx6dJSUH_dAfgzKWIfXMBo#FDP,FAIR Data Point
+FAIR-SaaS,http://purl.org/np/RAfMkkFKd5e3EQD_S72zAHdYx6dJSUH_dAfgzKWIfXMBo#FDP,FAIR Data Point Registry
 GFTS,,
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAXarvviWi2Dz7NGpN9A_zU7hz6Uh5xuxBZNZciReqtGw#GGP-Data-Catalog,GGP Data Catalog
 GalaxyClimate,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
@@ -1813,8 +1813,8 @@ EMSO ERIC FIP 2020 bm,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWo
 EMSO ERIC FIP 2022,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
 EMSO ERIC FIP 2021,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
 EMSO ERIC FIP 2019 bm,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-EPND Case study 1,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
 EPND Case study 1,,
+EPND Case study 1,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
 EnvDS FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 GFTS,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -2202,8 +2202,8 @@ EMSO ERIC FIP 2020 bm,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzO
 EMSO ERIC FIP 2022,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 EMSO ERIC FIP 2021,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 EMSO ERIC FIP 2019 bm,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
-EPND Case study 1,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 EPND Case study 1,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
+EPND Case study 1,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 EPOS FIP 2022,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 EPOS FIP 2022,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 EPOS FIP 2019,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
@@ -3657,7 +3657,7 @@ EMSO ERIC FIP 2020 bm,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3
 EMSO ERIC FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 EMSO ERIC FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 EMSO ERIC FIP 2019 bm,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
-EPND Case study 1,http://purl.org/np/RAhVNx-s-ySjdXAYCv16D489EN4Kdum_-jCJsMc1dpxQ4#FDP,FDP|FAIR Data Point
+EPND Case study 1,https://w3id.org/np/RAy59lsH2sdj4mqR3O-Lce8hNx9wuReROvP6RSEQBo3YA#FDPspec,FDPspec | FAIR Data Point specification
 EPOS ICS C FIP 2021,http://purl.org/np/RA4b-LIptEtHjOVWfK1uvEwd0s9NAWtKKEHTsXklIC6fU#CERIF,CERIF | Common European Research Information Format
 EnvDS FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 GFTS,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
@@ -3775,7 +3775,7 @@ EMSO ERIC FIP 2020 bm,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3
 EMSO ERIC FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 EMSO ERIC FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 EMSO ERIC FIP 2019 bm,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
-EPND Case study 1,http://purl.org/np/RAhVNx-s-ySjdXAYCv16D489EN4Kdum_-jCJsMc1dpxQ4#FDP,FDP|FAIR Data Point
+EPND Case study 1,https://w3id.org/np/RAy59lsH2sdj4mqR3O-Lce8hNx9wuReROvP6RSEQBo3YA#FDPspec,FDPspec | FAIR Data Point specification
 EPOS ICS C FIP 2021,http://purl.org/np/RA4b-LIptEtHjOVWfK1uvEwd0s9NAWtKKEHTsXklIC6fU#CERIF,CERIF | Common European Research Information Format
 EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 GFTS,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
