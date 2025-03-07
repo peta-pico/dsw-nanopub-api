@@ -18,6 +18,6 @@ csvjoin -d ',' -q '"' --left -c 'resource_id_used,resource_id' tables/declaratio
 
 csvcut -c fip_title,resource_pref_id,reslabel tables/new_matrix.csv > tables/new_matrix_reduced.csv
 
-curl -o tables/matrix.csv -H "Accept: text/csv" "$API/make_matrix"
+#curl -o tables/matrix.csv -H "Accept: text/csv" "$API/make_matrix"
 
 rm tables/*.pre.csv
