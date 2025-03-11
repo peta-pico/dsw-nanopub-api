@@ -2,6 +2,9 @@
 
 set -e
 
+cd "$( dirname "${BASH_SOURCE[0]}" )"
+cd ..
+
 API="https://grlc.knowledgepixels.com/api-git/peta-pico/dsw-nanopub-api"
 
 curl -o tables/resource_ids.csv -H "Accept: text/csv" "$API/get_resource_ids"

@@ -2,6 +2,10 @@
 
 set -e
 
+cd "$( dirname "${BASH_SOURCE[0]}" )"
+cd ..
+
+# Get preferred FER IDs:
 
 curl -L \
   -o tables/fer-pref-ids-main.pre.csv \
@@ -24,6 +28,7 @@ csvstack \
   tables/fer-pref-ids-extra-to-be-developed.pre.csv \
   > tables/fer-pref-ids.pre.csv
 
+# Get used FER IDs and combine with table above:
 
 curl -L \
   -o tables/fer-ids.pre.csv \
@@ -34,6 +39,7 @@ csvjoin -d ',' -q '"' -c 'np_pre_pubkey_hash' \
   tables/fer-ids.pre.csv tables/fer-pref-ids.pre.csv \
   > tables/fer-ids-long.pre.csv
 
+# Get GFF qualifications and combine with table above:
 
 curl -L \
   -o tables/gff-qualifications.pre.csv \
@@ -48,6 +54,13 @@ csvcut -c 'resource_id,resource_pref_id,res,reslabel,res_np,res_np_date,resource
   tables/fer-ids-full.pre.csv \
   | uniq \
   > tables/fer-ids.csv
+
+## Get FER declarations in FIP indexes:
+
+curl -L \
+  -o tables/fip-decl-in-index.pre.csv \
+  -H "Accept: text/csv" \
+  https://query.petapico.org/api/RAHQ1si6VpoRv0KVq8SyzIi4d6eGfok5PxhXWnew0Ipmo/get-fip-decl-in-index
 
 
 rm tables/*.pre.csv
