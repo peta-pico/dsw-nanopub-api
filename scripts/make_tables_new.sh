@@ -63,7 +63,7 @@ echo "resource_id" > tables/fer-ids-duplicates.pre.csv
 tail -n +2 tables/fer-ids-sorted.pre.csv | uniq -d >> tables/fer-ids-duplicates.pre.csv
 csvjoin -d ',' -q '"' --left -c 'resource_id' tables/fer-ids-duplicates.pre.csv tables/fer-ids.csv > tables/fer-ids-duplicates.csv
 
-## Get FER declarations:
+# Get FER declarations:
 
 curl -L \
   -o tables/fip-decl-in-index.pre.csv \
@@ -84,6 +84,20 @@ curl -L \
   -H "Accept: text/csv" \
   https://query.petapico.org/api/RAz76URtDXiLs-16LwzK-zNyzbIugXW8OjhUQdh5jPdtw/get-fip-supercommunities
 
-# TODO: merge fip-supercommunities.pre.csv into table above
+csvjoin -d ',' -q '"' --left -c 'community' \
+  tables/fip-declarations.pre.csv tables/fip-supercommunities.pre.csv \
+  > tables/fip-declarations.csv
+
+# Creating matrix table:
+
+csvjoin -d ',' -q '"' --left -c 'resource_id_used,resource_id' \
+  tables/fip-declarations.csv tables/fer-ids.csv \
+  > tables/matrix.csv
+
+csvcut -c fip_title,resource_pref_id,reslabel \
+  tables/matrix.csv \
+  > tables/matrix_reduced.csv
+
+# Removing all preliminary files:
 
 rm tables/*.pre.csv
