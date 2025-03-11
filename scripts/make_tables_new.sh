@@ -79,4 +79,11 @@ csvjoin -d ',' -q '"' -c 'decl_np' \
   tables/fip-decl-in-index.pre.csv tables/fip-decl-details.pre.csv \
   > tables/fip-declarations.pre.csv
 
+curl -L \
+  -o tables/fip-supercommunities.pre.csv \
+  -H "Accept: text/csv" \
+  https://query.petapico.org/api/RAz76URtDXiLs-16LwzK-zNyzbIugXW8OjhUQdh5jPdtw/get-fip-supercommunities
+
+# TODO: merge fip-supercommunities.pre.csv into table above
+
 rm tables/*.pre.csv
