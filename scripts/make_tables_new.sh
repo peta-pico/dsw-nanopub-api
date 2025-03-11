@@ -55,12 +55,20 @@ csvcut -c 'resource_id,resource_pref_id,res,reslabel,res_np,res_np_date,resource
   | uniq \
   > tables/fer-ids.csv
 
-## Get FER declarations in FIP indexes:
+## Get FER declarations:
 
 curl -L \
   -o tables/fip-decl-in-index.pre.csv \
   -H "Accept: text/csv" \
-  https://query.petapico.org/api/RAHQ1si6VpoRv0KVq8SyzIi4d6eGfok5PxhXWnew0Ipmo/get-fip-decl-in-index
+  https://query.petapico.org/api/RAL8F7s1oIwAooPdg8jLmtRYz9xIigSbt8pgQd1QiXDh0/get-fip-decl-in-index
 
+curl -L \
+  -o tables/fip-decl-details.pre.csv \
+  -H "Accept: text/csv" \
+  https://query.petapico.org/api/RAJJY0gSdHbzFc1q2sLIPs4ZKSnSFMq_IxxLjixKn80XU/get-fip-decl-details
+
+csvjoin -d ',' -q '"' -c 'decl_np' \
+  tables/fip-decl-in-index.pre.csv tables/fip-decl-details.pre.csv \
+  > tables/fip-declarations.pre.csv
 
 rm tables/*.pre.csv
