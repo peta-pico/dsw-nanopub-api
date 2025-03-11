@@ -55,6 +55,14 @@ csvcut -c 'resource_id,resource_pref_id,res,reslabel,res_np,res_np_date,resource
   | uniq \
   > tables/fer-ids.csv
 
+# Make FER duplicate table:
+
+csvcut -d ',' -q '"' -c 'resource_id' tables/fer-ids.csv > tables/fer-ids-unsorted.pre.csv
+csvsort -d ',' -q '"' -c 'resource_id' tables/fer-ids-unsorted.pre.csv > tables/fer-ids-sorted.pre.csv
+echo "resource_id" > tables/fer-ids-duplicates.pre.csv
+tail -n +2 tables/fer-ids-sorted.pre.csv | uniq -d >> tables/fer-ids-duplicates.pre.csv
+csvjoin -d ',' -q '"' --left -c 'resource_id' tables/fer-ids-duplicates.pre.csv tables/fer-ids.csv > tables/fer-ids-duplicates.csv
+
 ## Get FER declarations:
 
 curl -L \
