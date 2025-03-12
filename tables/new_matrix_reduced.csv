@@ -58,6 +58,7 @@ CMIP6 data FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#
 DANUBIUS FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 DANUBIUS FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 DANUBIUS FIP 2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+DeSci CODEX,http://purl.org/np/RA2hJd_Jm1N83qqVMhG8zNkCEInTDSyiSYEo6UY1KyO7U#dPID,Decentralizer Persistent Identifiers
 DiSSCo FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 DiSSCo FIP 2021,http://purl.org/np/RALWtAcbWMjmHQoBd9Mf7gCYRSAwTFmFFsy-1rHeNgIjs#DARA,DARA | DOI registration agency for social and economic data
 DiSSCo FIP 2021,http://purl.org/np/RAqr9OvVmSbt5JyDU0CBV63jfdDIklJ6PRMWFur2DYFHY#NSID,NSId | Natural Science Identifier
@@ -242,6 +243,7 @@ CMIP6 data FIP,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#
 DANUBIUS FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 DANUBIUS FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 DANUBIUS FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+DeSci CODEX,http://purl.org/np/RA2hJd_Jm1N83qqVMhG8zNkCEInTDSyiSYEo6UY1KyO7U#dPID,Decentralizer Persistent Identifiers
 DiSSCo FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 DiSSCo FIP 2021,http://purl.org/np/RAqr9OvVmSbt5JyDU0CBV63jfdDIklJ6PRMWFur2DYFHY#NSID,NSId | Natural Science Identifier
 DiSSCo FIP 2020,http://purl.org/np/RAqr9OvVmSbt5JyDU0CBV63jfdDIklJ6PRMWFur2DYFHY#NSID,NSId | Natural Science Identifier
@@ -441,6 +443,7 @@ DANUBIUS FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGn
 DANUBIUS FIP 2022,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 DANUBIUS FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 DANUBIUS FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
+DeSci CODEX,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 DiSSCo FIP 2019,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y#Schema.org_Dataset,Schema.org Dataset
 DiSSCo FIP 2019,http://purl.org/np/RAIKz5-yaWCQL-N3X_YawaGdOJFn4DfVNcExYpBJLQjn0#openDS,openDS | Open Digital Specimen
 DiSSCo FIP 2022,http://purl.org/np/RAIKz5-yaWCQL-N3X_YawaGdOJFn4DfVNcExYpBJLQjn0#openDS,openDS | Open Digital Specimen
@@ -665,6 +668,7 @@ CMIP6 data FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#
 DANUBIUS FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 DANUBIUS FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 DANUBIUS FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+DeSci CODEX,http://purl.org/np/RA7MYwidab1RLaq0vupELG03cjvZaGqtb6-K88DcgXkIM#IPLD,InterPlanetary Linked Data
 DiSSCo FIP 2022,http://purl.org/np/RABv2ScOD0VlRskTF3WaQhc8gtIy0_MtEVzDKPitRPaRo#FDO,FDO | Fair Digital Object
 DiSSCo FIP 2021,http://purl.org/np/RABv2ScOD0VlRskTF3WaQhc8gtIy0_MtEVzDKPitRPaRo#FDO,FDO | Fair Digital Object
 DiSSCo FIP 2020,http://purl.org/np/RABv2ScOD0VlRskTF3WaQhc8gtIy0_MtEVzDKPitRPaRo#FDO,FDO | Fair Digital Object
@@ -785,6 +789,7 @@ Euro Argo FIP 2022,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZ
 CMIP6 data FIP,http://purl.org/np/RAQdtjNY-r8ONtbwhColi4NML6ymd4NBB6SLWdpiBEhQY#ESGF,Earth System Grid Federation
 DANUBIUS FIP 2021,http://purl.org/np/RAUbP_FvGrwsW3MAWbrkfY0rnvjTpNrX41S2tl1xOb_EU#GeoNetwork,GeoNetwork
 DANUBIUS FIP 2022,http://purl.org/np/RAUbP_FvGrwsW3MAWbrkfY0rnvjTpNrX41S2tl1xOb_EU#GeoNetwork,GeoNetwork
+DeSci CODEX,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
 DiSSCo FIP 2022,http://purl.org/np/RAclBqDDtaujTUaP6qnWbybt64NJxBGm1axWJV8YnNCco#ECOI,ECOI | DiSSCo European Collection Objects Index
 DiSSCo FIP 2022,http://purl.org/np/RAANOJAdT5AYQlA5SMsTOGb6aHjhyhd8o2nkSqX1UeWDU#GBIF_search_engine,GBIF search engine | Global Biodiversity Information Facility Search Engine
 DiSSCo FIP 2021,http://purl.org/np/RAANOJAdT5AYQlA5SMsTOGb6aHjhyhd8o2nkSqX1UeWDU#GBIF_search_engine,GBIF search engine | Global Biodiversity Information Facility Search Engine
@@ -1281,6 +1286,7 @@ CMIP6 data FIP,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#
 CMIP6 data FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 DANUBIUS FIP 2021,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
 DANUBIUS FIP 2022,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
+DeSci CODEX,http://purl.org/np/RAkFrozLoFzv8s4gaJ6bfQOZ-u5n68gSSmnjdAgOtJbp4#IPFS,Inter-planetary File System
 DiSSCo FIP 2022,http://purl.org/np/RAs4C2BobkRdowrwXEOzC3khU_QI01alzqv_dN3yBqQQA#DOIP,DOIP | Digital Object Interface Protocol
 DiSSCo FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 DiSSCo FIP 2021,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
@@ -1578,6 +1584,7 @@ Euro Argo FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZV
 CMIP6 data FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 DANUBIUS FIP 2021,http://purl.org/np/RAwS8WZszCWu9Oz48iTIhXL9e5NiYb_x43uBZLhrN2rSI#OGC_CS,OGC CS | Open Geospatial Consortium Catalogue Services 3.0
 DANUBIUS FIP 2022,http://purl.org/np/RAwS8WZszCWu9Oz48iTIhXL9e5NiYb_x43uBZLhrN2rSI#OGC_CS,OGC CS | Open Geospatial Consortium Catalogue Services 3.0
+DeSci CODEX,http://purl.org/np/RAkFrozLoFzv8s4gaJ6bfQOZ-u5n68gSSmnjdAgOtJbp4#IPFS,Inter-planetary File System
 DiSSCo FIP 2022,http://purl.org/np/RAs4C2BobkRdowrwXEOzC3khU_QI01alzqv_dN3yBqQQA#DOIP,DOIP | Digital Object Interface Protocol
 DiSSCo FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 DiSSCo FIP 2021,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
@@ -1808,6 +1815,7 @@ CMIP6 data FIP,,
 DANUBIUS FIP 2021,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#eduGAIN,eduGAIN Interfederation Service
 DANUBIUS FIP 2022,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#eduGAIN,eduGAIN Interfederation Service
 DANUBIUS FIP 2019,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#eduGAIN,eduGAIN Interfederation Service
+DeSci CODEX,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 DiSSCo FIP 2019,http://purl.org/np/RAGuPGk2eXLTK7tNmv7wnghVOuLbfGtDJr4XzOF_WbzUw#DAAI,DAAI | DiSSCo Federated Authentication and Authorization Infrastructure
 DiSSCo FIP 2022,http://purl.org/np/RAGuPGk2eXLTK7tNmv7wnghVOuLbfGtDJr4XzOF_WbzUw#DAAI,DAAI | DiSSCo Federated Authentication and Authorization Infrastructure
 DiSSCo FIP 2021,http://purl.org/np/RAGuPGk2eXLTK7tNmv7wnghVOuLbfGtDJr4XzOF_WbzUw#DAAI,DAAI | DiSSCo Federated Authentication and Authorization Infrastructure
@@ -2200,6 +2208,8 @@ Euro Argo FIP 2021,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4i
 Euro Argo FIP 2022,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 Euro Argo FIP 2022,http://purl.org/np/RAIpnldLlIedp5J7Jcy8pt_X9_YpOez4rO-fHxZl0T96Y#OWL,OWL | Web Ontology Language
 CMIP6 data FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+DeSci CODEX,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+DeSci CODEX,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 DiSSCo FIP 2022,http://purl.org/np/RAalb4yUuh8_oDKKVBfilFEmwUFORrAaxfx_XqvHazNfU#DwC-A,DwC-A | Darwin Core Archive
 DiSSCo FIP 2021,http://purl.org/np/RAalb4yUuh8_oDKKVBfilFEmwUFORrAaxfx_XqvHazNfU#DwC-A,DwC-A | Darwin Core Archive
 DiSSCo FIP 2020,http://purl.org/np/RAalb4yUuh8_oDKKVBfilFEmwUFORrAaxfx_XqvHazNfU#DwC-A,DwC-A | Darwin Core Archive
@@ -2599,6 +2609,7 @@ DANUBIUS FIP 2022,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lI
 DANUBIUS FIP 2022,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
 DANUBIUS FIP 2019,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 DANUBIUS FIP 2019,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
+DeSci CODEX,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 DiSSCo FIP 2019,http://purl.org/np/RA2yc-_SiUlPPD51A6fXhcVX7PcCQ_Uc_d2e_3oRZ-8Yc#ABCDEFG,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences
 DiSSCo FIP 2019,http://purl.org/np/RAezTbjDwWyvAHodv7FSJvF4d0sqG5H9bhK0QUMgq93R8#ABCD,ABCD | Access to Biological Collection Data
 DiSSCo FIP 2022,http://purl.org/np/RA2yc-_SiUlPPD51A6fXhcVX7PcCQ_Uc_d2e_3oRZ-8Yc#ABCDEFG,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences
@@ -3032,6 +3043,7 @@ Euro Argo FIP 2022,http://purl.org/np/RALq176Ps7J8NcmeFWShY5cm87ONwmud3trXbMpLqW
 Euro Argo FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 DANUBIUS FIP 2021,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
 DANUBIUS FIP 2022,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
+DeSci CODEX,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 DiSSCo FIP 2019,http://purl.org/np/RAIKz5-yaWCQL-N3X_YawaGdOJFn4DfVNcExYpBJLQjn0#openDS,openDS | Open Digital Specimen
 DiSSCo FIP 2022,http://purl.org/np/RAIKz5-yaWCQL-N3X_YawaGdOJFn4DfVNcExYpBJLQjn0#openDS,openDS | Open Digital Specimen
 DiSSCo FIP 2021,http://purl.org/np/RAIKz5-yaWCQL-N3X_YawaGdOJFn4DfVNcExYpBJLQjn0#openDS,openDS | Open Digital Specimen
@@ -3375,6 +3387,7 @@ CMIP6 data FIP,http://purl.org/np/RAtk4jeEk4lqs7oMFj0K8E2sdMAMzTLeMphfJI3Ede7tU#
 DANUBIUS FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DANUBIUS FIP 2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DANUBIUS FIP 2019,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+DeSci CODEX,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DiSSCo FIP 2019,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DiSSCo FIP 2019,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 DiSSCo FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
@@ -3490,6 +3503,7 @@ Euro Argo FIP 2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS
 CMIP6 data FIP,http://purl.org/np/RA-3wwSbCh32dE51jFkqg8oBYjc7bpJpWSvITfHJMiOnw#CMIP6TOU,CMIP6: Terms of Use
 DANUBIUS FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DANUBIUS FIP 2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+DeSci CODEX,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DiSSCo FIP 2019,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DiSSCo FIP 2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DiSSCo FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
@@ -3657,6 +3671,7 @@ Euro Argo FIP 2019,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcG
 EuroArgo FIP 2020,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 Euro Argo FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 Euro Argo FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+DeSci CODEX,https://w3id.org/np/RAXKj086gOTnOBnbQShZIh7Stz6ahqaWRKxf3dMq6M2oM#Schema.org,Schema.org
 DiSSCo FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 DiSSCo FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 DiSSCo FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
