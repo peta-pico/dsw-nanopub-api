@@ -139,6 +139,10 @@ GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/
 PARC HBM | PARC Human Biomonitoring Data,http://purl.org/np/RALWtAcbWMjmHQoBd9Mf7gCYRSAwTFmFFsy-1rHeNgIjs#DARA,DARA | DOI registration agency for social and economic data
 PARC TOXRIC FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 PARC TOXRIC FIP,http://purl.org/np/RA7G8fg6dqE5NhP7QdDYI9ELM5nlQKILdbm-m24nW0AdM#PURL,PURL | Persistent Uniform Resource Locator
+PINK DataDocumentation Framework,https://w3id.org/np/RAen-vZInZFOzFGbzpN813pMb3MY9ItmyUACDY_3pqhSk#DLiteDatamodelService,DLite data model service
+PINK DataDocumentation Framework,https://w3id.org/np/RAen-vZInZFOzFGbzpN813pMb3MY9ItmyUACDY_3pqhSk#DLiteDatamodelService,DLite data model service
+PINK DataDocumentation Framework,https://w3id.org/np/RAhMxEqtT0ww-1QpCyASm5wgixBjJnfcD732Ztmra29n0#PINK_KB,PINK Knowledge base
+PINK DataDocumentation Framework,https://w3id.org/np/RAhMxEqtT0ww-1QpCyASm5wgixBjJnfcD732Ztmra29n0#PINK_KB,PINK Knowledge base
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAp6tnBfL3EKhP1Au96qVyZ4jbYDmfZPG99KmLyl6Lhg8#OpenSearch,OpenSearch
@@ -313,6 +317,8 @@ GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/
 PARC TOXRIC FIP,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
 PARC TOXRIC FIP,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c#URI,URI | Uniform Resource Identifier
 PARC TOXRIC FIP,http://purl.org/np/RAKpFZWygE9_6BQ2J_5CcjGS3s0JFz0kN9hh2zcgpXi0k#TOXRIC-TAID,TOXRIC-TAID | TOXRIC Unique ID for chemicals
+PINK DataDocumentation Framework,https://w3id.org/np/RAhMxEqtT0ww-1QpCyASm5wgixBjJnfcD732Ztmra29n0#PINK_KB,PINK Knowledge base
+PINK DataDocumentation Framework,https://w3id.org/np/RAhMxEqtT0ww-1QpCyASm5wgixBjJnfcD732Ztmra29n0#PINK_KB,PINK Knowledge base
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAyNaDj8ru3RUNoBacACVvIqIZvBGgOZ9TL7BsBasOvHM#B2HANDLE,B2HANDLE
@@ -527,6 +533,10 @@ NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformati
 NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://purl.org/np/RA4b-LIptEtHjOVWfK1uvEwd0s9NAWtKKEHTsXklIC6fU#CERIF,CERIF | Common European Research Information Format
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RAG7N37igxEgbXwiZDG3p5qaVmVloR7JNm2pxrv7WPHbk#DataCite_Metadata_Schema_Version_3_1,DataCite Metadata Schema Version 3.1
 PARC TOXRIC FIP,http://purl.org/np/RAKk2DMKAucMpTnicHQthFjTU4W86F482XieWKO9VXFO8#DDI-L_3.2,DDI Lifecycle 3.2 Metadata Schema
+PINK DataDocumentation Framework,https://w3id.org/np/RAxxJidKvIoMLsIpIsGF22S2m1zrW42zSQ1l0hz4OHYkc#TripperAnnotationSchema,Tripper Annotation Schema
+PINK DataDocumentation Framework,https://w3id.org/np/RAxxJidKvIoMLsIpIsGF22S2m1zrW42zSQ1l0hz4OHYkc#TripperAnnotationSchema,Tripper Annotation Schema
+PINK DataDocumentation Framework,https://w3id.org/np/RAFmIuPCHc-lI43TInJK5iMOSBQiqoPqwSsoOaME5N0hU#PINKAnnotationSchema,PINK Annnotation Schema
+PINK DataDocumentation Framework,https://w3id.org/np/RAFmIuPCHc-lI43TInJK5iMOSBQiqoPqwSsoOaME5N0hU#PINKAnnotationSchema,PINK Annnotation Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAZ3fpdCrJvdoWjgK1BW02Anv4AocL6FnJkgtjGYD7hHg#EAD,Encoded Archival Description
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
@@ -712,6 +722,8 @@ Nanopublication FIP,https://w3id.org/np/RAM5zmbkctjoWZRFD2EKlKjfcrN5AnJtAN7XjUrI
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
+PINK DataDocumentation Framework,https://w3id.org/np/RAegRhbqjEx_VgUAQMqUG97vYjyYm_D-gXboY-yw6RAYA#DLite,DLite | SINTEF Open Framework and Tool DLIte
+PINK DataDocumentation Framework,https://w3id.org/np/RAegRhbqjEx_VgUAQMqUG97vYjyYm_D-gXboY-yw6RAYA#DLite,DLite | SINTEF Open Framework and Tool DLIte
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 Social Science Survey Research V2,http://purl.org/np/RAbX1P-3IYukp9P1L1mqspwiZjN-mM0_IAiP662KJFhjo#DARA,DA|RA DOI registration agency for social and economic data.
@@ -1144,6 +1156,8 @@ WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RAV8n1_dl6yXvoryYdX9nUwk_Y
 NanoPharos | NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://purl.org/np/RA-7YdatF38SxYdikEs11XiD9rEpYOsXZaTu8o9d1vRp0#NanoPharos,NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics
 NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://purl.org/np/RA-7YdatF38SxYdikEs11XiD9rEpYOsXZaTu8o9d1vRp0#NanoPharos,NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k#Dataverse,The Dataverse Project
+PINK DataDocumentation Framework,https://w3id.org/np/RAoYL15Wk3IWGdgh4Hb3k4XokuZpRbwXNRwtSXaPfYq0Y#PINK_KB,PINK Knowledge base
+PINK DataDocumentation Framework,https://w3id.org/np/RAoYL15Wk3IWGdgh4Hb3k4XokuZpRbwXNRwtSXaPfYq0Y#PINK_KB,PINK Knowledge base
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAIqEwiWjd3U9d8BTPMr1-CdiK4IQfqj37z8DyQtRHTBc#DANS-Data-Station-SSH,DANS Data Station-Social Science and Humanities (SSH)
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k#Dataverse,The Dataverse Project
 Social Science Survey Research V2,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc#GESIS-Search,GESIS Search
@@ -1412,6 +1426,8 @@ NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://pur
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 JB-test,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 PARC TOXRIC FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+PINK DataDocumentation Framework,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
+PINK DataDocumentation Framework,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
@@ -1712,6 +1728,8 @@ GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/
 PARC HBM | PARC Human Biomonitoring Data,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 JB-test,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 PARC TOXRIC FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+PINK DataDocumentation Framework,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
+PINK DataDocumentation Framework,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
@@ -2334,6 +2352,8 @@ JB-test,http://purl.org/np/RAm3fujGbvDzV5iSQb3eWx1elxWu9UQUPsHWtNAbZTa-M#RInChI,
 PARC TOXRIC FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 PARC TOXRIC FIP,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw#InChI,International Chemical Identifier 
 PARC TOXRIC FIP,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc#SMILESplus,IUPAC SMILES+ Specification 
+PINK DataDocumentation Framework,https://w3id.org/np/RArl-UCLMUuIuH0EMGff5rziY71xS7I4m0nP0z7BnEQPw#DLite,DLite
+PINK DataDocumentation Framework,https://w3id.org/np/RArl-UCLMUuIuH0EMGff5rziY71xS7I4m0nP0z7BnEQPw#DLite,DLite
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAIpnldLlIedp5J7Jcy8pt_X9_YpOez4rO-fHxZl0T96Y#OWL,OWL | Web Ontology Language
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
@@ -2539,6 +2559,8 @@ GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/
 JB-test,http://purl.org/np/RAw8cpti1Df1z7MLB6_mWkB2R4clObaPsyklAlLhwbOCw#CKAN,CKAN | Comprehensive Knowledge Archive Network
 PARC TOXRIC FIP,http://purl.org/np/RAARoMhW12s1fPhGxMXyfEmnammF1BmmDZsL3zqZju4iw#InChI,International Chemical Identifier 
 PARC TOXRIC FIP,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc#SMILESplus,IUPAC SMILES+ Specification 
+PINK DataDocumentation Framework,https://w3id.org/np/RArl-UCLMUuIuH0EMGff5rziY71xS7I4m0nP0z7BnEQPw#DLite,DLite
+PINK DataDocumentation Framework,https://w3id.org/np/RArl-UCLMUuIuH0EMGff5rziY71xS7I4m0nP0z7BnEQPw#DLite,DLite
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAVoIiicDuWm0TCWvcpXIo5PoA7RdCv8WVDwdtYUuAEVc#HTML,HTML: The HyperText Markup Language
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
@@ -2769,6 +2791,8 @@ PARC TOXRIC FIP,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ
 PARC TOXRIC FIP,http://purl.org/np/RATt4Su6Nt6dP4JShHtWnxp2s8-lIB-C3qVmoJih2A5nQ#CVCL,Cellosaurus
 PARC TOXRIC FIP,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
 PARC TOXRIC FIP,http://purl.org/np/RAVAVosrskaZNJP2MtoEkVlNJXyuY4hB5fW2D4jOb4OvQ#ChEMBL,ChEMBL | Chemical database of the European Molecular Biology Laboratory
+PINK DataDocumentation Framework,https://w3id.org/np/RADzSPGRBDYrEGGnZkAB3SdvHLq-hJtPflrWpCx4JT12k#PINKAnnotationSchema,PINK Annnotation Schema
+PINK DataDocumentation Framework,https://w3id.org/np/RADzSPGRBDYrEGGnZkAB3SdvHLq-hJtPflrWpCx4JT12k#PINKAnnotationSchema,PINK Annnotation Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RACPHNcUYMNkpubD7DgRabLc_-kctT92o7QehQSMk7xgY#EAD,EAD Encoded Archival Description
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 Social Science Survey Research V2,http://purl.org/np/RA1Ra0mFnCIMEAfwTbfg0dBO6LEu45UOycBDp0f7Z4ZH4#THESOZ,Thesaurus Sozialwissenschaften (THESOZ)
@@ -3026,6 +3050,8 @@ WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RAG_WQ6LruDpmtuhfQpS2IsIcf
 WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RAGVk8evrODJcvukhw3d74EG_DeKU90r9uyfUlHNAwlOI#eNM,eNanoMapper ontology
 PARC TOXRIC FIP,http://purl.org/np/RAs41FHxGOt4qdgCZjHpjrHvJTSgHuhAAArWA8Ievp7sM#TOXRIC_Vocabulary,TOXRIC_Vocabulary | TOXRIC Toxicity Categories and Feature Space Vocabulary
 PARC TOXRIC FIP,http://purl.org/np/RAQtuJa-bzLqVlxCcWNvR8C1tAtHRO9E1KDeqXCmce4gQ#GoldBook,IUPAC Gold Book 
+PINK DataDocumentation Framework,https://w3id.org/np/RADzSPGRBDYrEGGnZkAB3SdvHLq-hJtPflrWpCx4JT12k#PINKAnnotationSchema,PINK Annnotation Schema
+PINK DataDocumentation Framework,https://w3id.org/np/RADzSPGRBDYrEGGnZkAB3SdvHLq-hJtPflrWpCx4JT12k#PINKAnnotationSchema,PINK Annnotation Schema
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAZHhesTi4w3mxTTTLVte6hEuK-RVASTIoPtBb4r0bmE4#IDS,IDS The Intermediate Data Structure for Longitudinal Historical Microdata
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,,
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAfUEUCJ_nRVSOlukuyfuUWOblEMqqRgrG9yk47y2izdI#H-ICD,Historical ICD
@@ -3174,6 +3200,8 @@ NanoPharos Database: Ready-for-Modelling Datasets for Nanoinformatics,http://pur
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
 PARC TOXRIC FIP,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y#Schema.org_Dataset,Schema.org Dataset
 PARC TOXRIC FIP,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
+PINK DataDocumentation Framework,https://w3id.org/np/RADJdfWwuUCthscq7rbNVEobyAqhlVDS5Xh3AjA8O6VuE#DLite,DLite: Lightweight data-centric framework for semantic interoperability.
+PINK DataDocumentation Framework,https://w3id.org/np/RADJdfWwuUCthscq7rbNVEobyAqhlVDS5Xh3AjA8O6VuE#DLite,DLite: Lightweight data-centric framework for semantic interoperability.
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAZHhesTi4w3mxTTTLVte6hEuK-RVASTIoPtBb4r0bmE4#IDS,IDS The Intermediate Data Structure for Longitudinal Historical Microdata
 Social Science Survey Research V2,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
@@ -3375,6 +3403,8 @@ LifeWatch Ecosystems FIP 2022,http://purl.org/np/RApnjdVEO68-pnN2d4PgtdvywwCjbHa
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAalb4yUuh8_oDKKVBfilFEmwUFORrAaxfx_XqvHazNfU#DwC-A,DwC-A | Darwin Core Archive
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RApnjdVEO68-pnN2d4PgtdvywwCjbHaMXfbFc-5ncfUt4#NetCDF_CF_SDN,NetCDF_CF_SDN | NETCDF CF format SeaDataNet Profile
 Nanopublication FIP,https://w3id.org/np/RAM5zmbkctjoWZRFD2EKlKjfcrN5AnJtAN7XjUrIPUcBA#NP_onto,NP_onto | Nanopublication Ontology
+PINK DataDocumentation Framework,https://w3id.org/np/RADJdfWwuUCthscq7rbNVEobyAqhlVDS5Xh3AjA8O6VuE#DLite,DLite: Lightweight data-centric framework for semantic interoperability.
+PINK DataDocumentation Framework,https://w3id.org/np/RADJdfWwuUCthscq7rbNVEobyAqhlVDS5Xh3AjA8O6VuE#DLite,DLite: Lightweight data-centric framework for semantic interoperability.
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RA0De1rNQiAQHHYHetHI4xMn1eA9XCU-FbIQQ2aR_ybKo#SHACL,SHACL Shapes Constraint Language
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvGXHpXXL_0#ODV_ASCII,ODV_ASCII | Ocean Data View ASCII format for marine datasets
@@ -3902,6 +3932,12 @@ WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RAHagwV-mH0CNigqEnjYefZmcG
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),https://w3id.org/np/RADgvxiW6N99-SGd26e0apP96no6gVoBpnT7xWfvChtnM#ODM2,Observations Data Model 2 | ODM2
 PARC TOXRIC FIP,http://purl.org/np/RAKk2DMKAucMpTnicHQthFjTU4W86F482XieWKO9VXFO8#DDI-L_3.2,DDI Lifecycle 3.2 Metadata Schema
 PARC TOXRIC FIP,http://purl.org/np/RAHk1D8hVVkw8HDG3Hl__mfkKIZ5KWLR9-yru2ZEPsvMM#MIDS,MIDS | Minimum Information Standard for Digital Specimens
+PINK DataDocumentation Framework,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
+PINK DataDocumentation Framework,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
+PINK DataDocumentation Framework,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+PINK DataDocumentation Framework,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+PINK DataDocumentation Framework,http://purl.org/np/RAGhCnj_zKSZURRm5MgkkeLAnGfGYp3Bw_he3pYS4k0o4#DCAT-AP,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe
+PINK DataDocumentation Framework,http://purl.org/np/RAGhCnj_zKSZURRm5MgkkeLAnGfGYp3Bw_he3pYS4k0o4#DCAT-AP,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe
 SSHOC-NL-SEH | SSHOC-NL Socio Economic History,http://purl.org/np/RAFvNzVlN_M4tXWryXeM_9mk88rdcQ0Ct3_L-5YVlMarc#DCAT3,DCAT | Data Catalog Vocabulary Version 3
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
