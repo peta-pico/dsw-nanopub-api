@@ -10,7 +10,7 @@ QUERY_API_URL=https://query.petapico.org
 function call_api {
   QUERY=$QUERY_API_URL/api/$1
   OUTFILE=tables/v3/$2
-  echo "x Calling $QUERY"
+  echo "Calling $QUERY"
   curl -f -L -o $OUTFILE -H "Accept: text/csv" $QUERY
   # Work-around because the API URLs don't return proper HTTP error codes:
   if [ $(head -n 1 $OUTFILE | tr -d '\r\n') = "<html>" ]; then
