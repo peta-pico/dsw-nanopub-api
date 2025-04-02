@@ -1846,12 +1846,12 @@ Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RA57gv
 AnaEE CREA FIP 2019,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
 AnaEE CREA FIP 2021,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
 AnaEE_CREA_FIP_2020,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
-AnaEE FIP 2021,http://purl.org/np/RAycjESjFQ91267zhC1Cp_203_rSrbDsC2Klo7egQTh8o#GNOS_account,GeoNetwork account in the internal catalog database
+AnaEE FIP 2021,,
 AnaEE FIP 2021,http://purl.org/np/RAJMDgH_Rti7TUNH6OCFubEwHuyIKjR90pYdZE1IccG7w#LDAP,LDAP | Lightweight Directory Access Protocol
-AnaEE FIP 2020,http://purl.org/np/RAycjESjFQ91267zhC1Cp_203_rSrbDsC2Klo7egQTh8o#GNOS_account,GeoNetwork account in the internal catalog database
-AnaEE FIP 2022,http://purl.org/np/RAycjESjFQ91267zhC1Cp_203_rSrbDsC2Klo7egQTh8o#GNOS_account,GeoNetwork account in the internal catalog database
+AnaEE FIP 2020,,
+AnaEE FIP 2022,,
 AnaEE FIP 2022,http://purl.org/np/RAJMDgH_Rti7TUNH6OCFubEwHuyIKjR90pYdZE1IccG7w#LDAP,LDAP | Lightweight Directory Access Protocol
-AnaEE FIP 2019,http://purl.org/np/RAycjESjFQ91267zhC1Cp_203_rSrbDsC2Klo7egQTh8o#GNOS_account,GeoNetwork account in the internal catalog database
+AnaEE FIP 2019,,
 Euro Argo FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 EuroArgo FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 Euro Argo FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -1947,7 +1947,7 @@ IAGOS FIP 2022,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#
 IAGOS FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 IAGOS FIP 2022,http://purl.org/np/RAOhpi4pd0_dAOReqbH_p9URwV30ErkyGK775n4lb9VJg#Keycloak,Keycloak Single-Sign On
 IAGOS FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-INDIGEO PNDB RSI UBO,http://purl.org/np/RAycjESjFQ91267zhC1Cp_203_rSrbDsC2Klo7egQTh8o#GNOS_account,GeoNetwork account in the internal catalog database
+INDIGEO PNDB RSI UBO,,
 IUPAC Gold Book (original FIP),http://purl.org/np/RAMUeLXsGnDeWTroPHPQOHQqgILbEvEt9D43MZ5km9lWY#Crossref,Crossref (DOI)
 LifeWatch Marine FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 LifeWatch Marine FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -2126,7 +2126,7 @@ IAGOS FIP 2020,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#
 IAGOS FIP 2020,,
 IAGOS FIP 2020,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
 INDIGEO PNDB RSI UBO,http://purl.org/np/RAxVJfYB9Bm4E_30-EzAuoso4ka82Ar47-a_yNSX1sD7M#geoserver-account,GeoServer account in the internal catalog database
-INDIGEO PNDB RSI UBO,http://purl.org/np/RAycjESjFQ91267zhC1Cp_203_rSrbDsC2Klo7egQTh8o#GNOS_account,GeoNetwork account in the internal catalog database
+INDIGEO PNDB RSI UBO,,
 LifeWatch Marine FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 LifeWatch Marine FIP 2019,http://purl.org/np/RAMx47pRZCADe1M1YHFv10Du6CXljco3G3figpAxlqhI0#InnovAuth,InnovAuth
 LifeWatch Marine FIP 2022,http://purl.org/np/RAMx47pRZCADe1M1YHFv10Du6CXljco3G3figpAxlqhI0#InnovAuth,InnovAuth
