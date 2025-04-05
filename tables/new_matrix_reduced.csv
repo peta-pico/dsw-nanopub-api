@@ -81,6 +81,8 @@ FLUXNET FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI
 GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 GFTS,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+The GLOBALISE Project FIP,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
+The GLOBALISE Project FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c#URI,URI | Uniform Resource Identifier
 GalaxyClimate,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 GalaxyClimate,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
@@ -273,6 +275,7 @@ EnvDS FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handl
 EnvDS FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+The GLOBALISE Project FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c#URI,URI | Uniform Resource Identifier
 GalaxyClimate,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 PandemicPACT FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -483,6 +486,7 @@ FLUXNET FIP,https://w3id.org/np/RAYRIG5I5hBwhati9LB_tU8piae0Gfmm9SlllNgixFCMo#BA
 FAIR-SaaS,,
 GFTS,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAsCYwueA2yrmAj_lOyB-yQdPw4KuLD1zMKui8QmvNdrI#DDI-Lifecycle_3.3,DDI Lifecycle 3.3 Metadata Schema
+The GLOBALISE Project FIP,https://w3id.org/np/RAXKj086gOTnOBnbQShZIh7Stz6ahqaWRKxf3dMq6M2oM#Schema.org,Schema.org
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis#SCGMPDWH_AIR,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air
 GalaxyClimate,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
 PandemicPACT FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
@@ -701,6 +705,7 @@ EPOS FIP 2019,http://purl.org/np/RA-mzxWOvd1iLF_o0bUr0dvvdTrc-pgD638bYHb63hgIc#E
 EnvDS FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+The GLOBALISE Project FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 GalaxyClimate,http://purl.org/np/RA6roi86ztkS2GF7WbbFpLvhmJCCEA7AByx6M9fJfZVZs#fsp,FAIR Signposting
 PandemicPACT FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ICOS FIP 2023,http://purl.org/np/RAWRg-ga5vWyHdPUfpeFkX9bLJQYkWL63oaPtxWcKbcAs#LOD,LOD | Linked Open Data
@@ -841,6 +846,8 @@ EnvDS FIP,,
 FAIR-SaaS,http://purl.org/np/RAfMkkFKd5e3EQD_S72zAHdYx6dJSUH_dAfgzKWIfXMBo#FDP,FAIR Data Point Registry
 GFTS,,
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAXarvviWi2Dz7NGpN9A_zU7hz6Uh5xuxBZNZciReqtGw#GGP-Data-Catalog,GGP Data Catalog
+The GLOBALISE Project FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+The GLOBALISE Project FIP,https://w3id.org/np/RAWwjmeUNehGaQNEliglvC88QTKYOSrEcXYT9RYquIIwU#IISG-Dataverse,IISG Dataverse
 GalaxyClimate,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
 GalaxyClimate,http://purl.org/np/RAQKm4e3E9TS7hFhm0OkRpKjLZElE6pGpXHlDH3mrJ9vE#OpenAIRE,OpenAIRE Research Graph
 PandemicPACT FIP,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
@@ -1102,6 +1109,8 @@ FAIR-SaaS,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQ
 GFTS,,
 GFTS,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAXarvviWi2Dz7NGpN9A_zU7hz6Uh5xuxBZNZciReqtGw#GGP-Data-Catalog,GGP Data Catalog
+The GLOBALISE Project FIP,https://w3id.org/np/RAWwjmeUNehGaQNEliglvC88QTKYOSrEcXYT9RYquIIwU#IISG-Dataverse,IISG Dataverse
+The GLOBALISE Project FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
 GalaxyClimate,http://purl.org/np/RAQdtjNY-r8ONtbwhColi4NML6ymd4NBB6SLWdpiBEhQY#ESGF,Earth System Grid Federation
 GalaxyClimate,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
 ICOS FIP 2023,http://purl.org/np/RAOmV-6UrwB8hS1xSgFKMidKi3eJrgM2414VlGulBhQDM#Dimensions,Dimensions
@@ -1355,6 +1364,8 @@ GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTP
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0HgbNsaiXnkfTuGtWjiHPGM6WaBc8mHXbz4P_sSE13U#TCP-IP,TCP/IP | Internet protocol suite
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
+The GLOBALISE Project FIP,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
+The GLOBALISE Project FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 GalaxyClimate,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
@@ -1676,6 +1687,8 @@ GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP 
 GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0HgbNsaiXnkfTuGtWjiHPGM6WaBc8mHXbz4P_sSE13U#TCP-IP,TCP/IP | Internet protocol suite
+The GLOBALISE Project FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+The GLOBALISE Project FIP,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 GalaxyClimate,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
@@ -2185,6 +2198,8 @@ EHN-HFRv-MS FIP,https://w3id.org/np/RARot_hFBaCiDF64VSInivNIqGANz2Ugy4uiBD69IXVq
 EnvDS FIP,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
+The GLOBALISE Project FIP,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
+The GLOBALISE Project FIP,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAL4m80nnSl_hblQ7UWsVc1sb5XQbO09xghbDxCR3OTk0#SCGMPDWH_MPP,SCGMPDWH_MPP | Stockholm Convention Global Monitoring Plan Metadata Preservation Policy
 GalaxyClimate,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
 PandemicPACT FIP,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
@@ -2292,6 +2307,9 @@ FAIR-SaaS,http://purl.org/np/RA0De1rNQiAQHHYHetHI4xMn1eA9XCU-FbIQQ2aR_ybKo#SHACL
 GFTS,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA0TiA-v50EOl6Zt0uOQr_Lolv2rao1gMXjHNl6WmW0Mk#DDI-XML,DDI XML | DDI 3.2 XML Schema
+The GLOBALISE Project FIP,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
+The GLOBALISE Project FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS | Simple Knowledge Organization System
+The GLOBALISE Project FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 GalaxyClimate,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 GalaxyClimate,http://purl.org/np/RAw8cpti1Df1z7MLB6_mWkB2R4clObaPsyklAlLhwbOCw#CKAN,CKAN | Comprehensive Knowledge Archive Network
@@ -2513,6 +2531,11 @@ FLUXNET FIP,http://purl.org/np/RAcNC9zQOEc9RPXD07R91aMNSlYmJR9G4kRT_Pm4FpzkE#CSV
 FLUXNET FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 FAIR-SaaS,https://w3id.org/np/RAYthYl2yQXZASHpK73bqlnDQ8lE9fXHB23yLHsIuRzvQ#FHIR,Fast Healthcare Interoperability Resources
 GFTS,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+The GLOBALISE Project FIP,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
+The GLOBALISE Project FIP,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
+The GLOBALISE Project FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS | Simple Knowledge Organization System
+The GLOBALISE Project FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
+The GLOBALISE Project FIP,http://purl.org/np/RAIpnldLlIedp5J7Jcy8pt_X9_YpOez4rO-fHxZl0T96Y#OWL,OWL | Web Ontology Language
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 GalaxyClimate,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 PandemicPACT FIP,http://purl.org/np/RAIpnldLlIedp5J7Jcy8pt_X9_YpOez4rO-fHxZl0T96Y#OWL,OWL | Web Ontology Language
@@ -2984,6 +3007,9 @@ GFTS,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF S
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RAr9UU89m_5fXYPPowF2lL9u5ugfhJ4em3zc62mTts6f4#ISCED,ISCED | International Standard Classification of Education
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAKy68K-ubbaV8BKrbYyJQ1NYKcCkvQPpgrQ7rdWbvjRU#ISO_3166,ISO 3166-1:2013 Codes for the representation of names of countries and their subdivisions - Part 1: Country codes
 GGP | Generations & Gender Programme FIP,https://w3id.org/np/RA1qhkgRApF8eT0K31wqsxEW8DTBljNMZAtcA12gqL6BA#ISCO-08,ISCO-08 | The International Standard Classification of Occupations
+The GLOBALISE Project FIP,https://w3id.org/np/RAdxb63gjTah4GBIHOn4csAJ5g7nJVLvlbyIJdGKR-72k#AAT,AAT | Art and Architecture thesaurus
+The GLOBALISE Project FIP,https://w3id.org/np/RAti2z4scmGRSi1trDUne6QMmMIL3dz1v5vUcn9TtP0Ns#SITC,SITC | Standard International Trade Classification
+The GLOBALISE Project FIP,https://w3id.org/np/RAfbEFvkKsSoyCFob_GXedlSuCtNhSpUIWwCyAkXfcxHc#CHT,CHT | Cultural Heritage Thesaurus
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis#SCGMPDWH_AIR,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air
 GalaxyClimate,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 ICOS FIP 2023,http://purl.org/np/RA4oRRKTg5X-e0JOtnuXbrZBaNRJnMICD_R3z4r6olOTU#ICOS_ontology,ICOS Ontology | Integrated Carbon Observation System Ontology
@@ -3373,6 +3399,8 @@ EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCD
 EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
 GFTS,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 GGP | Generations & Gender Programme FIP,http://purl.org/np/RAfE73MeNzkRIq8thrVTIYwh8k0Ia0liajjv4KhnLxMks#DDI-L_3.3,DDI-Lifecycle 3.3 
+The GLOBALISE Project FIP,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
+The GLOBALISE Project FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 GalaxyClimate,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 PandemicPACT FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 ICOS FIP 2023,http://purl.org/np/RA4oRRKTg5X-e0JOtnuXbrZBaNRJnMICD_R3z4r6olOTU#ICOS_ontology,ICOS Ontology | Integrated Carbon Observation System Ontology
@@ -3636,6 +3664,9 @@ EnvDS FIP,http://purl.org/np/RA24ysQcpWDzK6wHANkG_3F1HiTbgOO4ULjYxjaXDi8C4#MIT,M
 EnvDS FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 FLUXNET FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 GFTS,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+The GLOBALISE Project FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+The GLOBALISE Project FIP,http://purl.org/np/RAEEcqbP_ghoZdqL-qsrjYp3YREEZMKuXb4t7xSGnIov8#CC-BY-SA-4.0,CC BY SA 4.0 | Attribution-ShareAlike 4.0 International
+The GLOBALISE Project FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 GalaxyClimate,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 PandemicPACT FIP,http://purl.org/np/RAEEcqbP_ghoZdqL-qsrjYp3YREEZMKuXb4t7xSGnIov8#CC-BY-SA-4.0,CC BY SA 4.0 | Attribution-ShareAlike 4.0 International
@@ -3916,6 +3947,8 @@ EHN-HFRv-MS FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYw
 European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
 EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 GFTS,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+The GLOBALISE Project FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+The GLOBALISE Project FIP,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
 Stockholm Convention Global Monitoring Plan DWH,http://purl.org/np/RAVv1z67UEMhgJwbVjT24xjZDJNtyA6maAgsQdntQrGis#SCGMPDWH_AIR,SCGMPDWH_AIR | Stockholm Convention Global Monitoring Plan Data Warehouse Ambient Air
 GalaxyClimate,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 ICOS FIP 2023,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
