@@ -16,7 +16,7 @@ jobs:
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
       - name: Run script make_tables.sh
-        run:  bash ${GITHUB_WORKSPACE}/scripts/make_tables.sh
+        run:  bash ${GITHUB_WORKSPACE}/scripts/make_tables.sh ; ${GITHUB_WORKSPACE}/scripts/make_tables_v3.sh
       - uses: EndBug/add-and-commit@v9
         with:
           add: 'tables'
