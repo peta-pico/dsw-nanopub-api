@@ -103,8 +103,7 @@ EISCAT FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0
 EISCAT FIP 2021,http://purl.org/np/RAzDPevNe1NN384Otukc3HEzjMD4CNF-hmy894WFvd6aQ#pithia-esc,PITHIA-NRF e-Science Centre search engine
 EISCAT FIP 2021,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
 EISCAT FIP 2021,http://purl.org/np/RAd_wv92CpvaMKUuYSvNAf-SiRKyRg_wEWYjI3y8VwehY#madrigal-hdf,HDF5 archival file format for data in Madrigal
-EISCAT FIP 2021,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
-EISCAT FIP 2021,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
+EISCAT FIP 2021,http://purl.org/np/RAO1ray2WpmvvnKGw3zVwR-8sT5J8hMw5YlBnPCDf7utE#dirac-fc,DIRAC File Catalogue
 EISCAT FIP 2021,http://purl.org/np/RASfyC_FqprQ3w-n6kZZG9M5w9nSfV4e1eAVIJHkil4cI#madrigal-data-model,MADRIGAL data model
 EISCAT FIP 2021,http://purl.org/np/RANHreKNKAAnAMGL1nrRrv7ubqDETP242GUngngdr4f7A#eiscat-hdf,EISCAT Level 3 HDF5 archival format
 EISCAT FIP 2021,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
@@ -290,8 +289,6 @@ LifeWatch Marine FIP 2021,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ
 ACTRIS GRES FIP 2021,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 ACTRIS ARES FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 ACTRIS ARES FIP 2021,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
-EISCAT FIP 2019,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
-EISCAT FIP 2019,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
 EMSO ERIC FIP 2020 bm,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
 EMSO ERIC FIP 2020 bm,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 IPCHEM,http://purl.org/np/RAGhCnj_zKSZURRm5MgkkeLAnGfGYp3Bw_he3pYS4k0o4#DCAT-AP,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe
@@ -301,7 +298,6 @@ ACTRIS DVAS FIP 2021,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11
 EMSO ERIC FIP 2021,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
 EMSO ERIC FIP 2021,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 EMSO ERIC FIP 2022,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
-EISCAT FIP 2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 DiSSCo FIP 2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 INDIGEO PNDB RSI UBO,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UUID,UUID | Universally Unique Identifier
@@ -523,9 +519,6 @@ AnaEE FIP 2020,http://purl.org/np/RAUbP_FvGrwsW3MAWbrkfY0rnvjTpNrX41S2tl1xOb_EU#
 LifeWatch_Marine_FIP_2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 AnaEE CREA FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ASC FIP 2020,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
-EISCAT FIP 2019,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
-EISCAT FIP 2019,http://purl.org/np/RAr7ohWkWiRXFNveclO_HnZItzpJxpULN_a5VzCeWGKJs#eiscat-ip-check,EISCAT IP Address Check
-EISCAT FIP 2019,http://purl.org/np/RAr7ohWkWiRXFNveclO_HnZItzpJxpULN_a5VzCeWGKJs#eiscat-ip-check,EISCAT IP Address Check
 EISCAT FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 ACTRIS CLU FIP 2021,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 SIOS FIP 2022,http://purl.org/np/RA6903cYeY4s9RQE_Y-67XuPuNxdh9MuiZfQ2KCdHDMk8#wmo-core-profile,WMO Core Profile | World Meteorological Organization Core Metadata Profile
@@ -547,7 +540,6 @@ ACTRIS ASC FIP 2019,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jc
 ACTRIS CLU FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 ACTRIS GRES FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 Euro Argo FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-EISCAT FIP 2019,http://purl.org/np/RASfyC_FqprQ3w-n6kZZG9M5w9nSfV4e1eAVIJHkil4cI#madrigal-data-model,MADRIGAL data model
 ACTRIS GRES FIP 2022,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 eLTER FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ASC FIP 2020,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
@@ -715,8 +707,7 @@ EISCAT FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI
 EISCAT FIP 2020,http://purl.org/np/RA1Tut_b4RH2CWvynB6Byo9vju38j_gKpF-nXNqPl4NuA#eiscat-schedule,EISCAT Schedule
 EISCAT FIP 2020,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 EISCAT FIP 2020,http://purl.org/np/RASNfH0QXFHabmtMALR6WU7gLzBrg4rN0s_p2JoFRBl4k#MADRIGAL,MADRIGAL database
-EISCAT FIP 2020,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
-EISCAT FIP 2020,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
+EISCAT FIP 2020,http://purl.org/np/RAO1ray2WpmvvnKGw3zVwR-8sT5J8hMw5YlBnPCDf7utE#dirac-fc,DIRAC File Catalogue
 EISCAT FIP 2020,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 EISCAT FIP 2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 EISCAT FIP 2020,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
@@ -1248,7 +1239,6 @@ Euro Argo FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWH
 IAGOS FIP 2020,http://purl.org/np/RAkc-x5DEBnK06XXpw4uh1ZzZcfEF4Kc8zV4m9xUw6j28#ePIC,ePIC | Persistent Identifier Consortium for eResearch
 ICOS FIP 2020,http://purl.org/np/RADEkw5zxPhYxu2g31KjA8Xi9ODUzKsnLkNM-vBg7RMX0#WCS,WCS | Web Coverage Service
 SeaDataNET CDI FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
-EISCAT FIP 2019,http://purl.org/np/RA1Tut_b4RH2CWvynB6Byo9vju38j_gKpF-nXNqPl4NuA#eiscat-schedule,EISCAT Schedule
 Euro Argo FIP 2021,http://purl.org/np/RAkc-x5DEBnK06XXpw4uh1ZzZcfEF4Kc8zV4m9xUw6j28#ePIC,ePIC | Persistent Identifier Consortium for eResearch
 IAGOS FIP 2020,http://purl.org/np/RADEkw5zxPhYxu2g31KjA8Xi9ODUzKsnLkNM-vBg7RMX0#WCS,WCS | Web Coverage Service
 ICOS FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -1308,15 +1298,6 @@ SeaDataNET CDI FIP 2022,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvG
 ICOS FIP 2020,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c#URI,URI | Uniform Resource Identifier
 LifeWatch Marine FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
-EISCAT FIP 2019,http://purl.org/np/RASfyC_FqprQ3w-n6kZZG9M5w9nSfV4e1eAVIJHkil4cI#madrigal-data-model,MADRIGAL data model
-EISCAT FIP 2019,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
-EISCAT FIP 2019,http://purl.org/np/RASNfH0QXFHabmtMALR6WU7gLzBrg4rN0s_p2JoFRBl4k#MADRIGAL,MADRIGAL database
-EISCAT FIP 2019,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
-EISCAT FIP 2019,http://purl.org/np/RAwk4Jy1VlIHXqWS04FvQGl0DJin7zsCcKpgD-bfCOlGc#eiscat-licence,EISCAT Data Licence
-EISCAT FIP 2019,http://purl.org/np/RAwk4Jy1VlIHXqWS04FvQGl0DJin7zsCcKpgD-bfCOlGc#eiscat-dp,EISCAT Data Policy and Licence
-EISCAT FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
-EISCAT FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-EISCAT FIP 2019,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 Euro Argo FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 ACTRIS CLU FIP 2021,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 ICOS FIP 2019,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
@@ -3939,8 +3920,7 @@ EISCAT_FIP_2019,http://purl.org/np/RA1Tut_b4RH2CWvynB6Byo9vju38j_gKpF-nXNqPl4NuA
 EISCAT_FIP_2020,http://purl.org/np/RASfyC_FqprQ3w-n6kZZG9M5w9nSfV4e1eAVIJHkil4cI#madrigal-data-model,MADRIGAL data model
 IAGOS_FIP_2020,,
 IAGOS_FIP_2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
-EISCAT_FIP_2019,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
-EISCAT_FIP_2019,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
+EISCAT_FIP_2019,http://purl.org/np/RAO1ray2WpmvvnKGw3zVwR-8sT5J8hMw5YlBnPCDf7utE#dirac-fc,DIRAC File Catalogue
 ACTRIS_CLU_FIP_2020,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 SeaDataNET_Sextant_FIP_2019,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 SeaDataNET_Sextant_FIP_2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -3963,8 +3943,7 @@ EISCAT_FIP_2019,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ
 EISCAT_FIP_2020,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
 EISCAT_FIP_2020,http://purl.org/np/RAr7ohWkWiRXFNveclO_HnZItzpJxpULN_a5VzCeWGKJs#eiscat-ip-check,EISCAT IP Address Check
 EISCAT_FIP_2020,http://purl.org/np/RAr7ohWkWiRXFNveclO_HnZItzpJxpULN_a5VzCeWGKJs#eiscat-ip-check,EISCAT IP Address Check
-EISCAT_FIP_2020,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
-EISCAT_FIP_2020,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
+EISCAT_FIP_2020,http://purl.org/np/RAO1ray2WpmvvnKGw3zVwR-8sT5J8hMw5YlBnPCDf7utE#dirac-fc,DIRAC File Catalogue
 EISCAT_FIP_2020,http://purl.org/np/RASNfH0QXFHabmtMALR6WU7gLzBrg4rN0s_p2JoFRBl4k#MADRIGAL,MADRIGAL database
 EISCAT_FIP_2020,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 IAGOS_FIP_2020,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
@@ -4571,7 +4550,6 @@ AnaEE_FIP_2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#
 ICOS_FIP_2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ICOS_FIP_2020,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 ICOS_FIP_2021,http://purl.org/np/RAD6RqynQJVYubUlSSLskD2W4HJsbec6gnpWJkaDKdpsI#WIGOS,WIGOS | WMO Integrated Global Observing System
-IAGOS_FIP_2021,http://purl.org/np/RA1_8ta0xz10MirB5qJ-3sI5N_LtPZOtPdGyMvoi-83s8#IAGOS_MLP,IAGOS Data Preservation Policy
 IAGOS_FIP_2021,http://purl.org/np/RA58nom0Qc05IAXovmdC68SnadhFc_1zL7iQGQgBWuRT0#IAGOS_MLP,IAGOS Data Preservation Policy
 ICOS_FIP_2021,http://purl.org/np/RAOmV-6UrwB8hS1xSgFKMidKi3eJrgM2414VlGulBhQDM#Dimensions,Dimensions
 IAGOS_FIP_2021,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
@@ -4785,8 +4763,7 @@ EPOS_ICS-C_FIP_2021,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPj
 IAGOS_FIP_2019,http://purl.org/np/RA4vJcJ6unDqQm8iBb_DDlquVD6cl89vRtW3tQfRIVwd8#GAW,GAWSIS | Global Atmosphere Watch Station Information System
 IAGOS_FIP_2019,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 EPOS_ICS-C_FIP_2021,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
-EISCAT_FIP_2021,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
-EISCAT_FIP_2021,http://purl.org/np/RA8Nf6n98sFModMlkGHKpEDqTHTNed1KoTX3xoSif2ygc#dirac-fc,DIRAC File Catalogue
+EISCAT_FIP_2021,http://purl.org/np/RAO1ray2WpmvvnKGw3zVwR-8sT5J8hMw5YlBnPCDf7utE#dirac-fc,DIRAC File Catalogue
 IAGOS_FIP_2019,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
 IAGOS_FIP_2019,http://purl.org/np/RA4vJcJ6unDqQm8iBb_DDlquVD6cl89vRtW3tQfRIVwd8#GAW,GAWSIS | Global Atmosphere Watch Station Information System
 EISCAT_FIP_2021,http://purl.org/np/RAwk4Jy1VlIHXqWS04FvQGl0DJin7zsCcKpgD-bfCOlGc#eiscat-licence,EISCAT Data Licence
@@ -5853,3 +5830,18 @@ ODISSEI_Portal_FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8m
 ODISSEI_Portal_FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 ODISSEI_Portal_FIP,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
 ODISSEI_Portal_FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
+EISCAT FIP 2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+EISCAT FIP 2019,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+EISCAT FIP 2019,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
+EISCAT FIP 2019,http://purl.org/np/RA1Tut_b4RH2CWvynB6Byo9vju38j_gKpF-nXNqPl4NuA#eiscat-schedule,EISCAT Schedule
+EISCAT FIP 2019,http://purl.org/np/RASNfH0QXFHabmtMALR6WU7gLzBrg4rN0s_p2JoFRBl4k#MADRIGAL,MADRIGAL database
+EISCAT FIP 2019,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
+EISCAT FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+EISCAT FIP 2019,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
+EISCAT FIP 2019,http://purl.org/np/RAr7ohWkWiRXFNveclO_HnZItzpJxpULN_a5VzCeWGKJs#eiscat-ip-check,EISCAT IP Address Check
+EISCAT FIP 2019,http://purl.org/np/RAr7ohWkWiRXFNveclO_HnZItzpJxpULN_a5VzCeWGKJs#eiscat-ip-check,EISCAT IP Address Check
+EISCAT FIP 2019,http://purl.org/np/RASfyC_FqprQ3w-n6kZZG9M5w9nSfV4e1eAVIJHkil4cI#madrigal-data-model,MADRIGAL data model
+EISCAT FIP 2019,http://purl.org/np/RASfyC_FqprQ3w-n6kZZG9M5w9nSfV4e1eAVIJHkil4cI#madrigal-data-model,MADRIGAL data model
+EISCAT FIP 2019,http://purl.org/np/RAwk4Jy1VlIHXqWS04FvQGl0DJin7zsCcKpgD-bfCOlGc#eiscat-licence,EISCAT Data Licence
+EISCAT FIP 2019,http://purl.org/np/RAwk4Jy1VlIHXqWS04FvQGl0DJin7zsCcKpgD-bfCOlGc#eiscat-dp,EISCAT Data Policy and Licence
+EISCAT FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
