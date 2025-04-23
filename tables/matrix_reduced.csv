@@ -5845,3 +5845,25 @@ EISCAT FIP 2019,http://purl.org/np/RASfyC_FqprQ3w-n6kZZG9M5w9nSfV4e1eAVIJHkil4cI
 EISCAT FIP 2019,http://purl.org/np/RAwk4Jy1VlIHXqWS04FvQGl0DJin7zsCcKpgD-bfCOlGc#eiscat-licence,EISCAT Data Licence
 EISCAT FIP 2019,http://purl.org/np/RAwk4Jy1VlIHXqWS04FvQGl0DJin7zsCcKpgD-bfCOlGc#eiscat-dp,EISCAT Data Policy and Licence
 EISCAT FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+CLARIN FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+CLARIN FIP,http://purl.org/np/RAjVxRNP49c46sqVOKYpn_xJAo1GvBOUfTPiSO0uIbmfk#Crossref,Crossref (DOI)
+CLARIN FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+CLARIN FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+CLARIN FIP,https://w3id.org/np/RAoPOjhgys2thlaLNmCdoVHDTU7UYtBuUVMWrTkGmaF4A#CMDI,CMDI | The Component Metadata Infrastructure
+CLARIN FIP,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
+CLARIN FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+CLARIN FIP,https://w3id.org/np/RAr0iAJfvByHaPi7SdONC0__Q8gY0pcC-jLf9NLgkcIg8#CMDI-Resource-Proxy,CMDI Resource Proxy
+CLARIN FIP,https://w3id.org/np/RAvoZ390GAR8Sd36P1ZMEo1TCe8-PAM4hF80j_0tNu-UQ#CLARIN-VLO,CLARIN VLO | CLARIN Virtual Language Observatory
+CLARIN FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+CLARIN FIP,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
+CLARIN FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+CLARIN FIP,https://w3id.org/np/RApdi0n6AYcmjMUDBVVSwBzL1pQi7YWpW_hiV7-d_jwGs#OIDC,OIDC | OpenID Connect
+CLARIN FIP,http://purl.org/np/RAjtZEII3jOPstz3GNWqnzd4jxxFC6D6LvF4tu3ORXw5s#SAML1.1,SAML1.1 | Security Assertion Markup Language 1.1
+CLARIN FIP,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
+CLARIN FIP,http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
+CLARIN FIP,https://w3id.org/np/RACg3nSJT4zLi12_Bg-2Y7V3V272XjNB2kQopscvwCxTU#CLARIN-B-Center-Status,CLARIN B Center Status
+CLARIN FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
+CLARIN FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS | Simple Knowledge Organization System
+CLARIN FIP,https://w3id.org/np/RAoPOjhgys2thlaLNmCdoVHDTU7UYtBuUVMWrTkGmaF4A#CMDI,CMDI | The Component Metadata Infrastructure
+CLARIN FIP,https://w3id.org/np/RAoPOjhgys2thlaLNmCdoVHDTU7UYtBuUVMWrTkGmaF4A#CMDI,CMDI | The Component Metadata Infrastructure
+CLARIN FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
