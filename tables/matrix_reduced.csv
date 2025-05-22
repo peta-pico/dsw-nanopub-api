@@ -5867,3 +5867,44 @@ CLARIN FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS
 CLARIN FIP,https://w3id.org/np/RAoPOjhgys2thlaLNmCdoVHDTU7UYtBuUVMWrTkGmaF4A#CMDI,CMDI | The Component Metadata Infrastructure
 CLARIN FIP,https://w3id.org/np/RAoPOjhgys2thlaLNmCdoVHDTU7UYtBuUVMWrTkGmaF4A#CMDI,CMDI | The Component Metadata Infrastructure
 CLARIN FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
+test Dissco,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+test Dissco,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Metadata Schema: DwC | Darwin Core
+test Dissco,http://purl.org/np/RAalb4yUuh8_oDKKVBfilFEmwUFORrAaxfx_XqvHazNfU#DwC-A,DwC-A | Darwin Core Archive
+test Dissco,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
+test Dissco,http://purl.org/np/RAANOJAdT5AYQlA5SMsTOGb6aHjhyhd8o2nkSqX1UeWDU#GBIF_search_engine,GBIF search engine | Global Biodiversity Information Facility Search Engine
+test Dissco,http://purl.org/np/RAANOJAdT5AYQlA5SMsTOGb6aHjhyhd8o2nkSqX1UeWDU#GBIF_search_engine,GBIF search engine | Global Biodiversity Information Facility Search Engine
+test Dissco,https://w3id.org/np/RAOBeVcsuDerOZ0S9pPUerENvk1gMpInjK-1pMmf0ybsk#DiSSCo-ITINERIS_MetadataCatalog,DiSSCo-ITINERIS Metadata Catalog
+test Dissco,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+test Dissco,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+test Dissco,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+test Dissco,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+test Dissco,http://purl.org/np/RAcooGeq2MmHFjWzm7Rfg1_0ZzTgeFl7R_VbE5dT7lCNo#DiSSCo_MPP,DiSSCo Data Management Plan
+test Dissco,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
+test Dissco,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Metadata Schema: DwC | Darwin Core
+test Dissco,http://purl.org/np/RAUOTQKnMjCWdbbaEXfelgKYEK7CZQ2PhiHlM_gDrksdM#EML,EML | Ecological Metadata Language
+test Dissco,http://purl.org/np/RAUOTQKnMjCWdbbaEXfelgKYEK7CZQ2PhiHlM_gDrksdM#EML,EML | Ecological Metadata Language
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Metadata Schema: DwC | Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Metadata Schema: DwC | Darwin Core
+test Dissco,http://purl.org/np/RAalb4yUuh8_oDKKVBfilFEmwUFORrAaxfx_XqvHazNfU#DwC-A,DwC-A | Darwin Core Archive
+test Dissco,http://purl.org/np/RAUOTQKnMjCWdbbaEXfelgKYEK7CZQ2PhiHlM_gDrksdM#EML,EML | Ecological Metadata Language
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Metadata Schema: DwC | Darwin Core
+test Dissco,http://purl.org/np/RAalb4yUuh8_oDKKVBfilFEmwUFORrAaxfx_XqvHazNfU#DwC-A,DwC-A | Darwin Core Archive
+test Dissco,http://purl.org/np/RAUOTQKnMjCWdbbaEXfelgKYEK7CZQ2PhiHlM_gDrksdM#EML,EML | Ecological Metadata Language
+test Dissco,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+test Dissco,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
+test Dissco,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
+test Dissco,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+test Dissco,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
+test Dissco,http://purl.org/np/RA69xklqUA_c_76i3K-lsQ8RlxK-aF0jos6Gma_69PalQ#EML_GBIF_Profile,EML GBIF Profile Metadata | Ecological Metadata Language Global Biodiversity Information Facility Profile Metadata
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Metadata Schema: DwC | Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Darwin Core
+test Dissco,http://purl.org/np/RARwTPZPVcTQKNrHUgFsDBUcdlTZSt_40_SkaylE_Y27A#DwC,Metadata Schema: DwC | Darwin Core
+test Dissco,http://purl.org/np/RA69xklqUA_c_76i3K-lsQ8RlxK-aF0jos6Gma_69PalQ#EML_GBIF_Profile,EML GBIF Profile Metadata | Ecological Metadata Language Global Biodiversity Information Facility Profile Metadata
