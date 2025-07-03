@@ -6202,3 +6202,39 @@ F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-
 "Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 "Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 "Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+RSpace ELN FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+RSpace ELN FIP,http://purl.org/np/RAkc-x5DEBnK06XXpw4uh1ZzZcfEF4Kc8zV4m9xUw6j28#ePIC,ePIC | Persistent Identifier Consortium for eResearch
+RSpace ELN FIP,https://w3id.org/np/RAs0Txqfl7FNQaGHDt_6APwl7d8dLQZ-PfKrDdfUeobI8/RSpaceGID,RSpaceGID | RSpace Global Identifier
+RSpace ELN FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+RSpace ELN FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+RSpace ELN FIP,http://purl.org/np/RABv2ScOD0VlRskTF3WaQhc8gtIy0_MtEVzDKPitRPaRo#FDO,FDO | Fair Digital Object
+RSpace ELN FIP,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
+RSpace ELN FIP,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
+RSpace ELN FIP,http://purl.org/np/RAyf2JdAuOzQR2Jzdz4HrrgjHJVHWCotJvFcmLihHvi3k#Dataverse,The Dataverse Project
+RSpace ELN FIP,https://doi.org/10.25504/FAIRsharing.wkggtx,Dryad Digital Repository | Dryad
+RSpace ELN FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+RSpace ELN FIP,https://doi.org/10.25504/FAIRsharing.3epmpp,Mendeley Data
+RSpace ELN FIP,http://purl.org/np/RAxFCNuhATummgV6vm5IYRcAsR1xWSMjmIhAVotEV0hB0#Figshare,Figshare | Figshare
+RSpace ELN FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+RSpace ELN FIP,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
+RSpace ELN FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+RSpace ELN FIP,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
+RSpace ELN FIP,http://purl.org/np/RA57gvf2ROxtXx3koBib0Kl_xq0RNx4xfWVvKa8555ONg#SAML2,SAML2 | Security Assertion Markup Language 2.0
+RSpace ELN FIP,http://purl.org/np/RAJMDgH_Rti7TUNH6OCFubEwHuyIKjR90pYdZE1IccG7w#LDAP,LDAP | Lightweight Directory Access Protocol
+RSpace ELN FIP,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
+RSpace ELN FIP,https://w3id.org/np/RApdi0n6AYcmjMUDBVVSwBzL1pQi7YWpW_hiV7-d_jwGs#OIDC,OIDC | OpenID Connect
+RSpace ELN FIP,http://purl.org/np/RA57gvf2ROxtXx3koBib0Kl_xq0RNx4xfWVvKa8555ONg#SAML2,SAML2 | Security Assertion Markup Language 2.0
+RSpace ELN FIP,http://purl.org/np/RAJMDgH_Rti7TUNH6OCFubEwHuyIKjR90pYdZE1IccG7w#LDAP,LDAP | Lightweight Directory Access Protocol
+RSpace ELN FIP,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
+RSpace ELN FIP,https://w3id.org/np/RApdi0n6AYcmjMUDBVVSwBzL1pQi7YWpW_hiV7-d_jwGs#OIDC,OIDC | OpenID Connect
+RSpace ELN FIP,https://w3id.org/np/RA9jYkOaQIWWpBN9and4Z2L4aDPAXFgzhZ3mBBZgajn9k/SSMP,SSMP | Software-supported metadata policy
+RSpace ELN FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
+RSpace ELN FIP,https://w3id.org/np/RAQLETXaxPTEvZdt7Cx761TwcHLzBKPF3J6bM5YCY2llY#XML,eXtensible Markup Language (XML)
+RSpace ELN FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+RSpace ELN FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
+RSpace ELN FIP,https://w3id.org/np/RAQLETXaxPTEvZdt7Cx761TwcHLzBKPF3J6bM5YCY2llY#XML,eXtensible Markup Language (XML)
+RSpace ELN FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+RSpace ELN FIP,https://w3id.org/np/RA6y74vK_q0HNNMdG-9m0InYOOlYaLyOjUZeqPgznbzRU/BPOnto,BPOnto | BioPortal ontologies
+RSpace ELN FIP,https://w3id.org/np/RA6y74vK_q0HNNMdG-9m0InYOOlYaLyOjUZeqPgznbzRU/BPOnto,BPOnto | BioPortal ontologies
+RSpace ELN FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+RSpace ELN FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
