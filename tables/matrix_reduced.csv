@@ -5607,51 +5607,6 @@ EHN-HFRv-MS FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc
 EHN-HFRv-MS FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 EHN-HFRv-MS FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
 EHN-HFRv-MS FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
-European High Frequency Radar FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-European High Frequency Radar FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-European High Frequency Radar FIP,https://w3id.org/np/RA0oOulKDKs_6dDtnquW6_EmT91_poQ0o_WKY20gYfSqo#EHN-HFRv-MS,EHN-HFRv-MS | European High Frequency Radar Node Metadata Schema for Sea Surface Current Velocity Data
-European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
-European High Frequency Radar FIP,https://w3id.org/np/RAj74QOMVScdRpf8RH2ytMpEkROcteIypBVTTqb3GiZaE#CMS-INSTAC-MS,CMS-INSTAC-MS | Copernicus Marine In Situ TAC Metadata Schema
-European High Frequency Radar FIP,https://w3id.org/np/RAJFr_QRl6drUxqB-f8TWZfU82lHIfr9yQ98BvdNQu170#CMDS,CMDS | Copernicus Marine Data Store
-European High Frequency Radar FIP,https://w3id.org/np/RAunHCOeJjC30bIUKSvlS6JCXnPmY0hHY4TsCkjPHeb78#EHN-THREDDS,EHN-THREDDS | European High Frequency Radar Node THREDDS Server
-European High Frequency Radar FIP,https://w3id.org/np/RAIlJ4f0n-rWCf_LEuD7Tyzok4Xur3e7Ob8CPSaAQPu_8#EHN-ERDDAP,EHN-ERDDAP | European High Frequency Radar Node ERDDAP Server
-European High Frequency Radar FIP,https://w3id.org/np/RAJFr_QRl6drUxqB-f8TWZfU82lHIfr9yQ98BvdNQu170#CMDS,CMDS | Copernicus Marine Data Store
-European High Frequency Radar FIP,https://w3id.org/np/RAunHCOeJjC30bIUKSvlS6JCXnPmY0hHY4TsCkjPHeb78#EHN-THREDDS,EHN-THREDDS | European High Frequency Radar Node THREDDS Server
-European High Frequency Radar FIP,https://w3id.org/np/RAIlJ4f0n-rWCf_LEuD7Tyzok4Xur3e7Ob8CPSaAQPu_8#EHN-ERDDAP,EHN-ERDDAP | European High Frequency Radar Node ERDDAP Server
-European High Frequency Radar FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-European High Frequency Radar FIP,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
-European High Frequency Radar FIP,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
-European High Frequency Radar FIP,http://purl.org/np/RADEkw5zxPhYxu2g31KjA8Xi9ODUzKsnLkNM-vBg7RMX0#WCS,WCS | Web Coverage Service
-European High Frequency Radar FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-European High Frequency Radar FIP,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
-European High Frequency Radar FIP,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
-European High Frequency Radar FIP,http://purl.org/np/RADEkw5zxPhYxu2g31KjA8Xi9ODUzKsnLkNM-vBg7RMX0#WCS,WCS | Web Coverage Service
-European High Frequency Radar FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-European High Frequency Radar FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-European High Frequency Radar FIP,https://w3id.org/np/RAMP_j7E8IXqjI3u7QCYFij92j-rsDtzrFaz5pJxdpcYo#EHN-THREDDS-LA,EHN-THREDDS-LA | European High Frequency Radar Node THREDDS Local Account
-European High Frequency Radar FIP,https://w3id.org/np/RAjru4ZJop1kL6BOep7sAiPY48NlYEuOff7GkBIiXy-h4#EHN-ERDDAP-LA,EHN-ERDDAP-LA | European High Frequency Radar Node ERDDAP Local Account
-European High Frequency Radar FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
-European High Frequency Radar FIP,https://w3id.org/np/RAQLETXaxPTEvZdt7Cx761TwcHLzBKPF3J6bM5YCY2llY#XML,eXtensible Markup Language (XML)
-European High Frequency Radar FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
-European High Frequency Radar FIP,https://w3id.org/np/RAQLETXaxPTEvZdt7Cx761TwcHLzBKPF3J6bM5YCY2llY#XML,eXtensible Markup Language (XML)
-European High Frequency Radar FIP,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
-European High Frequency Radar FIP,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
-European High Frequency Radar FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
-European High Frequency Radar FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
-European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
-European High Frequency Radar FIP,http://purl.org/np/RAD6RqynQJVYubUlSSLskD2W4HJsbec6gnpWJkaDKdpsI#WIGOS,WIGOS | WMO Integrated Global Observing System
-European High Frequency Radar FIP,http://purl.org/np/RA-jfSyTtRWyiQFhwKfoB499p-7sf9IfY2mZ3boRcKQUs#SDM_MD,SDM MD | SeaDataNet metadata directories
-European High Frequency Radar FIP,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
-European High Frequency Radar FIP,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
-European High Frequency Radar FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
-European High Frequency Radar FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
-European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
-European High Frequency Radar FIP,http://purl.org/np/RAD6RqynQJVYubUlSSLskD2W4HJsbec6gnpWJkaDKdpsI#WIGOS,WIGOS | WMO Integrated Global Observing System
-European High Frequency Radar FIP,http://purl.org/np/RA-jfSyTtRWyiQFhwKfoB499p-7sf9IfY2mZ3boRcKQUs#SDM_MD,SDM MD | SeaDataNet metadata directories
-European High Frequency Radar FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-European High Frequency Radar FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
-European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
 PINK DataDocumentation Framework,https://w3id.org/np/RAen-vZInZFOzFGbzpN813pMb3MY9ItmyUACDY_3pqhSk#DLiteDatamodelService,DLite data model service
 PINK DataDocumentation Framework,https://w3id.org/np/RAhMxEqtT0ww-1QpCyASm5wgixBjJnfcD732Ztmra29n0#PINK_KB,PINK Knowledge base
 PINK DataDocumentation Framework,https://w3id.org/np/RAhMxEqtT0ww-1QpCyASm5wgixBjJnfcD732Ztmra29n0#PINK_KB,PINK Knowledge base
@@ -6238,3 +6193,48 @@ RSpace ELN FIP,https://w3id.org/np/RA6y74vK_q0HNNMdG-9m0InYOOlYaLyOjUZeqPgznbzRU
 RSpace ELN FIP,https://w3id.org/np/RA6y74vK_q0HNNMdG-9m0InYOOlYaLyOjUZeqPgznbzRU/BPOnto,BPOnto | BioPortal ontologies
 RSpace ELN FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 RSpace ELN FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+European High Frequency Radar FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+European High Frequency Radar FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+European High Frequency Radar FIP,https://w3id.org/np/RA0oOulKDKs_6dDtnquW6_EmT91_poQ0o_WKY20gYfSqo#EHN-HFRv-MS,EHN-HFRv-MS | European High Frequency Radar Node Metadata Schema for Sea Surface Current Velocity Data
+European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+European High Frequency Radar FIP,https://w3id.org/np/RAj74QOMVScdRpf8RH2ytMpEkROcteIypBVTTqb3GiZaE#CMS-INSTAC-MS,CMS-INSTAC-MS | Copernicus Marine In Situ TAC Metadata Schema
+European High Frequency Radar FIP,https://w3id.org/np/RAJFr_QRl6drUxqB-f8TWZfU82lHIfr9yQ98BvdNQu170#CMDS,CMDS | Copernicus Marine Data Store
+European High Frequency Radar FIP,https://w3id.org/np/RAunHCOeJjC30bIUKSvlS6JCXnPmY0hHY4TsCkjPHeb78#EHN-THREDDS,EHN-THREDDS | European High Frequency Radar Node THREDDS Server
+European High Frequency Radar FIP,https://w3id.org/np/RAIlJ4f0n-rWCf_LEuD7Tyzok4Xur3e7Ob8CPSaAQPu_8#EHN-ERDDAP,EHN-ERDDAP | European High Frequency Radar Node ERDDAP Server
+European High Frequency Radar FIP,https://w3id.org/np/RAJFr_QRl6drUxqB-f8TWZfU82lHIfr9yQ98BvdNQu170#CMDS,CMDS | Copernicus Marine Data Store
+European High Frequency Radar FIP,https://w3id.org/np/RAunHCOeJjC30bIUKSvlS6JCXnPmY0hHY4TsCkjPHeb78#EHN-THREDDS,EHN-THREDDS | European High Frequency Radar Node THREDDS Server
+European High Frequency Radar FIP,https://w3id.org/np/RAIlJ4f0n-rWCf_LEuD7Tyzok4Xur3e7Ob8CPSaAQPu_8#EHN-ERDDAP,EHN-ERDDAP | European High Frequency Radar Node ERDDAP Server
+European High Frequency Radar FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+European High Frequency Radar FIP,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
+European High Frequency Radar FIP,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
+European High Frequency Radar FIP,http://purl.org/np/RADEkw5zxPhYxu2g31KjA8Xi9ODUzKsnLkNM-vBg7RMX0#WCS,WCS | Web Coverage Service
+European High Frequency Radar FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+European High Frequency Radar FIP,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
+European High Frequency Radar FIP,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
+European High Frequency Radar FIP,http://purl.org/np/RADEkw5zxPhYxu2g31KjA8Xi9ODUzKsnLkNM-vBg7RMX0#WCS,WCS | Web Coverage Service
+European High Frequency Radar FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+European High Frequency Radar FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+European High Frequency Radar FIP,https://w3id.org/np/RAMP_j7E8IXqjI3u7QCYFij92j-rsDtzrFaz5pJxdpcYo#EHN-THREDDS-LA,EHN-THREDDS-LA | European High Frequency Radar Node THREDDS Local Account
+European High Frequency Radar FIP,https://w3id.org/np/RAjru4ZJop1kL6BOep7sAiPY48NlYEuOff7GkBIiXy-h4#EHN-ERDDAP-LA,EHN-ERDDAP-LA | European High Frequency Radar Node ERDDAP Local Account
+European High Frequency Radar FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+European High Frequency Radar FIP,https://w3id.org/np/RAQLETXaxPTEvZdt7Cx761TwcHLzBKPF3J6bM5YCY2llY#XML,eXtensible Markup Language (XML)
+European High Frequency Radar FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+European High Frequency Radar FIP,https://w3id.org/np/RAQLETXaxPTEvZdt7Cx761TwcHLzBKPF3J6bM5YCY2llY#XML,eXtensible Markup Language (XML)
+European High Frequency Radar FIP,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
+European High Frequency Radar FIP,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
+European High Frequency Radar FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
+European High Frequency Radar FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
+European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+European High Frequency Radar FIP,http://purl.org/np/RAD6RqynQJVYubUlSSLskD2W4HJsbec6gnpWJkaDKdpsI#WIGOS,WIGOS | WMO Integrated Global Observing System
+European High Frequency Radar FIP,http://purl.org/np/RA-jfSyTtRWyiQFhwKfoB499p-7sf9IfY2mZ3boRcKQUs#SDM_MD,SDM MD | SeaDataNet metadata directories
+European High Frequency Radar FIP,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
+European High Frequency Radar FIP,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
+European High Frequency Radar FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
+European High Frequency Radar FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
+European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+European High Frequency Radar FIP,http://purl.org/np/RAD6RqynQJVYubUlSSLskD2W4HJsbec6gnpWJkaDKdpsI#WIGOS,WIGOS | WMO Integrated Global Observing System
+European High Frequency Radar FIP,http://purl.org/np/RA-jfSyTtRWyiQFhwKfoB499p-7sf9IfY2mZ3boRcKQUs#SDM_MD,SDM MD | SeaDataNet metadata directories
+European High Frequency Radar FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+European High Frequency Radar FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+European High Frequency Radar FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
