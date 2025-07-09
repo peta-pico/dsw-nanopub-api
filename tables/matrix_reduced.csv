@@ -435,7 +435,7 @@ ICOS FIP 2022,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#O
 ICOS FIP 2020,http://purl.org/np/RA6903cYeY4s9RQE_Y-67XuPuNxdh9MuiZfQ2KCdHDMk8#wmo-core-profile,WMO Core Profile | World Meteorological Organization Core Metadata Profile
 PandemicPACT FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 PandemicPACT FIP,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
-PandemicPACT FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
+PandemicPACT FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
 PandemicPACT FIP,http://purl.org/np/RA24i_JSjDvLrfGD8WYPyzyFBYVWBQm3DXmVXVezZUaCk#ICD-10,ICD10|International Classification of Diseases Version 10
 PandemicPACT FIP,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 PandemicPACT FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -445,7 +445,7 @@ PandemicPACT FIP,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HD
 PandemicPACT FIP,http://purl.org/np/RAIpnldLlIedp5J7Jcy8pt_X9_YpOez4rO-fHxZl0T96Y#OWL,OWL | Web Ontology Language
 PandemicPACT FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 PandemicPACT FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-PandemicPACT FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
+PandemicPACT FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
 PandemicPACT FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 PandemicPACT FIP,http://purl.org/np/RAKy68K-ubbaV8BKrbYyJQ1NYKcCkvQPpgrQ7rdWbvjRU#ISO_3166,ISO 3166-1:2013 Codes for the representation of names of countries and their subdivisions - Part 1: Country codes
 PandemicPACT FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -651,8 +651,8 @@ Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RA31wD
 Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RA1Y_YJX4tnLNHg6Em6dfp8TVP9hHjYmJybiO5geRGljQ#ADA_Dataverse_FER,Australian Data Archive Dataverse FER
 Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RApSSuO7fciGYz4CSYHnqQZ60qDx6pvEdraDhBmBLJrGA#CESSDA-Topic-Classification,CESSDA Controlled Vocabulary for CESSDA Topic Classification
 Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
-Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
-Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
+Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
+Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
 Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
 Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
 Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RA6lJGt5TRNo9XpCM5XcNKlhEDlGWTvZ6iUyhff0bfwX4#RDA_CTS,RDA CTS | RDA Core Trust Seal Certification
@@ -2886,7 +2886,7 @@ eLTER_FIP_2022,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#
 eLTER_FIP_2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER_FIP_2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER_FIP_2022,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
-WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
+WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
 SIOS FIP 2019,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 Materials Project,http://purl.org/np/RAyIQx7rn1CDYgTqRlSbsZY0yQz46VxRzSgfMp138QInM#OSTI-DOI,U.S. Department of Energy Office of Scientific and Technical Information (OSTI) Data ID Service
 ACTRIS ARES FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
@@ -3241,7 +3241,7 @@ WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RAdhwb_tdCfQpMTyxPBE1
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RArTrJ-YFk-oSDfF0FmqQvLGMBDunJnlKTMP9yTadJykU#MARCXML,MARCXML
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RAvEMOFdBCvyiYAYW1CM8wW7rLCMU4QOOHUsQiUKqz2Wg#edugate-HEAnet,Edugate
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RApwFvegOdPfNuKlF64wctAzaffAv3j_2kAU9y6kfBoy8#DCMI,DC | Dublin Core
-WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
+WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RAC-UKW_GSIdHvRc8OZJyAcQK1__Ey56ge7RIrVaOthM0#open-gov-3.0,Open Government Licence v3.0 for Public Sector Information (UK)
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RAZ3fpdCrJvdoWjgK1BW02Anv4AocL6FnJkgtjGYD7hHg#EAD,Encoded Archival Description
@@ -5118,8 +5118,8 @@ GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RAG7N37igxEgbXwiZDG3p5qaVmVloR7JNm2pxrv7WPHbk#DataCite_Metadata_Schema_Version_3_1,DataCite Metadata Schema Version 3.1
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),https://w3id.org/np/RADgvxiW6N99-SGd26e0apP96no6gVoBpnT7xWfvChtnM#ODM2,Observations Data Model 2 | ODM2
 GEOROC | Geochemistry of Rocks of the Oceans and Continents),http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-COVID-19 INSPIRE Population Health FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
-COVID-19 INSPIRE Population Health FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
+COVID-19 INSPIRE Population Health FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
+COVID-19 INSPIRE Population Health FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
 COVID-19 INSPIRE Population Health FIP,,
 COVID-19 INSPIRE Population Health FIP,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 COVID-19 INSPIRE Population Health FIP,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
@@ -6056,7 +6056,7 @@ PINK Reference FIP,https://w3id.org/np/RAybIXZDiIwAPwv_df2-JU4YZ0qpE6xwcWt-bN7gL
 PINK Reference FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 PINK Reference FIP,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y#Schema.org_Dataset,Schema.org Dataset
 PINK Reference FIP,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
-Artic Radio-Isotopes FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service
+Artic Radio-Isotopes FIP,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
 Artic Radio-Isotopes FIP,http://purl.org/np/RAw8cpti1Df1z7MLB6_mWkB2R4clObaPsyklAlLhwbOCw#CKAN,CKAN | Comprehensive Knowledge Archive Network
 Artic Radio-Isotopes FIP,https://w3id.org/np/RAgLTm3t9e80uUMm0Zhh0hS8lGzCFeAuQUiqJSERR9oAM#NIRD-RDA,NIRD-RDA | NIRD Research Data Archive
 Artic Radio-Isotopes FIP,https://w3id.org/np/RAgLTm3t9e80uUMm0Zhh0hS8lGzCFeAuQUiqJSERR9oAM#NIRD-RDA,NIRD-RDA | NIRD Research Data Archive
