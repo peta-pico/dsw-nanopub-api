@@ -2358,7 +2358,6 @@ ICOS FIP 2022,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y#S
 ICOS FIP 2021,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
 ACTRIS CLU FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 ACTRIS CLU FIP 2021,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
-ACTRIS CLU FIP 2021,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,ACTRIS Data Centre node for cloud profiling (CLU)
 ACTRIS CLU FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 ACTRIS CLU FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 ACTRIS CLU FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
@@ -2569,7 +2568,6 @@ ICOS FIP 2021,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y#S
 EPOS FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 EPOS FIP 2022,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 ACTRIS_CLU_FIP_2022,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
-ACTRIS_CLU_FIP_2022,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,ACTRIS Data Centre node for cloud profiling (CLU)
 EPOS FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 LGBTQ+ Linked Open Vocabulary FIP,http://purl.org/np/RAd6t6NdoESOhEi4f2MC-yJ-l3ko8za5jjdrBVOdg6BMY#QLIT,QLIT | Queer Literature Indexing Thesaurus
 ICOS FIP 2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
@@ -2890,7 +2888,6 @@ ACTRIS ARES FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37X
 eLTERFIP2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS DVAS FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 ACTRIS CLU FIP 2019,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
-ACTRIS CLU FIP 2019,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,ACTRIS Data Centre node for cloud profiling (CLU)
 ACTRIS DVAS FIP 2020,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 eLTERFIP2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 SIOS FIP 2020,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
@@ -3738,7 +3735,6 @@ ACTRIS_CLU_FIP_2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZ
 ACTRIS_CLU_FIP_2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 ACTRIS_CLU_FIP_2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 ACTRIS_CLU_FIP_2019,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
-ACTRIS_CLU_FIP_2019,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,ACTRIS Data Centre node for cloud profiling (CLU)
 LifeWatch_Marine_FIP_2019,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
 IAGOS_FIP_2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 LifeWatch_Marine_FIP_2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
@@ -3928,7 +3924,6 @@ ACTRIS_CLU_FIP_2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2c
 ACTRIS_CLU_FIP_2020,http://purl.org/np/RATwk1lI_vxTHCRQv0PhKu8YiG6d37w_mEWgz_zubCg5c#ACTRIS-vocabulary,ACTRIS Vocabulary
 ACTRIS_CLU_FIP_2020,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 ACTRIS_CLU_FIP_2020,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
-ACTRIS_CLU_FIP_2020,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,ACTRIS Data Centre node for cloud profiling (CLU)
 ACTRIS_ARES_FIP_2020,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 ACTRIS_ARES_FIP_2020,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 ACTRIS_ARES_FIP_2019,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
@@ -5008,7 +5003,6 @@ ACTRIS-ASC_FIP_2019,http://purl.org/np/RAxe6eQ3CEdAlQNz0a6oqQjTczYD-YqKoVV2yR0YM
 ACTRIS-ASC_FIP_2019,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 ACTRIS_CLU_FIP_2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 ACTRIS_CLU_FIP_2021,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
-ACTRIS_CLU_FIP_2021,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,ACTRIS Data Centre node for cloud profiling (CLU)
 ACTRIS_CLU_FIP_2021,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 ACTRIS_CLU_FIP_2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 ACTRIS_CLU_FIP_2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
@@ -5931,10 +5925,8 @@ ACTRIS_CLU_FIP_2025,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07
 ACTRIS_CLU_FIP_2025,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 ACTRIS_CLU_FIP_2025,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS_CLU_FIP_2025,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
-ACTRIS_CLU_FIP_2025,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,ACTRIS Data Centre node for cloud profiling (CLU)
 ACTRIS_CLU_FIP_2025,http://purl.org/np/RAhsaEHX2ASNwu6pX9eG8qHJmugE_6Qw96qfsn3CstRdM#ACTRIS_DataPortal,ACTRIS Data Portal
 ACTRIS_CLU_FIP_2025,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
-ACTRIS_CLU_FIP_2025,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,ACTRIS Data Centre node for cloud profiling (CLU)
 ACTRIS_CLU_FIP_2025,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 ACTRIS_CLU_FIP_2025,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 ACTRIS_CLU_FIP_2025,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
