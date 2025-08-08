@@ -74,7 +74,7 @@ eLTER FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#
 eLTER FIP 2021,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
 eLTER FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTER FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
-eLTER FIP 2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER FIP 2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER FIP 2021,http://purl.org/np/RAILCugRZltIBCt_KATatwxJrkdDfxC3EDbCHML172BhI#JSON_Schema,JSON Schema | JavaScript Object Notation Schema
 eLTER FIP 2021,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTER FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
@@ -94,7 +94,7 @@ eLTER FIP 2021,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#
 eLTER FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 eLTER FIP 2021,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
-eLTER FIP 2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER FIP 2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ARES FIP 2022,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
 EuroArgo FIP 2020,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
@@ -2804,8 +2804,8 @@ eLTER FIP 2019,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#
 eLTER FIP 2019,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 eLTER FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-eLTER FIP 2019,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
-eLTER FIP 2019,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER FIP 2019,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER FIP 2019,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER FIP 2019,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 eLTER FIP 2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -2847,7 +2847,7 @@ eLTER_FIP_2022,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#
 eLTER_FIP_2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER_FIP_2022,http://purl.org/np/RAMy1D1igtlNYb4D-De_ODeCgFF9OMTIkvrS6SpTFONpQ#WMO_Search,WMO Search | World Meteorological Organization Search
 eLTER_FIP_2022,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
-eLTER_FIP_2022,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER_FIP_2022,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER_FIP_2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 eLTER_FIP_2022,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#INSPIRE-EMF,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities
 eLTER_FIP_2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
@@ -3272,7 +3272,7 @@ eLTERFIP2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Ha
 eLTERFIP2022,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
 eLTERFIP2022,http://purl.org/np/RAjwm4PxkZfZxR0q-ntQDUUt9f-_bubqyIsRJ1XzKNu84#DEIMS-SDR-REST-API,DEIMS-SDR-REST-API
 eLTERFIP2022,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
-eLTERFIP2022,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTERFIP2022,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTERFIP2022,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
 ICOS FIP 2023,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 ICOS FIP 2023,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#eduGAIN,eduGAIN Interfederation Service
@@ -3305,7 +3305,7 @@ ICOS FIP 2023,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#H
 ICOS FIP 2023,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RAUOTQKnMjCWdbbaEXfelgKYEK7CZQ2PhiHlM_gDrksdM#EML,EML | Ecological Metadata Language
 LifeWatch_Ecosystems_FIP_2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-eLTER_FIP_2020,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER_FIP_2020,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 LifeWatch_Ecosystems_FIP_2020,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
 DiSSCo_FIP_2021,http://purl.org/np/RA2yc-_SiUlPPD51A6fXhcVX7PcCQ_Uc_d2e_3oRZ-8Yc#ABCDEFG,ABCDEFG | Access to Biological Collection Databases Extended for Geosciences
 DiSSCo_FIP_2021,http://purl.org/np/RAqr9OvVmSbt5JyDU0CBV63jfdDIklJ6PRMWFur2DYFHY#NSID,NSId | Natural Science Identifier
@@ -3491,7 +3491,7 @@ DiSSCo_FIP_2021,http://purl.org/np/RAIKz5-yaWCQL-N3X_YawaGdOJFn4DfVNcExYpBJLQjn0
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RA3f8dsVss2ECWIjlRMVC-JnUZBnA8vIFdKVU4DY7qJf0#MRG,Marine Regions georeferences
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RAV0IdaXBFwzp-P6jJ73G84M5i1aU4uazkJX2hve0w6V8#PHYTOTRAITS,PHYTOTRAITS | The Phytoplankton Traits
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
-eLTER_FIP_2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER_FIP_2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 SIOS_FIP_2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 SIOS_FIP_2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 SIOS_FIP_2020,http://purl.org/np/RA6903cYeY4s9RQE_Y-67XuPuNxdh9MuiZfQ2KCdHDMk8#wmo-core-profile,WMO Core Profile | World Meteorological Organization Core Metadata Profile
@@ -3553,7 +3553,7 @@ eLTER_FIP_2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#
 eLTER_FIP_2020,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 eLTER_FIP_2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER_FIP_2020,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDWJhZ8#EnvThes,EnvThes | Environmental Thesaurus
-eLTER_FIP_2020,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER_FIP_2020,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER_FIP_2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER_FIP_2020,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER_FIP_2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -3568,7 +3568,7 @@ eLTER_FIP_2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#
 DiSSCo_FIP_2021,http://purl.org/np/RAs4C2BobkRdowrwXEOzC3khU_QI01alzqv_dN3yBqQQA#DOIP,DOIP | Digital Object Interface Protocol
 eLTER_FIP_2019,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-eLTER_FIP_2019,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER_FIP_2019,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER_FIP_2021,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 eLTER_FIP_2019,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
@@ -3584,7 +3584,7 @@ eLTER_FIP_2021,,
 eLTER_FIP_2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTER_FIP_2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 eLTER_FIP_2021,,
-eLTER_FIP_2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER_FIP_2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER_FIP_2021,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 eLTER_FIP_2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 eLTER_FIP_2021,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
@@ -3657,7 +3657,7 @@ LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RALHHVzgBKGrMb6UuPRLBzEAbzKN8UR
 eLTER_FIP_2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 eLTER_FIP_2019,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 LifeWatch_Ecosystems_FIP_2019,,
-eLTER_FIP_2019,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER_FIP_2019,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RAUOTQKnMjCWdbbaEXfelgKYEK7CZQ2PhiHlM_gDrksdM#EML,EML | Ecological Metadata Language
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 LifeWatch_Ecosystems_FIP_2019,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
@@ -5386,7 +5386,7 @@ eLTER FIP 2022,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#
 eLTER FIP 2022,http://purl.org/np/RAi3pnoXjWoZ2RjEd6WVLDIyp0oJsHMUx5Au-mPsNEdyo#DCAT2,DCAT | Data Catalog Vocabulary Version 2
 eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-eLTER FIP 2022,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER FIP 2022,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER FIP 2022,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 eLTER FIP 2022,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
 eLTER FIP 2022,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
@@ -5882,10 +5882,10 @@ eLTER FIP 2020,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#
 eLTER FIP 2020,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 eLTER FIP 2020,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-eLTER FIP 2020,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER FIP 2020,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER FIP 2020,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
 eLTER FIP 2020,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
-eLTER FIP 2020,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,Registry: DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
+eLTER FIP 2020,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#DEIMS-SDR,DEIMS-SDR | Dynamic Ecological Information Management System - Site and Dataset Registry
 eLTER FIP 2020,http://purl.org/np/RAUEhNrbkNil4yh9jT69DefWB7c9q7b-8knKV2ibECnIo#eLTER-CDN,eLTER-CDN | eLTER Central Data Node
 eLTER FIP 2020,http://purl.org/np/RAics05K7l8ESBa5Jquzuxb66NqeR8ygWKvtxQdHLXKpk#eLTER-DIP,eLTER DIP | eLTER Data Integration
 eLTER FIP 2020,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
