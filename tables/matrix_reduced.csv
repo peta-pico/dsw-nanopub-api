@@ -5670,6 +5670,7 @@ ODISSEI_Portal,http://purl.org/np/RAGxugwVCKErDw8TCtPpRiTcygzWXxKRwMEJc4jUyYw-I#
 ODISSEI_Portal,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
 ODISSEI_Portal,https://w3id.org/np/RA8BG2beOXc8aCNYKNzpaAltwdC26gNxjqbr08bl5zJSc#CBS-taxonomy,CBS Taxonomy
 ODISSEI_Portal,https://doi.org/10.25504/FAIRsharing.hzdzq8,Schema.org
+ODISSEI_Portal,https://doi.org/10.25504/FAIRsharing.hzdzq8,Schema.org
 ODISSEI_Portal,http://purl.org/np/RAZVaY2uNntIyIJVo_f43W9csVA__TohoawN9ZzM0SECs#DDI-Controlled-Vocabularies,DDI Controlled Vocabularies
 ODISSEI_Portal,http://purl.org/np/RAFvNzVlN_M4tXWryXeM_9mk88rdcQ0Ct3_L-5YVlMarc#DCAT3,DCAT | Data Catalog Vocabulary Version 3
 ODISSEI_Portal,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
@@ -5704,6 +5705,7 @@ ODISSEI_Portal_FIP,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8t
 ODISSEI_Portal_FIP,http://purl.org/np/RAGxugwVCKErDw8TCtPpRiTcygzWXxKRwMEJc4jUyYw-I#CESSDATC,CESSDA Topic Classification
 ODISSEI_Portal_FIP,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
 ODISSEI_Portal_FIP,https://w3id.org/np/RA8BG2beOXc8aCNYKNzpaAltwdC26gNxjqbr08bl5zJSc#CBS-taxonomy,CBS Taxonomy
+ODISSEI_Portal_FIP,https://doi.org/10.25504/FAIRsharing.hzdzq8,Schema.org
 ODISSEI_Portal_FIP,https://doi.org/10.25504/FAIRsharing.hzdzq8,Schema.org
 ODISSEI_Portal_FIP,http://purl.org/np/RAZVaY2uNntIyIJVo_f43W9csVA__TohoawN9ZzM0SECs#DDI-Controlled-Vocabularies,DDI Controlled Vocabularies
 ODISSEI_Portal_FIP,http://purl.org/np/RAFvNzVlN_M4tXWryXeM_9mk88rdcQ0Ct3_L-5YVlMarc#DCAT3,DCAT | Data Catalog Vocabulary Version 3
