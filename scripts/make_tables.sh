@@ -8,15 +8,21 @@ cd ..
 QUERY_API_URL=https://query.petapico.org
 
 function call_api {
-  QUERY=$QUERY_API_URL/api/$1
-  OUTFILE=tables/$2
-  echo "Calling $QUERY"
-  curl -f -L -o $OUTFILE -H "Accept: text/csv" $QUERY
-  # Work-around because the API URLs don't return proper HTTP error codes:
-  if [ $(head -n 1 $OUTFILE | tr -d '\r\n') = "<html>" ]; then
-    echo "Error retrieving $QUERY"
-    exit 1
-  fi
+  for i in {0..2}; do
+    QUERY=$QUERY_API_URL/api/$1
+    OUTFILE=tables/$2
+    echo "Calling $QUERY"
+    curl -f -L -o $OUTFILE -H "Accept: text/csv" $QUERY
+    # Work-around because the API URLs don't return proper HTTP error codes:
+    if [ $(head -n 1 $OUTFILE | tr -d '\r\n') = "<html>" ]; then
+      echo "Error retrieving $QUERY"
+      if [[ $i = "2" ]]; then
+        exit 1
+      else
+        sleep 1
+      fi
+    fi
+  done
 }
 
 # Get preferred FER IDs:
