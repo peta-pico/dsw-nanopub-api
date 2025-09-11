@@ -17,10 +17,12 @@ function call_api {
     if [ $(head -n 1 $OUTFILE | tr -d '\r\n') = "<html>" ]; then
       echo "Error retrieving $QUERY"
       if [[ $i = "2" ]]; then
-        exit 1
+        return 1
       else
         sleep 1
       fi
+    else
+      return 0
     fi
   done
 }
