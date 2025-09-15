@@ -5669,8 +5669,7 @@ ODISSEI_Portal,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws#
 ODISSEI_Portal,http://purl.org/np/RAGxugwVCKErDw8TCtPpRiTcygzWXxKRwMEJc4jUyYw-I#CESSDATC,CESSDA Topic Classification
 ODISSEI_Portal,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
 ODISSEI_Portal,https://w3id.org/np/RA8BG2beOXc8aCNYKNzpaAltwdC26gNxjqbr08bl5zJSc#CBS-taxonomy,CBS Taxonomy
-ODISSEI_Portal,https://doi.org/10.25504/FAIRsharing.hzdzq8,Schema.org
-ODISSEI_Portal,https://doi.org/10.25504/FAIRsharing.hzdzq8,Schema.org
+ODISSEI_Portal,,
 ODISSEI_Portal,http://purl.org/np/RAZVaY2uNntIyIJVo_f43W9csVA__TohoawN9ZzM0SECs#DDI-Controlled-Vocabularies,DDI Controlled Vocabularies
 ODISSEI_Portal,http://purl.org/np/RAFvNzVlN_M4tXWryXeM_9mk88rdcQ0Ct3_L-5YVlMarc#DCAT3,DCAT | Data Catalog Vocabulary Version 3
 ODISSEI_Portal,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
@@ -5678,42 +5677,6 @@ ODISSEI_Portal,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#
 ODISSEI_Portal,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 ODISSEI_Portal,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
 ODISSEI_Portal,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
-ODISSEI_Portal_FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-ODISSEI_Portal_FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
-ODISSEI_Portal_FIP,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
-ODISSEI_Portal_FIP,,
-ODISSEI_Portal_FIP,https://w3id.org/np/RA4FPVI6QaUIGUpxz2Ghk0Rx0o2hZaASTMRyEhI38KfqQ#Croissant,The Croissant Metadata Format
-ODISSEI_Portal_FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-ODISSEI_Portal_FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
-ODISSEI_Portal_FIP,http://purl.org/np/RAcv6GezhLQWkYxGltQo_UBVRUJdmroqGkxFSJVOtqXDg#ODISSEI_Portal,ODISSEI Portal
-ODISSEI_Portal_FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-ODISSEI_Portal_FIP,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
-ODISSEI_Portal_FIP,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
-ODISSEI_Portal_FIP,https://w3id.org/np/RAHz8Om-r8FUQKyB4I1E9u5peAXmF0c1tkZNqQ_MEEpEE#DataverseAPI,Dataverse API | The Dataverse Software APIs
-ODISSEI_Portal_FIP,https://w3id.org/np/RA2TO-m9_n5CQebfVnSeby7OdCkJSeB8CadkMI0hYriHk#DAB,Data Access Broker
-ODISSEI_Portal_FIP,https://w3id.org/np/RA6rPajWW-RQSsdrKg65htqgvU0a5efiqKaQIEBXcKicU#SURFconext,SURFconext
-ODISSEI_Portal_FIP,https://w3id.org/np/RAUqCFxadMhIM1tOnnpwb-KtD6TJeOz4bCFdzi3w9tOFE#SURF-SRAM,SURF SRAM | SURF Research Access Management 
-ODISSEI_Portal_FIP,https://w3id.org/np/RAUqCFxadMhIM1tOnnpwb-KtD6TJeOz4bCFdzi3w9tOFE#SURF-SRAM,SURF SRAM | SURF Research Access Management 
-ODISSEI_Portal_FIP,https://w3id.org/np/RA1Eaw_pR_BFKm_0YM5PEyVrvM6ip-KuXGlAlJCxbrHmg#CBS-Microdata-Authentication,CBS Microdata Authentication
-ODISSEI_Portal_FIP,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
-ODISSEI_Portal_FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
-ODISSEI_Portal_FIP,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
-ODISSEI_Portal_FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
-ODISSEI_Portal_FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS | Simple Knowledge Organization System
-ODISSEI_Portal_FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
-ODISSEI_Portal_FIP,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws#ELSST,ELSST|European Language Social Science Thesaurus
-ODISSEI_Portal_FIP,http://purl.org/np/RAGxugwVCKErDw8TCtPpRiTcygzWXxKRwMEJc4jUyYw-I#CESSDATC,CESSDA Topic Classification
-ODISSEI_Portal_FIP,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
-ODISSEI_Portal_FIP,https://w3id.org/np/RA8BG2beOXc8aCNYKNzpaAltwdC26gNxjqbr08bl5zJSc#CBS-taxonomy,CBS Taxonomy
-ODISSEI_Portal_FIP,https://doi.org/10.25504/FAIRsharing.hzdzq8,Schema.org
-ODISSEI_Portal_FIP,https://doi.org/10.25504/FAIRsharing.hzdzq8,Schema.org
-ODISSEI_Portal_FIP,http://purl.org/np/RAZVaY2uNntIyIJVo_f43W9csVA__TohoawN9ZzM0SECs#DDI-Controlled-Vocabularies,DDI Controlled Vocabularies
-ODISSEI_Portal_FIP,http://purl.org/np/RAFvNzVlN_M4tXWryXeM_9mk88rdcQ0Ct3_L-5YVlMarc#DCAT3,DCAT | Data Catalog Vocabulary Version 3
-ODISSEI_Portal_FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
-ODISSEI_Portal_FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS | Simple Knowledge Organization System
-ODISSEI_Portal_FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
-ODISSEI_Portal_FIP,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
-ODISSEI_Portal_FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 EISCAT FIP 2019,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 EISCAT FIP 2019,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 EISCAT FIP 2019,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
@@ -6395,3 +6358,36 @@ FIESTA Bio FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#
 FIESTA Bio FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 FIESTA Bio FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 FIESTA Bio FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+ODISSEI_Portal_FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+ODISSEI_Portal_FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+ODISSEI_Portal_FIP,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
+ODISSEI_Portal_FIP,,
+ODISSEI_Portal_FIP,https://w3id.org/np/RA4FPVI6QaUIGUpxz2Ghk0Rx0o2hZaASTMRyEhI38KfqQ#Croissant,The Croissant Metadata Format
+ODISSEI_Portal_FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+ODISSEI_Portal_FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+ODISSEI_Portal_FIP,http://purl.org/np/RAcv6GezhLQWkYxGltQo_UBVRUJdmroqGkxFSJVOtqXDg#ODISSEI_Portal,ODISSEI Portal
+ODISSEI_Portal_FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+ODISSEI_Portal_FIP,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
+ODISSEI_Portal_FIP,http://purl.org/np/RAGAqZMETa6UkCriDtorwoxKXvusy3FaGs5y4udMOpvhg#SPARQL_endpoint,SPARQL (open) endpoint
+ODISSEI_Portal_FIP,https://w3id.org/np/RAHz8Om-r8FUQKyB4I1E9u5peAXmF0c1tkZNqQ_MEEpEE#DataverseAPI,Dataverse API | The Dataverse Software APIs
+ODISSEI_Portal_FIP,https://w3id.org/np/RA2TO-m9_n5CQebfVnSeby7OdCkJSeB8CadkMI0hYriHk#DAB,Data Access Broker
+ODISSEI_Portal_FIP,https://w3id.org/np/RA6rPajWW-RQSsdrKg65htqgvU0a5efiqKaQIEBXcKicU#SURFconext,SURFconext
+ODISSEI_Portal_FIP,https://w3id.org/np/RAUqCFxadMhIM1tOnnpwb-KtD6TJeOz4bCFdzi3w9tOFE#SURF-SRAM,SURF SRAM | SURF Research Access Management 
+ODISSEI_Portal_FIP,https://w3id.org/np/RAUqCFxadMhIM1tOnnpwb-KtD6TJeOz4bCFdzi3w9tOFE#SURF-SRAM,SURF SRAM | SURF Research Access Management 
+ODISSEI_Portal_FIP,https://w3id.org/np/RA1Eaw_pR_BFKm_0YM5PEyVrvM6ip-KuXGlAlJCxbrHmg#CBS-Microdata-Authentication,CBS Microdata Authentication
+ODISSEI_Portal_FIP,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
+ODISSEI_Portal_FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+ODISSEI_Portal_FIP,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
+ODISSEI_Portal_FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS|Simple Knowledge Organization System
+ODISSEI_Portal_FIP,http://purl.org/np/RAsYWGfeY7MW_tQMSEYNJePo7aR6gW0LuRRlDsdO8mU38#SKOS,SKOS | Simple Knowledge Organization System
+ODISSEI_Portal_FIP,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
+ODISSEI_Portal_FIP,http://purl.org/np/RAi3JE1dw2QeTb7VLWyCrDSMAUkD3DU6Nlke1Nhu8tEws#ELSST,ELSST|European Language Social Science Thesaurus
+ODISSEI_Portal_FIP,http://purl.org/np/RAGxugwVCKErDw8TCtPpRiTcygzWXxKRwMEJc4jUyYw-I#CESSDATC,CESSDA Topic Classification
+ODISSEI_Portal_FIP,http://purl.org/np/RAtBs7WUCXYRMmdDGKDEwYlyjJCC3bc0KWXTjlfJHiW_E#DCMI_terms,DCMI Metadata Terms|Dublin Core Metadata Terms
+ODISSEI_Portal_FIP,https://w3id.org/np/RA8BG2beOXc8aCNYKNzpaAltwdC26gNxjqbr08bl5zJSc#CBS-taxonomy,CBS Taxonomy
+ODISSEI_Portal_FIP,http://purl.org/np/RAZVaY2uNntIyIJVo_f43W9csVA__TohoawN9ZzM0SECs#DDI-Controlled-Vocabularies,DDI Controlled Vocabularies
+ODISSEI_Portal_FIP,https://w3id.org/np/RAXKj086gOTnOBnbQShZIh7Stz6ahqaWRKxf3dMq6M2oM#Schema.org,Schema.org
+ODISSEI_Portal_FIP,http://purl.org/np/RAFvNzVlN_M4tXWryXeM_9mk88rdcQ0Ct3_L-5YVlMarc#DCAT3,DCAT | Data Catalog Vocabulary Version 3
+ODISSEI_Portal_FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+ODISSEI_Portal_FIP,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
+ODISSEI_Portal_FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
