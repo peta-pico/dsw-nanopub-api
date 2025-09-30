@@ -160,7 +160,6 @@ DiSSCo FIP 2021,http://purl.org/np/RAalb4yUuh8_oDKKVBfilFEmwUFORrAaxfx_XqvHazNfU
 ICOS FIP 2020,http://purl.org/np/RA4oRRKTg5X-e0JOtnuXbrZBaNRJnMICD_R3z4r6olOTU#ICOS_ontology,ICOS Ontology | Integrated Carbon Observation System Ontology
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 Australian Social Survey International-ESS (AUSSI-ESS),http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
-GFTS,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
 ICOS FIP 2022,http://purl.org/np/RAQKm4e3E9TS7hFhm0OkRpKjLZElE6pGpXHlDH3mrJ9vE#OpenAIRE,OpenAIRE Research Graph
 ACTRIS InSitu FIP 2021,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 IPCHEM,,
@@ -297,7 +296,6 @@ ACTRIS DVAS FIP 2021,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11
 EMSO ERIC FIP 2021,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
 EMSO ERIC FIP 2021,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 EMSO ERIC FIP 2022,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
-GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 DiSSCo FIP 2020,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 INDIGEO PNDB RSI UBO,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UUID,UUID | Universally Unique Identifier
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
@@ -306,7 +304,6 @@ ACTRIS GRES FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37X
 SIOS FIP 2022,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 ACTRIS GRES FIP 2022,http://purl.org/np/RAm-dPD2ACG4DgiL8dqinm2Se-ztJ-BlXWK10887O1Hfg#GEOMS,GEOMS | Generic Earth Observation Metadata Standard
 ACTRIS GRES FIP 2022,http://purl.org/np/RAm-dPD2ACG4DgiL8dqinm2Se-ztJ-BlXWK10887O1Hfg#GEOMS,Generic Earth Observation Metadata Standard
-EnvDS FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ICOS FIP 2022,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 SeaDataNET Sextant FIP 2019,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 LifeWatch Marine FIP 2021,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
@@ -512,7 +509,6 @@ Euro Argo FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymu
 DANUBIUS FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ASC FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 LifeWatch Marine FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
-GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 AnaEE FIP 2020,http://purl.org/np/RAUbP_FvGrwsW3MAWbrkfY0rnvjTpNrX41S2tl1xOb_EU#GeoNetwork,GeoNetwork
 LifeWatch_Marine_FIP_2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 AnaEE CREA FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -696,7 +692,6 @@ PARC TOXRIC FIP,http://purl.org/np/RA7rY4dFdjtt8ce017BIFQK6l11n920u9phtHZ1uj9rZc
 PARC TOXRIC FIP,http://purl.org/np/RAKpFZWygE9_6BQ2J_5CcjGS3s0JFz0kN9hh2zcgpXi0k#TOXRIC-TAID,TOXRIC-TAID | TOXRIC Unique ID for chemicals
 PARC TOXRIC FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 EPOS FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-EnvDS FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 ACTRIS ARES FIP 2022,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 EISCAT FIP 2020,http://purl.org/np/RAyNaDj8ru3RUNoBacACVvIqIZvBGgOZ9TL7BsBasOvHM#B2HANDLE,B2HANDLE
 EISCAT FIP 2020,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -959,7 +954,6 @@ EPOS FIP 2019,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#R
 EPOS FIP 2019,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 EPOS FIP 2019,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#EPOS_Portal,EPOS ICS Data Portal
 EPOS FIP 2019,http://purl.org/np/RAPreo6Y1pC6vzPxJgnYoO5jpqNw2U_AnDablh5mzQkM0#EPOS_Portal,EPOS ICS Data Portal
-EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 WorldFAIR WP04 NANOMATERIALS FIP01,http://purl.org/np/RAFP-uWPTN5u2kPR8pYeIgdbwyP1_KYZgoogYIv0Wp-fQ#ROR,ROR | Research Organization Registry
 AnaEE FIP 2021,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 LGBTQ+ Linked Open Vocabulary FIP,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
@@ -1060,7 +1054,6 @@ EMSO ERIC FIP 2019 bm,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYK
 ACTRIS-ASC_FIP_2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 IAGOS FIP 2020,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 ICOS FIP 2022,http://purl.org/np/RAD6RqynQJVYubUlSSLskD2W4HJsbec6gnpWJkaDKdpsI#WIGOS,WIGOS | WMO Integrated Global Observing System
-GFTS,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvGXHpXXL_0#ODV_ASCII,ODV_ASCII | Ocean Data View ASCII format for marine datasets
 DiSSCo FIP 2020,http://purl.org/np/RAezTbjDwWyvAHodv7FSJvF4d0sqG5H9bhK0QUMgq93R8#ABCD,ABCD | Access to Biological Collection Data
 Social Science Survey Research V2,http://purl.org/np/RAtYYb7632Vm2D3LsOqUByBc1SPSnH3MUiyx586V4gWYc#GESIS-Search,GESIS Search
@@ -1113,7 +1106,6 @@ LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SV
 DANUBIUS FIP 2021,http://purl.org/np/RAGhCnj_zKSZURRm5MgkkeLAnGfGYp3Bw_he3pYS4k0o4#DCAT-AP,DCAT-AP | Data Catalog Vocabulary Application Profile for Data Portals in Europe
 AnaEE FIP 2019,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 AnaEE CREA FIP 2019,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
-GFTS,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 DANUBIUS FIP 2021,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
 DANUBIUS FIP 2021,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 IPCHEM,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
@@ -1243,7 +1235,6 @@ AnaEE FIP 2019,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#
 IAGOS FIP 2021,http://purl.org/np/RAkc-x5DEBnK06XXpw4uh1ZzZcfEF4Kc8zV4m9xUw6j28#ePIC,ePIC | Persistent Identifier Consortium for eResearch
 EMSO ERIC FIP 2022,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabulary Service
 EMSO ERIC FIP 2022,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
-EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvGXHpXXL_0#ODV_ASCII,ODV_ASCII | Ocean Data View ASCII format for marine datasets
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
@@ -1308,7 +1299,6 @@ Copy of ADVANCE FIP,http://purl.org/np/RA9urgLyOh3Q4ooovOtv3WpHNrDZ2E_gP0z7YwvDW
 Copy of ADVANCE FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 EMSO ERIC FIP 2022,http://purl.org/np/RAkZcKw78nvhrCpqtPTP-JUv8Qr9N72Gjnaohpmd7UoKs#ERDDAP,ERDDAP
 ICOS FIP 2020,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
-GFTS,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 IAGOS FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ASC FIP 2021,http://purl.org/np/RAhixhioRuOn3wpxcLB9oO2sIP98gkaMc5zEcimd9KH5Y#GCMD,GCMD Keywords | Global Change Master Directory Keywords
 IAGOS FIP 2020,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
@@ -1388,7 +1378,6 @@ ICOS FIP 2021,http://purl.org/np/RAV8X0IMEVAUAZchTc7DTnBAlFwrqOsFhhsXofy_Tiwts#I
 SeaDataNET CDI FIP 2022,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 EMSO ERIC FIP 2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DiSSCo FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-EnvDS FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ICOS FIP 2022,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 SeaDataNET CDI FIP 2021,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
 SeaDataNET CDI FIP 2021,http://purl.org/np/RAiUOnHVIVD110BqdD3FmXP_nU-9rXlgjVDg5j10HdqB0#SensorML,OGC SensorML | Open Geospatial Consortium Sensor Model Language
@@ -1493,25 +1482,6 @@ ICOS FIP 2020,http://purl.org/np/RAWRg-ga5vWyHdPUfpeFkX9bLJQYkWL63oaPtxWcKbcAs#L
 EMSO ERIC FIP 2020 bm,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
 ACTRIS ARES FIP 2021,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
 Euro Argo FIP 2021,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
-GFTS,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-GFTS,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
-GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
-GFTS,,
-GFTS,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-GFTS,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-GFTS,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
-GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
-GFTS,,
-GFTS,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
-GFTS,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
-GFTS,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-GFTS,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
-GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-GFTS,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
-GFTS,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
-GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-GFTS,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 LifeWatch Marine FIP 2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAwNJdzIvrCDLAzKDbVz5ZpGwQzjnXI_m7OFm3hGeDG30#EML2.2.0,EML >=2.2.0 | Ecological Metadata Language >=2.2.0
 DiSSCo FIP 2020,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
@@ -1553,10 +1523,8 @@ AnaEE FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#
 ICOS FIP 2021,http://purl.org/np/RA57gvf2ROxtXx3koBib0Kl_xq0RNx4xfWVvKa8555ONg#SAML2,SAML2 | Security Assertion Markup Language 2.0
 ACTRIS GRES FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 SeaDataNET Sextant FIP 2019,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4YzRoaVMEI6uw#SDN_Sextant,SDN-Sextant | SeaDataNet Sextant search engines
-EnvDS FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 Euro Argo FIP 2019,http://purl.org/np/RA9psetxrTqMIvvY4L_5Ijoi_Ys_PY5j8Yi5fZXqHkGDc#ARGO_DataSearch,Euro-ARGO Data Selection
 ACTRIS_CLU_FIP_2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
-EnvDS FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 DiSSCo FIP 2019,http://purl.org/np/RAIKz5-yaWCQL-N3X_YawaGdOJFn4DfVNcExYpBJLQjn0#openDS,openDS | Open Digital Specimen
 ACTRIS_CLU_FIP_2022,http://purl.org/np/RAnDC25itPRjQTKVHqw3JonF7o31wml1XLZvuT3e31048#ACTRIS_DMP,Data Management plan for ACTRIS
 DiSSCo FIP 2021,http://purl.org/np/RAqr9OvVmSbt5JyDU0CBV63jfdDIklJ6PRMWFur2DYFHY#NSID,NSId | Natural Science Identifier
@@ -1687,7 +1655,6 @@ SeaDataNET Sextant FIP 2022,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEs
 SeaDataNET Sextant FIP 2022,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDKSOw-c8lIfk#NVS_Voc,NVS | NERC Vocabularies
 ACTRIS GRES FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 DiSSCo FIP 2021,http://purl.org/np/RAGuPGk2eXLTK7tNmv7wnghVOuLbfGtDJr4XzOF_WbzUw#DAAI,DAAI | DiSSCo Federated Authentication and Authorization Infrastructure
-EnvDS FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 DANUBIUS FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RAYdg3CV1FucepXxPxEpbK94cS2uQ2nY88dHqZvSHfzCM#EUNIS_Habitat,EUNIS Habitat Classification
 LGBTQ+ Linked Open Vocabulary FIP,http://purl.org/np/RAPbPkvyFnB0zf4Y80_RShjNfCZ9VBLQKvIuI9lUfZjnY#lcsh,Library of Congress Subject Headings (LCSH)
@@ -1794,7 +1761,6 @@ LifeWatch Ecosystems FIP 2022,http://purl.org/np/RAKy68K-ubbaV8BKrbYyJQ1NYKcCkvQ
 ICOS FIP 2020,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 ACTRIS_CLU_FIP_2022,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 ACTRIS ASC FIP 2019,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
-EnvDS FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RATJqkoRpT6A1XBZfRNGEKEXRe8EJIW4hLT17WmLjzSu4#GeoDCAT-AP,GeoDCAT-AP
 LifeWatch Ecosystems FIP 2021,http://purl.org/np/RAYdg3CV1FucepXxPxEpbK94cS2uQ2nY88dHqZvSHfzCM#EUNIS_Habitat,EUNIS Habitat Classification
@@ -1955,9 +1921,7 @@ CMIP6 data FIP,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#
 CMIP6 data FIP,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UUID,UUID | Universally Unique Identifier
 CMIP6 data FIP,,
 CMIP6 data FIP,http://purl.org/np/RAQdtjNY-r8ONtbwhColi4NML6ymd4NBB6SLWdpiBEhQY#ESGF,Earth System Grid Federation
-EnvDS FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 ACTRIS ARES FIP 2022,http://purl.org/np/RARv4EFw3iwjRn01xnpto4yzc15buTVcm2_q-8a3jLoZw#FTP,FTP | File Transfer Protocol
-EnvDS FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 ICOS FIP 2022,http://purl.org/np/RADEkw5zxPhYxu2g31KjA8Xi9ODUzKsnLkNM-vBg7RMX0#WCS,WCS | Web Coverage Service
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
 ACTRIS GRES FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
@@ -2073,7 +2037,6 @@ LifeWatch Marine FIP 2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8H
 LifeWatch Marine FIP 2022,http://purl.org/np/RA69xklqUA_c_76i3K-lsQ8RlxK-aF0jos6Gma_69PalQ#EML_GBIF_Profile,EML GBIF Profile Metadata | Ecological Metadata Language Global Biodiversity Information Facility Profile Metadata
 LifeWatch Marine FIP 2022,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 ACTRIS ARES FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
-EnvDS FIP,,
 ACTRIS GRES FIP 2022,http://purl.org/np/RAnDC25itPRjQTKVHqw3JonF7o31wml1XLZvuT3e31048#ACTRIS_DMP,Data Management plan for ACTRIS
 ICOS FIP 2021,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 AnaEE CREA FIP 2019,http://purl.org/np/RAbhCIJzwMFVkgwvrhsdjnpxtH58oLKoyxgj60DzkS-q4#OAuth,OAuth | Open Authorization
@@ -2175,7 +2138,6 @@ DiSSCo FIP 2021,http://purl.org/np/RALWtAcbWMjmHQoBd9Mf7gCYRSAwTFmFFsy-1rHeNgIjs
 DiSSCo FIP 2021,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 EPOS FIP 2022,http://purl.org/np/RAbFDL3kkY7IIjWMfU8C7zrAW-Wn2FFI-iMVPNPCU07Qg#epos-data-policy,EPOS Data Policy
 ACTRIS-ASC_FIP_2022,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
-EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
 ACTRIS ASC FIP 2019,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UUID,UUID | Universally Unique Identifier
 ACTRIS ASC FIP 2019,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 ACTRIS ASC FIP 2019,http://purl.org/np/RAxe6eQ3CEdAlQNz0a6oqQjTczYD-YqKoVV2yR0YM0-kw#AERIS_voc,AERIS vocabulary
@@ -2210,7 +2172,6 @@ SeaDataNET Sextant FIP 2019,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcO
 EMSO ERIC FIP 2021,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
 ICOS FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
-EnvDS FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 ICOS FIP 2022,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
 ACTRIS-ASC_FIP_2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 EMSO ERIC FIP 2022,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
@@ -2221,13 +2182,10 @@ ACTRIS-ASC_FIP_2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZ
 ACTRIS ARES FIP 2022,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
 AnaEE CREA FIP 2021,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
-EnvDS FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 ACTRIS CLU FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAXfJqMGLmatdBCu1X-CuYo9a0_zfQUTbPbvGXHpXXL_0#ODV_ASCII,ODV_ASCII | Ocean Data View ASCII format for marine datasets
 SeaDataNET CDI FIP 2020,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 LifeWatch Ecosystems FIP 2022,http://purl.org/np/RAmIZNVGWc2awqZYQGesFtPXS3wUAiQxMd1MUigJK1j3M#Google,Google Search
-EnvDS FIP,http://purl.org/np/RA24ysQcpWDzK6wHANkG_3F1HiTbgOO4ULjYxjaXDi8C4#MIT,MIT License
-EnvDS FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 EMSO ERIC FIP 2022,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
 ICOS FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 LGBTQ+ Linked Open Vocabulary FIP,http://purl.org/np/RAPbPkvyFnB0zf4Y80_RShjNfCZ9VBLQKvIuI9lUfZjnY#lcsh,Library of Congress Subject Headings (LCSH)
@@ -2250,7 +2208,6 @@ ICOS FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#P
 ACTRIS CLU FIP 2021,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
 SeaDataNET CDI FIP 2022,http://purl.org/np/RAEvHo9HYgH4jIdtmo1L4VWnBDOp08RKng9RWCa6ZGdQ4#SDN_M_ID,SDN-MID-Service | SeaDataNet Marine ID AAA service
 SeaDataNET CDI FIP 2022,http://purl.org/np/RAQeQU9518N3e4CKn3TMoSZ2erurE7ef67UdlNqmhJ2Ec#SDN2_CDI_ISO19139,SDN2_CDI_ISO19139 | SeaDataNet CDI metadata XML schema
-EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
 EMSO ERIC FIP 2022,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
 LifeWatch Ecosystems FIP 2020,http://purl.org/np/RAriFlfQteK9bm5sPm6oQ6G9D--zujrho1aFoDY1J1CMU#MACROALGAETRAITS,MACROALGAETRAITS | Macroalgae Traits Thesaurus
 NORMAN Database System- MassBank EU,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
@@ -2353,7 +2310,6 @@ ICOS FIP 2020,http://purl.org/np/RA4oRRKTg5X-e0JOtnuXbrZBaNRJnMICD_R3z4r6olOTU#I
 EMSO ERIC FIP 2021,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYKYZ5Fj4#OceanSites,OceanSITES | OceanSITES Data Format
 ICOS FIP 2022,http://purl.org/np/RAV8X0IMEVAUAZchTc7DTnBAlFwrqOsFhhsXofy_Tiwts#ICOS_Carbon_Portal,ICOS Carbon Portal | Integrated Carbon Observation System Data Portal
 EPOS FIP 2022,,
-EnvDS FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
 ICOS FIP 2022,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y#Schema.org_Dataset,Schema.org Dataset
 ICOS FIP 2021,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
 ACTRIS CLU FIP 2021,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
@@ -2365,7 +2321,6 @@ DANUBIUS FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6c
 ICOS FIP 2021,http://purl.org/np/RAQKm4e3E9TS7hFhm0OkRpKjLZElE6pGpXHlDH3mrJ9vE#OpenAIRE,OpenAIRE Research Graph
 DANUBIUS FIP 2021,http://purl.org/np/RAF52NKQCturaZMnb88a-BcWcGMVdhQf_9yw0dZt5I1TA#eduGAIN,eduGAIN Interfederation Service
 ICOS FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
-EnvDS FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
 Social Science Survey Research V2,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAuGuytQvgeS-rPY0vbF6lNF0Uc2jQRHrPXu597k4iISk#RDFS,RDFS | Resource Description Framework Schema
 EMSO ERIC FIP 2021,http://purl.org/np/RAkZcKw78nvhrCpqtPTP-JUv8Qr9N72Gjnaohpmd7UoKs#ERDDAP,ERDDAP
@@ -2385,7 +2340,6 @@ ICOS FIP 2022,http://purl.org/np/RAGv90JSxsBhhVhdJq_6CtOrHCLBbAuMLdkhES3dkog8o#r
 ACTRIS-ASC_FIP_2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 SeaDataNET CDI FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 ACTRIS ARES FIP 2022,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 SeaDataNET Sextant FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 EMSO ERIC FIP 2022,http://purl.org/np/RAUhotKhSj2m1ftHGPXAYyL2QgY60L6mYrunOzQwGZJ44#Google_Dataset_Search,Google Dataset Search
 EMSO ERIC FIP 2022,http://purl.org/np/RAJrKV-5B7l3W0lmFZk8Z0lsRJML4NSM9j7VOYKYZ5Fj4#OceanSites,OceanSITES | OceanSITES Data Format
@@ -2404,10 +2358,6 @@ ICOS FIP 2020,http://purl.org/np/RA4oRRKTg5X-e0JOtnuXbrZBaNRJnMICD_R3z4r6olOTU#I
 ICOS FIP 2022,http://purl.org/np/RAIDhFMgKCXCLNy9zQLH78uNDEzCaqxQ7E6KIPdifB72g#Python-Programming-Library-ICOSCP,Python programming library ICOSCP
 ICOS FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 ACTRIS ARES FIP 2022,http://purl.org/np/RA6903cYeY4s9RQE_Y-67XuPuNxdh9MuiZfQ2KCdHDMk8#wmo-core-profile,WMO Core Profile | World Meteorological Organization Core Metadata Profile
-EnvDS FIP,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
-EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
-EnvDS FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-EnvDS FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ARES FIP 2022,http://purl.org/np/RApihvFKR8-JO6eD5nuYMkyEDONbIZZC5uDkjxdqqq0ZQ#OPeNDAP,OPeNDAP | Open-source Project for a Network Data Access Protocol
 EMSO ERIC FIP 2021,http://purl.org/np/RANGw57Qlx5BklwMWCP1srqv4KG1o1I8cvA2IRaHq_HDg#DataCite,DataCite | DataCite Ontology
 ACTRIS_CLU_FIP_2022,http://purl.org/np/RATwk1lI_vxTHCRQv0PhKu8YiG6d37w_mEWgz_zubCg5c#ACTRIS-vocabulary,ACTRIS Vocabulary
@@ -6078,34 +6028,6 @@ Climate Adaptation Hub Portugal FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-p
 "RiOMar Bay of Biscay Simulation Data, CASE Study 2 FIP",http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 "RiOMar Bay of Biscay Simulation Data, CASE Study 2 FIP",http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 "RiOMar Bay of Biscay Simulation Data, CASE Study 2 FIP",http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
-F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-F2A Case Study 6: FAIR Climate Risk Assessments,,
-F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
-F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RATTrivFYGrAduRrXg9Yp_6bwXE38a_XXNozqM0GGMzcQ#IPCC,IPCC Glossary
-F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RA_oqII_3ddFHoCgZm1n6Cpobuyvj-lgl0DesbbeB1jHA#DataCiteMetadata4.4,DataCite Metadata Schema v4.4
-"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-"Hamburg Risk Map, Case Study 3 FIP",,
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
-"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAkz7MWhq2kOVFnmFG45BasszmWpp9IIsoNbowfxPplvA#ZMPP,Metadata preservation policy: ZMPP | Zenodo metadata preservation policy
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
-"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RABvAt9gnw5TPlzgnVAbhQF-OQvGmUMxoxHiQwBioeS2c#ASCII,ASCII | American Standard Code for Information Interchange
-"Hamburg Risk Map, Case Study 3 FIP",https://doi.org/10.25504/FAIRsharing.TS3gpY,CodeMeta
-"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 RSpace ELN FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 RSpace ELN FIP,http://purl.org/np/RAkc-x5DEBnK06XXpw4uh1ZzZcfEF4Kc8zV4m9xUw6j28#ePIC,ePIC | Persistent Identifier Consortium for eResearch
 RSpace ELN FIP,https://w3id.org/np/RAs0Txqfl7FNQaGHDt_6APwl7d8dLQZ-PfKrDdfUeobI8/RSpaceGID,RSpaceGID | RSpace Global Identifier
@@ -6391,3 +6313,82 @@ ODISSEI_Portal_FIP,http://purl.org/np/RAFvNzVlN_M4tXWryXeM_9mk88rdcQ0Ct3_L-5YVlM
 ODISSEI_Portal_FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 ODISSEI_Portal_FIP,http://purl.org/np/RA31wDwIAlgw1f9EXCLzqUNyY-MSMHIJ3VE-SMb4zIRQA#DDI-Codebook,DDI-Codebook|Data Documentation Initiative - Codebook
 ODISSEI_Portal_FIP,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RA_oqII_3ddFHoCgZm1n6Cpobuyvj-lgl0DesbbeB1jHA#DataCiteMetadata4.4,DataCite Metadata Schema v4.4
+"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+"Hamburg Risk Map, Case Study 3 FIP",,
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAkz7MWhq2kOVFnmFG45BasszmWpp9IIsoNbowfxPplvA#ZMPP,Metadata preservation policy: ZMPP | Zenodo metadata preservation policy
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RABvAt9gnw5TPlzgnVAbhQF-OQvGmUMxoxHiQwBioeS2c#ASCII,ASCII | American Standard Code for Information Interchange
+"Hamburg Risk Map, Case Study 3 FIP",https://doi.org/10.25504/FAIRsharing.TS3gpY,CodeMeta
+"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+"Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+F2A Case Study 6: FAIR Climate Risk Assessments,,
+F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RATTrivFYGrAduRrXg9Yp_6bwXE38a_XXNozqM0GGMzcQ#IPCC,IPCC Glossary
+F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+EnvDS FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+EnvDS FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+EnvDS FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+EnvDS FIP,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+EnvDS FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+EnvDS FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+EnvDS FIP,,
+EnvDS FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+EnvDS FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+EnvDS FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+EnvDS FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+EnvDS FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+EnvDS FIP,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
+EnvDS FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+EnvDS FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
+EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
+EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+EnvDS FIP,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
+EnvDS FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+EnvDS FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+EnvDS FIP,http://purl.org/np/RA24ysQcpWDzK6wHANkG_3F1HiTbgOO4ULjYxjaXDi8C4#MIT,MIT License
+EnvDS FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+EnvDS FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+GFTS,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+GFTS,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+GFTS,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+GFTS,,
+GFTS,,
+GFTS,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
+GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+GFTS,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+GFTS,http://purl.org/np/RAm6jl2f_ysCwqHyEEJjb7vdEnZXMwtNyIXSjsbNU3In8#HTTP,HTTP | Hypertext Transfer Protocol
+GFTS,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+GFTS,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+GFTS,http://purl.org/np/RA2ax5hW80d7OS7MVoE6vBOa6t6zR6DQREM8gWoLcEZzg#EGI_checkin,EGI Checkin
+GFTS,http://purl.org/np/RA4rdLbzwrBDZzdvLVophtrDEQVvevvzou3dihHRZzH4o#datacite-doi-policy,DataCite DOI Policy
+GFTS,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+GFTS,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+GFTS,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
+GFTS,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
+GFTS,http://purl.org/np/RAcYMfIt1ICpNTg0RCiR0QHfNoSUU-b-5Yw3w06HSL9VA#RO_Crate,Research Object Crate
+GFTS,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+GFTS,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+GFTS,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+GFTS,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+GFTS,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
