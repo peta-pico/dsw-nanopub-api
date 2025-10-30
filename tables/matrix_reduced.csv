@@ -6414,3 +6414,27 @@ OHT FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,H
 OHT FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 OHT FIP,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 OHT FIP,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
+FIESTA Astro FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+FIESTA Astro FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+FIESTA Astro FIP,https://doi.org/10.25504/FAIRsharing.rYgXhw,Observation Data Model Core Components and its Implementation in the Table Access Protocol | ObsCoreDM
+FIESTA Astro FIP,https://w3id.org/np/RAtnRDavQjABwiKC6fVOj6JM2gVb8tucL1a0JMXDaFX6E#FITS, Flexible Image Transport System
+FIESTA Astro FIP,https://w3id.org/np/RAu5SrjM56Qjb98u16xX1exNy2duQ-a8WLmT6LZvrD15M/ROFR,IVOA Registry of Registries
+FIESTA Astro FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+FIESTA Astro FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+FIESTA Astro FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+FIESTA Astro FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+FIESTA Astro FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+FIESTA Astro FIP,https://w3id.org/np/RAcyJcAfvxoi1xFUP_kK6ygECRT01EBRlAS7E30rSfLCg/CDS_Policy,Strasbourg Astronomy Data Centre Policy
+FIESTA Astro FIP,http://purl.org/np/RAutRQwoS4d5eLq7eBV1xsnWZ2spDYH4xfhhRzOxSZdhs#RDF,RDF | Resource Description Framework
+FIESTA Astro FIP,https://w3id.org/np/RAQLETXaxPTEvZdt7Cx761TwcHLzBKPF3J6bM5YCY2llY#XML,eXtensible Markup Language (XML)
+FIESTA Astro FIP,https://w3id.org/np/RAtnRDavQjABwiKC6fVOj6JM2gVb8tucL1a0JMXDaFX6E#FITS, Flexible Image Transport System
+FIESTA Astro FIP,https://w3id.org/np/RAo2oTUaKUJthBJuTtbFTup8YCqRtQst2jZXaoC_WJyD0/IVOA-UAT,IVOA Vocabulary: Unified Astronomy Thesaurus
+FIESTA Astro FIP,https://w3id.org/np/RAo2oTUaKUJthBJuTtbFTup8YCqRtQst2jZXaoC_WJyD0/IVOA-UAT,IVOA Vocabulary: Unified Astronomy Thesaurus
+FIESTA Astro FIP,https://w3id.org/np/RAxGbgNQrpSRn-FbplfMctnwVkA-JFtaBNNsKncsEIUio/MMODA-Astrophysical-Workflow-Ontology,MMODA Astrophysical Workflow Ontology
+FIESTA Astro FIP,https://w3id.org/np/RA7MvnynpQdD9D3GcrSKwES5DM8HX0hv8SWMIlADGpcsg/IVOA-ObjectTypeOntology,Ontology of Astronomical Object Types
+FIESTA Astro FIP,https://w3id.org/np/RA7MvnynpQdD9D3GcrSKwES5DM8HX0hv8SWMIlADGpcsg/IVOA-ObjectTypeOntology,Ontology of Astronomical Object Types
+FIESTA Astro FIP,https://w3id.org/np/RAxGbgNQrpSRn-FbplfMctnwVkA-JFtaBNNsKncsEIUio/MMODA-Astrophysical-Workflow-Ontology,MMODA Astrophysical Workflow Ontology
+FIESTA Astro FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+FIESTA Astro FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+FIESTA Astro FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
+FIESTA Astro FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
