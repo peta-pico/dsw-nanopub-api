@@ -6226,28 +6226,6 @@ JERICO-Italia FIP,https://w3id.org/np/RAYBWqohMZ4y8rSZ6uEiceJ-EFnjaxmxhz4uCBJqbA
 JERICO-Italia FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 JERICO-Italia FIP,https://w3id.org/np/RAxbiFWQOewvC5ZJCF2JrRcT4uLr97wwtHBeoDTjIArxg/NetCDF_CF1.10,NetCDF CF-1.10
 JERICO-Italia FIP,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
-FIESTA EO FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-FIESTA EO FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
-FIESTA EO FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
-FIESTA EO FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-FIESTA EO FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
-FIESTA EO FIP,https://w3id.org/np/RAgLTm3t9e80uUMm0Zhh0hS8lGzCFeAuQUiqJSERR9oAM#NIRD-RDA,NIRD-RDA | NIRD Research Data Archive
-FIESTA EO FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
-FIESTA EO FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-FIESTA EO FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
-FIESTA EO FIP,https://w3id.org/np/RApdi0n6AYcmjMUDBVVSwBzL1pQi7YWpW_hiV7-d_jwGs#OIDC,OIDC | OpenID Connect
-FIESTA EO FIP,https://w3id.org/np/RApdi0n6AYcmjMUDBVVSwBzL1pQi7YWpW_hiV7-d_jwGs#OIDC,OIDC | OpenID Connect
-FIESTA EO FIP,https://w3id.org/np/RAkz7MWhq2kOVFnmFG45BasszmWpp9IIsoNbowfxPplvA#ZMPP,Metadata preservation policy: ZMPP | Zenodo metadata preservation policy
-FIESTA EO FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
-FIESTA EO FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
-FIESTA EO FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-FIESTA EO FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
-FIESTA EO FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-FIESTA EO FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
-FIESTA EO FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-FIESTA EO FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
-FIESTA EO FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
-FIESTA EO FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
 FIESTA Bio FIP,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c#URI,URI | Uniform Resource Identifier
 FIESTA Bio FIP,http://purl.org/np/RA5-OsT0-sjRbcoFEGfOzkrcFtExipMRmoLErzg5QWL7c#URI,URI | Uniform Resource Identifier
 FIESTA Bio FIP,https://doi.org/10.25504/FAIRsharing.6wf1zw,Image Data Resource  | IDR
@@ -6551,3 +6529,49 @@ Arctic Radio-Isotopes FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORf
 "Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 "Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 "Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+FIESTA EO FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+FIESTA EO FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+FIESTA EO FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+FIESTA EO FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+FIESTA EO FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+FIESTA EO FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+FIESTA EO FIP,https://w3id.org/np/RAgLTm3t9e80uUMm0Zhh0hS8lGzCFeAuQUiqJSERR9oAM#NIRD-RDA,NIRD-RDA | NIRD Research Data Archive
+FIESTA EO FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+FIESTA EO FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+FIESTA EO FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+FIESTA EO FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+FIESTA EO FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+FIESTA EO FIP,https://w3id.org/np/RAkz7MWhq2kOVFnmFG45BasszmWpp9IIsoNbowfxPplvA#ZMPP,Metadata preservation policy: ZMPP | Zenodo metadata preservation policy
+FIESTA EO FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+FIESTA EO FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+FIESTA EO FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+FIESTA EO FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+FIESTA EO FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+FIESTA EO FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+FIESTA EO FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+FIESTA EO FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+FIESTA EO FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+FIESTA EO FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+Test FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+Test FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+Test FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+Test FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+Test FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+Test FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+Test FIP,https://w3id.org/np/RAgLTm3t9e80uUMm0Zhh0hS8lGzCFeAuQUiqJSERR9oAM#NIRD-RDA,NIRD-RDA | NIRD Research Data Archive
+Test FIP,http://purl.org/np/RAQKRYjUrndhJAbsgnuhr1Z3DecqtWVl1qUTC2cPpyLDY#Zenodo,Zenodo
+Test FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+Test FIP,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+Test FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+Test FIP,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+Test FIP,https://w3id.org/np/RAkz7MWhq2kOVFnmFG45BasszmWpp9IIsoNbowfxPplvA#ZMPP,Metadata preservation policy: ZMPP | Zenodo metadata preservation policy
+Test FIP,http://purl.org/np/RAQKjgd7Ug9xSo4J0REW_AHGOJyaF9-ydj60nunqQ0qVg#JSON-LD,JSON-LD | JavaScript Object Notation for Linking Data
+Test FIP,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+Test FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+Test FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
+Test FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+Test FIP,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+Test FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+Test FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+Test FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
+Test FIP,https://w3id.org/np/RAkpXh4lrX4YOVdi-V2jIJghv0XQ2h9b9TG5mC8SMcYwU#NetCDF_CF1.11,NetCDF CF-1.11
