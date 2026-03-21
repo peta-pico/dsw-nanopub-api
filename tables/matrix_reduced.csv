@@ -82,12 +82,14 @@ eLTER FIP 2021,http://purl.org/np/RANyuuxLlxlxaTPw5i8YvMjFMAgLM57oMnoRcSE5GKeqU#
 eLTER FIP 2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 eLTER FIP 2021,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#INSPIRE-EMF,INSPIRE EMF | Infrastructure for Spatial Information in the European Community Environmental Monitoring Facilities
 eLTER FIP 2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+eLTER FIP 2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER FIP 2021,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 eLTER FIP 2021,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTER FIP 2021,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#DEIMS-ID,DEIMS.ID
 eLTER FIP 2021,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2021,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 eLTER FIP 2021,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+eLTER FIP 2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER FIP 2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER FIP 2021,http://purl.org/np/RAUEhNrbkNil4yh9jT69DefWB7c9q7b-8knKV2ibECnIo#eLTER-CDN,eLTER-CDN | eLTER Central Data Node
 eLTER FIP 2021,http://purl.org/np/RAQW7dmOWh7xag41aTCvwRrmL47Ku6n-bru5DFE-NzJuw#eLTER_DAR,eLTER Digital Asset Registry
@@ -506,6 +508,7 @@ AnaEE FIP 2020,http://purl.org/np/RARAkIAxPZlDoeK2snQFGhd_5ZPdexd8uVz4gZGpgihqI#
 INDIGEO PNDB RSI UBO,,
 ICOS FIP 2021,http://purl.org/np/RAWRg-ga5vWyHdPUfpeFkX9bLJQYkWL63oaPtxWcKbcAs#LOD,LOD | Linked Open Data
 Euro Argo FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+Euro Argo FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 DANUBIUS FIP 2021,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ASC FIP 2021,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
 LifeWatch Marine FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
@@ -876,6 +879,7 @@ Euro Argo FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcG
 Euro Argo FIP 2022,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 Euro Argo FIP 2022,http://purl.org/np/RALq176Ps7J8NcmeFWShY5cm87ONwmud3trXbMpLqWcv8#OGC-SensorThings,OGC-SensorThings
 Euro Argo FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+Euro Argo FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 Euro Argo FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS ASC FIP 2021,http://purl.org/np/RATwk1lI_vxTHCRQv0PhKu8YiG6d37w_mEWgz_zubCg5c#ACTRIS-vocabulary,ACTRIS Vocabulary
 EMSO ERIC FIP 2021,http://purl.org/np/RAkZcKw78nvhrCpqtPTP-JUv8Qr9N72Gjnaohpmd7UoKs#ERDDAP,ERDDAP
@@ -2412,6 +2416,7 @@ SeaDataNET Sextant FIP 2021,http://purl.org/np/RAjVv2Tw_bj_ZWOUuT_Uw9QelmeMTM6N4
 ACTRIS GRES FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 ACTRIS ARES FIP 2022,http://purl.org/np/RAGv90JSxsBhhVhdJq_6CtOrHCLBbAuMLdkhES3dkog8o#r3data,re3data | Registry of Research Data Repositories
 ACTRIS ARES FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+ACTRIS ARES FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS ARES FIP 2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
 ACTRIS ARES FIP 2022,http://purl.org/np/RAjtZEII3jOPstz3GNWqnzd4jxxFC6D6LvF4tu3ORXw5s#SAML1.1,SAML1.1 | Security Assertion Markup Language 1.1
 ACTRIS ARES FIP 2022,http://purl.org/np/RATwk1lI_vxTHCRQv0PhKu8YiG6d37w_mEWgz_zubCg5c#ACTRIS-vocabulary,ACTRIS Vocabulary
@@ -2421,6 +2426,7 @@ ACTRIS ARES FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3j
 ACTRIS ARES FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
 ACTRIS ARES FIP 2022,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 ACTRIS ARES FIP 2022,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+ACTRIS ARES FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS ARES FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS ARES FIP 2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 ACTRIS ARES FIP 2022,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
@@ -2830,11 +2836,14 @@ eLTER_FIP_2022,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#
 eLTER_FIP_2022,http://purl.org/np/RAiUvy-zqZtTyRAJQjPGHhK5mb8m-1M8WfLco-ho6GpnQ#eLTER_DMP_Draft,eLTER Data Management Plan Draft
 eLTER_FIP_2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER_FIP_2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+eLTER_FIP_2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+eLTER_FIP_2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER_FIP_2022,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 WorldFAIR WP13 CULTURAL HERITAGE FIP01 ,http://purl.org/np/RATn3tHBlRq3NMNC67hGGrwX4v18uhr7uaBwRT1krJEHs#DataCite_DOI_Resolution_Service,DataCite DOI Resolution Service Fabrica
 SIOS FIP 2019,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 Materials Project,http://purl.org/np/RAyIQx7rn1CDYgTqRlSbsZY0yQz46VxRzSgfMp138QInM#OSTI-DOI,U.S. Department of Energy Office of Scientific and Technical Information (OSTI) Data ID Service
 ACTRIS ARES FIP 2019,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+eLTERFIP2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTERFIP2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS DVAS FIP 2022,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
 ACTRIS CLU FIP 2019,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
@@ -3212,6 +3221,7 @@ eLTERFIP2022,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OP
 eLTERFIP2022,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 eLTERFIP2022,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 eLTERFIP2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+eLTERFIP2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTERFIP2022,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
 eLTERFIP2022,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
 eLTERFIP2022,http://purl.org/np/RAFO4Lu8kp5j6xTN5MZ3qRLO_yZkGCuefm0dzboWA9Ygo#WMS,WMS | Web Map Service
@@ -3344,6 +3354,7 @@ eLTER_FIP_2020,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#
 eLTER_FIP_2019,,
 SIOS_FIP_2019,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 SIOS_FIP_2021,http://purl.org/np/RAGU7fcmWADuNzEpP5ttJrTFOqbuuZP0rJ35JgdvZke2M#GEOSS_Portal,GEOSS Portal | Global Earth Observation System of Systems Portal
+eLTER_FIP_2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER_FIP_2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 SIOS_FIP_2020,http://purl.org/np/RAGU7fcmWADuNzEpP5ttJrTFOqbuuZP0rJ35JgdvZke2M#GEOSS_Portal,GEOSS Portal | Global Earth Observation System of Systems Portal
 DiSSCo_FIP_2020,http://purl.org/np/RAfpqImxNsTJLDAV3ZvcQBOddyZf-Yhl2WHXFpGHOLe-Y#Schema.org_Dataset,Schema.org Dataset
@@ -3538,6 +3549,7 @@ eLTER_FIP_2021,http://purl.org/np/RAUzalz-5XXJHA6cXSCermkp6SHd5Q2Bno0S7jLAcWs2w#
 eLTER_FIP_2021,http://purl.org/np/RA9SQIjEkTvq9qgaHU_ldN0ntL9gYgi0Tu_55ZOr4eMf4#CSW,CSW | Catalog Service for the Web
 eLTER_FIP_2021,http://purl.org/np/RAdEIAqt6tWi9bdm_m6NuY9Etld43eip7TDlMaFPbwj5Q#WFS,WFS | Web Feature Service
 eLTER_FIP_2021,http://purl.org/np/RAnwFn9lcKK8S2tccnwPZJw-0_hF5N03BL-8BuchPHtvQ#OAI-PMH,OAI-PMH Schema | Open Archives Initiative Protocol for Metadata Harvesting Schema
+eLTER_FIP_2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER_FIP_2021,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER_FIP_2021,http://purl.org/np/RAT1egvL5VArd6XMPJXkOR8gelUy_3M-wgDu2Ax02P1gM#DEIMS-ID,DEIMS.ID
 eLTER_FIP_2021,http://purl.org/np/RARKGmoA6jLQnUvkijvsoS6zcXxbiujviU39B54DoH208#B2FIND,B2FIND
@@ -5367,9 +5379,11 @@ eLTER FIP 2022,http://purl.org/np/RAlRm-dQCh69ziWs5T2VCJhvZHuCDLtCOsmylHSiegd_k#
 eLTER FIP 2022,http://purl.org/np/RAnLN_EMEQoZ0A7jRuQCPFqt0APN_SVD_9vmG3CDFKjog#ISO_19139,ISO 19139 | Geographic information - Metadata - XML schema implementation
 eLTER FIP 2022,http://purl.org/np/RAw8X2gfKkN6Df_Wws3Axou4vMrejVEFumgga52D_i1nY#ISO_19115,ISO 19115 | Geographic information - Metadata
 eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER FIP 2022,http://purl.org/np/RAS95nqgBVT5tVaQiUfCwgFWjxIiwxtkZlkeMIRLDw9KU#DEIMS-SDR_SMM,DEIMS-SDR Site Metadata Model
 eLTER FIP 2022,http://purl.org/np/RAiUOnHVIVD110BqdD3FmXP_nU-9rXlgjVDg5j10HdqB0#SensorML,OGC SensorML | Open Geospatial Consortium Sensor Model Language
 eLTER FIP 2022,http://purl.org/np/RAHC1N3OmWfxkzq9ojr0KB1Ahi_QxDJhcYhh8jV8EEpmo#eLTER_DataSpec_Draft,eLTER_Data_Specification_Draft
+eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER FIP 2022,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 eLTER FIP 2022,http://purl.org/np/RAq55jS4TCF-u0HLARDjWevzMv8k-NY7737bSJVzRAY2w#CC0-1.0,CC0 1.0 | CC0 1.0 Universal Public Domain Dedication
 eLTER FIP 2022,http://purl.org/np/RANw_e-9CEfADSpQKbEVn5G7qu_jczqdJUNssOzYXEvfA#CC-BY-NC-4.0,CC BY-NC 4.0 | Attribution-NonCommercial 4.0 International
@@ -5781,7 +5795,9 @@ ACTRIS ARES FIP 2025,http://purl.org/np/RATwk1lI_vxTHCRQv0PhKu8YiG6d37w_mEWgz_zu
 ACTRIS ARES FIP 2025,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 ACTRIS ARES FIP 2025,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
 ACTRIS ARES FIP 2025,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+ACTRIS ARES FIP 2025,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS ARES FIP 2025,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+ACTRIS ARES FIP 2025,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS ARES FIP 2025,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 ACTRIS ARES FIP 2025,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 ACTRIS ARES FIP 2025,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
@@ -6446,6 +6462,7 @@ F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAQKjgd7Ug9xS
 F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RATTrivFYGrAduRrXg9Yp_6bwXE38a_XXNozqM0GGMzcQ#IPCC,IPCC Glossary
 F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 F2A Case Study 6: FAIR Climate Risk Assessments,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 F2A Case Study 6: FAIR Climate Risk Assessments,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 Climate Adaptation Hub Portugal FIP,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
@@ -6468,6 +6485,8 @@ Climate Adaptation Hub Portugal FIP,https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1J
 Climate Adaptation Hub Portugal FIP,http://purl.org/np/RAuxR5Gx_uvvBVoePV226Lk86VRYrh9EpmqFXU7f_oojQ#pdf,Portable Document Format (PDF)
 Climate Adaptation Hub Portugal FIP,https://w3id.org/np/RARithIuZ_BRhjV55wWIeQX1EiFE_Rgvy7N-6QSjHns4E#CCA-Taxonomy,Climate Change Adaptation Taxonomy
 Climate Adaptation Hub Portugal FIP,https://w3id.org/np/RARithIuZ_BRhjV55wWIeQX1EiFE_Rgvy7N-6QSjHns4E#CCA-Taxonomy,Climate Change Adaptation Taxonomy
+Climate Adaptation Hub Portugal FIP,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+Climate Adaptation Hub Portugal FIP,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 Climate Adaptation Hub Portugal FIP,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 Climate Adaptation Hub Portugal FIP,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 Climate Adaptation Hub Portugal FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
@@ -6502,6 +6521,8 @@ Arctic Radio-Isotopes FIP,http://purl.org/np/RALBOR5frFpOCV3IDmuJDX8vJD-AhyjEsDK
 Arctic Radio-Isotopes FIP,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
 Arctic Radio-Isotopes FIP,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 Arctic Radio-Isotopes FIP,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+Arctic Radio-Isotopes FIP,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
+Arctic Radio-Isotopes FIP,http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 Arctic Radio-Isotopes FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 Arctic Radio-Isotopes FIP,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 Arctic Radio-Isotopes FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
@@ -6524,6 +6545,7 @@ Arctic Radio-Isotopes FIP,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORf
 "Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
 "Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RABvAt9gnw5TPlzgnVAbhQF-OQvGmUMxoxHiQwBioeS2c#ASCII,ASCII | American Standard Code for Information Interchange
 "Hamburg Risk Map, Case Study 3 FIP",https://doi.org/10.25504/FAIRsharing.TS3gpY,CodeMeta
+"Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 "Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAUvojqASItOlIj5OnyXyz808nRsYrU4BCrDFU-ymuoUA#I-ADOPT,I-ADOPT Framework
 "Hamburg Risk Map, Case Study 3 FIP",http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
 "Hamburg Risk Map, Case Study 3 FIP",https://w3id.org/np/RAQy_EWHjCh-ARWWzc44pR1JeFiIxFQyNYNt-_IyflkQM#RO-Crate,RO-Crate | Research Object Crate
