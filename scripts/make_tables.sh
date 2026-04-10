@@ -75,8 +75,7 @@ csvjoin -d ',' -q '"' --left -c 'resource_id' tables/fer-ids-duplicates.pre.csv 
 call_api RAEY8_rG74ZFJZ6wAZ2npoCZoUBafVECzqhPLgwHihiig/get-fip-decl-in-index fip-decl-in-index.pre.csv
 
 # Get R-FIP declarations (from communities with a Reference-FAIR-Implementation-Profile):
-# TODO: replace artifact code after publishing get-rfip-decl-in-context query
-call_api PLACEHOLDER_RFIP_ARTIFACT/get-rfip-decl-in-context rfip-decl-in-context.pre.csv
+call_api RAWdDgH8EfNe5cuKLMaYAJWKAvTz0YHlZ4KxKaI-liDVs/get-rfip-decl-in-context rfip-decl-in-context.pre.csv
 
 # Remove R-FIP declarations already covered by an index to avoid duplicates:
 csvgrep -d ',' -q '"' -c decl_np \
@@ -90,8 +89,7 @@ csvstack -d ',' -q '"' \
   tables/rfip-decl-new.pre.csv \
   > tables/combined-decl-index.pre.csv
 
-# TODO: replace artifact code after publishing get-fip-decl-details v2 (with version column)
-call_api PLACEHOLDER_DECL_DETAILS_ARTIFACT/get-fip-decl-details fip-decl-details.pre.csv
+call_api RAoyVY3PFKl2LgnV4O4JmyepekSn8jxCGq0T2CsXv6AMs/get-fip-decl-details fip-decl-details.pre.csv
 
 csvjoin -d ',' -q '"' -c 'decl_np' \
   tables/combined-decl-index.pre.csv tables/fip-decl-details.pre.csv \
