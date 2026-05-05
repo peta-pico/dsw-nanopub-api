@@ -72,7 +72,7 @@ csvjoin -d ',' -q '"' --left -c 'resource_id' tables/fer-ids-duplicates.pre.csv 
 
 # Get FIP declarations:
 
-call_api RAEY8_rG74ZFJZ6wAZ2npoCZoUBafVECzqhPLgwHihiig/get-fip-decl-in-index fip-decl-in-index.pre.csv
+call_api RALx4mcnF84op6E-q-voMr19X80Sy_Khy2I1dMmachJ3o/get-fip-decl-in-index fip-decl-in-index.pre.csv
 
 # Get R-FIP declarations (from communities with a Reference-FAIR-Implementation-Profile):
 call_api RAWdDgH8EfNe5cuKLMaYAJWKAvTz0YHlZ4KxKaI-liDVs/get-rfip-decl-in-context rfip-decl-in-context.pre.csv
@@ -107,7 +107,7 @@ csvjoin -d ',' -q '"' --left -c 'resource_id_used,resource_id' \
   tables/fip-declarations.csv tables/fer-ids.csv \
   > tables/matrix.csv
 
-csvcut -d ',' -q '"' -c fip_title,resource_pref_id,reslabel \
+csvcut -d ',' -q '"' -c fip_title,fip_source,resource_pref_id,reslabel \
   tables/matrix.csv \
   > tables/matrix_reduced.csv
 
