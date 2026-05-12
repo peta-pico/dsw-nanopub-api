@@ -109,6 +109,10 @@ csvjoin -d ',' -q '"' --left -c 'resource_id_used,resource_id' \
 
 csvcut -d ',' -q '"' -c fip_title,fip_source,resource_pref_id,reslabel \
   tables/matrix.csv \
+  > tables/matrix_reduced-unsorted.pre.csv
+csvsort -d ',' -q '"' \
+  tables/matrix_reduced-unsorted.pre.csv \
+  | uniq \
   > tables/matrix_reduced.csv
 
 # Removing all preliminary files:
