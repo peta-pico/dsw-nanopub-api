@@ -165,6 +165,22 @@ ACTRIS CLU FIP 2021,https://w3id.org/fip/wizard/009eb71b-08a1-49e2-b661-6e7b4a8b
 ACTRIS CLU FIP 2021,https://w3id.org/fip/wizard/009eb71b-08a1-49e2-b661-6e7b4a8bedae,http://purl.org/np/RAnkRRbkigfQpL2ERK1jVqwA9Brwu1GcORfTbfQMWHfC4#PROV-O,PROV-O | W3C PROV Ontology
 ACTRIS CLU FIP 2021,https://w3id.org/fip/wizard/009eb71b-08a1-49e2-b661-6e7b4a8bedae,http://purl.org/np/RAszH6lU-Zc3UO7MHPKj1Lb0dmMmaTJrRvQ0jqpXMyFY4#REST,REST | Representational state transfer
 ACTRIS CLU FIP 2021,https://w3id.org/fip/wizard/009eb71b-08a1-49e2-b661-6e7b4a8bedae,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RA63-_ZV5MsUMBGvOTpqpqg3rxn7dSkHD8HOq4f2cdyvc#OPENDATA,Open Data
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAF1ANn-BCFop0OBMOC7S8NtG0y_xYhRX4tAu37XZVCo0#HTTPS,HTTPS | Hypertext Transfer Protocol Secure
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAFP-uWPTN5u2kPR8pYeIgdbwyP1_KYZgoogYIv0Wp-fQ#ROR,ROR | Research Organization Registry
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAQ__sGdY_Qc7l1O_zmn4nr-pMBOxKU04Ur9s998rS6Fc#CC-BY-4.0,CC BY 4.0 | Attribution 4.0 International
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RATwk1lI_vxTHCRQv0PhKu8YiG6d37w_mEWgz_zubCg5c#ACTRIS-vocabulary,ACTRIS Vocabulary
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAZLyn_uD-ciJ_ktBEDz84jouGoMdHe49t-63HwnRgKTo#CF_SN,CF SN | Climate and Forecast Standard Names Parameter Vocabulary
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAdLEtIqBBprmFUyN3rnpq_30o8G35R95_YqNYEdKmX6M#NetCDF,NetCDF | Network Common Data Form
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAhsaEHX2ASNwu6pX9eG8qHJmugE_6Qw96qfsn3CstRdM#ACTRIS_DataPortal,ACTRIS Data Portal
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAiCaFZCEF6LErVvjOkXOodU477UvFmBOKGf-7Bj-0okw#CLU,CLU | ACTRIS Data Centre node for cloud profiling
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAko0U2Q8boW-drM8t11DcbX6Ixu2mcSQf-2BrM07geIQ#datacite_metadata_scheme,DataCite Metadata Scheme
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAm-5N-Essj5oekn7Qd_KgooUYAk9Szk3bBK9R3jcGnlM#NetCDF_CF1.7,NetCDF CF-1.7
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAnAWGdeI_1GGmDAqv-vZjby5XqbL2ZujNz1vgwK_6cRI#DOI,DOI | Digital Object Identifier
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAnDC25itPRjQTKVHqw3JonF7o31wml1XLZvuT3e31048#ACTRIS_DMP,Data Management plan for ACTRIS
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAvSpggcYeB-tEfjF6SwIkM3R6LmxuOvK4FqJqIDIkxt0#Handle_System,Handle System
+ACTRIS CLU FIP 2026,https://w3id.org/fip/wizard/466a9a9b-ce1f-47ef-9cc4-0a0281407214,http://purl.org/np/RAypIT9C-q0n_Y2tOPqCOM19ETJNWdvNI40rVF11AMoiw#JSON,JSON | JavaScript Object Notation
 ACTRIS DC FIP 2026,https://w3id.org/fip/wizard/0e34b91f-1d07-43f8-8678-a5a4ed26837e,http://purl.org/np/RA1MzU1MPio-mtLzm1P7zfTBSMnTNc2I8HLNARhPjpif8#ORCID,ORCID | Open Researcher and Contributor ID
 ACTRIS DC FIP 2026,https://w3id.org/fip/wizard/0e34b91f-1d07-43f8-8678-a5a4ed26837e,http://purl.org/np/RA5E0NA_BAilxwHhZKQm-ItnFoxw3ateI8UFxZ0rs8N5Q#XML_Schema,XMLS | eXtensible Markup Language Schema
 ACTRIS DC FIP 2026,https://w3id.org/fip/wizard/0e34b91f-1d07-43f8-8678-a5a4ed26837e,http://purl.org/np/RA5ikgqnKqn071dwzXFdiXlnM8hWZRdFKsQjC_e5YRkEw#UUID,UUID | Universally Unique Identifier
