@@ -89,13 +89,13 @@ csvstack -d ',' -q '"' \
   tables/rfip-decl-new.pre.csv \
   > tables/combined-decl-index.pre.csv
 
-call_api RAoyVY3PFKl2LgnV4O4JmyepekSn8jxCGq0T2CsXv6AMs/get-fip-decl-details fip-decl-details.pre.csv
+call_api RA2nK-rBdQWQHMnQjZZgDFci6cy6nO8ITCPhriprZ9zzU/get-fip-decl-details fip-decl-details.pre.csv
 
 csvjoin -d ',' -q '"' -c 'decl_np' \
   tables/combined-decl-index.pre.csv tables/fip-decl-details.pre.csv \
   > tables/fip-declarations.pre.csv
 
-call_api RAz76URtDXiLs-16LwzK-zNyzbIugXW8OjhUQdh5jPdtw/get-fip-supercommunities fip-supercommunities.pre.csv
+call_api RAiPISFvhxtq8q5Raepq9pI2WUUC6rMc9QafghW4FohHE/get-fip-supercommunities fip-supercommunities.pre.csv
 
 csvjoin -d ',' -q '"' --left -c 'community' \
   tables/fip-declarations.pre.csv tables/fip-supercommunities.pre.csv \
