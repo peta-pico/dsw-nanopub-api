@@ -1,0 +1,65 @@
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix fip: <https://w3id.org/fair/fip/terms/>
+prefix dct: <http://purl.org/dc/terms/>
+prefix dce: <http://purl.org/dc/elements/1.1/>
+prefix npa: <http://purl.org/nanopub/admin/>
+prefix npx: <http://purl.org/nanopub/x/>
+prefix np: <http://www.nanopub.org/nschema#>
+prefix prov: <http://www.w3.org/ns/prov#>
+select ?fip_index ?fip_title ?fip_source ?decl_np where {
+  # Current indexes first (one row per index), so the version filters run per index, not per declaration.
+  { select ?fip_index ?fip_title ?fip_source where {
+    graph npa:graph {
+      ?fip_index npx:hasNanopubType npx:NanopubIndex .
+      ?fip_index npa:hasValidSignatureForPublicKey ?pubkey .
+      filter not exists { ?index_np_x npx:invalidates ?fip_index ; npa:hasValidSignatureForPublicKey ?pubkey . }
+      ?fip_index np:hasPublicationInfo ?index_i .
+      ?fip_index rdfs:label ?fip_title .
+      ?fip_index dct:created ?index_date .
+    }
+    graph ?index_i {
+      ?fip_index prov:wasDerivedFrom ?fip_source .
+    }
+  # An index is superseded when a newer, non-invalidated index was derived from the same FIP Wizard
+  # source (prov:wasDerivedFrom in the index's publication info) ...
+  filter not exists {
+    graph npa:graph {
+      ?fip_newer_index npx:hasNanopubType npx:NanopubIndex .
+      ?fip_newer_index npa:hasValidSignatureForPublicKey ?newer_pubkey .
+      filter not exists { ?fip_newer_index_x npx:invalidates ?fip_newer_index ; npa:hasValidSignatureForPublicKey ?newer_pubkey . }
+      ?fip_newer_index np:hasPublicationInfo ?newer_i .
+      ?fip_newer_index dct:created ?newer_date .
+    }
+    graph ?newer_i {
+      ?fip_newer_index prov:wasDerivedFrom ?fip_source .
+    }
+    filter(?newer_date > ?index_date)
+  }
+  # ... or when a newer, non-invalidated index carries the same title: a FIP re-created as a new
+  # Wizard project keeps its title but gets a new source. Only indexes count here; the earlier
+  # version matched any nanopublication with that label (which dropped the PARC rFIP, whose
+  # own nanopublication shares the index's title) and nothing else, so it kept every index
+  # whose title had changed between versions (underscores replaced by spaces in 2024).
+  filter not exists {
+    graph npa:graph {
+      ?fip_newer_index2 rdfs:label ?fip_title .
+    }
+    graph npa:graph {
+      ?fip_newer_index2 npa:hasValidSignatureForPublicKey ?newer_pubkey2 .
+      filter not exists { ?fip_newer_index2_x npx:invalidates ?fip_newer_index2 ; npa:hasValidSignatureForPublicKey ?newer_pubkey2 . }
+      ?fip_newer_index2 dct:created ?newer_date2 .
+      ?fip_newer_index2 npx:hasNanopubType npx:NanopubIndex .
+    }
+    filter(?newer_date2 > ?index_date)
+  }
+  } }
+  graph npa:graph {
+    ?fip_index np:hasAssertion ?index_a .
+    ?decl_np npa:hasValidSignatureForPublicKey ?decl_pubkey .
+    filter not exists { ?decl_np_x npx:invalidates ?decl_np ; npa:hasValidSignatureForPublicKey ?decl_pubkey . }
+    ?decl_np npx:hasNanopubType fip:FIP-Declaration .
+  }
+  graph ?index_a {
+    ?fip_index npx:includesElement ?decl_np .
+  }
+}

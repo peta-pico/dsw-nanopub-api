@@ -1,0 +1,110 @@
+@prefix this: <http://purl.org/nanopub/temp/np001/> .
+@prefix sub: <http://purl.org/nanopub/temp/np001/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix nt: <https://w3id.org/np/o/ntemplate/> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix grlc: <https://w3id.org/kpxl/grlc/> .
+
+sub:Head {
+  this: a np:Nanopublication ;
+    np:hasAssertion sub:assertion ;
+    np:hasProvenance sub:provenance ;
+    np:hasPublicationInfo sub:pubinfo .
+}
+
+sub:assertion {
+  sub:get-fip-decl-in-index a grlc:grlc-query ;
+    rdfs:label "Get FIP declarations in indexes" ;
+    dct:description "This query returns all FIP declarations that are part of the most recent version of each FIP index, as these nanopublications are produced by the FIP Wizard. An index counts as superseded when a newer, non-invalidated index was derived (prov:wasDerivedFrom) from the same FIP Wizard source, or when a newer, non-invalidated index carries the same title (a FIP re-created as a new Wizard project). The previous version compared titles only, against any nanopublication: it kept every older version whose title had changed (66 of 235 indexes on 2026-10-29) and dropped the two indexes whose title is shared by a non-index nanopublication." ;
+    dct:license <http://www.apache.org/licenses/LICENSE-2.0> ;
+    grlc:endpoint <https://w3id.org/np/l/nanopub-query-1.1/repo/full> ;
+    grlc:sparql """prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix fip: <https://w3id.org/fair/fip/terms/>
+prefix dct: <http://purl.org/dc/terms/>
+prefix dce: <http://purl.org/dc/elements/1.1/>
+prefix npa: <http://purl.org/nanopub/admin/>
+prefix npx: <http://purl.org/nanopub/x/>
+prefix np: <http://www.nanopub.org/nschema#>
+prefix prov: <http://www.w3.org/ns/prov#>
+select ?fip_index ?fip_title ?fip_source ?decl_np where {
+  # Current indexes first (one row per index), so the version filters run per index, not per declaration.
+  { select ?fip_index ?fip_title ?fip_source where {
+    graph npa:graph {
+      ?fip_index npx:hasNanopubType npx:NanopubIndex .
+      ?fip_index npa:hasValidSignatureForPublicKey ?pubkey .
+      filter not exists { ?index_np_x npx:invalidates ?fip_index ; npa:hasValidSignatureForPublicKey ?pubkey . }
+      ?fip_index np:hasPublicationInfo ?index_i .
+      ?fip_index rdfs:label ?fip_title .
+      ?fip_index dct:created ?index_date .
+    }
+    graph ?index_i {
+      ?fip_index prov:wasDerivedFrom ?fip_source .
+    }
+  # An index is superseded when a newer, non-invalidated index was derived from the same FIP Wizard
+  # source (prov:wasDerivedFrom in the index's publication info) ...
+  filter not exists {
+    graph npa:graph {
+      ?fip_newer_index npx:hasNanopubType npx:NanopubIndex .
+      ?fip_newer_index npa:hasValidSignatureForPublicKey ?newer_pubkey .
+      filter not exists { ?fip_newer_index_x npx:invalidates ?fip_newer_index ; npa:hasValidSignatureForPublicKey ?newer_pubkey . }
+      ?fip_newer_index np:hasPublicationInfo ?newer_i .
+      ?fip_newer_index dct:created ?newer_date .
+    }
+    graph ?newer_i {
+      ?fip_newer_index prov:wasDerivedFrom ?fip_source .
+    }
+    filter(?newer_date > ?index_date)
+  }
+  # ... or when a newer, non-invalidated index carries the same title: a FIP re-created as a new
+  # Wizard project keeps its title but gets a new source. Only indexes count here; the earlier
+  # version matched any nanopublication with that label (which dropped the PARC rFIP, whose
+  # own nanopublication shares the index's title) and nothing else, so it kept every index
+  # whose title had changed between versions (underscores replaced by spaces in 2024).
+  filter not exists {
+    graph npa:graph {
+      ?fip_newer_index2 rdfs:label ?fip_title .
+    }
+    graph npa:graph {
+      ?fip_newer_index2 npa:hasValidSignatureForPublicKey ?newer_pubkey2 .
+      filter not exists { ?fip_newer_index2_x npx:invalidates ?fip_newer_index2 ; npa:hasValidSignatureForPublicKey ?newer_pubkey2 . }
+      ?fip_newer_index2 dct:created ?newer_date2 .
+      ?fip_newer_index2 npx:hasNanopubType npx:NanopubIndex .
+    }
+    filter(?newer_date2 > ?index_date)
+  }
+  } }
+  graph npa:graph {
+    ?fip_index np:hasAssertion ?index_a .
+    ?decl_np npa:hasValidSignatureForPublicKey ?decl_pubkey .
+    filter not exists { ?decl_np_x npx:invalidates ?decl_np ; npa:hasValidSignatureForPublicKey ?decl_pubkey . }
+    ?decl_np npx:hasNanopubType fip:FIP-Declaration .
+  }
+  graph ?index_a {
+    ?fip_index npx:includesElement ?decl_np .
+  }
+}""" .
+}
+
+sub:provenance {
+  sub:assertion prov:wasAttributedTo orcid:0000-0002-1267-0234 ;
+    prov:wasDerivedFrom <https://w3id.org/np/RALx4mcnF84op6E-q-voMr19X80Sy_Khy2I1dMmachJ3o> .
+}
+
+sub:pubinfo {
+  orcid:0000-0002-1267-0234 foaf:name "Tobias Kuhn" .
+
+  this: dct:created "2026-10-29T18:42:53Z"^^xsd:dateTime ;
+    dct:creator orcid:0000-0002-1267-0234 ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    npx:embeds sub:get-fip-decl-in-index ;
+    nt:wasCreatedFromTemplate <https://w3id.org/np/RAEFAt-QcFK0ZhqfvlsmS10BnzGJA0xwOICZXkO-ai87k> ;
+    nt:wasCreatedFromProvenanceTemplate <https://w3id.org/np/RA7lSq6MuK_TIC6JMSHvLtee3lpLoZDOqLJCLXevnrPoU> ;
+    nt:wasCreatedFromPubinfoTemplate <https://w3id.org/np/RACJ58Gvyn91LqCKIO9zu1eijDQIeEff28iyDrJgjSJF8>,
+      <https://w3id.org/np/RAukAcWHRDlkqxk7H2XNSegc1WnHI569INvNr-xdptDGI> .
+}
