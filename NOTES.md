@@ -32,3 +32,24 @@ Published 2026-10-29 as a new, non-superseding query (signed with the local key;
 Nanodash key): `RAFQGybSJZmBGu-zu2wX5-bvjVJlJbBvMA1esw3S6KfbA/get-fip-decl-in-index`, derived from `RALx4mcnF84…`
 (`prov:wasDerivedFrom`). `scripts/make_tables.sh` now calls it. The old query `RALx4mcnF84…` can be retracted
 from Nanodash; nothing in this repo references it any more.
+
+### Follow-up: retracted FIPs and rFIP indexes (published 2026-10-30)
+
+Two remaining errors in the FIP count of `matrix.csv` (171 FIP indexes after the version fix):
+
+- **Retracted FIPs were kept.** GFF FIP, Test FIP and Copy of ADVANCE FIP have indexes whose FIP
+  nanopublications are all retracted. The new version drops an index when FIP nanopublications refer to it and
+  all of them are invalidated; an index no FIP nanopublication refers to (COS FIP, Stockholm Convention,
+  JB-test) is still kept.
+- **rFIP indexes competed with the rFIP query.** The Reference AOP FIP and the PARC Toxicology rFIP also have
+  a Wizard index. Because `make_tables.sh` only adds rFIP declarations not already covered by an index, those
+  indexes claimed declarations for themselves: the PARC rFIP appeared under two FIP indexes (its March index
+  and its current rFIP nanopublication). The new version leaves out indexes of valid rFIP nanopublications, so
+  rFIPs come only from `get-rfip-decl-in-context`.
+
+Tested on 2026-10-30 by emulating the merge in `make_tables.sh` on both query outputs: 167 FIP indexes
+(160 current FIPs, 4 rFIPs, 3 indexes without any FIP nanopublication) instead of 171, every title once,
+no declaration listed twice; the PARC rFIP now has one entry (4 rows), the AOP rFIP keeps its 13 rows,
+and the one declaration of the retracted GFF FIP moves to the GFF R-FIP. 1.9 s (live 1.5 s).
+Published as `RATC_tCEzOumv1KQ-sIeiB62qJ5BljQ5PBSLvRtVLRSQ0/get-fip-decl-in-index`, superseding
+`RAFQGybSJZmBGu-zu2wX5-bvjVJlJbBvMA1esw3S6KfbA` (same key); `scripts/make_tables.sh` calls it.

@@ -52,6 +52,31 @@ select ?fip_index ?fip_title ?fip_source ?decl_np where {
     }
     filter(?newer_date2 > ?index_date)
   }
+  # Drop the index of a retracted FIP: FIP nanopublications refer to it, and all of them are invalidated.
+  # (An index no FIP nanopublication refers to at all is kept.)
+  filter not exists {
+    graph ?fa_r { ?fip_r fip:has-declaration-index ?fip_index . }
+    graph npa:graph {
+      ?fnp_r np:hasAssertion ?fa_r ; npx:hasNanopubType fip:FAIR-Implementation-Profile ; npa:hasValidSignatureForPublicKey ?fpk_r .
+      ?fx_r npx:invalidates ?fnp_r ; npa:hasValidSignatureForPublicKey ?fpk_r .
+    }
+    filter not exists {
+      graph ?fa_v { ?fip_v fip:has-declaration-index ?fip_index . }
+      graph npa:graph {
+        ?fnp_v np:hasAssertion ?fa_v ; npx:hasNanopubType fip:FAIR-Implementation-Profile ; npa:hasValidSignatureForPublicKey ?fpk_v .
+        filter not exists { ?fx_v npx:invalidates ?fnp_v ; npa:hasValidSignatureForPublicKey ?fpk_v . }
+      }
+    }
+  }
+  # Drop the index of a reference FIP (rFIP): rFIPs come from the separate get-rfip-decl-in-context query,
+  # which only adds declarations not already covered here, so an rFIP index here would claim them for itself.
+  filter not exists {
+    graph ?fa_t { ?fip_t fip:has-declaration-index ?fip_index . }
+    graph npa:graph {
+      ?fnp_t np:hasAssertion ?fa_t ; npx:hasNanopubType fip:Reference-FAIR-Implementation-Profile ; npa:hasValidSignatureForPublicKey ?fpk_t .
+      filter not exists { ?fx_t npx:invalidates ?fnp_t ; npa:hasValidSignatureForPublicKey ?fpk_t . }
+    }
+  }
   } }
   graph npa:graph {
     ?fip_index np:hasAssertion ?index_a .
